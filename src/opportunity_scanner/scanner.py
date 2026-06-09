@@ -271,7 +271,7 @@ def run_scan(keywords: list[str],
         logger.info("[1/4] 🧪 모의(Mock) 데이터 로드 중...")
         raw = get_mock_bids(keywords)
     else:
-        logger.info("[1/4] API 호출 중 (용역·물품 병렬)...")
+        logger.info("[1/4] API 호출 중...")
         raw = collect_all_bids(keywords, notice_start_dt, notice_end_dt, fetch_license=False)
 
     # Step 2: Hard filter + 자격 필터
