@@ -2,8 +2,8 @@ name: Weekly G2B Opportunity Scan
 
 on:
   schedule:
-    # 09:00 every Monday in Asia/Seoul.
-    - cron: "0 0 * * 1"
+    - cron: "0 9 * * 1"
+      timezone: "Asia/Seoul"
   workflow_dispatch:
 
 jobs:
