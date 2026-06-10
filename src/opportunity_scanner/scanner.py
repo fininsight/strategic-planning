@@ -37,6 +37,7 @@ from api_client import collect_all_bids, enrich_license_info
 from filters import hard_filter, apply_qualification_filter
 from scorer import score_all
 from reporter import generate_report
+from dashboard_exporter import write_dashboard_json
 
 load_dotenv()
 
@@ -51,6 +52,7 @@ DEFAULT_LOOKBACK_DAYS = 90  # 최근 90일 공고를 수집한 뒤 마감일로 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 REPORTS_DIR = PROJECT_ROOT / "reports"
 LOGS_DIR = PROJECT_ROOT / "logs"
+WEB_DATA_DIR = PROJECT_ROOT / "web" / "public" / "data"
 
 # ─────────────────────────────────────────────
 # 로깅 설정
@@ -271,7 +273,7 @@ def run_scan(keywords: list[str],
         logger.info("[1/4] 🧪 모의(Mock) 데이터 로드 중...")
         raw = get_mock_bids(keywords)
     else:
-        logger.info("[1/4] API 호출 중 (용역·물품 병렬)...")
+        logger.info("[1/4] API 호출 중...")
         raw = collect_all_bids(keywords, notice_start_dt, notice_end_dt, fetch_license=False)
 
     # Step 2: Hard filter + 자격 필터
@@ -309,6 +311,13 @@ def run_scan(keywords: list[str],
 
     logger.info("[4/4] xlsx 리포트 생성 중 → %s", output_path)
     generate_report(keyword_results, output_path, today=today, top_n=top_n)
+    json_paths = write_dashboard_json(
+        keyword_results,
+        [WEB_DATA_DIR / "notices.json"],
+        today,
+    )
+    for json_path in json_paths:
+        logger.info("   대시보드 JSON: %s", json_path)
 
     # 요약 출력
     logger.info("=" * 60)

@@ -12,6 +12,7 @@ import os
 import time
 import logging
 import concurrent.futures
+import threading
 from datetime import datetime, timedelta
 
 import requests
@@ -31,20 +32,56 @@ BID_API_BASE = "http://apis.data.go.kr/1230000/ad/BidPublicInfoService"
 LICENSE_API_ENABLED = os.environ.get("G2B_LICENSE_API_ENABLED", "").lower() in {"1", "true", "yes"}
 
 DEFAULT_TIMEOUT = 30
-RETRY_COUNT     = 3
+RETRY_COUNT     = int(os.environ.get("G2B_RETRY_COUNT", "3"))
 RETRY_DELAY     = 2   # seconds
 MAX_QUERY_DAYS  = 30  # API가 긴 조회기간에 resultCode=07을 반환하므로 분할 조회
+REQUEST_INTERVAL_SECONDS = float(os.environ.get("G2B_REQUEST_INTERVAL_SECONDS", "0"))
+KEYWORD_MAX_WORKERS = int(os.environ.get("G2B_KEYWORD_MAX_WORKERS", "4"))
 PININSIGHT_CODES = ("1468", "1469", "1470", "1169", "9999")
+
+GENERAL_SCOPE_KEYWORDS = (
+    "AI", "인공지능", "빅데이터", "데이터", "데이터분석", "데이터 분석",
+    "교육", "실무교육", "리터러시", "역량", "양성", "부트캠프", "HRD",
+    "시스템", "플랫폼", "구축", "개발", "고도화", "운영",
+    "연구", "정책", "로드맵", "전략", "분석", "컨설팅",
+)
 
 
 # ─────────────────────────────────────────────
 # 공통 유틸
 # ─────────────────────────────────────────────
 
+_REQUEST_LOCK = threading.Lock()
+_LAST_REQUEST_TS = 0.0
+
+
+def _throttle_request():
+    """공공API 429 방지를 위해 프로세스 전체 요청 간격을 제한한다."""
+    global _LAST_REQUEST_TS
+    if REQUEST_INTERVAL_SECONDS <= 0:
+        return
+    with _REQUEST_LOCK:
+        now = time.monotonic()
+        wait = REQUEST_INTERVAL_SECONDS - (now - _LAST_REQUEST_TS)
+        if wait > 0:
+            time.sleep(wait)
+        _LAST_REQUEST_TS = time.monotonic()
+
+
+def _retry_after_seconds(resp, attempt: int) -> float:
+    retry_after = resp.headers.get("Retry-After") if resp is not None else None
+    if retry_after:
+        try:
+            return float(retry_after)
+        except ValueError:
+            pass
+    return max(10.0, RETRY_DELAY * attempt * 3)
+
 def _get(url: str, params: dict, timeout: int = DEFAULT_TIMEOUT) -> dict | None:
     """재시도 포함 GET 요청. 실패 시 None 반환."""
     for attempt in range(1, RETRY_COUNT + 1):
         try:
+            _throttle_request()
             resp = requests.get(url, params=params, timeout=timeout)
             resp.raise_for_status()
             data = resp.json()
@@ -67,6 +104,16 @@ def _get(url: str, params: dict, timeout: int = DEFAULT_TIMEOUT) -> dict | None:
             if status in (401, 403):
                 logger.warning("API 인증/승인 오류 %s: %s", status, url)
                 return None
+            if status == 429:
+                wait = _retry_after_seconds(e.response, attempt)
+                if attempt < RETRY_COUNT:
+                    logger.warning("[%d/%d] HTTP 오류 429: %s | %.1f초 후 재시도",
+                                   attempt, RETRY_COUNT, url, wait)
+                    time.sleep(wait)
+                else:
+                    logger.warning("[%d/%d] HTTP 오류 429: %s | 재시도 한도 도달",
+                                   attempt, RETRY_COUNT, url)
+                continue
             logger.warning("[%d/%d] HTTP 오류 %s: %s", attempt, RETRY_COUNT, status, url)
         except Exception as e:
             logger.warning("[%d/%d] 예외: %s | %s", attempt, RETRY_COUNT, e, url)
@@ -96,6 +143,34 @@ def _extract_items(data: dict) -> list[dict]:
     if isinstance(items, list):
         return items
     return []
+
+
+def _industry_limit_value(item: dict) -> str:
+    """업종제한 여부 필드값을 가능한 변형까지 포함해 정규화."""
+    for key in ("indstrytyLmtYn", "indstrytyLmtYN", "indstrytyLmtAt"):
+        value = item.get(key)
+        if value is not None:
+            return str(value).strip().upper()
+    return ""
+
+
+def _has_general_scope_keyword(item: dict) -> bool:
+    title = item.get("bidNtceNm", "")
+    title_lower = title.lower()
+    return any(k.lower() in title_lower for k in GENERAL_SCOPE_KEYWORDS)
+
+
+def _is_no_industry_limit(item: dict) -> bool:
+    value = _industry_limit_value(item)
+    return value in {"N", "NO", "없음", "무", "미대상", "해당없음"}
+
+
+def _is_unspecified_general_scope(item: dict) -> bool:
+    return _industry_limit_value(item) == "" and _has_general_scope_keyword(item)
+
+
+def _unique_count(items: list[dict]) -> int:
+    return len({item.get("bidNtceNo", "") for item in items if item.get("bidNtceNo", "")})
 
 
 # ─────────────────────────────────────────────
@@ -292,6 +367,7 @@ def collect_all_bids(keywords: list[str],
         merged: dict[str, dict] = {}
         servc_count = 0
         thng_count = 0
+        code_counts = {code: 0 for code in PININSIGHT_CODES}
 
         def _merge_items(items: list[dict], matched_code: str | None = None):
             for item in items:
@@ -317,19 +393,27 @@ def collect_all_bids(keywords: list[str],
 
             servc_count += len(servc_items)
             thng_count += len(thng_items)
+            code_counts[code] += _unique_count(servc_items + thng_items)
             _merge_items(servc_items + thng_items, matched_code=code)
 
         # 업종제한 없는 일반 공고는 indstrytyCd 검색에 잡히지 않을 수 있어 보완 수집한다.
+        # 나라장터 상세에 업종분류 안내가 없으면 목록 API에서도 제한 여부가 빈 값일 수 있어
+        # 제목이 핀인사이트 범위에 맞는 미표기 공고도 9999 후보로 함께 수집한다.
         with concurrent.futures.ThreadPoolExecutor(max_workers=2) as ex:
             f_servc = ex.submit(fetch_all_pages, fetch_bids_servc, kw, start_dt, end_dt)
             f_thng = ex.submit(fetch_all_pages, fetch_bids_thng, kw, start_dt, end_dt)
             servc_items = f_servc.result()
             thng_items = f_thng.result()
 
-        general_items = [
+        unrestricted_items = [
             item for item in servc_items + thng_items
-            if item.get("indstrytyLmtYn") == "N"
+            if _is_no_industry_limit(item)
         ]
+        unspecified_scope_items = [
+            item for item in servc_items + thng_items
+            if _is_unspecified_general_scope(item)
+        ]
+        general_items = unrestricted_items + unspecified_scope_items
         servc_count += len(servc_items)
         thng_count += len(thng_items)
         _merge_items(general_items, matched_code="9999")
@@ -337,13 +421,29 @@ def collect_all_bids(keywords: list[str],
         if fetch_license:
             enrich_license_info(list(merged.values()))
 
+        logger.info(
+            "    코드별 수집(코드별 공고번호 기준): %s",
+            ", ".join(f"{code}={code_counts[code]}" for code in PININSIGHT_CODES),
+        )
+        logger.info(
+            "    9999 보완 수집: 업종제한없음 %d건 / 업종제한미표기+범위키워드 %d건",
+            _unique_count(unrestricted_items),
+            _unique_count(unspecified_scope_items),
+        )
         logger.info("    → %d건 수집 완료 (용역:%d 물품:%d 합산중복제거→%d)",
                     len(merged), servc_count, thng_count, len(merged))
 
         return kw, list(merged.values())
 
     # 키워드별 병렬 수집
-    with concurrent.futures.ThreadPoolExecutor(max_workers=min(len(keywords), 4)) as ex:
+    max_workers = max(1, min(len(keywords), KEYWORD_MAX_WORKERS))
+    if max_workers == 1:
+        for kw in keywords:
+            key, items = _collect_keyword(kw)
+            results[key] = items
+        return results
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as ex:
         futures = {ex.submit(_collect_keyword, kw): kw for kw in keywords}
         for f in concurrent.futures.as_completed(futures):
             kw, items = f.result()
