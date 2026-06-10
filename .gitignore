@@ -217,5 +217,14 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# reports
+# Node / frontend
+node_modules/
+web/node_modules/
+web/dist/
+web/.vite/
+*.tsbuildinfo
+
+# Local scanner runtime
+.pycache_tmp/
+logs/
 reports/
