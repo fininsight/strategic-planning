@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-from .config import ANALYSIS_VERSION, API_ORIGIN, CACHE_DIR, WEB_ANALYSIS_DIR
+from .config import ANALYSIS_VERSION, API_ORIGIN, CACHE_DIR, PROJECT_ROOT, PUBLIC_FILE_BASE, WEB_ANALYSIS_DIR
 from .document_converter import viewer_file
 from .g2b_document_downloader import attachment_payload, download_g2b_attachments
 from .llm_analyzer import document_kind, llm_document_analysis, summarize_notice
@@ -39,6 +39,9 @@ def _document_payload(
         except Exception:
             pass
 
+    file_url = _public_or_api_file_url(bid_no, bid_ord, idx, file_path, "original-files")
+    viewer_url = _public_or_api_file_url(bid_no, bid_ord, idx, viewer_path, "files")
+
     combined_text = f"[{file_name}]\n{text[:9000]}" if text else (
         f"[{file_name}]\n텍스트 추출 불가: {extraction_error or '내용 확인 필요'}"
     )
@@ -48,9 +51,9 @@ def _document_payload(
         "extension": extension,
         "docType": document_kind(file_name),
         "viewerType": viewer_type,
-        "fileUrl": f"{API_ORIGIN}/api/notices/{bid_no}/{bid_ord}/files/{idx}",
-        "originalFileUrl": f"{API_ORIGIN}/api/notices/{bid_no}/{bid_ord}/original-files/{idx}",
-        "pdfUrl": f"{API_ORIGIN}/api/notices/{bid_no}/{bid_ord}/files/{idx}" if viewer_type == "pdf" else "",
+        "fileUrl": viewer_url,
+        "originalFileUrl": file_url,
+        "pdfUrl": viewer_url if viewer_type == "pdf" else "",
         "filePath": str(file_path),
         "viewerPath": str(viewer_path),
         "pdfPath": str(viewer_path),
@@ -63,6 +66,21 @@ def _document_payload(
         "analysis": llm_document_analysis(text, file_name),
     }
     return document, combined_text
+
+
+def _public_or_api_file_url(bid_no: str, bid_ord: str, idx: int, file_path: Path, api_kind: str) -> str:
+    try:
+        relative = file_path.resolve().relative_to((PROJECT_ROOT / "web" / "public").resolve())
+        return f"/{relative.as_posix()}"
+    except ValueError:
+        pass
+    if PUBLIC_FILE_BASE:
+        try:
+            relative = file_path.resolve().relative_to(PROJECT_ROOT.resolve())
+            return f"{PUBLIC_FILE_BASE.rstrip('/')}/{relative.as_posix()}"
+        except ValueError:
+            return f"{PUBLIC_FILE_BASE.rstrip('/')}/{file_path.name}"
+    return f"{API_ORIGIN}/api/notices/{bid_no}/{bid_ord}/{api_kind}/{idx}"
 
 
 def _refresh_converted_pdf_text(payload: dict) -> bool:
@@ -88,12 +106,26 @@ def _refresh_converted_pdf_text(payload: dict) -> bool:
     return changed
 
 
+def _document_files_available(payload: dict) -> bool:
+    documents = payload.get("documents") or []
+    if not documents:
+        return False
+    for document in documents:
+        file_path = Path(document.get("filePath") or "")
+        viewer_path = Path(document.get("viewerPath") or document.get("pdfPath") or "")
+        if not file_path.exists():
+            return False
+        if document.get("viewerType") == "pdf" and not viewer_path.exists():
+            return False
+    return True
+
+
 def analyze_notice(bid_no: str, bid_ord: str) -> dict:
     key = f"{bid_no}-{bid_ord}"
     cache_path = WEB_ANALYSIS_DIR / f"{key}.json"
     if cache_path.exists():
         payload = json.loads(cache_path.read_text(encoding="utf-8"))
-        if payload.get("documents"):
+        if payload.get("documents") and _document_files_available(payload):
             proposal_sheets = payload.get("proposalSheets") or {}
             if proposal_sheets.get("analysisVersion") != ANALYSIS_VERSION:
                 _refresh_converted_pdf_text(payload)

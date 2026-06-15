@@ -135,7 +135,11 @@ def llm_proposal_sheets(source_documents: list[dict[str, str]], fallback: dict[s
     ]
     try:
         result = chat_json(messages, timeout=90)
-        return result if isinstance(result, dict) else fallback
+        if not isinstance(result, dict):
+            return fallback
+        if not all(isinstance(result.get(key), dict) for key in ("noticeInfo", "checklist", "scoring")):
+            return fallback
+        return result
     except Exception:
         return fallback
 
