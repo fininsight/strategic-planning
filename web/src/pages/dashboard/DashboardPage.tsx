@@ -1,104 +1,18 @@
 import { ChangeEvent, useEffect, useMemo, useState } from "react";
 
-type BudgetFilter = "all" | "under100m" | "100mTo300m" | "over300m";
-type SortField = "score" | "closeAt" | "postedAt" | "budget" | "title";
-type SortOrder = "desc" | "asc";
+import { loadDashboardData } from "../../api/dashboardApi";
+import { BudgetFilter, Notice, SortField, SortOrder } from "../../types/notice";
+import { formatDateTime } from "../../utils/format";
+import { isBudgetMatched, isSameDate, scanBaseDate, uniqueValues } from "../../utils/filters";
+import { compareNotices } from "../../utils/sorting";
+
 const PAGE_SIZE = 10;
 
-type Notice = {
-  task: "용역" | "물품";
-  number: string;
-  deepLink?: string;
-  category: "일반" | "긴급";
-  title: string;
-  agency: string;
-  closeAt: string;
-  postedAt: string;
-  method: string;
-  region: string;
-  industry: string;
-  matchedCodes: string[];
-  qualificationSource: string;
-  budget: number;
-  score: number;
-  grade: string;
-  keywords: string[];
+type DashboardProps = {
+  onOpenNotice?: (notice: Notice) => void;
 };
 
-type DashboardPayload = {
-  generatedAt: string;
-  summary: {
-    qualified: number;
-    disqualified: number;
-    keywords: string[];
-  };
-  notices: Notice[];
-};
-
-function buildDeepLink(number: string): string {
-  const [bidPbancNo, bidPbancOrd = "000"] = number.split("-");
-  return `https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=${bidPbancNo}&bidPbancOrd=${bidPbancOrd}`;
-}
-
-function formatDateTime(value: string): string {
-  if (!value) return "-";
-  const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return "-";
-  const datePart = date.toISOString().slice(0, 10);
-  const timePart = date.toTimeString().slice(0, 5);
-  return `${datePart} ${timePart}`;
-}
-
-function isSameDate(value: string, base = new Date()): boolean {
-  if (!value) return false;
-  const target = new Date(value);
-  if (Number.isNaN(target.getTime())) return false;
-  return (
-    target.getFullYear() === base.getFullYear() &&
-    target.getMonth() === base.getMonth() &&
-    target.getDate() === base.getDate()
-  );
-}
-
-function scanBaseDate(generatedAt: string): Date {
-  const generated = new Date(generatedAt);
-  return Number.isNaN(generated.getTime()) ? new Date() : generated;
-}
-
-function isBudgetMatched(notice: Notice, filter: BudgetFilter): boolean {
-  if (filter === "all") return true;
-  if (filter === "under100m") return notice.budget < 100000000;
-  if (filter === "100mTo300m") return notice.budget >= 100000000 && notice.budget < 300000000;
-  return notice.budget >= 300000000;
-}
-
-function uniqueValues<T>(values: T[]): T[] {
-  return [...new Set(values)];
-}
-
-function normalizeNotice(notice: Partial<Notice>): Notice {
-  return {
-    task: notice.task === "물품" ? "물품" : "용역",
-    number: notice.number ?? "",
-    deepLink: notice.deepLink ?? "",
-    category: notice.category === "긴급" ? "긴급" : "일반",
-    title: notice.title ?? "",
-    agency: notice.agency ?? "",
-    closeAt: notice.closeAt ?? "",
-    postedAt: notice.postedAt ?? "",
-    method: notice.method ?? "미분류",
-    region: notice.region || "전국",
-    industry: notice.industry || "미분류",
-    matchedCodes: Array.isArray(notice.matchedCodes) ? notice.matchedCodes : [],
-    qualificationSource: notice.qualificationSource ?? "",
-    budget: Number(notice.budget ?? 0),
-    score: Number(notice.score ?? 0),
-    grade: notice.grade ?? "",
-    keywords: Array.isArray(notice.keywords) ? notice.keywords : [],
-  };
-}
-
-export default function Dashboard() {
+export default function DashboardPage({ onOpenNotice }: DashboardProps) {
   const [notices, setNotices] = useState<Notice[]>([]);
   const [generatedAt, setGeneratedAt] = useState("");
   const [isLoading, setIsLoading] = useState(true);
@@ -119,15 +33,11 @@ export default function Dashboard() {
   useEffect(() => {
     let ignore = false;
 
-    async function loadDashboardData() {
+    async function load() {
       try {
-        const response = await fetch("data/notices.json", { cache: "no-store" });
-        if (!response.ok) {
-          throw new Error(`HTTP ${response.status}`);
-        }
-        const payload = (await response.json()) as DashboardPayload;
+        const payload = await loadDashboardData();
         if (!ignore) {
-          setNotices((payload.notices ?? []).map(normalizeNotice));
+          setNotices(payload.notices);
           setGeneratedAt(payload.generatedAt ?? "");
           setLoadError("");
         }
@@ -144,7 +54,7 @@ export default function Dashboard() {
       }
     }
 
-    loadDashboardData();
+    load();
 
     return () => {
       ignore = true;
@@ -375,9 +285,7 @@ export default function Dashboard() {
               </select>
             </label>
           </div>
-          <p className="lastUpdated">
-            마지막 업데이트: {generatedAt ? formatDateTime(generatedAt) : "-"}
-          </p>
+          <p className="lastUpdated">마지막 업데이트: {generatedAt ? formatDateTime(generatedAt) : "-"}</p>
         </section>
 
         <section className="g2bPanel" aria-label="나라장터 검색 결과">
@@ -421,7 +329,9 @@ export default function Dashboard() {
                     </td>
                   </tr>
                 ) : filteredNotices.length ? (
-                  pagedNotices.map((notice) => <NoticeRow notice={notice} key={notice.number} />)
+                  pagedNotices.map((notice) => (
+                    <NoticeRow notice={notice} onSelect={onOpenNotice} key={notice.number} />
+                  ))
                 ) : (
                   <tr>
                     <td className="emptyState" colSpan={7}>
@@ -513,25 +423,8 @@ function BrowserBar() {
   );
 }
 
-function compareNotices(a: Notice, b: Notice, field: SortField, order: SortOrder): number {
-  const direction = order === "desc" ? -1 : 1;
-
-  if (field === "title") {
-    return a.title.localeCompare(b.title, "ko") * direction;
-  }
-
-  if (field === "closeAt" || field === "postedAt") {
-    const aTime = new Date(a[field]).getTime();
-    const bTime = new Date(b[field]).getTime();
-    return ((Number.isNaN(aTime) ? 0 : aTime) - (Number.isNaN(bTime) ? 0 : bTime)) * direction;
-  }
-
-  return (a[field] - b[field]) * direction;
-}
-
-function NoticeRow({ notice }: { notice: Notice }) {
+function NoticeRow({ notice, onSelect }: { notice: Notice; onSelect?: (notice: Notice) => void }) {
   const isUrgent = isSameDate(notice.closeAt);
-  const link = notice.deepLink || buildDeepLink(notice.number);
 
   return (
     <tr>
@@ -549,9 +442,9 @@ function NoticeRow({ notice }: { notice: Notice }) {
         <span className="category">{notice.category}</span>
       </td>
       <td>
-        <a className="noticeTitle" href={link} target="_blank" rel="noreferrer">
+        <button className="noticeTitle noticeTitleButton" type="button" onClick={() => onSelect?.(notice)}>
           {notice.title}
-        </a>
+        </button>
         <div className="noticeMeta">
           <span>{notice.grade || "-"}</span>
           <span>{notice.industry || "미분류"}</span>

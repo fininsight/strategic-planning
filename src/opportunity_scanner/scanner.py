@@ -35,8 +35,8 @@ from dotenv import load_dotenv
 
 from api_client import collect_all_bids, enrich_license_info
 from filters import hard_filter, apply_qualification_filter
-from scorer import score_all
-from reporter import generate_report
+from scoring import score_all
+from excel_writer import generate_report
 from dashboard_exporter import write_dashboard_json
 
 load_dotenv()
