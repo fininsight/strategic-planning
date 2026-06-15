@@ -1,10 +1,26 @@
 import { spawn } from "node:child_process";
 import fs from "node:fs";
 import http from "node:http";
+import os from "node:os";
 import path from "node:path";
 import { setTimeout as delay } from "node:timers/promises";
 
-const CHROME_PATH = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
+const CHROME_CANDIDATES = [
+  process.env.CHROME_PATH,
+  "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+  "/usr/bin/google-chrome-stable",
+  "/usr/bin/google-chrome",
+  "/usr/bin/chromium",
+  "/usr/bin/chromium-browser",
+].filter(Boolean);
+
+function findChromePath() {
+  const found = CHROME_CANDIDATES.find((candidate) => fs.existsSync(candidate));
+  if (!found) {
+    throw new Error(`Chrome 실행 파일을 찾지 못했습니다. CHROME_PATH를 설정하거나 Chrome/Chromium을 설치하세요.`);
+  }
+  return found;
+}
 
 function parseArgs() {
   const args = new Map();
@@ -181,12 +197,14 @@ async function main() {
   fs.mkdirSync(outDir, { recursive: true });
   const before = new Set(fs.readdirSync(outDir));
   const port = 9222 + Math.floor(Math.random() * 1000);
-  const profileDir = path.join("/private/tmp", `g2b-cdp-${Date.now()}`);
+  const profileDir = path.join(os.tmpdir(), `g2b-cdp-${Date.now()}`);
   const url = `https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=${encodeURIComponent(bidNo)}&bidPbancOrd=${encodeURIComponent(bidOrd)}`;
 
-  const chrome = spawn(CHROME_PATH, [
+  const chrome = spawn(findChromePath(), [
     "--headless=new",
     "--disable-gpu",
+    "--disable-dev-shm-usage",
+    "--no-sandbox",
     "--no-first-run",
     `--remote-debugging-port=${port}`,
     `--user-data-dir=${profileDir}`,
