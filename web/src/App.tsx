@@ -1,8 +1,12 @@
 import { useState } from "react";
-import Dashboard from "./pages/Dashboard";
+import AnalyzerPage from "./pages/analyzer/AnalyzerPage";
+import DashboardPage from "./pages/dashboard/DashboardPage";
+import MonitoringPage from "./pages/monitoring/MonitoringPage";
+import { Notice } from "./types/notice";
 
 function App() {
   const [activeTab, setActiveTab] = useState("대시보드");
+  const [selectedNotice, setSelectedNotice] = useState<Notice | null>(null);
 
   const tabs = ["대시보드", "모니터링", "분석", "제안서", "파트너"];
 
@@ -50,8 +54,38 @@ function App() {
       </aside>
 
       <main className="appShell">
-        {activeTab === "대시보드" && <Dashboard />}
-        {activeTab !== "대시보드" && (
+        {activeTab === "대시보드" && (
+          <DashboardPage
+            onOpenNotice={(notice) => {
+              setSelectedNotice(notice);
+              setActiveTab("모니터링");
+            }}
+          />
+        )}
+        {activeTab === "모니터링" && selectedNotice && (
+          <MonitoringPage
+            notice={selectedNotice}
+            onBack={() => {
+              setActiveTab("대시보드");
+            }}
+          />
+        )}
+        {activeTab === "모니터링" && !selectedNotice && (
+          <>
+            <header className="topbar">
+              <div className="titleRow">
+                <h2>모니터링</h2>
+              </div>
+            </header>
+            <section className="content">
+              <div className="emptyState" style={{ padding: "3rem", textAlign: "center" }}>
+                <p>대시보드에서 공고를 선택하면 상세 분석이 표시됩니다.</p>
+              </div>
+            </section>
+          </>
+        )}
+        {activeTab === "분석" && <AnalyzerPage selectedNotice={selectedNotice} />}
+        {activeTab !== "대시보드" && activeTab !== "모니터링" && activeTab !== "분석" && (
           <>
             <header className="topbar">
               <div className="titleRow">

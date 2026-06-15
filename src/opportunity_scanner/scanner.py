@@ -35,8 +35,8 @@ from dotenv import load_dotenv
 
 from api_client import collect_all_bids, enrich_license_info
 from filters import hard_filter, apply_qualification_filter
-from scorer import score_all
-from reporter import generate_report
+from scoring import score_all
+from excel_writer import generate_report
 from dashboard_exporter import write_dashboard_json
 
 load_dotenv()
@@ -240,16 +240,88 @@ def get_mock_bids(keywords: list[str]) -> dict[str, list[dict]]:
 # 핵심 파이프라인
 # ─────────────────────────────────────────────
 
+def _rank_top_bids(keyword_results: dict[str, dict], limit: int) -> list[dict]:
+    """키워드 중복을 제거하고 점수순 상위 공고를 반환한다."""
+    bids_by_no: dict[str, dict] = {}
+    for result in keyword_results.values():
+        for bid in result.get("qualified", []):
+            bid_no = bid.get("bidNtceNo") or bid.get("bidNtceFullNo")
+            if not bid_no:
+                continue
+            previous = bids_by_no.get(bid_no)
+            if previous is None or bid.get("_score", 0) > previous.get("_score", 0):
+                bids_by_no[bid_no] = bid
+
+    ranked = sorted(
+        bids_by_no.values(),
+        key=lambda bid: (bid.get("_score", 0), bid.get("asignBdgtAmt", bid.get("presmptPrce", "0"))),
+        reverse=True,
+    )
+    return ranked[:max(0, limit)]
+
+
+def preload_notice_attachments(keyword_results: dict[str, dict], limit: int) -> list[str]:
+    """상위 공고 첨부파일을 다운로드/변환/분석하고 JSON 캐시를 생성한다."""
+    if limit <= 0:
+        logger.info("   첨부파일 사전 수집 건수가 0이라 건너뜁니다.")
+        return []
+
+    src_dir = PROJECT_ROOT / "src"
+    if str(src_dir) not in sys.path:
+        sys.path.insert(0, str(src_dir))
+
+    from opportunity_analyzer.analysis_cache import analyze_notice
+    from opportunity_analyzer.config import WEB_ANALYSIS_DIR
+
+    targets = _rank_top_bids(keyword_results, limit)
+    logger.info("[추가] 상위 공고 첨부파일 사전 수집 중: %d건", len(targets))
+
+    generated = []
+    for index, bid in enumerate(targets, 1):
+        bid_no = bid.get("bidNtceNo", "")
+        bid_ord = bid.get("bidNtceOrd", "000") or "000"
+        title = bid.get("bidNtceNm", "")
+        if not bid_no:
+            logger.warning("   [%d/%d] 공고번호가 없어 건너뜀: %s", index, len(targets), title[:60])
+            continue
+        try:
+            logger.info(
+                "   [%d/%d] 첨부파일 수집/분석: %s-%s | %s",
+                index,
+                len(targets),
+                bid_no,
+                bid_ord,
+                title[:60],
+            )
+            analyze_notice(bid_no, bid_ord)
+            generated.append(str(WEB_ANALYSIS_DIR / f"{bid_no}-{bid_ord}.json"))
+        except Exception as exc:
+            logger.warning(
+                "   [%d/%d] 첨부파일 수집 실패: %s-%s | %s",
+                index,
+                len(targets),
+                bid_no,
+                bid_ord,
+                exc,
+            )
+
+    logger.info("   첨부파일 분석 JSON 생성/갱신: %d건", len(generated))
+    return generated
+
+
 def run_scan(keywords: list[str],
              days_min: int = DEFAULT_DAYS_MIN,
              days_max: int = DEFAULT_DAYS_MAX,
              top_n: int = 10,
-             mock: bool = False) -> str:
+             mock: bool = False,
+             skip_excel: bool = False,
+             preload_attachments: bool = False,
+             preload_top_n: int = 5) -> str:
     """
-    공고 수집 → 필터링 → 점수화 → xlsx 생성.
+    공고 수집 → 필터링 → 점수화 → JSON/선택적 xlsx/선택적 첨부파일 분석 생성.
 
     Returns:
-        생성된 xlsx 파일 경로
+        생성된 주요 산출물 경로
     """
     today    = datetime.now()
     notice_start_dt = today - timedelta(days=DEFAULT_LOOKBACK_DAYS)
@@ -304,13 +376,18 @@ def run_scan(keywords: list[str],
     for kw, v in keyword_results.items():
         v["qualified"] = score_all(v["qualified"], today)
 
-    # Step 4: xlsx 리포트 생성
-    REPORTS_DIR.mkdir(exist_ok=True)
-    filename = f"공고스캔_{today.strftime('%Y%m%d_%H%M')}.xlsx"
-    output_path = str(REPORTS_DIR / filename)
+    # Step 4: JSON 및 선택적 xlsx 리포트 생성
+    output_path = ""
+    if skip_excel:
+        logger.info("[4/4] xlsx 리포트 생성 건너뜀 (--skip-excel)")
+    else:
+        REPORTS_DIR.mkdir(exist_ok=True)
+        filename = f"공고스캔_{today.strftime('%Y%m%d_%H%M')}.xlsx"
+        output_path = str(REPORTS_DIR / filename)
 
-    logger.info("[4/4] xlsx 리포트 생성 중 → %s", output_path)
-    generate_report(keyword_results, output_path, today=today, top_n=top_n)
+        logger.info("[4/4] xlsx 리포트 생성 중 → %s", output_path)
+        generate_report(keyword_results, output_path, today=today, top_n=top_n)
+
     json_paths = write_dashboard_json(
         keyword_results,
         [WEB_DATA_DIR / "notices.json"],
@@ -325,7 +402,13 @@ def run_scan(keywords: list[str],
     total_q = sum(len(v["qualified"])   for v in keyword_results.values())
     total_d = sum(len(v["disqualified"]) for v in keyword_results.values())
     logger.info("   자격 통과: %d건  /  미해당: %d건", total_q, total_d)
-    logger.info("   리포트  : %s", output_path)
+    if output_path:
+        logger.info("   리포트  : %s", output_path)
+
+    if preload_attachments:
+        generated = preload_notice_attachments(keyword_results, preload_top_n)
+        for path in generated:
+            logger.info("   분석 JSON: %s", path)
 
     # S등급 공고 요약 출력
     s_bids = []
@@ -341,7 +424,7 @@ def run_scan(keywords: list[str],
                         b.get("_score", 0))
 
     logger.info("=" * 60)
-    return output_path
+    return output_path or str(WEB_DATA_DIR / "notices.json")
 
 
 # ─────────────────────────────────────────────
@@ -406,6 +489,18 @@ def main():
         "--mock", action="store_true",
         help="모의(Mock) 데이터 모드로 실행하여 API 호출 없이 샘플 리포트 생성"
     )
+    parser.add_argument(
+        "--skip-excel", action="store_true",
+        help="xlsx 리포트 생성을 건너뛰고 대시보드 JSON만 생성"
+    )
+    parser.add_argument(
+        "--preload-attachments", action="store_true",
+        help="점수순 상위 공고의 첨부파일을 사전 다운로드/변환/분석"
+    )
+    parser.add_argument(
+        "--preload-top-n", type=int, default=5,
+        help="첨부파일을 사전 수집할 상위 공고 수 (기본: 5)"
+    )
 
     args = parser.parse_args()
 
@@ -431,6 +526,9 @@ def main():
             days_max=args.days_max,
             top_n=args.top_n,
             mock=args.mock,
+            skip_excel=args.skip_excel,
+            preload_attachments=args.preload_attachments,
+            preload_top_n=args.preload_top_n,
         )
 
 

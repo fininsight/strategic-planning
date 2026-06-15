@@ -226,5 +226,7 @@ web/.vite/
 
 # Local scanner runtime
 .pycache_tmp/
+.cache/
 logs/
 reports/
+web/public/data/analyses/
