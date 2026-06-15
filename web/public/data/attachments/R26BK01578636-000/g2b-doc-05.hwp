@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE HWPML [
+	<!ENTITY nbsp	"&#160;">
+]>
+<HWPML Version="2.1"><HEAD SecCnt="1"><DOCSUMMARY><TITLE>(계약예규) 용역입찰유의서</TITLE>
+<AUTHOR>법제처 법령정보센터</AUTHOR>
+<DATE>2026.02.11</DATE>
+</DOCSUMMARY>
+<DOCSETTING><BEGINNUMBER Page="1" Footnote="1" Endnote="1" Picture="1" Table="1" Equation="1"/>
+<CARETPOS List="0" Para="0" Pos="24"/>
+</DOCSETTING>
+<MAPPINGTABLE><BINDATALIST Count="4"><BINITEM Type="Embedding" BinData="1" Format="bmp"/>
+<BINITEM Type="Embedding" BinData="2" Format="bmp"/>
+<BINITEM Type="Embedding" BinData="3" Format="bmp"/>
+{이미지파일목록}
+<BINITEM Type="Embedding" BinData="4" Format="png"/>
+</BINDATALIST>
+<FACENAMELIST><FONTFACE Lang="Hangul" Count="5"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양견고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Latin" Count="5"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양견고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Hanja" Count="4"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Japanese" Count="4"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Other" Count="5"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Symbol" Count="5"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="User" Count="5"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양견고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+</FACENAMELIST>
+<BORDERFILLLIST Count="11"><BORDERFILL Id="1" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.1mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.1mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+<FILLBRUSH><WINDOWBRUSH FaceColor="4294967295" HatchColor="0"/>
+</FILLBRUSH>
+</BORDERFILL>
+<BORDERFILL Id="2" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="3" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="4" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="5" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="6" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="7" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="8" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="9" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="10" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="11" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+</BORDERFILLLIST>
+<CHARSHAPELIST Count="26"><CHARSHAPE Id="0" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="1" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="1" Latin="1" Hanja="1" Japanese="1" Other="1" Symbol="1" User="1"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="2" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="3" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="1" Latin="1" Hanja="1" Japanese="1" Other="1" Symbol="1" User="1"/>
+<RATIO Hangul="95" Latin="95" Hanja="95" Japanese="95" Other="95" Symbol="95" User="95"/>
+<CHARSPACING Hangul="-5" Latin="-5" Hanja="-5" Japanese="-5" Other="-5" Symbol="-5" User="-5"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="4" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RATIO Hangul="95" Latin="95" Hanja="95" Japanese="95" Other="95" Symbol="95" User="95"/>
+<CHARSPACING Hangul="-5" Latin="-5" Hanja="-5" Japanese="-5" Other="-5" Symbol="-5" User="-5"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="5" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="6" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="7" Height="1000" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="8" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="9" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="-50" Latin="-50" Hanja="-50" Japanese="-50" Other="-50" Symbol="-50" User="-50"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="10" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="11" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="12" Height="1000" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="13" Height="1100" TextColor="255" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="14" Height="1600" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="15" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="16" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="true" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="17" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="true" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="18" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="19" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="3" Japanese="3" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="20" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="21" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="1" Japanese="1" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="22" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="1" Japanese="1" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="23" Height="900" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="24" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="25" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="26" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="74" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="99" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+</CHARSHAPELIST>
+<TABDEFLIST Count="3"><TABDEF Id="0" AutoTabLeft="false" AutoTabRight="false"/>
+<TABDEF Id="1" AutoTabLeft="true" AutoTabRight="false"/>
+<TABDEF Id="2" AutoTabLeft="false" AutoTabRight="true"/>
+</TABDEFLIST>
+<NUMBERINGLIST Count="1"><NUMBERING Id="1" Start="0"><PARAHEAD Level="1" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="Digit">^1.</PARAHEAD>
+<PARAHEAD Level="2" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="HangulSyllable">^2.</PARAHEAD>
+<PARAHEAD Level="3" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="Digit">^3)</PARAHEAD>
+<PARAHEAD Level="4" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="HangulSyllable">^4)</PARAHEAD>
+<PARAHEAD Level="5" Alignment="Left" UseInstWidth="false" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="Digit"></PARAHEAD>
+<PARAHEAD Level="6" Alignment="Left" UseInstWidth="false" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="Digit"></PARAHEAD>
+<PARAHEAD Level="7" Alignment="Left" UseInstWidth="false" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="Digit"></PARAHEAD>
+</NUMBERING>
+</NUMBERINGLIST>
+<PARASHAPELIST Count="41"><PARASHAPE Id="0" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="1" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2620" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="1" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="true"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="2" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="3" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="3000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="4" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="2000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="5" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="1" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="4000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="6" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="2" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="6000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="7" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="3" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="8000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="8" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="4" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="10000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="9" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="5" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="12000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="10" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="6" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="14000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="11" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="12" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="13" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="100"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="14" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="15" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="16" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="17" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="18" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="19" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="20" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="21" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4600" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="22" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2400" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="23" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1936" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="24" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2336" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="25" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="26" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-3904" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="27" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2400" Left="0" Right="0" Prev="1400" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="28" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4600" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="29" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="2296" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="30" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-7800" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="31" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10400" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="32" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="2000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="33" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="4000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="34" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="35" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1000" Left="11496" Right="12552" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="36" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1900" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="37" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-3600" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="38" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-6500" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="39" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-8000" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="40" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10500" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="74" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1000" Left="11496" Right="12552" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+</PARASHAPELIST>
+<STYLELIST Count="14"><STYLE Id="0" Type="Para" Name="바탕글" EngName="Normal" ParaShape="2" CharShape="1" NextStyle="0" LangId="1042"/>
+<STYLE Id="1" Type="Para" Name="본문" EngName="Body" ParaShape="3" CharShape="1" NextStyle="1" LangId="1042"/>
+<STYLE Id="2" Type="Para" Name="개요 1" EngName="Outline 1" ParaShape="4" CharShape="1" NextStyle="2" LangId="1042"/>
+<STYLE Id="3" Type="Para" Name="개요 2" EngName="Outline 2" ParaShape="5" CharShape="1" NextStyle="3" LangId="1042"/>
+<STYLE Id="4" Type="Para" Name="개요 3" EngName="Outline 3" ParaShape="6" CharShape="1" NextStyle="4" LangId="1042"/>
+<STYLE Id="5" Type="Para" Name="개요 4" EngName="Outline 4" ParaShape="7" CharShape="1" NextStyle="5" LangId="1042"/>
+<STYLE Id="6" Type="Para" Name="개요 5" EngName="Outline 5" ParaShape="8" CharShape="1" NextStyle="6" LangId="1042"/>
+<STYLE Id="7" Type="Para" Name="개요 6" EngName="Outline 6" ParaShape="9" CharShape="1" NextStyle="7" LangId="1042"/>
+<STYLE Id="8" Type="Para" Name="개요 7" EngName="Outline 7" ParaShape="10" CharShape="1" NextStyle="8" LangId="1042"/>
+<STYLE Id="9" Type="Para" Name="쪽 번호" EngName="Page Number" ParaShape="2" CharShape="0" NextStyle="9" LangId="1042"/>
+<STYLE Id="10" Type="Para" Name="머리말" EngName="Header" ParaShape="11" CharShape="2" NextStyle="10" LangId="1042"/>
+<STYLE Id="11" Type="Para" Name="각주" EngName="Footnote" ParaShape="0" CharShape="3" NextStyle="11" LangId="1042"/>
+<STYLE Id="12" Type="Para" Name="미주" EngName="Endnote" ParaShape="0" CharShape="3" NextStyle="12" LangId="1042"/>
+<STYLE Id="13" Type="Para" Name="메모" EngName="Memo" ParaShape="1" CharShape="4" NextStyle="13" LangId="1042"/>
+</STYLELIST>
+</MAPPINGTABLE>
+</HEAD>
+<BODY><SECTION Id="0">
+
+<P ParaShape="34"><TEXT CharShape="10"><SECDEF SpaceColumns="1134" TabStop="8000" OutlineShape="1"><STARTNUMBER PageStartsOn="Both" Page="0" Figure="0" Table="0" Equation="0"/>
+<HIDE Header="false" Footer="false" MasterPage="false" Border="false" Fill="false" PageNumPos="false" EmptyLine="false"/>
+<PAGEDEF Landscape="0" Width="59528" Height="84188" GutterType="LeftOnly"><PAGEMARGIN Left="4252" Right="4252" Top="5669" Bottom="4252" Header="3600" Footer="3600" Gutter="0"/>
+</PAGEDEF>
+<FOOTNOTESHAPE><AUTONUMFORMAT Type="Digit" SuffixChar=")" Superscript="false"/>
+<NOTELINE Length="5cm" Type="Solid" Width="0.12mm" Color="0"/>
+<NOTESPACING AboveLine="850" BelowLine="567" BetweenNotes="283"/>
+<NOTENUMBERING Type="Continuous"/>
+<NOTEPLACEMENT Place="EachColumn" BeneathText="false"/>
+</FOOTNOTESHAPE>
+<ENDNOTESHAPE><AUTONUMFORMAT Type="Digit" SuffixChar=")" Superscript="false"/>
+<NOTELINE Length="14692344" Type="Solid" Width="0.12mm" Color="0"/>
+<NOTESPACING AboveLine="850" BelowLine="567" BetweenNotes="0"/>
+<NOTENUMBERING Type="Continuous"/>
+<NOTEPLACEMENT Place="EndOfDocument" BeneathText="false"/>
+</ENDNOTESHAPE>
+<PAGEBORDERFILL Type="Both" BorferFill="0" TextBorder="true" HeaderInside="false" FooterInside="false" FillArea="Paper"><PAGEOFFSET Left="1417" Right="1417" Top="1417" Bottom="1417"/>
+</PAGEBORDERFILL>
+<PAGEBORDERFILL Type="Even" BorferFill="0" TextBorder="true" HeaderInside="false" FooterInside="false" FillArea="Paper"><PAGEOFFSET Left="1417" Right="1417" Top="1417" Bottom="1417"/>
+</PAGEBORDERFILL>
+<PAGEBORDERFILL Type="Odd" BorferFill="0" TextBorder="true" HeaderInside="false" FooterInside="false" FillArea="Paper"><PAGEOFFSET Left="1417" Right="1417" Top="1417" Bottom="1417"/>
+</PAGEBORDERFILL>
+</SECDEF>
+<COLDEF Type="Newspaper" Count="1" Layout="Left" SameSize="true"/>
+<PICTURE><SHAPEOBJECT InstId="1517942632" ZOrder="14" NumberingType="Figure" TextWrap="BehindText" Lock="false"><SIZE Width="5556" Height="5556" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="false" VertRelTo="Para" HorzRelTo="Column" VertAlign="Top" HorzAlign="Left" VertOffset="-901" HorzOffset="45187" FlowWithText="false" AllowOverlap="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><SHAPECOMPONENT XPos="-2647" YPos="-2016" GroupLevel="0" OriWidth="10208" OriHeight="12300" CurWidth="10681" CurHeight="12870" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="0" CenterX="2778" CenterY="2778"/><RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="-2647.00" E4="0.00" E5="1.00" E6="-2016.00"/><SCAMATRIX E1="1.05" E2="0.00" E3="0.00" E4="0.00" E5="1.05" E6="0.00"/><ROTMATRIX E1="1.04" E2="0.00" E3="-102.42" E4="0.00" E5="1.04" E6="-76.05"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><SCAMATRIX E1="1.01" E2="0.00" E3="-22.70" E4="0.00" E5="1.01" E6="-15.04"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><SCAMATRIX E1="0.75" E2="0.00" E3="0.00" E4="0.00" E5="0.75" E6="0.00"/><ROTMATRIX E1="1.19" E2="0.00" E3="-494.20" E4="0.00" E5="1.19" E6="-374.90"/><SCAMATRIX E1="0.80" E2="0.00" E3="-166.00" E4="0.00" E5="0.80" E6="2941.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-0.45"/><SCAMATRIX E1="0.82" E2="0.00" E3="-17.00" E4="0.00" E5="0.79" E6="0.00"/><ROTMATRIX E1="1.21" E2="0.00" E3="-927.59" E4="0.00" E5="1.45" E6="227.53"/><SCAMATRIX E1="0.70" E2="0.00" E3="5430.00" E4="0.00" E5="0.73" E6="-584.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="0.69" E6="-195.65"/></RENDERINGINFO></SHAPECOMPONENT><LINESHAPE Color="11866128" Width="85" Style="Solid" EndCap="Round" OutlineStyle="Outer"/><IMAGERECT X0="0" Y0="0" X1="10208" Y1="0" X2="10208" Y2="12300" X3="0" Y3="12300"/><IMAGECLIP Left="567" Top="567" Right="14433" Bottom="14433"/><INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/><IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="4"/></PICTURE>
+<CHAR></CHAR>
+</TEXT>
+</P>
+<P ParaShape="35"><TEXT CharShape="10"><CHAR>(계약예규) 용역입찰유의서</CHAR>
+</TEXT>
+</P>
+<P ParaShape="16"><TEXT CharShape="12"><HEADER ApplyPageType="Both" TextWidth="48190" TextHeight="2835" HasTextRef="false" HasNumRef="false"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Top"><P ParaShape="13"><TEXT CharShape="8"><TABLE PageBreak="Cell" RepeatHeader="true" RowCount="1" ColCount="1" CellSpacing="0" BorderFill="2"><SHAPEOBJECT InstId="1201155746" ZOrder="0" NumberingType="Table" Lock="false"><SIZE Width="50929" Height="1982" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/>
+<POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true" HoldAnchorAndSO="false"/>
+<OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/>
+</SHAPEOBJECT>
+<INSIDEMARGIN Left="510" Right="510" Top="141" Bottom="141"/>
+<ROW><CELL ColAddr="0" RowAddr="0" ColSpan="1" RowSpan="1" Width="50929" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="4"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="13"><TEXT CharShape="99"><CHAR>(계약예규) 용역입찰유의서</CHAR>
+</TEXT>
+</P>
+</PARALIST>
+</CELL>
+</ROW>
+</TABLE>
+<CHAR></CHAR>
+</TEXT>
+</P>
+<P ParaShape="12"><TEXT CharShape="9"/>
+</P>
+</PARALIST>
+</HEADER>
+<FOOTER ApplyPageType="Both" TextWidth="48190" TextHeight="2835" HasTextRef="false" HasNumRef="false"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Bottom"><P ParaShape="14"><TEXT CharShape="9"/>
+</P>
+<P ParaShape="15"><TEXT CharShape="9"><TABLE PageBreak="Cell" RepeatHeader="true" RowCount="1" ColCount="3" CellSpacing="0" BorderFill="2"><SHAPEOBJECT InstId="1201155747" ZOrder="1" NumberingType="Table" Lock="false"><SIZE Width="51024" Height="1982" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/>
+<POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true" HoldAnchorAndSO="false"/>
+<OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/>
+</SHAPEOBJECT>
+<INSIDEMARGIN Left="510" Right="510" Top="141" Bottom="141"/>
+<ROW><CELL ColAddr="0" RowAddr="0" ColSpan="1" RowSpan="1" Width="12623" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="3"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="19" Style="10"><TEXT CharShape="99"><PICTURE><SHAPEOBJECT InstId="1201155748" ZOrder="2" NumberingType="Figure" Lock="false"><SIZE Width="1828" Height="1131" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/>
+<POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/>
+<OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/>
+</SHAPEOBJECT>
+<SHAPECOMPONENT XPos="0" YPos="-2469" GroupLevel="0" OriWidth="23760" OriHeight="14700" CurWidth="22847" CurHeight="14137" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="0" CenterX="914" CenterY="565"/>
+<RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-2469.00"/>
+<SCAMATRIX E1="0.96" E2="0.00" E3="0.00" E4="0.00" E5="0.96" E6="94.48"/>
+<ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/>
+<SCAMATRIX E1="0.08" E2="0.00" E3="0.00" E4="0.00" E5="0.08" E6="2469.00"/>
+<ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/>
+</RENDERINGINFO>
+</SHAPECOMPONENT>
+<IMAGERECT X0="0" Y0="0" X1="23760" Y1="0" X2="23760" Y2="14700" X3="0" Y3="14700"/>
+<IMAGECLIP Left="0" Top="0" Right="23700" Bottom="14640"/>
+<INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/>
+<IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="3"/>
+</PICTURE>
+<CHAR>&nbsp;법제처</CHAR>
+</TEXT>
+<TEXT CharShape="99"><CHAR></CHAR>
+</TEXT>
+</P>
+</PARALIST>
+</CELL>
+<CELL ColAddr="1" RowAddr="0" ColSpan="1" RowSpan="1" Width="25701" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="3"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="18" Style="10"><TEXT CharShape="26"><CHAR>-&nbsp;</CHAR>
+<AUTONUM Number="1" NumberType="Page"><AUTONUMFORMAT Type="Digit" Superscript="false"/>
+</AUTONUM>
+<CHAR>&nbsp;/&nbsp;</CHAR>
+<AUTONUM Number="1" NumberType="TotalPage"><AUTONUMFORMAT Type="Digit" Superscript="false"/>
+</AUTONUM>
+<CHAR>&nbsp;-</CHAR>
+</TEXT>
+</P>
+</PARALIST>
+</CELL>
+<CELL ColAddr="2" RowAddr="0" ColSpan="1" RowSpan="1" Width="12623" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="3"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="20" Style="10"><TEXT CharShape="99"><PICTURE><SHAPEOBJECT InstId="1310949373" ZOrder="3" NumberingType="Figure" Lock="false"><SIZE Width="1417" Height="1417" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/>
+<POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/>
+<OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/>
+</SHAPEOBJECT>
+<SHAPECOMPONENT XPos="0" YPos="-887" GroupLevel="0" OriWidth="2760" OriHeight="2760" CurWidth="1416" CurHeight="1416" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="0" CenterX="708" CenterY="708"/>
+<RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-887.00"/>
+<SCAMATRIX E1="0.51" E2="0.00" E3="0.00" E4="0.00" E5="0.51" E6="887.00"/>
+<ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/>
+</RENDERINGINFO>
+</SHAPECOMPONENT>
+<IMAGERECT X0="0" Y0="0" X1="2760" Y1="0" X2="2760" Y2="2760" X3="0" Y3="2760"/>
+<IMAGECLIP Left="0" Top="0" Right="2700" Bottom="2700"/>
+<INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/>
+<IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="2"/>
+</PICTURE>
+<CHAR>&nbsp;국가법령정보센터</CHAR>
+</TEXT>
+</P>
+</PARALIST>
+</CELL>
+</ROW>
+</TABLE>
+<CHAR></CHAR>
+</TEXT>
+</P>
+</PARALIST>
+</FOOTER>
+</TEXT>
+<TEXT CharShape="12"><CHAR>[시행 2025. 12. 31.] [기획재정부계약예규 제820호, 2025. 12. 31., 일부개정.]</CHAR>
+</TEXT>
+</P>
+<P ParaShape="16"><TEXT CharShape="6"/></P>
+<P ParaShape="17"><TEXT CharShape="25"><CHAR>재정경제부(계약정책과), 044-215-5212, 5217, 5218</CHAR></TEXT></P>
+<P ParaShape="2"><TEXT CharShape="5"/>
+</P>
+{전문}
+<P ParaShape="23"><TEXT CharShape="6"><CHAR>제1조(목적)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 이 유의서는 정부(이하 "발주기관"이라 한다)가 행하는 용역계약에 대한 입찰에서 해당 입찰에 참가하고자 하는 자가 유의하여야 사항을 정함을 목적으로 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제2조(용어의 정의)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 이 유의서에서 사용하는 용어의 정의는 이 유의서에서 따로 정하는 경우를 제외하고는 「국가를 당사자로 하는 계약에 관한 법률 시행령」, 「국가를 당사자로 하는 계약에 관한 법률 시행규칙」, 「특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정」(이하 각각 "시행령", "시행규칙" 및 "특례규정"이라 한다) 및 계약예규 「용역계약일반조건」(이하 "일반조건"이라 한다)에 정하는 바에 의한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제3조(입찰참가신청)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 입찰에 참가하고자 하는 자는 입찰공고 또는 입찰참가통지서에 기재된 입찰참가신청마감일까지 다음 각호의 서류를 발주기관에 제출하여 입찰참가 신청을 하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. 입찰참가신청서(소정양식) 1통</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. 입찰참가자격을 증명하는 사본 1통</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  3. 인감증명서 또는「본인서명사실 확인 등에 관한 법률」제2조제3호에 따른 본인서명사실확인서 1통. 다만,「전자조달의 이용 및 촉진에 관한 법률」제2조제4호에 따른 국가종합전자조달시스템(이하 "전자조달시스템"이라 한다)을 이용하여 등록하는 경우는 제외한다.</CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;개정 2016. 12. 30., 2024. 1. 2.&gt;</CHAR></TEXT></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  4. 기타 공고 또는 통지로 요구하는 서류</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 제1항제2호의 경우에는 원본을 제시하거나 사본에 "원본과 같음"을 명기하고 인감(인감증명서상의 인감 또는 입찰참가신청서상의 사용인감)으로 날인(본인서명사실확인서를 제출한 경우는 서명)하여 제출하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;개정 2016. 12. 30.&gt;</CHAR></TEXT></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ③ 시행령 제72조에 의하여 공동계약이 허용된 경우에는 공동수급체를 구성하여 입찰에 참가하고자 하는 자는 공동수급협정서를 제1항 각호의 서류와 함께 제출하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제3조의2(입찰참가자격의 판단기준일)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 시행령 제12조 및 제21조에 따른 등록ㆍ실적 등에 의한 입찰참가자격의 판단기준일은 시행규칙 제40조제4항에 의한 입찰참가신청서류의 접수마감일(이하 "입찰참가등록마감일"이라 한다)로 하며, 입찰참가자는 입찰참가등록마감일 이후 입찰서제출 마감일까지 해당 입찰참가자격을 계속 유지하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 제1항에도 불구하고 시행령 제21조제1항제6호 및 시행규칙 제24조에 따라 지역제한경쟁입찰을 부치는 경우 법인등기부상 본점소재지 기준일(본점소재지가 변경된 경우 법인등기부상 본점소재지 등기일을 말한다.)은 입찰공고일 전일로 하며 계약체결일까지 계속 유지하여야 한다. </CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;개정  2019. 12. 18., 2025. 12. 31.&gt;</CHAR></TEXT></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ③ 입찰참가자가 시행령 제76조에 의한 입찰참가자격제한을 받은 경우에는 입찰참가등록마감일 전일까지 입찰참가자격제한기간이 만료되어야 입찰에 참가할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ④ 입찰전에 상호 또는 대표자의 변경(법인의 경우에는 법인등기부를 기준으로 한다)이 있는 경우에는 변경신고를 한 후 변경된 상호 또는 대표자 명의로 입찰에 참가하여야 한다</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제4조(입찰에 관한 서류)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 입찰에 참가하고자 하는 자는 다음 각호의 서류(이하 "입찰에 관한 서류"라 한다)를 열람할 수 있으며 추정가격이 고시금액 이상인 용역의 경우에는 이를 교부받을 수 있다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. 입찰공고문 또는 입찰참가통지서</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. 용역입찰유의서</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  3. 입찰참가신청서(소정서식)</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  4. 입찰서(소정서식)</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  5. 용역표준계약서(소정서식)</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  6. 용역계약일반조건</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  7. 용역계약특수조건</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  8. 과업내용서</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  9. 기타 참고사항을 기재한 서류</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 발주기관은 제1항의 입찰에 관한 서류를 교부하는 경우에는 입찰공고 등에서 정한 금액을 납부할 것을 요구할 수 있으며, 이 경우에는 입찰에 참가하고자 하는 자는 이에 따라야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제5조(관계법령 등의 숙지)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 입찰에 참가하고자 하는 자는 시행령 등의 입찰관련 법령 및 제4조제1항에 의한 입찰에 관한 서류를 입찰전에 완전히 숙지하여야 하며 이를 숙지하지 못한 책임은 입찰참가자에게 있다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 입찰에 참가하고자 하는 자는 제1항에 의한 입찰에 관한 서류의 검토과정에서 발견한 입찰에 관한 서류상의 착오, 누락사항 또는 기타 설명이 요구되는 사항에 대하여는 입찰서 제출마감일전일까지 발주기관에 그 설명을 요구할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제6조(입찰보증금)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 입찰에 참가하고자 하는 자는 입찰참가신청마감일(공휴일인 때에는 전일)까지 입찰금액의 100분의 5이상의 입찰보증금을 시행령 제37조제2항에 규정된 현금 또는 보증서 등으로 발주기관에 납부하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 낙찰자가 정당한 이유없이 소정의 기한내에 계약을 체결하지 아니할 때(제18조의2 제1항에 규정한 용역이행보증서 제출의무가 있는 경우에 동 보증서를 기한내에 제출하지 못하여 계약을 체결하지 못한 경우를 포함한다.)에는 계약담당공무원은 해당 입찰보증금은 국고에 귀속한다.</CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;개정 2016. 12. 30., 2025. 12. 31.&gt;</CHAR></TEXT></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ③ 계약담당공무원(각 중앙관서의 장이 계약에 관한 사무를 그 소속공무원에게 위임하지 아니하고 직접 처리하는 경우에는 이를 계약담당공무원으로 본다. 이하 같다)은 낙찰되지 아니한 입찰자의 입찰보증금을 낙찰자가 결정된 후 즉시 반환한다. 다만, 낙찰자의 입찰보증금은 계약체결 후 즉시 반환한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ④ 계약담당공무원은 다음 각호의 어느 하나에 해당하는 경우에는 입찰보증금 납부를 원칙적으로 면제할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;개정 2025. 12. 31.&gt;</CHAR></TEXT></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. 시행령 제37조제3항제1호 내지 제4호, 제5호의2 및 제6호에 정한 자가 입찰에 참가하는 경우</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. 「건설기술관리법」ㆍ「엔지니어링기술진흥법」 또는 「건설폐기물의 재활용촉진에 관한 법률」 등 해당 용역관련법령에 의하여 국가기관 등으로부터 면허ㆍ허가 등을 받았거나 등록ㆍ신고 등을 하고 해당 용역관련법령상의 사업(해당 용역과 관계없는 면허ㆍ허가ㆍ등록ㆍ신고 등도 해당 용역관련법령상의 면허ㆍ허가ㆍ등록ㆍ신고 등은 포함)을 입찰참가신청마감일 현재 영위하고 있는 법인이 입찰에 참가하는 경우. 다만, 다음 각 목의 어느 하나에 해당하는 자는 제외한다. &lt;단서 신설 2010. 4. 15., 개정 2019. 12. 18.&gt;</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    가. 입찰공고일 이전 1년 이내에 시행령 제76조제2항제2호가목의 사유로 입찰참가자격제한을 받은 자(입찰참가자격 제한 기간 중인 경우를 포함한다)</CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;신설 2019. 12. 18.&gt;</CHAR></TEXT></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    나. 계약체결을 기피할 우려가 있어 각 중앙관서의 장 또는 계약담당공무원이 입찰공고에 명시한 요건에 해당하는 자</CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;신설 2019. 12. 18.&gt;</CHAR></TEXT></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ⑤ 보증서 등에 의한 입찰보증금의 보증기간은 다음 각호를 충족하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. 보증기간의 시작일 : 입찰서 제출마감일 이전일 것</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. 보증기간의 만료일 : 입찰서 제출마감일 다음날부터 30일 이후일 것</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제7조(입찰참가)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 입찰참가신청을 한 자가 아니면 입찰에 참가할 수 없다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 입찰참가신청자가 입찰참가신청서 제출 시에 대리인을 지정한 경우에는 그 대리인도 입찰에 참가할 수 있다. 다만, 입찰참가신청서를 제출하는 때부터 입찰개시 시각전까지 입찰대리인을 지정하거나 입찰대리인을 변경하는 경우에는 그 대리인이 입찰에 참가할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ③ 제2항에 의한 대리인의 자격은 입찰참가자가 법인인 경우에는 해당 법인의 임ㆍ직원(다만,「산업교육진흥 및 산학연협력촉진에 관한 법률」에 따라 설립한 산학협력단의 경우에는 해당 법인의 임ㆍ직원 및 연구원(대학의 장 또는 산학협력단장이 임명한 자에 한함)으로 한다)에 한하며, 계약담당공무원은 재직증명서와 다음 각 호의 자료에 의해서 임ㆍ직원 여부를 확인하여야 한다. 다만, 2개 이상 법인의 임ㆍ직원인 자는 1개 법인의 대리인으로만 입찰에 참가할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;개정 2009. 9. 21., 2010. 1. 4., 2016. 1. 1.&gt;</CHAR></TEXT></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. 4대 보험 중 어느 하나 가입 증명자료(최근 3개월 이내)</CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;신설 2009. 9. 21.&gt;</CHAR></TEXT></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. 소속 법인에서 받은 급여와 관련하여 해당 법인에서 발급받은 소득세 납부 증명자료</CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;신설 2009. 9. 21.&gt;</CHAR></TEXT></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  3. 법인 등기사항증명서 </CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;신설 2009. 9. 21., 개정 2015. 9. 21.&gt;</CHAR></TEXT></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  4. 기타 임ㆍ직원 여부를 확인할 수 있는 자료</CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;신설 2009. 9. 21.&gt;</CHAR></TEXT></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ④ 시행령 제76조에 의한 부정당업자로 입찰참가자격을 제한받고 있는 자는 제2항에 의한 대리인이 될 수 없다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제8조(입찰서의 작성)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 입찰자는 입찰서를 소정의 서식에 의하여 작성하여야 하며, 입찰금액은 총액을 표기하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 입찰자는 입찰서에 기명날인을 함에 있어 반드시 입찰자 성명(법인의 경우 대표자 성명)을 기재하고 입찰참가신청서 제출시 신고한 인감(서명을 포함한다. 이하 같다)으로 날인하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;개정 2016. 12. 30.&gt;</CHAR></TEXT></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ③ 입찰자는 입찰서의 기재사항 중 삭제 또는 정정한 곳이 있을 때에는 입찰에 사용하는 인감으로 날인하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ④ 입찰자는 입찰서를 입찰공고 또는 입찰참가통지서 등에 별도로 규정한 경우를 제외하고는 한글로 작성하여야 하며 입찰금액은 원화로 표기하여야 한다</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ⑤ 입찰자는 입찰서의 금액표시를 한글 또는 한자로 기재하여야 하며 아라비아숫자를 함께 표기할 수 있다. 이 경우에 아라비아숫자로 함께 표기한 금액이 한글 또는 한자로 기재한 금액과 차이가 있을 때에는 한글 또는 한자로 기재한 금액에 의한다. 다만, 전산서식에 의한 입찰의 경우에는 지정된 표기방법으로 기재하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제9조(입찰서의 제출)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 입찰자는 입찰서를 봉함하여 1인 1통만 제출하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 우편에 의한 입찰서는 입찰서 제출마감일전일까지 발주기관에 도착된 것에 한하여 효력이 있다. 이 경우에 우송중의 분실, 훼손 또는 지연에 대하여 발주기관은 책임을 지지 아니한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ③ 계약담당공무원은 제2항에 의하여 우편으로 입찰서가 제출된 때에는 해당 입찰서의 봉투표면에 접수일시를 기재하고 확인인을 날인하여 개찰시까지 개봉하지 아니하고 보관하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ④ 입찰자는 제출한 입찰서를 교환, 변경 또는 취소할 수 없다. 다만, 입찰서에 기재한 중요부분에 오기가 있음을 이유로 개찰현장에서 입찰자가 입찰의 취소의사를 표시한 것으로서 계약담당공무원이 이를 인정하는 경우에는 취소가 가능하며, 시행령 제18조에 의한 2단계 경쟁 등의 입찰의 경우에 있어 계약담당공무원은 기술입찰을 개찰한 결과 적격자가 없는 경우 또는 일부 경미한 사항의 기술보완을 조건으로 기술적합 판정을 하는 경우에는 기술입찰서를 변경하여 제출하게 할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제9조의2(경영상태 심사서류의 제출)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 입찰에 참여하고자 하는 자는 「신용정보의 이용 및 보호에 관한 법률」제2조제8의3호 또는 「자본시장과 금융투자업에 관한 법률」제9조제26항의 업무를 영위하는 신용정보업자로부터 평가받은 모든 공공기관 입찰용 신용평가등급을 해당 신용정보업자를 통해 평가완료 후 3일 이내에 조달청 나라장터에 전송하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/><TEXT CharShape="7"><CHAR>&lt;개정 2015. 9. 21.&gt;</CHAR></TEXT></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 조달청장은 분기별로 신용정보업자로부터 평가명세서를 제출받아 미전송 여부를 확인하여 해당 업체를 나라장터에 게재하고, 발주기관은 동 업체에 대해 「정부입찰계약집행기준」 제98조에 따라 처리하며, 향후 1년간 시행령 제13조에 따른 입찰참가자격사전심사 및 시행령 제42조제1항에 따른 적격심사시 감점할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="22" Style="0"><TEXT CharShape="7"><CHAR>  [본조신설 2012. 7. 4.]</CHAR></TEXT></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제9조의3(청렴계약서의 제출)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 입찰자는 입찰서를 제출할 때 시행령 제4조의2 및 정부입찰ㆍ계약집행기준 제98조의3에 따른 청렴계약서를 같이 제출하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="22" Style="0"><TEXT CharShape="7"><CHAR>  [본조신설 2016. 1. 1.]</CHAR></TEXT></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제10조(장기계속기술용역의 입찰)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 장기계속용역의 경우에는 입찰자는 입찰시 총용역을 대상으로하여 입찰하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제11조(경쟁입찰의 성립)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 경쟁입찰은 2인이상의 유효한 입찰로써 성립한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 계약담당공무원은 시행령 제18조제3항에 의하여 기술과 가격을 분리하여 입찰에 부치는 경우에는 시행령 제11조에 의하여 2인 이상의 유효한 입찰로 성립한 기술입찰의 개찰결과에서 기술적격자로 확정된 자가 1인인 경우에도 가격입찰서를 개봉할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제12조(입찰의 무효)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 시행규칙 제44조에서 무효로 규정한 입찰 및 다음 각호 어느 하나에 해당하는 입찰은 무효로 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. 입찰자(법인의 경우 대표자를 말한다. 이하 같다)가 직접 입찰을 하지 아니하고 대리인을 통하여 입찰을 할 경우에는 제7조제2항에 의한 대리인이 아닌 자가 한 입찰 또는 대리권이 없는 자가 한 입찰</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. 동일사항에 대하여 타인의 대리를 겸하거나 2인 이상을 대리한 입찰</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  3. 입찰서의 입찰금액 등 중요한 부분이 불분명하거나 정정한 후 정정날인을 누락한 입찰</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  4. 담합하거나 타인의 경쟁참가를 방해 또는 관계공무원의 공무집행을 방해한 자의 입찰</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  5. 입찰자의 기명날인이 없는 입찰(입찰자의 성명을 기재하지 아니하고 대리인 성명 또는 회사명을 기재한 경우 및 입찰참가신청서 제출시 신고한 인감과 다른 인감으로 날인된 경우도 포함한다)</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  6. 입찰서에 기재한 중요부분에 착오가 있음을 이유로 개찰현장에서 입찰자가 입찰의 취소의사를 표시하여 계약담당공무원이 이를 인정한 입찰</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  7. 제8조제1항 및 제6항에 위반하여 소정의 입찰서를 사용하지 않거나 입찰서의 금액을 아라비아숫자로만 기재한 입찰 또는 전산서식에 의한 입찰서를 훼손하거나 전산표기방법과 상이하게 작성, 기재하여 전산처리가 되지 아니한 입찰</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  8. 공동계약의 공동수급체구성원이 동일 입찰건에 대하여 공동수급체를 중복적으로 결성하여 참여한 입찰, 입찰등록시 공동수급표준협정서를 제출하지 아니한 입찰 및 공동계약운용요령 제9조를 위반한 입찰</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제13조(입찰의 연기)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 발주기관은 다음 각호의 경우에 입찰공고 또는 입찰참가통지서에 기재된 입찰서 제출마감일시를 연기할 수 있다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. 제5조제2항에 의한 설명요구사항의 내용이 중대하여 연기가 불가피하다고 판단되는 경우</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. 기타 불가피한 사유로 인하여 지정된 일시에 입찰 또는 개찰을 실시하지 못한 경우</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 제1항에 의하여 입찰을 연기한 경우에는 연기사유와 기간를 입찰공고의 방법과 동일한 방법으로 공고 또는 통지하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제14조(재입찰 및 재공고입찰)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 계약담당공무원은 경쟁입찰에서 2인 이상의 유효한 입찰자가 없거나 낙찰자가 없는 경우에는 재입찰에 부칠 수 있다. 이 경우에는 최초 입찰에의 참가유무 또는 입찰횟수의 제한을 받지 아니한다.</CHAR></TEXT><TEXT CharShape="7"/><TEXT CharShape="7"><CHAR>&lt;개정 2019. 12. 18.&gt;</CHAR></TEXT></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 입찰자나 낙찰자가 없는 경우 또는 낙찰자가 계약을 체결하지 아니하는 경우에는 계약담당공무원은 재공고입찰에 부칠 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ③ 계약담당공무원은 시행령 제18조제3항에 의하여 기술과 가격을 분리하여 입찰에 부친 경우 가격입찰서를 개찰한 결과 낙찰자를 결정할 수 없는 경우로서 기술적격자가 2인 이상인 때에는 그 기술적격자에게 가격입찰서를 다시 제출하게 할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ④ 제1항 내지 제3항에 의한 재입찰 또는 재공고입찰시에는 기한을 제외하고는 최초의 입찰에 부칠 때에 정한 가격 및 기타조건을 변경할 수 없다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제15조(낙찰자의 결정)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 계약담당공무원은 제12조에 해당되는 사유가 없는 자로서 시행령 제42조 등에서 정한 낙찰자결정기준에 적합한 자를 낙찰자로 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 계약담당공무원은 개봉된 입찰서를 확인하고 유효한 입찰서의 입찰금액과 예정가격을 대조하여 지체없이 적격자를 낙찰자로 선정하여야 한다. 다만, 시행령 제42조제1항에 의하여 계약이행능력을 심사하여 낙찰자를 결정하는 등 낙찰자 결정에 장시간이 소요되는 경우에는 그러하지 아니할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ③ 계약담당공무원은 제1항 및 제2항에 의하여 낙찰자를 결정하기 전에 해당 입찰자의 입찰서, 법인 등기사항증명서(본사, 대표자 및 상호등 변경여부 확인), 공동수급표준협정서 등 관계서류를 검토하여 해당 낙찰예정자의 입찰이 제12조에 따른 무효입찰에 해당되는지의 여부를 확인하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /><TEXT CharShape="7"><CHAR>&lt;개정 2015. 9. 21.&gt;</CHAR></TEXT></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ④ 계약담당공무원은 낙찰이 될 수 있는 동일가격으로 입찰한 자가 2인 이상인 때에는 다음 각 호에 따라 낙찰자를 결정한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. 시행령 제42조제1항에 따라 낙찰자를 결정하는 경우 : 이행능력 심사결과 최고점수인 자를 낙찰자로 결정하되, 이행능력 심사결과도 동일한 경우에는 추첨에 의하여 낙찰자를 결정</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. 시행령 제42조제3항에 따라 낙찰자를 결정하는 경우 : 규격 또는 기술우위자를 낙찰자로 결정하되, 규격 또는 기술평가 결과도 동일한 때에는 추첨에 의하여 낙찰자를 결정</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ⑤ 제4항에 의한 낙찰자 결정시 입찰자중 출석하지 아니한 자 또는 추첨을 하지 아니한 자가 있을 때에는 입찰사무에 관계없는 공무원으로 하여금 추첨을 대신하게 할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ⑥ 계약담당공무원은 낙찰자로 결정된 자가 계약체결 이전에 입찰무효 등 부적격자로 판명되어 낙찰자 결정이 취소된 경우로서 동 부적격자를 제외하고 2인이상 유효한 입찰이 성립되어 있는 때에는 차순위자 순으로 필요한 심사 등을 실시하여 낙찰자를 결정한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제16조(계약의 체결)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 낙찰자는 계약담당공무원으로부터 낙찰통지를 받은 후 10일 이내에 소정의 서식에 의한 계약서에 의하여 계약을 체결하여야 하고 그 낙찰금액에 대한 산출내역서를 착수신고서 제출시까지 계약담당공무원에게 제출하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 제1항의 경우에 불가항력의 사유로 인하여 계약을 체결할 수 없는 경우에는 그 사유가 존속하는 기간은 이를 산입하지 아니한다..</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ③ 제1항에 의하여 발주기관과 계약을 체결하고자 하는 자는 관계법령 및 계약담당공무원이 요구하는 서류를 계약담당공무원에게 제출하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ④ 계약담당공무원은 낙찰자가 정당한 이유없이 제1항에 의한 계약을 체결하지 아니하는 때에는 낙찰을 취소할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ⑤ 계약담당공무원은 장기계속용역의 경우 낙찰자와의 계약은 총용역 낙찰금액을 부기하고 해당연도 예산의 범위안에서 제1차 용역에 대하여 계약을 체결하여야 한다. 이 경우에 제2차 기술용역이후의 계약은 총용역낙찰금액(시행령 제64조 내지 제66조에 의한 계약금액의 조정이 있는 경우에는 조정된 총용역금액을 말한다)에서 이미 계약된 금액을 공제한 금액의 범위안에서 계약을 체결할 것을 부관(附款)으로 약정하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ⑥ 제5항에 의하여 제1차 및 제2차 용역이후의 계약금액은 총용역의 계약단가에 의한다. 이 경우 계약금액조정 등으로 인하여 산출내역서의 단가가 조정된 때에는 조정된 계약단가에 의한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제17조(계약의 성립)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 계약담당공무원과 낙찰자가 계약서에 기명ㆍ날인(외국인에 대하여 서명을 허용한 경우에는 서명을 포함한다)함으로써 계약은 확정된다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제18조(입찰보증금의 계약보증금으로의 대체)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 계약담당공무원은 낙찰자가 납부한 입찰보증금을 소정의 절차에 따라 계약보증금으로 대체할 수 있다. 다만, 입찰보증금과 계약보증금과의 차이가 있으면 계약상대자는 그 차액을 추가로 납부하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 제1항에 의한 대체는 계약이 성립한 때에 이루어진 것으로 본다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제18조의2(계약의 이행보증)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 낙찰자는 계약체결일까지 시행령 제50조 및 시행령 제52조가 정하는 바에 따라 계약이행보증을 하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 시행령 제52조에 의한 보증이행업체는 다음 각호에 해당하는 자격을 갖추고 있어야 하며, 계약담당공무원은 보증이행업체의 적격여부를 심사하기 위하여 낙찰자에게 관련자료의 제출을 요구할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. 「독점규제 및 공정거래에 관한 법률」에 의한 계열회사가 아닌 자</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. 시행령 제76조에 의한 입찰참가자격 제한을 받고 그 제한기간 중에 있지 아니한 자</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  3. 시행령 제36조에 의한 입찰공고 등에서 정한 입찰참가자격과 동등이상의 자격을 갖춘자</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ③ 계약담당공무원은 제1항에 의하여 보증이행업체의 적격여부심사 결과 부적격하다고 인정되는 때에는 낙찰자에게 보증이행업체의 변경을 요구할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ④ 시행령 제52조제1항제3호에 의한 용역이행보증서의 제출 및 보증기관의 보증이행 등에 대하여는 제1항 내지 제3항 외에 계약예규「정부 입찰ㆍ계약 집행기준」제13장(공사의 이행보증제도 운용)에 정한 바에 의한다. ［본조신설 2025. 12. 31.］</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제19조(부정당업자의 입찰참가자격제한)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 입찰자 또는 낙찰자가 「국가를 당사자로 하는 계약에 관한 법률」제27조 및 시행령 제76조에 해당하는 경우에는 1월이상 2년이하의 범위내에서 입찰참가자격 제한 조치를 받게 된다.</CHAR></TEXT><TEXT CharShape="7"/><TEXT CharShape="7"><CHAR>&lt;개정 2018. 12. 31.&gt;</CHAR></TEXT></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제20조(비밀유지의 의무)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 입찰자는 발주기관으로부터 배부받은 입찰에 관한 서류 또는 각종 자료 및 입찰과정에서 얻은 정보를 해당 입찰 이외의 목적으로 사용하여서는 아니된다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제21조(이의신청)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 추정가격이 1억 5천만원이상인 용역의 입찰에 있어 다음 각호의 어느 하나의 사유로 인하여 불이익을 받았다고 인정되는 자는 「국가를 당사자로 하는 계약에 관한 법률」(이하 "법"이라 한다) 제28조제2항 및 제4항에서 정한 바에 따라 이의신청을 할 수 있다.</CHAR></TEXT><TEXT CharShape="7"/><TEXT CharShape="7"><CHAR>&lt;개정 2018. 12. 31.&gt;</CHAR></TEXT></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. 법 제28조제1항 각호의 어느 하나에 정한 사유</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. 특례규정 제26조에서 정한 사유</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제22조(기타사항)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 입찰공고조건 및 이 유의서에 명시되지 아니한 기타 사항은 발주기관에서 정하는 바에 의한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제23조(재검토기한)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2016년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/><TEXT CharShape="7"><CHAR>&lt;개정 2015. 9. 21.&gt;</CHAR></TEXT></P>
+<P ParaShape="2"><TEXT CharShape="5"/></P><P ParaShape="2"><TEXT CharShape="6"><CHAR>&nbsp;&nbsp;&nbsp;&nbsp;부칙&nbsp;</CHAR></TEXT><TEXT CharShape="23"><CHAR>&nbsp;&lt;제820호, 2025. 12. 31.&gt; &nbsp;</CHAR></TEXT></P><P ParaShape="23" Style="0"><TEXT CharShape="6"><CHAR>제1조</CHAR></TEXT><TEXT CharShape="5"><CHAR>(시행일) 이 예규는 2025년 12월 31일부터 시행한다.</CHAR></TEXT></P><P ParaShape="23" Style="0"><TEXT CharShape="6"><CHAR>제2조</CHAR></TEXT><TEXT CharShape="5"><CHAR>(적용례) 이 계약예규는 부칙 제1조에 따른 시행일 이후 입찰공고를 하거나 수의계약을 체결하는 경우부터 적용한다.</CHAR></TEXT></P>
+
+
+</SECTION>
+</BODY>
+<TAIL><BINDATASTORAGE><BINDATA Size="84377" Encoding="Base64" Id="1">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</BINDATA>
+<BINDATA Size="5750" Encoding="Base64" Id="2">Qk1mEAAAAAAAADYAAAAoAAAAJQAAACUAAAABABgAAAAAADAQAAAAAAAAAAAAAAAAAAAAAAAA
+/////////////////////////////////v/+/P///v//////////////////////+f//4v/9
+6e7n9ezk/////////////////////////P/9////////////////////////////////////
+////AP////////////////////////////////////////////7//v349P////D9/0/bsTx/
+S2UyDmknA2UyDmUyDm4+JpNnT9C+uP//////////////////////////////////////////
+/////////wD///////7//v7//v/+/v7+/v78/f////////////++o47Qp5f////Z+vcSq3Ij
+YBJdJANlDwBaFwFaFwFTDQBJAgBJAgBSExNtQTWvlobr5tr///////////////////78////
+/f78//////////8A//////7+/v7+//7//v7+/v7+////////6+bahEsshEMi98/B////Eqty
+AFoBeDsApjwAl1IAjFkBjFIDfUUDeDsAXSQDSQIAMQAASQIAbj4mr5aG//////////////3+
+/v////79/v//////////AP/////9/vz///7+///+/f////////Dk0VoXARsAAMqTd////4rn
+0wBmEpdYAstRALlpAJNmAZxcApdYApFWBIxSA4xSA4BSAXg7AFMNADEAABsAAJNnT/3+9///
+//////7//vz9//7//////////wD////////////9/f3////////w5NFYBwAbAACEQyL////i
+//0Fj1kAeC/EZwG5aQCoZwGfYgGfYgGfYgGXWAKRVgSMUgOESwV9RQOESwV9RQNTDQAbAACH
+WkX////////////+//7+//////////8A/////v///P//////////5NfFZQ8ASQIASQIAtJFx
+////yfTsAINGK4Q8xGcBuWkAq2sBqGcBqGcBqGcBn2IBnFwCl1gCkVYEjFIDfUUDfUUDfUUD
+XSQDMQAAbUE1///+/////P//////////////AP////z//f////////Xs5IRLLDEAAHg7AEkC
+AL6jjv///73q4QB4LyuEPNRlAMRnAatrAahnAatrAahnAahnAaNlAp9iAZxcApdYAoxSA4RL
+BX1FA31FA1oXATEAAG1BNf////////7///z//////wD////+//////////+of2RJAgBpJwOE
+SwVJAgC0kXH////J9OwAeC8AeC/EZwHUZQCrawGebgKrawGrawGrawGoZwGjZQKfYgGcXAKX
+WAKMUgOESwV9RQN9RQNJAgAxAADKtKX////////+//////8A////////////////ezwaMQAA
+mGYNiFUOWAcAhEMi//38////Ta5wAGYSW3Yf6GIA1GUApWsBpWsBpWsBq2sBq2sBq2sBo2UC
+n2IBn2IBl1gCjFIDfUUDhEsFcDUASQIAWhcB/Pr0////////////AP///////////////55y
+VUkCAHAtAJFbDXg7AFgHAMq0pf///+L//QB4LwB4L4xkAOhiANRlAMRnAblpAKtrAatrAatr
+AahnAahnAaNlApxcApdYAoxSA4RLBX1FA10kAxsAALSRcf///////////wD////////17OT/
+///38tuEQyJJAgB9RQORVgRlDwCESyz17OT///+o2b8Ag0YAeC90bg7UZQDUZQDUZQC5aQCr
+awGrawGrawGoZwGoZwGfYgGcXAKRVgSESwWESwVwNQBJAgBdJAPr5tr///////8A////////
+j14kq4ZZ////////nnJVSQIAWhcBcDUAWhcBhEsF8+rZ////4v/9KrqNAHgvAGYSW3YfmHQY
+6GIA1GUAq2sBpWsBq2sBqGcBqGcBn2IBnFwCjFIDhEsFfUUDXSQDMQAAvqOO////////AP//
+/////3s8GkkCAKuGWf////////T09JRpM3AtAFgHADEAAEkCAMqTd////////8n//xKrcgBm
+EgB4L0l+MMRnAehiAMRnAZ5uAqtrAahnAaNlApxcApdYAoxSA4RLBXg7ADEAAJ5yVfz69P//
+/wD////6+uh7PBpaFwFpJwOUaTPYyab////////////e0LaeclVpJwNlDwCESwXlqoT17OTw
+/f+P07IAeC8AeC8SiEWdcRDoYgDEZwGebgKoZwGoZwGfYgGcXAKRVgSESwV9RQMxAABuPibr
+5tr///8A////3tC2eDsAfUUDeDsAaScDeDsApoE/zrmZ8+rZ9/Lb+vro/P3/0L64tJFxyKyD
+98/B////////qNm/BIc4AINGEohFmHQY6GIAuWkApWsBqGcBo2UCnFwCl1gCjFIDhEsFUw0A
+XSQD2M3C////AP///9DAm3A1AH1FA5VqDIxZAXg7AHAtAHA1AH1FA595LMu3i/DpzPr66PDk
+0djJptjJpvPq2f///////4/TsgB4LwCDRgGMUZ1xEOhiAKtrAaVrAahnAZ9iAZxcApFWBIRL
+BVoXAV0kA9THvP///wD////OuZl4OwB9RQOOYg6VagyZbQqTZgGMUgN9RQNwLQBaFwFaFwFw
+NQCMWQGriETPvZXr5tr///////////8xnmIAeC8BjFESiEXEZwHEZwGrawGoZwGjZQKfYgGX
+WAKESwVaFwFdJAPUx7z///8A////0MCbeDsAhEsFmGYNlWoMk2YBjFkBfUUDfUUDjFIDm3Ij
+q4hEt5dJuJhXyKyD5NfF/fj0////////////j9OyBIc4AHgvBY9ZSX4w1GUAuWkAqGcBo2UC
+n2IBnFwCjFIDWhcBaScD1Me8////AP///9jJpoRLBYxZAZNmAX1FA3A1AIBSAauIRMWvdOXc
+tv////////////////r66Mu3i97Qtv///////////8vs3TGeYgB4LwGMURKIRcRnAcRnAblp
+AKNlAp9iAZxcApFWBFoXAWUyDtjNwv///wD////q4LuESwVpJwNwNQCZbQrPvZX38tv/////
+///////////k2K24mFePXiSMZADFr3Tw7+/////////////v+/ZNrnAEhzgBjFEAg0aZbQrU
+ZQC5aQClawGjZQKcXAKRVgRaFwFlMg7d1cr///8A////////eDsAeDsAxa90+vro////////
+9ezk5Nitxa90lGkzeDsAgFIBpoE/y7eL9ezk/////v//////////1/LlObh7FZVMFJVbAYxR
+W3YfxGcBuWkAqGcBo2UCn2IBjFkBSQIAh1pF9ezk////AP///////6uIRMu3i/////////Dk
+0biYV5tyI4xkAHA1AF0kA45iDtHEkP////////////////z//////////4/TsiixcDCrZzGe
+YgGMUTd/M8RnAcRnAahnAaNlAp9iAYRLBUkCAK+Whv///////wD////////6+uj////////F
+r3SAUgF4OwCAUgGAUgGIXAC/qkr9/vf////////////////9/f3///////////85uHsosXBF
+vYQ2rHIFj1krhDy5aQDEZwGoZwGjZQKcXAJwLQBaFwHYzcL///////8A/////P//////////
+t5dJaScDgFIBrI8KpIUAk2YB0MR5/////////////////P//////////////////cs6gIatp
+Rb2EXcaTObh7BptjK4Q8xGcBxGcBo2UCn2IBl1IAZQ8Ak2dP/Pz8////////AP/////9/v//
+//Pq2ZRpM31FA6yPCqyPCohcAMm3Xf///v////n///////////////////////3+92jHnAel
+V0W9hF7JlF3Gk0W9hBKrcjd/M7teALteAKNlAp9iAXg7AFMNAOTXxf///////////wD/////
+//////////+feSx4OwCsjwqkhQCMZADl3Lb////////////////////////k9u+P07I5uHsh
+q2lFvYRZw41TxpBZw40/x5YSq3JJfjC7XgC7XgCrdAB9RQNTDQCTZ0/////////8//////8A
+/////v/+/v//////2MmmjGQAjFkBrI8KkGwA3daf////////8/j3y+zdqNm/cs6gRb2EKLFw
+KLFwRb2EXcaTU8aQWcONXcaTP8eWKrqNdG4Ou14AuWkAl1gCUw0AaScD/f73////////////
+////AP////7//vz//////////9XIkIxkAJV0AJBsALmnNf3+9////7Dp1gelVyixcCixcCGr
+aTm4e1nDjV7JlFPGkFPGkFnDjV7JlDXVpCq6jbteALteAJdSAFMNAGknA87KtP//////////
+/////////wD//////f78///+///////////QxHmQbACMZACQbADq4Lv///+w6dYEhzgHpVc5
+uHtdxpNeyZRdxpNTxpBWyJJTxpBZw41P27Ez6bdNrnDLUQCXUgBlDwBaFwHKtKX/////////
+//7+//7///////8A//////79//7//P///v//////////0MR5lXQAgFIBuac1////////sOnW
+KLFwHrZxRb2EXcaTUMmPVsiSVsiSWcONWc2ZOfnSS9+flWoMpjwAUw0AWhcB0L64////////
+/////P/9//38///+////AP////z////9/v7//v/9/v/9/v////////v2z7mnNYBSAayPCv//
+/////+T272jHnBKrchKrckW9hFDJj1bIklnNmTn50kvfn4hVDpUCAEkCAJRpM/Xs5P//////
+//////39/f/9/vz//////////wD////////////////+///+///+///////////////VyJCV
+dACkhQD38tv////////L7N1yzqA5uHsetnEetnEK1ZItmkNpJwOVAgCTZ0/OyrT/////////
+///8//////////////////////////8A/////////////////////////v///P/9////////
+////6uC7ybdd3dKH////////////7/v21/Lly+zdsOnWsOnW0MCb5aqE7cWz8/j3////////
+////////////////////////////////////AP////////////////////////7///n////9
+/v7//v////////////DpzP/+/v7////////////////////////////9/v//////////////
+/////////////////////////////////////////wD/////////////////////////////
+////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////8A////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////AA==</BINDATA>
+<BINDATA Size="84377" Encoding="Base64" Id="3">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</BINDATA>
+{이미지파일}
+<BINDATA Size="252903" Encoding="Base64" Id="4">iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABaUlEQVR42u2XwQrDMAxDA/4tg3894N8yZJK7QUfZLdop3ehI36GNLaneWL+Occghh6jIHMMqsobNEVyISOKbZWt6ZGavNWRa4sa4XDhhISS4hjOeQ0ywmj7wqySE7oHuzXjUeh+hKPJzPLSzjzQN6GNlxcML+wiucYdlwIZPiEiXc7YGIZH66ulWUo4bl49YFxSRaYsrmgvqEBJ3AuOOKY8UEdiXl9g5GmuaiHS0MizwIEiMChHB1mDexI470F1GoBCsa3DDKGmKyFvjbCAsfAlEQrptdDAq66yrhqCekLvz/cdUv2fVVlIsIiyMvjH+7trZTNg66/v7l7P2kn5jTFaSMqxQEbQMCWv0sbXuRYSzVocsX3+MPxH5pDlNzCamiFwVpT44deVNIXtJDyUtR3o5b4rfTDhkvd3FiqaQ9GSHeLV5T4r9pL2FRHIXkh5SBqcUDhCxRKQVwhGoYC1ORSJy/msecsjfyAs/XWbWjMNSYwAAAABJRU5ErkJggg==</BINDATA>
+</BINDATASTORAGE>
+</TAIL>
+</HWPML>
