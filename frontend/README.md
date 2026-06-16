@@ -5,7 +5,7 @@
 ## 구조
 
 ```text
-web/
+frontend/
   index.html
   package.json
   public/
@@ -31,7 +31,7 @@ npm run dev
 스캐너를 실행하면 웹 화면용 최신 데이터가 아래 위치에 생성됩니다.
 
 ```text
-web/public/data/notices.json
+frontend/public/data/notices.json
 ```
 
-`web/public/data/notices.json`은 Vite 개발 서버에서 `data/notices.json`으로 제공됩니다.
+`frontend/public/data/notices.json`은 Vite 개발 서버에서 `data/notices.json`으로 제공됩니다.

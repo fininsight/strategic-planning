@@ -70,7 +70,7 @@ def _document_payload(
 
 def _public_or_api_file_url(bid_no: str, bid_ord: str, idx: int, file_path: Path, api_kind: str) -> str:
     try:
-        relative = file_path.resolve().relative_to((PROJECT_ROOT / "web" / "public").resolve())
+        relative = file_path.resolve().relative_to((PROJECT_ROOT / "frontend" / "public").resolve())
         return f"/{relative.as_posix()}"
     except ValueError:
         pass

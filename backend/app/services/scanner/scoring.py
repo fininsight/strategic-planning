@@ -6,7 +6,10 @@ scorer.py
 from datetime import datetime
 import logging
 
-from filters import parse_date
+if __package__ in {None, ""}:
+    from filters import parse_date
+else:
+    from .filters import parse_date
 
 logger = logging.getLogger(__name__)
 

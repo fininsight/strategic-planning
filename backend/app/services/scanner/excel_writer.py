@@ -14,7 +14,10 @@ from openpyxl.styles import (
 from openpyxl.utils import get_column_letter
 from openpyxl.styles.numbers import FORMAT_NUMBER_COMMA_SEPARATED1
 
-from filters import CODE_NAMES, parse_date
+if __package__ in {None, ""}:
+    from filters import CODE_NAMES, parse_date
+else:
+    from .filters import CODE_NAMES, parse_date
 
 # ─────────────────────────────────────────────
 # 색상 팔레트

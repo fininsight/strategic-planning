@@ -4,19 +4,19 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PROJECT_ROOT = Path(__file__).resolve().parents[4]
 load_dotenv(PROJECT_ROOT / ".env")
 
-WEB_ANALYSIS_DIR = PROJECT_ROOT / "web" / "public" / "data" / "analyses"
+WEB_ANALYSIS_DIR = PROJECT_ROOT / "frontend" / "public" / "data" / "analyses"
 _attachment_dir = Path(
     os.getenv(
         "OPPORTUNITY_ATTACHMENT_DIR",
-        str(PROJECT_ROOT / ".cache" / "opportunity_scanner" / "attachments"),
+        str(PROJECT_ROOT / ".cache" / "opportunity_analyzer" / "attachments"),
     )
 )
 CACHE_DIR = _attachment_dir if _attachment_dir.is_absolute() else PROJECT_ROOT / _attachment_dir
 PUBLIC_FILE_BASE = os.getenv("OPPORTUNITY_PUBLIC_FILE_BASE", "")
-DOWNLOAD_SCRIPT = PROJECT_ROOT / "web" / "scripts" / "download-g2b-attachments.mjs"
+DOWNLOAD_SCRIPT = PROJECT_ROOT / "scripts" / "download-g2b-attachments.mjs"
 
 
 def _chrome_path() -> Path:

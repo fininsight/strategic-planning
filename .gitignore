@@ -219,9 +219,9 @@ __marimo__/
 
 # Node / frontend
 node_modules/
-web/node_modules/
-web/dist/
-web/.vite/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
 *.tsbuildinfo
 
 # Local scanner runtime
@@ -229,5 +229,5 @@ web/.vite/
 .cache/
 logs/
 reports/
-web/public/data/analyses/
-web/public/data/attachments/
+frontend/public/data/analyses/
+frontend/public/data/attachments/

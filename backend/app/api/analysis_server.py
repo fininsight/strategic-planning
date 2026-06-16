@@ -3,18 +3,12 @@ from __future__ import annotations
 import json
 import mimetypes
 import re
-import sys
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import quote, unquote, urlparse
 
-if __package__ in {None, ""}:
-    sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-    from opportunity_analyzer.analysis_cache import analyze_notice
-    from opportunity_analyzer.config import CACHE_DIR
-else:
-    from .analysis_cache import analyze_notice
-    from .config import CACHE_DIR
+from app.services.analyzer.analysis_cache import analyze_notice
+from app.services.analyzer.config import CACHE_DIR
 
 
 class Handler(BaseHTTPRequestHandler):

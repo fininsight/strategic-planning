@@ -7,7 +7,10 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-from filters import CODE_NAMES, parse_date
+if __package__ in {None, ""}:
+    from filters import CODE_NAMES, parse_date
+else:
+    from .filters import CODE_NAMES, parse_date
 
 
 def _to_iso(raw: str) -> str:

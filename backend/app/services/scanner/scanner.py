@@ -33,11 +33,19 @@ except ImportError:
 
 from dotenv import load_dotenv
 
-from api_client import collect_all_bids, enrich_license_info
-from filters import hard_filter, apply_qualification_filter
-from scoring import score_all
-from excel_writer import generate_report
-from dashboard_exporter import write_dashboard_json
+if __package__ in {None, ""}:
+    sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
+    from app.services.scanner.api_client import collect_all_bids, enrich_license_info
+    from app.services.scanner.dashboard_exporter import write_dashboard_json
+    from app.services.scanner.excel_writer import generate_report
+    from app.services.scanner.filters import apply_qualification_filter, hard_filter
+    from app.services.scanner.scoring import score_all
+else:
+    from .api_client import collect_all_bids, enrich_license_info
+    from .dashboard_exporter import write_dashboard_json
+    from .excel_writer import generate_report
+    from .filters import apply_qualification_filter, hard_filter
+    from .scoring import score_all
 
 load_dotenv()
 
@@ -49,10 +57,10 @@ DEFAULT_KEYWORDS = ["AI", "빅데이터", "데이터분석", "교육", "인공�
 DEFAULT_DAYS_MIN  = 7   # 최소 7일 이후 마감
 DEFAULT_DAYS_MAX  = 60  # 최대 60일 이내 마감
 DEFAULT_LOOKBACK_DAYS = 90  # 최근 90일 공고를 수집한 뒤 마감일로 필터링
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PROJECT_ROOT = Path(__file__).resolve().parents[4]
 REPORTS_DIR = PROJECT_ROOT / "reports"
 LOGS_DIR = PROJECT_ROOT / "logs"
-WEB_DATA_DIR = PROJECT_ROOT / "web" / "public" / "data"
+WEB_DATA_DIR = PROJECT_ROOT / "frontend" / "public" / "data"
 
 # ─────────────────────────────────────────────
 # 로깅 설정
@@ -266,12 +274,8 @@ def preload_notice_attachments(keyword_results: dict[str, dict], limit: int) -> 
         logger.info("   첨부파일 사전 수집 건수가 0이라 건너뜁니다.")
         return []
 
-    src_dir = PROJECT_ROOT / "src"
-    if str(src_dir) not in sys.path:
-        sys.path.insert(0, str(src_dir))
-
-    from opportunity_analyzer.analysis_cache import analyze_notice
-    from opportunity_analyzer.config import WEB_ANALYSIS_DIR
+    from app.services.analyzer.analysis_cache import analyze_notice
+    from app.services.analyzer.config import WEB_ANALYSIS_DIR
 
     targets = _rank_top_bids(keyword_results, limit)
     logger.info("[추가] 상위 공고 첨부파일 사전 수집 중: %d건", len(targets))
