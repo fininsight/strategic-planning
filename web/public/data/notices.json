@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T05:58:14.430476",
+  "generatedAt": "2026-06-16T04:28:30.996184",
   "summary": {
     "qualified": 234,
     "disqualified": 0,
@@ -8,8 +8,8 @@
       "빅데이터",
       "인공지능",
       "양성",
-      "AI",
       "리터러시",
+      "AI",
       "교육"
     ]
   },
@@ -5646,6 +5646,38 @@
       ]
     },
     {
+      "keyword": "리터러시",
+      "task": "용역",
+      "number": "R26BK01579302-000",
+      "bidNtceNo": "R26BK01579302",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "뉴미디어를 활용한 과학기술정책 리터러시 제고방안 연구",
+      "agency": "과학기술정보통신부",
+      "demandAgency": "과학기술정보통신부",
+      "region": "전국",
+      "closeAt": "2026-06-26T10:00:00",
+      "postedAt": "2026-06-15T09:54:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 43636364,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "AI·데이터 리터러시 교육 키워드",
+        "고가치 발주기관: 과학기술정보통신부",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01579302&bidPbancOrd=000",
+      "keywords": [
+        "리터러시"
+      ]
+    },
+    {
       "keyword": "AI",
       "task": "용역",
       "number": "R26BK01577653-000",
@@ -5676,38 +5708,6 @@
       "keywords": [
         "AI",
         "교육"
-      ]
-    },
-    {
-      "keyword": "리터러시",
-      "task": "용역",
-      "number": "R26BK01579302-000",
-      "bidNtceNo": "R26BK01579302",
-      "bidNtceOrd": "000",
-      "category": "일반",
-      "title": "뉴미디어를 활용한 과학기술정책 리터러시 제고방안 연구",
-      "agency": "과학기술정보통신부",
-      "demandAgency": "과학기술정보통신부",
-      "region": "전국",
-      "closeAt": "2026-06-26T10:00:00",
-      "postedAt": "2026-06-15T09:54:00",
-      "method": "전자입찰",
-      "industry": "학술연구용역",
-      "matchedCodes": [
-        "1169"
-      ],
-      "qualificationSource": "검색조건(API)",
-      "budget": 43636364,
-      "score": 50,
-      "grade": "C",
-      "reasons": [
-        "AI·데이터 리터러시 교육 키워드",
-        "고가치 발주기관: 과학기술정보통신부",
-        "예산 적정 (3천만~5억)"
-      ],
-      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01579302&bidPbancOrd=000",
-      "keywords": [
-        "리터러시"
       ]
     },
     {

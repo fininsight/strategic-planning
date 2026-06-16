@@ -230,3 +230,4 @@ web/.vite/
 logs/
 reports/
 web/public/data/analyses/
+web/public/data/attachments/
