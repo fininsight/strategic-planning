@@ -32,7 +32,7 @@ DETAIL_LABELS = [
 ]
 
 
-def generate_proposal_sheets(payload: dict[str, Any]) -> dict[str, Any]:
+def generate_proposal_sheets(payload: dict[str, Any], use_llm: bool = True) -> dict[str, Any]:
     documents = payload.get("documents") or []
     source_documents = [
         {
@@ -49,7 +49,7 @@ def generate_proposal_sheets(payload: dict[str, Any]) -> dict[str, Any]:
     source_file = (payload.get("source") or {}).get("fileName", "")
 
     fallback = rule_proposal_sheets(source_documents, notice_id, source_file, payload.get("analyzedAt", ""))
-    result = llm_proposal_sheets(source_documents, fallback)
+    result = llm_proposal_sheets(source_documents, fallback) if use_llm else fallback
     result["id"] = notice_id or result.get("id", "")
     result["sourceFile"] = source_file or result.get("sourceFile", "")
     result["generatedAt"] = payload.get("analyzedAt") or result.get("generatedAt", "")

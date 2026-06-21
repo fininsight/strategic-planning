@@ -1,6 +1,6 @@
 import { PointerEvent as ReactPointerEvent, useEffect, useState } from "react";
 
-import { loadNoticeAnalysis } from "../../api/analysisApi";
+import { loadNoticeAnalysis, loadNoticeDocuments } from "../../api/analysisApi";
 import { NoticeAnalysis } from "../../types/analysis";
 import { Notice } from "../../types/notice";
 import { buildDeepLink, formatBudget, formatDateTime } from "../../utils/format";
@@ -12,22 +12,47 @@ type MonitoringPageProps = {
 
 export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) {
   const [apiAnalysis, setApiAnalysis] = useState<NoticeAnalysis | null>(null);
+  const [documentPayload, setDocumentPayload] = useState<NoticeAnalysis | null>(null);
+  const [documentStatus, setDocumentStatus] = useState<"loading" | "completed" | "failed">("loading");
   const [analysisStatus, setAnalysisStatus] = useState<"loading" | "completed" | "failed">("loading");
   const [analysisError, setAnalysisError] = useState("");
+  const [documentError, setDocumentError] = useState("");
   const [activeDocumentId, setActiveDocumentId] = useState("");
   const [splitPercent, setSplitPercent] = useState(60);
   const fallbackAnalysis = buildNoticeAnalysis(notice);
   const bidNo = notice.bidNtceNo || notice.number.split("-")[0];
   const bidOrd = notice.bidNtceOrd || notice.number.split("-")[1] || "000";
   const deepLink = notice.deepLink || buildDeepLink(`${bidNo}-${bidOrd}`);
-  const analysis = apiAnalysis ? buildApiNoticeAnalysis(notice, apiAnalysis) : fallbackAnalysis;
-  const documents = apiAnalysis?.documents ?? [];
+  const visiblePayload = apiAnalysis ?? documentPayload;
+  const analysis = visiblePayload ? buildApiNoticeAnalysis(notice, visiblePayload) : fallbackAnalysis;
+  const documents = visiblePayload?.documents ?? [];
   const activeDocument = documents.find((document) => document.id === activeDocumentId) ?? documents[0];
   const activeReport = activeDocument?.analysis;
   const deadline = formatDateTime(notice.closeAt);
 
   useEffect(() => {
     let ignore = false;
+
+    async function loadDocuments(): Promise<boolean> {
+      setDocumentStatus("loading");
+      setDocumentError("");
+      setDocumentPayload(null);
+      try {
+        const payload = await loadNoticeDocuments(bidNo, bidOrd);
+        if (!ignore) {
+          setDocumentPayload(payload);
+          setActiveDocumentId(payload.documents?.[0]?.id ?? "");
+          setDocumentStatus("completed");
+        }
+        return true;
+      } catch (error) {
+        if (!ignore) {
+          setDocumentStatus("failed");
+          setDocumentError(error instanceof Error ? error.message : "첨부파일을 불러오지 못했습니다.");
+        }
+        return false;
+      }
+    }
 
     async function loadAnalysis() {
       setAnalysisStatus("loading");
@@ -36,7 +61,7 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
         const payload = await loadNoticeAnalysis(bidNo, bidOrd);
         if (!ignore) {
           setApiAnalysis(payload);
-          setActiveDocumentId(payload.documents?.[0]?.id ?? "");
+          setActiveDocumentId((current) => current || payload.documents?.[0]?.id || "");
           setAnalysisStatus("completed");
         }
       } catch (error) {
@@ -48,7 +73,17 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
       }
     }
 
-    loadAnalysis();
+    async function loadInOrder() {
+      const ready = await loadDocuments();
+      if (ready && !ignore) {
+        loadAnalysis();
+      } else if (!ignore) {
+        setAnalysisStatus("failed");
+        setAnalysisError("첨부파일을 먼저 불러오지 못해 분석을 시작하지 않았습니다.");
+      }
+    }
+
+    loadInOrder();
 
     return () => {
       ignore = true;
@@ -93,8 +128,6 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
           <span>마이페이지</span> */}
         </nav>
         <div className="analysisActions">
-          <button className="analysisIconButton share" type="button" aria-label="공유" />
-          <button className="analysisIconButton bookmark" type="button" aria-label="북마크" />
           <a className="deepLinkButton" href={deepLink} target="_blank" rel="noreferrer">
             나라장터 원문
           </a>
@@ -112,13 +145,8 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
         <main className="documentPane">
           <div className="documentToolbar">
             <div className="documentTitle">
-              <span>나라장터(G2B)</span>
-              <strong>{activeDocument?.fileName ?? analysis.fileName}</strong>
-            </div>
-            <div className="documentTools" aria-hidden="true">
-              <span className="zoomInIcon" />
-              <span className="zoomOutIcon" />
-              <span className="downloadIcon" />
+              <strong>{notice.title}</strong>
+              <span>{notice.number}</span>
             </div>
           </div>
 
@@ -134,23 +162,23 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
                   <span>
                     {document.analysis.docType || document.docType} {document.extension}
                   </span>
-                  {document.fileName}
+                  <strong>{document.fileName}</strong>
                 </button>
               ))}
             </div>
           ) : null}
 
           <article className="pdfViewerPane">
-            {analysisStatus === "loading" ? (
+            {documentStatus === "loading" ? (
               <div className="analysisLoading">
-                <strong>첨부 PDF 다운로드 및 분석 중</strong>
-                <p>나라장터 첨부파일을 확인하고 있습니다. 여러 서류가 있으면 첫 분석은 시간이 조금 더 걸릴 수 있습니다.</p>
+                <strong>첨부파일 뷰어 준비 중</strong>
+                <p>나라장터 첨부파일을 확인하고 있습니다. 분석은 별도로 진행됩니다.</p>
               </div>
             ) : null}
-            {analysisStatus === "failed" ? (
+            {documentStatus === "failed" ? (
               <div className="analysisError">
-                <strong>분석 API 연결 실패</strong>
-                <p>{analysisError}</p>
+                <strong>첨부파일 로딩 실패</strong>
+                <p>{documentError}</p>
                 <p>아래 내용은 기존 공고 데이터 기반 미리보기입니다.</p>
               </div>
             ) : null}
@@ -197,7 +225,7 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
         <aside className="summaryPane">
           <div className="summaryTitleRow">
             <h3>{activeReport ? `${activeReport.docType} AI 리포트` : "AI 요약 리포트"}</h3>
-            <span>{activeReport?.analysisSource === "llm" ? "LLM 분석" : analysisStatus === "completed" ? "분석 완료" : `매칭률 ${notice.score}%`}</span>
+            <span>{activeReport?.analysisSource === "llm" ? "LLM 분석" : analysisStatus === "loading" ? "분석 생성 중" : `매칭률 ${notice.score}%`}</span>
           </div>
 
           <div className="summaryStatBox">

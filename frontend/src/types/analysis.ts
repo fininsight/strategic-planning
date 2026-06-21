@@ -2,7 +2,7 @@ export type NoticeAnalysis = {
   bidNtceNo?: string;
   bidNtceOrd?: string;
   analyzedAt: string;
-  status: "completed";
+  status: "documents_ready" | "completed";
   source: {
     fileName: string;
     pageCount: number;

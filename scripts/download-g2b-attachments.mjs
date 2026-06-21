@@ -1,6 +1,8 @@
 import { spawn } from "node:child_process";
+import crypto from "node:crypto";
 import fs from "node:fs";
 import http from "node:http";
+import net from "node:net";
 import os from "node:os";
 import path from "node:path";
 import { setTimeout as delay } from "node:timers/promises";
@@ -13,6 +15,120 @@ const CHROME_CANDIDATES = [
   "/usr/bin/chromium",
   "/usr/bin/chromium-browser",
 ].filter(Boolean);
+
+class MinimalWebSocket {
+  constructor(wsUrl) {
+    this.listeners = new Map();
+    this.buffer = Buffer.alloc(0);
+    this.socket = null;
+    this.connect(wsUrl);
+  }
+
+  addEventListener(type, listener, options = {}) {
+    const wrapped = options.once
+      ? (event) => {
+          this.removeEventListener(type, wrapped);
+          listener(event);
+        }
+      : listener;
+    if (!this.listeners.has(type)) this.listeners.set(type, new Set());
+    this.listeners.get(type).add(wrapped);
+  }
+
+  removeEventListener(type, listener) {
+    this.listeners.get(type)?.delete(listener);
+  }
+
+  emit(type, event = {}) {
+    for (const listener of this.listeners.get(type) || []) listener(event);
+  }
+
+  connect(wsUrl) {
+    const parsed = new URL(wsUrl);
+    const key = crypto.randomBytes(16).toString("base64");
+    const port = Number(parsed.port || 80);
+    this.socket = net.createConnection({ host: parsed.hostname, port }, () => {
+      this.socket.write(
+        [
+          `GET ${parsed.pathname}${parsed.search} HTTP/1.1`,
+          `Host: ${parsed.host}`,
+          "Upgrade: websocket",
+          "Connection: Upgrade",
+          `Sec-WebSocket-Key: ${key}`,
+          "Sec-WebSocket-Version: 13",
+          "\r\n",
+        ].join("\r\n"),
+      );
+    });
+    this.socket.on("data", (chunk) => this.handleData(chunk));
+    this.socket.on("error", (error) => this.emit("error", { error }));
+    this.socket.on("close", () => this.emit("close", {}));
+  }
+
+  handleData(chunk) {
+    this.buffer = Buffer.concat([this.buffer, chunk]);
+    const headerEnd = this.buffer.indexOf("\r\n\r\n");
+    if (headerEnd >= 0 && this.buffer.slice(0, headerEnd).includes("HTTP/1.1 101")) {
+      this.buffer = this.buffer.slice(headerEnd + 4);
+      this.emit("open", {});
+    }
+
+    while (this.buffer.length >= 2) {
+      const first = this.buffer[0];
+      const opcode = first & 0x0f;
+      let length = this.buffer[1] & 0x7f;
+      let offset = 2;
+      if (length === 126) {
+        if (this.buffer.length < offset + 2) return;
+        length = this.buffer.readUInt16BE(offset);
+        offset += 2;
+      } else if (length === 127) {
+        if (this.buffer.length < offset + 8) return;
+        const high = this.buffer.readUInt32BE(offset);
+        const low = this.buffer.readUInt32BE(offset + 4);
+        length = high * 2 ** 32 + low;
+        offset += 8;
+      }
+      if (this.buffer.length < offset + length) return;
+      const payload = this.buffer.slice(offset, offset + length);
+      this.buffer = this.buffer.slice(offset + length);
+
+      if (opcode === 1) this.emit("message", { data: payload.toString("utf8") });
+      if (opcode === 8) this.close();
+    }
+  }
+
+  send(text) {
+    const payload = Buffer.from(text);
+    const mask = crypto.randomBytes(4);
+    const headerLength = payload.length < 126 ? 2 : payload.length < 65536 ? 4 : 10;
+    const frame = Buffer.alloc(headerLength + 4 + payload.length);
+    frame[0] = 0x81;
+    if (payload.length < 126) {
+      frame[1] = 0x80 | payload.length;
+      mask.copy(frame, 2);
+      for (let i = 0; i < payload.length; i += 1) frame[6 + i] = payload[i] ^ mask[i % 4];
+    } else if (payload.length < 65536) {
+      frame[1] = 0x80 | 126;
+      frame.writeUInt16BE(payload.length, 2);
+      mask.copy(frame, 4);
+      for (let i = 0; i < payload.length; i += 1) frame[8 + i] = payload[i] ^ mask[i % 4];
+    } else {
+      frame[1] = 0x80 | 127;
+      frame.writeUInt32BE(0, 2);
+      frame.writeUInt32BE(payload.length, 6);
+      mask.copy(frame, 10);
+      for (let i = 0; i < payload.length; i += 1) frame[14 + i] = payload[i] ^ mask[i % 4];
+    }
+    this.socket.write(frame);
+  }
+
+  close() {
+    this.socket?.end();
+  }
+}
+
+const WebSocketClient = globalThis.WebSocket || MinimalWebSocket;
 
 function findChromePath() {
   const found = CHROME_CANDIDATES.find((candidate) => fs.existsSync(candidate));
@@ -65,9 +181,9 @@ function newPage(port, targetUrl) {
   });
 }
 
-async function waitForChrome(port) {
+async function waitForChrome(port, getDebugOutput = () => "") {
   const started = Date.now();
-  while (Date.now() - started < 15000) {
+  while (Date.now() - started < 30000) {
     try {
       await getJson(port, "/json/version");
       return;
@@ -75,7 +191,7 @@ async function waitForChrome(port) {
       await delay(300);
     }
   }
-  throw new Error("Chrome 원격 디버깅 포트가 열리지 않았습니다.");
+  throw new Error(`Chrome 원격 디버깅 포트가 열리지 않았습니다.${getDebugOutput() ? `\n${getDebugOutput()}` : ""}`);
 }
 
 function decodeHtml(value = "") {
@@ -132,27 +248,90 @@ function selectAttachments(attachments) {
   });
 }
 
-function stableCopy(filePath, selected, index, outDir) {
-  const extension = String(selected.fileExtnNm || path.extname(filePath) || "").toLowerCase() || ".bin";
-  const stablePath = path.join(outDir, `g2b-doc-${String(index + 1).padStart(2, "0")}${extension}`);
-  if (path.resolve(filePath) !== path.resolve(stablePath)) {
-    fs.copyFileSync(filePath, stablePath);
-  }
-  return stablePath;
+function normalizeAttachment(item) {
+  const orgnlAtchFileNm = decodeHtml(
+    item.orgnlAtchFileNm ||
+      item.orgFileNm ||
+      item.fileNm ||
+      item.atchFileNm ||
+      item.name ||
+      "",
+  );
+  const fileExtnNm = String(
+    item.fileExtnNm ||
+      item.fileExt ||
+      item.fileExtsn ||
+      path.extname(orgnlAtchFileNm) ||
+      "",
+  ).toLowerCase();
+
+  const normalizedExtension = fileExtnNm
+    ? fileExtnNm.startsWith(".")
+      ? fileExtnNm
+      : `.${fileExtnNm}`
+    : "";
+
+  return {
+    ...item,
+    orgnlAtchFileNm,
+    fileExtnNm: normalizedExtension,
+    fileSz: Number(item.fileSz || item.fileSize || item.atchFileSz || 0),
+    untyAtchFileNo: item.untyAtchFileNo || item.atchFileId || item.fileId,
+    atchFileSqno: item.atchFileSqno || item.fileSn || item.fileSeq || item.seq || "1",
+    atchFileNm: item.atchFileNm || item.fileNm || orgnlAtchFileNm,
+    bsneClsfCd: item.bsneClsfCd || item.prcmBsneSeCd || item.bsnePath || "PNPE",
+  };
 }
 
-function stablePathFor(selected, index, outDir) {
-  const extension = String(selected.fileExtnNm || "").toLowerCase() || ".bin";
-  return path.join(outDir, `g2b-doc-${String(index + 1).padStart(2, "0")}${extension}`);
+function looksLikeAttachment(item) {
+  if (!item || typeof item !== "object") return false;
+  const fileName = item.orgnlAtchFileNm || item.orgFileNm || item.fileNm || item.atchFileNm || item.name || "";
+  return /\.(pdf|hwp|hwpx|zip)$/i.test(decodeHtml(fileName));
+}
+
+function findAttachments(payload) {
+  const found = [];
+  const seen = new Set();
+
+  function visit(value) {
+    if (!value) return;
+    if (Array.isArray(value)) {
+      if (value.some(looksLikeAttachment)) {
+        for (const item of value.filter(looksLikeAttachment).map(normalizeAttachment)) {
+          const key = `${item.orgnlAtchFileNm}|${item.untyAtchFileNo || ""}|${item.atchFileSqno || ""}`;
+          if (!seen.has(key)) {
+            seen.add(key);
+            found.push(item);
+          }
+        }
+      }
+      value.forEach(visit);
+      return;
+    }
+    if (typeof value === "object") {
+      if (looksLikeAttachment(value)) {
+        const item = normalizeAttachment(value);
+        const key = `${item.orgnlAtchFileNm}|${item.untyAtchFileNo || ""}|${item.atchFileSqno || ""}`;
+        if (!seen.has(key)) {
+          seen.add(key);
+          found.push(item);
+        }
+      }
+      Object.values(value).forEach(visit);
+    }
+  }
+
+  visit(payload?.dlUntyAtchFileL || payload?.resultList || payload?.list || payload);
+  return found;
 }
 
 function connectToPage(wsUrl) {
   let id = 0;
   const pending = new Map();
-  const interestingResponses = new Map();
+  const interestingResponses = [];
 
   async function connect() {
-    const ws = new WebSocket(wsUrl);
+    const ws = new WebSocketClient(wsUrl);
 
     function send(method, params = {}) {
       const callId = ++id;
@@ -177,8 +356,12 @@ function connectToPage(wsUrl) {
       }
       if (message.method === "Network.responseReceived") {
         const url = message.params.response.url;
-        if (url.includes("/fs/fsc/fscb/UntyAtchFile/selectUntyAtchFileList.do")) {
-          interestingResponses.set("attachments", message.params.requestId);
+        const contentType = String(message.params.response.mimeType || "");
+        if (/atch|file|fsc|pbanc|bid/i.test(url) || /json/i.test(contentType)) {
+          interestingResponses.push({
+            requestId: message.params.requestId,
+            url,
+          });
         }
       }
     });
@@ -206,32 +389,45 @@ async function main() {
     "--disable-dev-shm-usage",
     "--no-sandbox",
     "--no-first-run",
+    "--disable-background-networking",
+    "--remote-debugging-address=127.0.0.1",
     `--remote-debugging-port=${port}`,
     `--user-data-dir=${profileDir}`,
     "about:blank",
-  ], { stdio: "ignore" });
+  ], { stdio: ["ignore", "ignore", "pipe"] });
+  let chromeError = "";
+  chrome.stderr?.on("data", (chunk) => {
+    chromeError += chunk.toString();
+    if (chromeError.length > 4000) chromeError = chromeError.slice(-4000);
+  });
 
   try {
-    await waitForChrome(port);
-    const page = await newPage(port, url);
+    await waitForChrome(port, () => chromeError.trim());
+    const page = await newPage(port, "about:blank");
     const { ws, send, interestingResponses } = await connectToPage(page.webSocketDebuggerUrl);
     await send("Network.enable");
     await send("Page.enable");
     await send("Runtime.enable");
     await send("Page.setDownloadBehavior", { behavior: "allow", downloadPath: outDir }).catch(() => undefined);
+    await send("Page.navigate", { url });
 
     let attachments = [];
     for (let i = 0; i < 60; i += 1) {
       await delay(1000);
-      const requestId = interestingResponses.get("attachments");
-      if (requestId) {
-        const body = await send("Network.getResponseBody", { requestId }).catch(() => null);
+      const candidates = interestingResponses.splice(0, interestingResponses.length);
+      for (const candidate of candidates) {
+        const body = await send("Network.getResponseBody", { requestId: candidate.requestId }).catch(() => null);
         if (body?.body) {
-          const payload = JSON.parse(body.body);
-          attachments = payload.dlUntyAtchFileL || [];
-          if (attachments.length) break;
+          try {
+            const payload = JSON.parse(body.body);
+            attachments = findAttachments(payload);
+            if (attachments.length) break;
+          } catch {
+            // Ignore non-JSON responses captured by the broad network filter.
+          }
         }
       }
+      if (attachments.length) break;
     }
 
     if (!attachments.length) {
@@ -246,25 +442,14 @@ async function main() {
 
     const downloads = [];
     const seen = new Set(before);
-    for (const [index, selected] of selectedAttachments.entries()) {
-      const cachedStablePath = stablePathFor(selected, index, outDir);
-      if (fs.existsSync(cachedStablePath)) {
-        const stat = fs.statSync(cachedStablePath);
-        if (!selected.fileSz || stat.size === selected.fileSz) {
-          downloads.push({ filePath: cachedStablePath, pdfPath: cachedStablePath, selected });
-          seen.add(path.basename(cachedStablePath));
-          continue;
-        }
-      }
-
+    for (const selected of selectedAttachments) {
       const expectedName = decodeHtml(selected.orgnlAtchFileNm);
       const existingPath = path.join(outDir, expectedName);
       if (fs.existsSync(existingPath)) {
         const stat = fs.statSync(existingPath);
         if (!selected.fileSz || stat.size === selected.fileSz) {
-          const stablePath = stableCopy(existingPath, selected, index, outDir);
-          downloads.push({ filePath: stablePath, pdfPath: stablePath, selected });
-          seen.add(path.basename(stablePath));
+          downloads.push({ filePath: existingPath, pdfPath: existingPath, selected });
+          seen.add(path.basename(existingPath));
           continue;
         }
       }
@@ -285,10 +470,8 @@ async function main() {
         returnByValue: true,
       });
       const filePath = await waitForFile(outDir, seen, selected.fileSz, String(selected.fileExtnNm || "").toLowerCase());
-      const stablePath = stableCopy(filePath, selected, index, outDir);
       seen.add(path.basename(filePath));
-      seen.add(path.basename(stablePath));
-      downloads.push({ filePath: stablePath, pdfPath: stablePath, selected });
+      downloads.push({ filePath, pdfPath: filePath, selected });
     }
 
     ws.close();
@@ -300,6 +483,11 @@ async function main() {
     }, null, 2));
   } finally {
     chrome.kill("SIGTERM");
+    try {
+      fs.rmSync(profileDir, { recursive: true, force: true, maxRetries: 3, retryDelay: 200 });
+    } catch {
+      // Chrome may still be flushing cache files; the temp profile is disposable.
+    }
   }
 }
 

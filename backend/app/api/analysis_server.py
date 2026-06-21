@@ -7,8 +7,8 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import quote, unquote, urlparse
 
-from app.services.analyzer.analysis_cache import analyze_notice
-from app.services.analyzer.config import CACHE_DIR
+PROJECT_ROOT = Path(__file__).resolve().parents[3]
+NOTICES_JSON = PROJECT_ROOT / "frontend" / "public" / "data" / "notices.json"
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -28,6 +28,13 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_GET(self):
         path = unquote(urlparse(self.path).path)
+        if path == "/api/notices":
+            try:
+                self._send_json(200, json.loads(NOTICES_JSON.read_text(encoding="utf-8")))
+            except Exception as exc:
+                self._send_json(500, {"error": "notices_failed", "message": str(exc)})
+            return
+
         file_match = re.fullmatch(r"/api/notices/([^/]+)/([^/]+)/(files|original-files)/(\d+)", path)
         if file_match:
             self._send_file(*file_match.groups())
@@ -37,9 +44,22 @@ class Handler(BaseHTTPRequestHandler):
         if proposal_match:
             bid_no, bid_ord = proposal_match.groups()
             try:
+                from app.services.analyzer.analysis_cache import analyze_notice
+
                 self._send_json(200, analyze_notice(bid_no, bid_ord).get("proposalSheets", {}))
             except Exception as exc:
                 self._send_json(500, {"error": "proposal_analysis_failed", "message": str(exc)})
+            return
+
+        documents_match = re.fullmatch(r"/api/notices/([^/]+)/([^/]+)/documents", path)
+        if documents_match:
+            bid_no, bid_ord = documents_match.groups()
+            try:
+                from app.services.analyzer.analysis_cache import prepare_notice_documents
+
+                self._send_json(200, prepare_notice_documents(bid_no, bid_ord))
+            except Exception as exc:
+                self._send_json(500, {"error": "documents_failed", "message": str(exc)})
             return
 
         match = re.fullmatch(r"/api/notices/([^/]+)/([^/]+)/analysis", path)
@@ -49,13 +69,18 @@ class Handler(BaseHTTPRequestHandler):
 
         bid_no, bid_ord = match.groups()
         try:
+            from app.services.analyzer.analysis_cache import analyze_notice
+
             self._send_json(200, analyze_notice(bid_no, bid_ord))
         except Exception as exc:
             self._send_json(500, {"error": "analysis_failed", "message": str(exc)})
 
     def _send_file(self, bid_no: str, bid_ord: str, file_kind: str, document_id: str):
         try:
-            payload = analyze_notice(bid_no, bid_ord)
+            from app.services.analyzer.analysis_cache import prepare_notice_documents
+            from app.services.analyzer.config import CACHE_DIR
+
+            payload = prepare_notice_documents(bid_no, bid_ord)
             document = next(item for item in payload.get("documents", []) if item.get("id") == document_id)
             path_key = "filePath" if file_kind == "original-files" else "viewerPath"
             file_path = Path(document.get(path_key) or document.get("filePath") or document["pdfPath"]).resolve()
