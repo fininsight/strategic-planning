@@ -40,6 +40,12 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
       try {
         const payload = await loadNoticeDocuments(bidNo, bidOrd);
         if (!ignore) {
+          if (payload.status === "download_failed") {
+            // 서버가 200을 반환했지만 다운로드 자체가 실패한 상태
+            setDocumentStatus("failed");
+            setDocumentError(payload.downloadError || "나라장터 첨부파일 다운로드에 실패했습니다.");
+            return false;
+          }
           setDocumentPayload(payload);
           setActiveDocumentId(payload.documents?.[0]?.id ?? "");
           setDocumentStatus("completed");
@@ -196,8 +202,22 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
                   </div>
                 ) : null}
               </>
+            ) : activeDocument?.viewerType === "text" && activeDocument.documentText ? (
+              <>
+                <div className="convertedNotice">
+                  <span>{activeDocument.viewerError || "PDF 변환 대신 원문 텍스트로 표시 중입니다."}</span>
+                  <a href={activeDocument.originalFileUrl || activeDocument.fileUrl}>원본 다운로드</a>
+                </div>
+                <pre className="textDocumentViewer">{activeDocument.documentText}</pre>
+              </>
             ) : activeDocument?.viewerType === "text" ? (
-              <pre className="textDocumentViewer">{activeDocument.documentText}</pre>
+              <div className="documentEmpty">
+                <strong>{activeDocument.fileName}</strong>
+                <p>{activeDocument.viewerError || activeDocument.extractionError || "이 파일은 PDF 변환이나 텍스트 추출을 바로 처리하기 어렵습니다."}</p>
+                <a className="fileDownloadButton" href={activeDocument.originalFileUrl || activeDocument.fileUrl}>
+                  원본 다운로드
+                </a>
+              </div>
             ) : activeDocument ? (
               <div className="documentEmpty">
                 <strong>{activeDocument.fileName}</strong>

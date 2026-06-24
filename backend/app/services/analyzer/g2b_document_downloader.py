@@ -7,6 +7,12 @@ from pathlib import Path
 
 from .config import DOWNLOAD_SCRIPT, PROJECT_ROOT
 
+NOTICE_KEYWORDS = ("공고서", "공고문", "입찰공고")
+
+
+def _is_notice_document(path: Path) -> bool:
+    return any(keyword in path.name for keyword in NOTICE_KEYWORDS)
+
 
 def _cached_download_info(out_dir: Path) -> dict | None:
     if not out_dir.exists():
@@ -18,6 +24,10 @@ def _cached_download_info(out_dir: Path) -> dict | None:
         if path.is_file() and path.suffix.lower() in {".pdf", ".hwp", ".hwpx", ".zip"}
     ]
     if not all_files:
+        return None
+    has_notice_hwp = any(path.suffix.lower() in {".hwp", ".hwpx"} and _is_notice_document(path) for path in all_files)
+    has_notice_pdf = any(path.suffix.lower() == ".pdf" and _is_notice_document(path) for path in all_files)
+    if has_notice_hwp and not has_notice_pdf:
         return None
 
     downloads = []
@@ -70,7 +80,7 @@ def download_g2b_attachments(bid_no: str, bid_ord: str, out_dir: Path) -> dict:
             check=True,
             capture_output=True,
             text=True,
-            timeout=120,
+            timeout=300,
         )
     except subprocess.CalledProcessError as exc:
         cached = _cached_download_info(out_dir)

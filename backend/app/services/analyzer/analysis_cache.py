@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import html
 import json
+import threading
 from datetime import datetime
 from pathlib import Path
 
@@ -10,7 +11,19 @@ from .document_converter import viewer_file
 from .g2b_document_downloader import attachment_payload, download_g2b_attachments
 from .llm_analyzer import document_kind, llm_document_analysis, rule_document_analysis, summarize_notice
 from .proposal_sheet_analyzer import generate_proposal_sheets
-from .text_extractor import extract_document_text, extract_pdf_text
+from .text_extractor import extract_document_text, extract_pdf_text, is_text_like_document
+
+_PREPARE_LOCKS: dict[str, threading.Lock] = {}
+_PREPARE_LOCKS_GUARD = threading.Lock()
+
+
+def _prepare_lock(key: str) -> threading.Lock:
+    with _PREPARE_LOCKS_GUARD:
+        lock = _PREPARE_LOCKS.get(key)
+        if lock is None:
+            lock = threading.Lock()
+            _PREPARE_LOCKS[key] = lock
+        return lock
 
 
 def _is_cache_path(path: Path) -> bool:
@@ -29,6 +42,7 @@ def _document_payload(
     *,
     extract_text: bool = True,
     analyze_document: bool = True,
+    convert_viewer: bool = True,
 ) -> tuple[dict, str]:
     file_path = Path(item.get("filePath") or item["pdfPath"])
     selected = item["selected"]
@@ -40,7 +54,9 @@ def _document_payload(
     extraction_error = ""
     if extract_text:
         text, page_count, extraction_method, extraction_error = extract_document_text(file_path, extension)
-    viewer_type, viewer_path, viewer_error = viewer_file(file_path, extension)
+    viewer_type, viewer_path, viewer_error = viewer_file(file_path, extension, allow_convert=convert_viewer)
+    if not extract_text and viewer_type == "text":
+        text, page_count, extraction_method, extraction_error = extract_document_text(file_path, extension)
 
     if extract_text and viewer_type == "pdf":
         try:
@@ -144,124 +160,207 @@ def _refresh_converted_pdf_text(payload: dict) -> bool:
     return changed
 
 
-def _document_files_available(payload: dict) -> bool:
+def _refresh_text_viewer_documents(payload: dict) -> bool:
+    changed = False
+    for document in payload.get("documents", []):
+        if document.get("viewerType") != "text" or document.get("documentText"):
+            continue
+        file_path = Path(document.get("filePath") or "")
+        if not file_path.exists():
+            continue
+        if not is_text_like_document(file_path):
+            continue
+        extension = str(document.get("extension") or file_path.suffix).lower()
+        text, page_count, extraction_method, extraction_error = extract_document_text(file_path, extension)
+        if not text:
+            continue
+        document["documentText"] = text
+        document["textLength"] = len(text)
+        document["pageCount"] = page_count
+        document["extractionMethod"] = extraction_method
+        document["extractionError"] = extraction_error
+        document["viewerError"] = "실제 파일 내용이 XML/텍스트라 원문 텍스트로 표시합니다."
+        document["analysis"] = rule_document_analysis(text, document.get("fileName", ""))
+        changed = True
+    return changed
+
+
+def _document_files_state(payload: dict) -> str:
+    """캐시된 파일 상태를 반환한다.
+    'ok': 모든 파일이 캐시 경로에 존재
+    'stale': documents는 있으나 일부 파일이 캐시 경로에 없음 (경로 불일치 또는 삭제)
+    'missing': documents 자체가 없음
+    """
     documents = payload.get("documents") or []
     if not documents:
-        return False
+        return "missing"
     for document in documents:
         file_path = Path(document.get("filePath") or "")
         viewer_path = Path(document.get("viewerPath") or document.get("pdfPath") or "")
         if not file_path.exists() or not _is_cache_path(file_path):
-            return False
+            return "stale"
         if document.get("viewerType") == "pdf" and (not viewer_path.exists() or not _is_cache_path(viewer_path)):
-            return False
-    return True
+            return "stale"
+    return "ok"
+
+
+def _document_files_available(payload: dict) -> bool:
+    """하위 호환성을 위해 유지."""
+    return _document_files_state(payload) == "ok"
+
+
+def _patch_document_urls(payload: dict, bid_no: str, bid_ord: str) -> dict:
+    """파일이 없거나 경로가 바뀐 경우, fileUrl/fileUrl을 API 엔드포인트 URL로 교체한다."""
+    import copy
+    patched = copy.deepcopy(payload)
+    for idx, document in enumerate(patched.get("documents", [])):
+        file_path = Path(document.get("filePath") or "")
+        viewer_path = Path(document.get("viewerPath") or document.get("pdfPath") or "")
+        file_missing = not file_path.exists() or not _is_cache_path(file_path)
+        viewer_missing = document.get("viewerType") == "pdf" and (
+            not viewer_path.exists() or not _is_cache_path(viewer_path)
+        )
+        if file_missing:
+            document["originalFileUrl"] = f"{API_ORIGIN}/api/notices/{bid_no}/{bid_ord}/original-files/{idx}"
+        if viewer_missing:
+            document["fileUrl"] = f"{API_ORIGIN}/api/notices/{bid_no}/{bid_ord}/files/{idx}"
+            document["pdfUrl"] = document["fileUrl"]
+    return patched
 
 
 def prepare_notice_documents(bid_no: str, bid_ord: str) -> dict:
     """첨부파일 다운로드/변환과 뷰어 표시용 payload만 준비한다."""
     key = f"{bid_no}-{bid_ord}"
-    cache_path = WEB_ANALYSIS_DIR / f"{key}.json"
-    if cache_path.exists():
-        payload = json.loads(cache_path.read_text(encoding="utf-8"))
-        if payload.get("documents") and _document_files_available(payload):
-            return payload
+    with _prepare_lock(key):
+        cache_path = WEB_ANALYSIS_DIR / f"{key}.json"
 
-    out_dir = CACHE_DIR / key
-    download_info = download_g2b_attachments(bid_no, bid_ord, out_dir)
-    downloads = download_info.get("downloads") or [
-        {"pdfPath": download_info["pdfPath"], "selected": download_info["selected"]}
-    ]
-    attachments = download_info["attachments"]
+        # 1. 실제 파일까지 살아 있는 캐시만 뷰어 캐시로 인정한다.
+        if cache_path.exists():
+            try:
+                payload = json.loads(cache_path.read_text(encoding="utf-8"))
+                if payload.get("documents") and _document_files_state(payload) == "ok":
+                    if _refresh_text_viewer_documents(payload):
+                        cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+                    return payload
+            except Exception:
+                pass
 
-    documents = []
-    for idx, item in enumerate(downloads):
-        document, _ = _document_payload(
-            idx,
-            bid_no,
-            bid_ord,
-            item,
-            extract_text=False,
-            analyze_document=False,
-        )
-        documents.append(document)
+        # 2. 캐시가 없거나 stale이면 다운로드/변환을 다시 시도한다.
+        # 실패 결과는 JSON으로 저장하지 않는다. 실패 캐시가 다음 재시도를 막지 않게 하기 위함이다.
+        out_dir = CACHE_DIR / key
+        download_info = download_g2b_attachments(bid_no, bid_ord, out_dir)
+        downloads = download_info.get("downloads") or [
+            {"pdfPath": download_info["pdfPath"], "selected": download_info["selected"]}
+        ]
+        attachments = download_info["attachments"]
+        if not downloads:
+            raise RuntimeError("분석 대상 첨부파일을 찾지 못했습니다.")
 
-    primary = documents[0]
-    return {
-        "bidNtceNo": bid_no,
-        "bidNtceOrd": bid_ord,
-        "analyzedAt": datetime.now().isoformat(),
-        "status": "documents_ready",
-        "source": {
-            "fileName": primary["fileName"],
-            "pdfPath": primary["viewerPath"],
-            "pageCount": primary["pageCount"],
-            "textLength": primary["textLength"],
-            "extractionMethod": primary["extractionMethod"],
-        },
-        "attachments": [attachment_payload(item) for item in attachments],
-        "documents": documents,
-        "documentText": "",
-        "summary": _quick_notice_summary(primary, documents),
-    }
+        # 3. 텍스트 추출이나 LLM 없이 순수하게 문서/뷰어 정보만 만든다.
+        documents = []
+        for idx, item in enumerate(downloads):
+            document, _ = _document_payload(
+                idx,
+                bid_no,
+                bid_ord,
+                item,
+                extract_text=False,
+                analyze_document=False,
+                convert_viewer=False,
+            )
+            documents.append(document)
+
+        primary = documents[0]
+        result = {
+            "bidNtceNo": bid_no,
+            "bidNtceOrd": bid_ord,
+            "analyzedAt": datetime.now().isoformat(),
+            "status": "documents_ready",
+            "source": {
+                "fileName": primary["fileName"],
+                "pdfPath": primary["viewerPath"],
+                "pageCount": primary["pageCount"],
+                "textLength": primary["textLength"],
+                "extractionMethod": primary["extractionMethod"],
+            },
+            "attachments": [attachment_payload(item) for item in attachments],
+            "documents": documents,
+            "documentText": "",
+            "summary": _quick_notice_summary(primary, documents),
+        }
+
+        WEB_ANALYSIS_DIR.mkdir(parents=True, exist_ok=True)
+        cache_path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+        return result
 
 
 def analyze_notice(bid_no: str, bid_ord: str) -> dict:
+    """백그라운드에서 문서 텍스트 추출과 LLM 요약을 수행한다."""
     key = f"{bid_no}-{bid_ord}"
     cache_path = WEB_ANALYSIS_DIR / f"{key}.json"
-    if cache_path.exists():
-        payload = json.loads(cache_path.read_text(encoding="utf-8"))
-        if payload.get("documents") and _document_files_available(payload):
-            proposal_sheets = payload.get("proposalSheets") or {}
-            if proposal_sheets.get("analysisVersion") != ANALYSIS_VERSION:
-                _refresh_converted_pdf_text(payload)
-                payload["proposalSheets"] = generate_proposal_sheets(payload)
-                cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-            return payload
-        summary = payload.get("summary", {})
-        if (
-            summary.get("insightSource") == "llm"
-            and summary.get("analysisVersion") == ANALYSIS_VERSION
-            and payload.get("documents")
-            and payload.get("proposalSheets")
-        ):
-            return payload
 
-    out_dir = CACHE_DIR / key
-    download_info = download_g2b_attachments(bid_no, bid_ord, out_dir)
-    downloads = download_info.get("downloads") or [
-        {"pdfPath": download_info["pdfPath"], "selected": download_info["selected"]}
-    ]
-    attachments = download_info["attachments"]
-    quick = bool(download_info.get("cacheHit"))
+    # 1. 뷰어용 문서 정보를 무조건 확보 (캐시가 있으면 0.1초 컷, 없으면 다운로드)
+    payload = prepare_notice_documents(bid_no, bid_ord)
+    # 2. 이미 LLM 분석이 완료된 최신 버전이라면 그냥 반환
+    if payload.get("status") == "completed" and payload.get("summary", {}).get("analysisVersion") == ANALYSIS_VERSION:
+        return payload
 
-    documents = []
+    # 3. 문서 텍스트 추출 및 문서별 LLM 분석
     combined_text_parts = []
-    for idx, item in enumerate(downloads):
-        item["_quick"] = quick
-        document, combined_text = _document_payload(idx, bid_no, bid_ord, item)
-        documents.append(document)
-        combined_text_parts.append(combined_text)
+    for document in payload.get("documents", []):
+        file_path = Path(document.get("filePath") or "")
+        viewer_path = Path(document.get("viewerPath") or "")
+        extension = str(document.get("extension") or "").lower()
 
-    primary = documents[0]
-    payload = {
-        "bidNtceNo": bid_no,
-        "bidNtceOrd": bid_ord,
-        "analyzedAt": datetime.now().isoformat(),
-        "status": "completed",
-        "source": {
-            "fileName": primary["fileName"],
-            "pdfPath": primary["filePath"],
-            "pageCount": primary["pageCount"],
-            "textLength": primary["textLength"],
-            "extractionMethod": primary["extractionMethod"],
-        },
-        "attachments": [attachment_payload(item) for item in attachments],
-        "documents": documents,
-        "documentText": primary["documentText"],
-        "summary": _quick_notice_summary(primary, documents) if quick else summarize_notice("\n\n".join(combined_text_parts)),
-    }
-    payload["proposalSheets"] = generate_proposal_sheets(payload, use_llm=not quick)
-    WEB_ANALYSIS_DIR.mkdir(parents=True, exist_ok=True)
+        if extension in {".hwp", ".hwpx"} and file_path.exists():
+            viewer_type, converted_viewer_path, viewer_error = viewer_file(file_path, extension, allow_convert=True)
+            document["viewerType"] = viewer_type
+            document["viewerPath"] = str(converted_viewer_path)
+            document["pdfPath"] = str(converted_viewer_path)
+            document["viewerError"] = viewer_error
+            document["fileUrl"] = _public_or_api_file_url(
+                bid_no, bid_ord, int(document.get("id", "0")), converted_viewer_path, "files"
+            )
+            document["pdfUrl"] = document["fileUrl"] if viewer_type == "pdf" else ""
+            viewer_path = converted_viewer_path
+
+        # 텍스트 추출
+        text = ""
+        if viewer_path.exists() and viewer_path.suffix.lower() == ".pdf":
+            try:
+                text, page_count = extract_pdf_text(viewer_path)
+                document["documentText"] = text
+                document["textLength"] = len(text)
+                document["pageCount"] = page_count
+                document["extractionMethod"] = "converted-pdf-text"
+            except Exception as e:
+                document["extractionError"] = str(e)
+        elif file_path.exists():
+            try:
+                text, page_count, _, _ = extract_document_text(file_path, document.get("extension", ""))
+                document["documentText"] = text
+                document["textLength"] = len(text)
+                document["pageCount"] = page_count
+                document["extractionMethod"] = "extract_document_text"
+            except Exception as e:
+                document["extractionError"] = str(e)
+
+        # 문서별 LLM 분석
+        document["analysis"] = llm_document_analysis(text, document.get("fileName", ""))
+        combined_text_parts.append(text)
+
+    # 4. 전체 공고 요약 및 제안서 생성
+    primary = payload["documents"][0]
+    payload["documentText"] = primary["documentText"]
+    payload["source"]["textLength"] = primary["textLength"]
+    payload["source"]["pageCount"] = primary["pageCount"]
+    payload["source"]["extractionMethod"] = primary["extractionMethod"]
+
+    payload["summary"] = summarize_notice("\n\n".join(combined_text_parts))
+    payload["proposalSheets"] = generate_proposal_sheets(payload, use_llm=True)
+    payload["status"] = "completed"
+    payload["analyzedAt"] = datetime.now().isoformat()
+
+    # 5. 캐시에 저장하고 최종 반환
     cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     return payload

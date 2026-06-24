@@ -205,7 +205,7 @@ function decodeHtml(value = "") {
     .replaceAll("&#39;", "'");
 }
 
-function waitForFile(dir, before, expectedSize, expectedExtension = "") {
+function waitForFile(dir, before, expectedExtension = "") {
   return new Promise((resolve, reject) => {
     const started = Date.now();
     const timer = setInterval(() => {
@@ -215,11 +215,8 @@ function waitForFile(dir, before, expectedSize, expectedExtension = "") {
         .map((name) => path.join(dir, name));
       const target = files.find((file) => !expectedExtension || file.toLowerCase().endsWith(expectedExtension));
       if (target) {
-        const stat = fs.statSync(target);
-        if (!expectedSize || stat.size === expectedSize) {
-          clearInterval(timer);
-          resolve(target);
-        }
+        clearInterval(timer);
+        resolve(target);
       }
       if (Date.now() - started > 45000) {
         clearInterval(timer);
@@ -233,17 +230,51 @@ function withoutExtension(fileName = "") {
   return decodeHtml(fileName).replace(/\.[^.]+$/, "").trim().toLowerCase();
 }
 
+const ALLOWED_ATTACHMENT_EXTENSIONS = new Set([".pdf", ".hwp", ".hwpx", ".zip"]);
+
+function attachmentLabel(item) {
+  return decodeHtml(
+    [
+      item.atchFileKndNm,
+      item.atchFileKndCdNm,
+      item.atchFileKndCd,
+      item.fileKindName,
+      item.fileSeNm,
+      item.orgnlAtchFileNm,
+      item.atchFileNm,
+    ]
+      .filter(Boolean)
+      .join(" "),
+  ).toLowerCase();
+}
+
+function isNoticeDocument(item) {
+  const label = attachmentLabel(item);
+  return label.includes("공고서") || label.includes("공고문") || label.includes("입찰공고");
+}
+
+function isConvertedNoticePdf(item) {
+  const label = attachmentLabel(item);
+  return (
+    String(item.fileExtnNm || "").toLowerCase() === ".pdf" &&
+    isNoticeDocument(item) &&
+    (label.includes("변환본") || label.includes("pdf"))
+  );
+}
+
 function selectAttachments(attachments) {
   const pdfBases = new Set(
     attachments
       .filter((item) => String(item.fileExtnNm).toLowerCase() === ".pdf")
       .map((item) => withoutExtension(item.orgnlAtchFileNm)),
   );
+  const hasConvertedNoticePdf = attachments.some(isConvertedNoticePdf);
 
   return attachments.filter((item) => {
     const extension = String(item.fileExtnNm || "").toLowerCase();
-    if (!extension) return false;
+    if (!ALLOWED_ATTACHMENT_EXTENSIONS.has(extension)) return false;
     if (extension === ".pdf") return true;
+    if (hasConvertedNoticePdf && isNoticeDocument(item)) return false;
     return !pdfBases.has(withoutExtension(item.orgnlAtchFileNm));
   });
 }
@@ -276,6 +307,8 @@ function normalizeAttachment(item) {
     orgnlAtchFileNm,
     fileExtnNm: normalizedExtension,
     fileSz: Number(item.fileSz || item.fileSize || item.atchFileSz || 0),
+    atchFileKndCd: item.atchFileKndCd || item.fileKindCode || "",
+    atchFileKndNm: item.atchFileKndNm || item.atchFileKndCdNm || item.fileKindName || item.fileSeNm || "",
     untyAtchFileNo: item.untyAtchFileNo || item.atchFileId || item.fileId,
     atchFileSqno: item.atchFileSqno || item.fileSn || item.fileSeq || item.seq || "1",
     atchFileNm: item.atchFileNm || item.fileNm || orgnlAtchFileNm,
@@ -286,10 +319,22 @@ function normalizeAttachment(item) {
 function looksLikeAttachment(item) {
   if (!item || typeof item !== "object") return false;
   const fileName = item.orgnlAtchFileNm || item.orgFileNm || item.fileNm || item.atchFileNm || item.name || "";
-  return /\.(pdf|hwp|hwpx|zip)$/i.test(decodeHtml(fileName));
+  const extension = String(
+    item.fileExtnNm ||
+      item.fileExt ||
+      item.fileExtsn ||
+      path.extname(fileName) ||
+      "",
+  ).toLowerCase();
+  const hasIdOrSize = item.fileSz || item.fileSize || item.atchFileSz || item.untyAtchFileNo || item.atchFileId || item.fileId;
+  return Boolean(fileName && hasIdOrSize && ALLOWED_ATTACHMENT_EXTENSIONS.has(extension.startsWith(".") ? extension : `.${extension}`));
 }
 
 function findAttachments(payload) {
+  if (payload?.dlUntyAtchFileL && Array.isArray(payload.dlUntyAtchFileL)) {
+    return payload.dlUntyAtchFileL.map(normalizeAttachment);
+  }
+
   const found = [];
   const seen = new Set();
 
@@ -357,7 +402,9 @@ function connectToPage(wsUrl) {
       if (message.method === "Network.responseReceived") {
         const url = message.params.response.url;
         const contentType = String(message.params.response.mimeType || "");
-        if (/atch|file|fsc|pbanc|bid/i.test(url) || /json/i.test(contentType)) {
+        // 첨부파일 관련 URL이거나 JSON 응답이면 모두 캡처한다.
+        // 나라장터 API URL 패턴이 다양하므로 JSON 응답 전체를 대상으로 한다.
+        if (/json|text/i.test(contentType) || /atch|file|fsc|pbanc|bid|dlvy|ntce|g2b/i.test(url)) {
           interestingResponses.push({
             requestId: message.params.requestId,
             url,
@@ -380,7 +427,7 @@ async function main() {
   fs.mkdirSync(outDir, { recursive: true });
   const before = new Set(fs.readdirSync(outDir));
   const port = 9222 + Math.floor(Math.random() * 1000);
-  const profileDir = path.join(os.tmpdir(), `g2b-cdp-${Date.now()}`);
+  const profileDir = path.join(process.cwd(), ".cache", "chrome_profiles", crypto.randomUUID());
   const url = `https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=${encodeURIComponent(bidNo)}&bidPbancOrd=${encodeURIComponent(bidOrd)}`;
 
   const chrome = spawn(findChromePath(), [
@@ -469,7 +516,7 @@ async function main() {
         expression: `comUtil.gfnFileDownLoad(${JSON.stringify(downloadOptions)})`,
         returnByValue: true,
       });
-      const filePath = await waitForFile(outDir, seen, selected.fileSz, String(selected.fileExtnNm || "").toLowerCase());
+      const filePath = await waitForFile(outDir, seen, String(selected.fileExtnNm || "").toLowerCase());
       seen.add(path.basename(filePath));
       downloads.push({ filePath, pdfPath: filePath, selected });
     }

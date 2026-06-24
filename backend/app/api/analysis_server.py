@@ -14,14 +14,19 @@ NOTICES_JSON = PROJECT_ROOT / "frontend" / "public" / "data" / "notices.json"
 class Handler(BaseHTTPRequestHandler):
     def _send_json(self, status: int, payload: dict):
         body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
-        self.send_response(status)
-        self.send_header("Content-Type", "application/json; charset=utf-8")
-        self.send_header("Access-Control-Allow-Origin", "*")
-        self.send_header("Access-Control-Allow-Methods", "GET, OPTIONS")
-        self.send_header("Access-Control-Allow-Headers", "Content-Type")
-        self.send_header("Content-Length", str(len(body)))
-        self.end_headers()
-        self.wfile.write(body)
+        try:
+            self.send_response(status)
+            self.send_header("Content-Type", "application/json; charset=utf-8")
+            self.send_header("Access-Control-Allow-Origin", "*")
+            self.send_header("Access-Control-Allow-Methods", "GET, OPTIONS")
+            self.send_header("Access-Control-Allow-Headers", "Content-Type")
+            self.send_header("Content-Length", str(len(body)))
+            self.end_headers()
+            self.wfile.write(body)
+        except BrokenPipeError:
+            pass
+        except ConnectionResetError:
+            pass
 
     def do_OPTIONS(self):
         self._send_json(200, {"ok": True})
@@ -59,6 +64,10 @@ class Handler(BaseHTTPRequestHandler):
 
                 self._send_json(200, prepare_notice_documents(bid_no, bid_ord))
             except Exception as exc:
+                import sys
+                import traceback
+                print(f"[documents ERROR] {bid_no}/{bid_ord}: {exc}", file=sys.stderr)
+                traceback.print_exc(file=sys.stderr)
                 self._send_json(500, {"error": "documents_failed", "message": str(exc)})
             return
 
