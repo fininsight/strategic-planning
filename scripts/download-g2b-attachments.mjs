@@ -443,13 +443,20 @@ async function main() {
     "about:blank",
   ], { stdio: ["ignore", "ignore", "pipe"] });
   let chromeError = "";
+  let chromeExit = "";
   chrome.stderr?.on("data", (chunk) => {
     chromeError += chunk.toString();
     if (chromeError.length > 4000) chromeError = chromeError.slice(-4000);
   });
+  chrome.on("error", (error) => {
+    chromeError += `\nChrome 실행 실패: ${error.message}`;
+  });
+  chrome.on("exit", (code, signal) => {
+    chromeExit = `\nChrome 종료: code=${code ?? ""} signal=${signal ?? ""}`;
+  });
 
   try {
-    await waitForChrome(port, () => chromeError.trim());
+    await waitForChrome(port, () => `${chromeError}${chromeExit}`.trim());
     const page = await newPage(port, "about:blank");
     const { ws, send, interestingResponses } = await connectToPage(page.webSocketDebuggerUrl);
     await send("Network.enable");

@@ -100,7 +100,7 @@ class Handler(BaseHTTPRequestHandler):
 
             body = file_path.read_bytes()
             content_type = mimetypes.guess_type(file_path.name)[0] or "application/octet-stream"
-            disposition = "inline" if content_type == "application/pdf" else "attachment"
+            disposition = "inline" if content_type in {"application/pdf", "text/html"} else "attachment"
             self.send_response(200)
             self.send_header("Content-Type", content_type)
             self.send_header("Access-Control-Allow-Origin", "*")

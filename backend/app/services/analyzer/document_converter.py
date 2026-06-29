@@ -6,6 +6,11 @@ import sys
 from pathlib import Path
 
 from .config import CHROME_PATH
+from .hwpx_html_renderer import hwpx_to_html_viewer
+
+HTML_TO_PDF_TIMEOUT_SECONDS = 120
+HWP5HTML_TIMEOUT_SECONDS = 180
+LIBREOFFICE_TIMEOUT_SECONDS = 180
 
 
 def _is_text_like_file(file_path: Path) -> bool:
@@ -66,8 +71,10 @@ def _print_html_to_pdf(html_path: Path, pdf_path: Path) -> tuple[Path | None, st
             check=True,
             capture_output=True,
             text=True,
-            timeout=90,
+            timeout=HTML_TO_PDF_TIMEOUT_SECONDS,
         )
+    except subprocess.TimeoutExpired:
+        return None, f"HTML PDF 변환 시간이 {HTML_TO_PDF_TIMEOUT_SECONDS}초를 초과했습니다."
     except Exception as exc:
         return None, f"HTML PDF 변환 실패: {exc}"
     if _valid_pdf_output(pdf_path):
@@ -99,7 +106,12 @@ def _convert_with_hwp5html(file_path: Path, label: str) -> tuple[Path | None, st
             check=True,
             capture_output=True,
             text=True,
-            timeout=90,
+            timeout=HWP5HTML_TIMEOUT_SECONDS,
+        )
+    except subprocess.TimeoutExpired:
+        return None, (
+            f"{label} HTML 변환 시간이 {HWP5HTML_TIMEOUT_SECONDS}초를 초과했습니다. "
+            "원본 다운로드와 텍스트 미리보기로 표시합니다."
         )
     except Exception as exc:
         return None, f"{label} HTML 변환 실패: {exc}"
@@ -109,7 +121,12 @@ def _convert_with_hwp5html(file_path: Path, label: str) -> tuple[Path | None, st
 
 
 def _convert_with_libreoffice(file_path: Path, label: str) -> tuple[Path | None, str]:
-    soffice = shutil.which("soffice") or shutil.which("libreoffice")
+    soffice_candidates = [
+        shutil.which("soffice"),
+        shutil.which("libreoffice"),
+        "/Applications/LibreOffice.app/Contents/MacOS/soffice",
+    ]
+    soffice = next((candidate for candidate in soffice_candidates if candidate and Path(candidate).exists()), None)
     if not soffice:
         return None, f"{label} 변환 도구(LibreOffice)가 설치되어 있지 않습니다."
 
@@ -132,8 +149,10 @@ def _convert_with_libreoffice(file_path: Path, label: str) -> tuple[Path | None,
             check=True,
             capture_output=True,
             text=True,
-            timeout=90,
+            timeout=LIBREOFFICE_TIMEOUT_SECONDS,
         )
+    except subprocess.TimeoutExpired:
+        return None, f"{label} LibreOffice PDF 변환 시간이 {LIBREOFFICE_TIMEOUT_SECONDS}초를 초과했습니다."
     except Exception as exc:
         return None, f"{label} LibreOffice PDF 변환 실패: {exc}"
 
@@ -165,6 +184,20 @@ def cached_viewer_pdf(file_path: Path) -> Path | None:
     return None
 
 
+def cached_viewer_html(file_path: Path) -> Path | None:
+    output_dir, _, _ = _output_paths(file_path)
+    html_path = output_dir / f"{file_path.stem}.viewer.html"
+    renderer_path = Path(__file__).with_name("hwpx_html_renderer.py")
+    if (
+        html_path.exists()
+        and html_path.stat().st_size > 0
+        and html_path.stat().st_mtime >= file_path.stat().st_mtime
+        and html_path.stat().st_mtime >= renderer_path.stat().st_mtime
+    ):
+        return html_path
+    return None
+
+
 def viewer_file(file_path: Path, extension: str, *, allow_convert: bool = True) -> tuple[str, Path, str]:
     if extension.lower() == ".pdf":
         return "pdf", file_path, ""
@@ -174,6 +207,14 @@ def viewer_file(file_path: Path, extension: str, *, allow_convert: bool = True) 
         converted_pdf = cached_viewer_pdf(file_path)
         if converted_pdf:
             return "pdf", converted_pdf, ""
+        if extension.lower() == ".hwpx":
+            html_viewer = cached_viewer_html(file_path)
+            if html_viewer:
+                return "html", html_viewer, "PDF 변환 전 HWPX 표/문단 HTML 뷰어로 표시합니다."
+            html_viewer, html_error = hwpx_to_html_viewer(file_path)
+            if html_viewer:
+                return "html", html_viewer, "PDF 변환 전 HWPX 표/문단 HTML 뷰어로 표시합니다."
+            return "text", file_path, html_error or "PDF 변환 대기 중입니다."
         return "text", file_path, "PDF 변환 대기 중입니다."
     if extension.lower() == ".hwp":
         converted_pdf, error = hwp_to_pdf(file_path)
@@ -184,5 +225,10 @@ def viewer_file(file_path: Path, extension: str, *, allow_convert: bool = True) 
         converted_pdf, error = hwpx_to_pdf(file_path)
         if converted_pdf:
             return "pdf", converted_pdf, ""
+        html_viewer, html_error = hwpx_to_html_viewer(file_path)
+        if html_viewer:
+            return "html", html_viewer, "PDF 변환에 실패해 HWPX 표/문단 HTML 뷰어로 표시합니다."
+        if html_error:
+            error = f"{error} / {html_error}"
         return "text", file_path, error
     return "unsupported", file_path, f"{extension or 'unknown'} 파일은 현재 뷰어 변환을 지원하지 않습니다."

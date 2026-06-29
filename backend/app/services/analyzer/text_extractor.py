@@ -5,7 +5,9 @@ import re
 import shutil
 import subprocess
 import sys
+import zipfile
 from pathlib import Path
+from xml.etree import ElementTree
 
 from pypdf import PdfReader
 
@@ -17,10 +19,25 @@ def clean_text(text: str) -> str:
     return text.strip()
 
 
+def _strip_encoded_binary_blocks(text: str) -> str:
+    # 법령 XML에 이미지/ICC 프로파일이 Base64 텍스트로 섞여 들어오는 경우가 있다.
+    text = re.sub(r"\b(?:iVBORw0KGgo|Qk|T2lDQ1B)[0-9A-Za-z+/=\s]{200,}", " ", text)
+    lines = []
+    for line in text.splitlines():
+        stripped = line.strip()
+        if re.fullmatch(r"[A-Za-z0-9+/]{40,}={0,2}", stripped):
+            continue
+        if re.fullmatch(r"={1,2}", stripped):
+            continue
+        lines.append(line)
+    return "\n".join(lines)
+
+
 def clean_legal_xml_text(text: str) -> str:
     text = html.unescape(text)
     text = re.sub(r"\{이미지파일목록\}", " ", text)
     text = re.sub(r"\{이미지파일\}", " ", text)
+    text = _strip_encoded_binary_blocks(text)
     text = re.sub(r"\b[A-Za-z0-9+/]{120,}={0,2}\b", " ", text)
     text = re.sub(r"Qk[0-9A-Za-z+/]{80,}={0,2}", " ", text)
     text = re.sub(r"iVBORw0KGgo[0-9A-Za-z+/=]+", " ", text)
@@ -73,6 +90,54 @@ def _read_text_like_file(file_path: Path) -> tuple[str, str]:
     return clean_text(text), ""
 
 
+def _iter_xml_text(xml_bytes: bytes) -> list[str]:
+    try:
+        root = ElementTree.fromstring(xml_bytes)
+    except ElementTree.ParseError:
+        raw = xml_bytes.decode("utf-8", errors="ignore")
+        return [re.sub(r"<[^>]+>", " ", raw)]
+
+    parts: list[str] = []
+    for elem in root.iter():
+        if elem.text and elem.text.strip():
+            parts.append(elem.text.strip())
+        if elem.tail and elem.tail.strip():
+            parts.append(elem.tail.strip())
+    return parts
+
+
+def extract_hwpx_text(file_path: Path) -> tuple[str, str]:
+    try:
+        with zipfile.ZipFile(file_path) as archive:
+            names = archive.namelist()
+            preview_name = next((name for name in names if name.lower().endswith("preview/prvtext.txt")), "")
+            if preview_name:
+                for encoding in ("utf-8", "utf-16", "cp949", "euc-kr"):
+                    try:
+                        text = archive.read(preview_name).decode(encoding)
+                        if text.strip():
+                            return clean_text(text), ""
+                    except UnicodeDecodeError:
+                        continue
+
+            section_names = sorted(
+                name
+                for name in names
+                if name.lower().startswith("contents/section") and name.lower().endswith(".xml")
+            )
+            parts: list[str] = []
+            for name in section_names:
+                parts.extend(_iter_xml_text(archive.read(name)))
+            text = clean_text("\n".join(parts))
+            if text:
+                return text, ""
+            return "", "HWPX 본문 XML에서 텍스트를 찾지 못했습니다."
+    except zipfile.BadZipFile:
+        return "", "HWPX 파일 구조가 올바른 ZIP 형식이 아닙니다."
+    except Exception as exc:
+        return "", f"HWPX 텍스트 추출 실패: {exc}"
+
+
 def is_text_like_document(file_path: Path) -> bool:
     try:
         head = file_path.read_bytes()[:4096]
@@ -119,6 +184,9 @@ def extract_document_text(file_path: Path, extension: str) -> tuple[str, int, st
     text, text_error = _read_text_like_file(file_path)
     if text:
         return text, 0, "plain-text", ""
+    if extension == ".hwpx":
+        text, error = extract_hwpx_text(file_path)
+        return text, 0, "hwpx-text" if text else "unavailable", error
     if extension in {".hwp", ".hwpx"}:
         text, error = extract_hwp_text(file_path)
         return text, 0, "hwp-text" if text else "unavailable", error

@@ -3,11 +3,13 @@ from __future__ import annotations
 import html
 import json
 import subprocess
+import threading
 from pathlib import Path
 
 from .config import DOWNLOAD_SCRIPT, PROJECT_ROOT
 
 NOTICE_KEYWORDS = ("공고서", "공고문", "입찰공고")
+_DOWNLOAD_LOCK = threading.Lock()
 
 
 def _is_notice_document(path: Path) -> bool:
@@ -74,14 +76,18 @@ def download_g2b_attachments(bid_no: str, bid_ord: str, out_dir: Path) -> dict:
         str(out_dir),
     ]
     try:
-        result = subprocess.run(
-            command,
-            cwd=PROJECT_ROOT,
-            check=True,
-            capture_output=True,
-            text=True,
-            timeout=300,
-        )
+        with _DOWNLOAD_LOCK:
+            cached = _cached_download_info(out_dir)
+            if cached:
+                return cached
+            result = subprocess.run(
+                command,
+                cwd=PROJECT_ROOT,
+                check=True,
+                capture_output=True,
+                text=True,
+                timeout=300,
+            )
     except subprocess.CalledProcessError as exc:
         cached = _cached_download_info(out_dir)
         if cached:
@@ -94,7 +100,21 @@ def download_g2b_attachments(bid_no: str, bid_ord: str, out_dir: Path) -> dict:
             return cached
         detail = (exc.stderr or exc.stdout or "").strip()
         raise RuntimeError(f"첨부파일 다운로드 시간 초과: {detail}") from exc
-    return json.loads(result.stdout)
+    cached = _cached_download_info(out_dir)
+    if cached:
+        return cached
+
+    stdout = (result.stdout or "").strip()
+    if not stdout:
+        detail = (result.stderr or "다운로드 스크립트가 JSON 결과를 출력하지 않았습니다.").strip()
+        raise RuntimeError(f"첨부파일 다운로드 결과 파싱 실패: {detail}")
+    try:
+        return json.loads(stdout)
+    except json.JSONDecodeError as exc:
+        detail = stdout[:1000]
+        if result.stderr:
+            detail = f"{detail}\n{result.stderr.strip()}"
+        raise RuntimeError(f"첨부파일 다운로드 결과 JSON 파싱 실패: {detail}") from exc
 
 
 def attachment_payload(item: dict) -> dict:
