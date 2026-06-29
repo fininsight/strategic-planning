@@ -10,6 +10,7 @@ from .config import ANALYSIS_VERSION, API_ORIGIN, CACHE_DIR, PROJECT_ROOT, PUBLI
 from .document_converter import viewer_file
 from .g2b_document_downloader import attachment_payload, download_g2b_attachments
 from .llm_analyzer import document_kind, llm_document_analysis, rule_document_analysis, summarize_notice
+from .proposal_mapping_analyzer import generate_proposal_mapping
 from .proposal_sheet_analyzer import generate_proposal_sheets
 from .text_extractor import extract_document_text, extract_pdf_text, is_text_like_document
 from app.services.storage import database
@@ -395,6 +396,7 @@ def analyze_notice(bid_no: str, bid_ord: str) -> dict:
 
     payload["summary"] = summarize_notice("\n\n".join(combined_text_parts))
     payload["proposalSheets"] = generate_proposal_sheets(payload, use_llm=True)
+    payload["proposalMapping"] = generate_proposal_mapping(payload)
     payload["status"] = "completed"
     payload["analyzedAt"] = datetime.now().isoformat()
 

@@ -63,6 +63,19 @@ class Handler(BaseHTTPRequestHandler):
                 self._send_json(500, {"error": "proposal_analysis_failed", "message": str(exc)})
             return
 
+        mapping_match = re.fullmatch(r"/api/notices/([^/]+)/([^/]+)/proposal-mapping", path)
+        if mapping_match:
+            bid_no, bid_ord = mapping_match.groups()
+            try:
+                from app.services.analyzer.analysis_cache import analyze_notice
+                from app.services.analyzer.proposal_mapping_analyzer import generate_proposal_mapping
+
+                payload = analyze_notice(bid_no, bid_ord)
+                self._send_json(200, generate_proposal_mapping(payload))
+            except Exception as exc:
+                self._send_json(500, {"error": "proposal_mapping_failed", "message": str(exc)})
+            return
+
         documents_match = re.fullmatch(r"/api/notices/([^/]+)/([^/]+)/documents", path)
         if documents_match:
             bid_no, bid_ord = documents_match.groups()

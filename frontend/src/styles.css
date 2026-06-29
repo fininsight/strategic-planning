@@ -221,6 +221,33 @@ select {
   border-radius: 8px 8px 3px 3px;
 }
 
+.navIcon5 {
+  border: 2px solid currentColor;
+  border-radius: 50%;
+}
+
+.navIcon5::before,
+.navIcon5::after {
+  position: absolute;
+  border-radius: 999px;
+  background: currentColor;
+  content: "";
+}
+
+.navIcon5::before {
+  left: 3px;
+  top: 7px;
+  width: 8px;
+  height: 2px;
+}
+
+.navIcon5::after {
+  right: -2px;
+  bottom: -2px;
+  width: 7px;
+  height: 7px;
+}
+
 .profile {
   display: flex;
   align-items: center;
@@ -2486,6 +2513,264 @@ td:nth-child(7) {
   color: #c27a00;
   font-size: 13px;
   font-weight: 800;
+}
+
+.strategyMark {
+  width: 20px;
+  height: 20px;
+  border: 2px solid #1455f5;
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 4px #e9f1ff;
+}
+
+.strategyContent {
+  align-content: start;
+}
+
+.strategyHero dl div:nth-child(3) dd {
+  color: #d8243c;
+}
+
+.strategyValidation {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  align-items: center;
+  padding: 16px 18px;
+  border: 1px solid #d8e3f0;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.strategyValidation.complete {
+  border-color: #b8e7d0;
+  background: #f2fbf7;
+}
+
+.strategyValidation.warning {
+  border-color: #f4d29a;
+  background: #fff8ec;
+}
+
+.strategyValidation strong,
+.strategyValidation p {
+  margin: 0;
+}
+
+.strategyValidation strong {
+  color: #071225;
+}
+
+.strategyValidation p {
+  margin-top: 4px;
+  color: #607086;
+  font-size: 13px;
+}
+
+.strategyValidation small,
+.mappingSource {
+  display: block;
+  margin-top: 6px;
+  color: #7a8aa0;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.documentTypePills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.documentTypePills span {
+  padding: 7px 10px;
+  border-radius: 999px;
+  background: #eef2f7;
+  color: #53657f;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.documentTypePills .detected {
+  background: #e6f8ef;
+  color: #008b55;
+}
+
+.strategyMappingTable {
+  min-width: 1440px;
+}
+
+.mappingCodeCol {
+  width: 140px;
+}
+
+.mappingTypeCol {
+  width: 86px;
+}
+
+.mappingNameCol {
+  width: 260px;
+}
+
+.mappingDetailCol {
+  width: 420px;
+}
+
+.mappingSectionCol {
+  width: 320px;
+}
+
+.mappingStatusCol {
+  width: 120px;
+}
+
+.warningMappingRow {
+  background: #fff8ec;
+}
+
+.mappingStatus {
+  display: inline-grid;
+  place-items: center;
+  min-width: 76px;
+  padding: 6px 8px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.mappingStatus.mapped {
+  background: #e6f8ef;
+  color: #008b55;
+}
+
+.mappingStatus.warning {
+  background: #fff1d6;
+  color: #a86400;
+}
+
+.pagePlanGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  padding: 18px 22px 22px;
+}
+
+.pagePlanGrid article {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 10px 14px;
+  align-items: start;
+  padding: 16px;
+  border: 1px solid #dbe5f1;
+  border-radius: 8px;
+  background: #fbfdff;
+}
+
+.pagePlanGrid span {
+  color: #1455f5;
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.pagePlanGrid strong,
+.pagePlanGrid p,
+.pagePlanGrid small {
+  margin: 0;
+}
+
+.pagePlanGrid strong {
+  display: block;
+  margin-top: 5px;
+  color: #071225;
+  font-size: 15px;
+}
+
+.pagePlanGrid p {
+  margin-top: 6px;
+  color: #607086;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.pagePlanGrid b {
+  color: #071225;
+  font-size: 24px;
+}
+
+.pagePlanGrid small {
+  justify-self: end;
+  color: #7a8ba3;
+  font-weight: 800;
+}
+
+.mappingCodeList {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.mappingCodeList em,
+.tocList em {
+  padding: 4px 7px;
+  border-radius: 999px;
+  background: #eef4ff;
+  color: #1455f5;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.strategyTocGrid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.tocList {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.tocList li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 14px;
+  align-items: center;
+  padding: 15px 18px;
+  border-bottom: 1px solid #edf2f7;
+}
+
+.tocList li:last-child {
+  border-bottom: 0;
+}
+
+.tocList strong,
+.tocList p {
+  margin: 0;
+}
+
+.tocList strong {
+  color: #071225;
+}
+
+.tocList p {
+  margin-top: 6px;
+  color: #607086;
+  font-size: 13px;
+}
+
+.tocList span {
+  min-width: 44px;
+  padding: 7px 9px;
+  border-radius: 999px;
+  background: #f0f5fb;
+  color: #25364d;
+  font-size: 13px;
+  font-weight: 900;
+  text-align: center;
 }
 
 .scoreStrategyGrid strong,
