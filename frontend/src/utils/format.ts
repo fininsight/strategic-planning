@@ -7,8 +7,13 @@ export function formatDateTime(value: string): string {
   if (!value) return "-";
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return "-";
-  const datePart = date.toISOString().slice(0, 10);
-  const timePart = date.toTimeString().slice(0, 5);
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+  const hour = String(date.getHours()).padStart(2, "0");
+  const minute = String(date.getMinutes()).padStart(2, "0");
+  const datePart = `${year}-${month}-${day}`;
+  const timePart = `${hour}:${minute}`;
   return `${datePart} ${timePart}`;
 }
 
