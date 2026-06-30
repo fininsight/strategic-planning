@@ -9,7 +9,6 @@ from .config import CHROME_PATH
 
 HTML_TO_PDF_TIMEOUT_SECONDS = 120
 HWP5HTML_TIMEOUT_SECONDS = 180
-LIBREOFFICE_TIMEOUT_SECONDS = 180
 
 
 def _is_text_like_file(file_path: Path) -> bool:
@@ -119,61 +118,12 @@ def _convert_with_hwp5html(file_path: Path, label: str) -> tuple[Path | None, st
     return _print_html_to_pdf(html_path, pdf_path)
 
 
-def _convert_with_libreoffice(file_path: Path, label: str) -> tuple[Path | None, str]:
-    soffice_candidates = [
-        shutil.which("soffice"),
-        shutil.which("libreoffice"),
-        "/Applications/LibreOffice.app/Contents/MacOS/soffice",
-    ]
-    soffice = next((candidate for candidate in soffice_candidates if candidate and Path(candidate).exists()), None)
-    if not soffice:
-        return None, f"{label} 변환 도구(LibreOffice)가 설치되어 있지 않습니다."
-
-    output_dir, _, pdf_path = _output_paths(file_path)
-    output_dir.mkdir(parents=True, exist_ok=True)
-    if _valid_pdf_output(pdf_path):
-        return pdf_path, ""
-
-    try:
-        subprocess.run(
-            [
-                soffice,
-                "--headless",
-                "--convert-to",
-                "pdf",
-                "--outdir",
-                str(output_dir),
-                str(file_path),
-            ],
-            check=True,
-            capture_output=True,
-            text=True,
-            timeout=LIBREOFFICE_TIMEOUT_SECONDS,
-        )
-    except subprocess.TimeoutExpired:
-        return None, f"{label} LibreOffice PDF 변환 시간이 {LIBREOFFICE_TIMEOUT_SECONDS}초를 초과했습니다."
-    except Exception as exc:
-        return None, f"{label} LibreOffice PDF 변환 실패: {exc}"
-
-    converted = output_dir / f"{file_path.stem}.pdf"
-    if _valid_pdf_output(converted):
-        return converted, ""
-    return None, f"{label} LibreOffice PDF 변환 결과 파일이 생성되지 않았습니다."
-
-
 def hwp_to_pdf(file_path: Path) -> tuple[Path | None, str]:
     return _convert_with_hwp5html(file_path, "HWP")
 
 
 def hwpx_to_pdf(file_path: Path) -> tuple[Path | None, str]:
-    # HWPX는 hwp5html 환경에 따라 지원이 불안정해서 LibreOffice를 먼저 시도한다.
-    converted_pdf, libreoffice_error = _convert_with_libreoffice(file_path, "HWPX")
-    if converted_pdf:
-        return converted_pdf, ""
-    converted_pdf, hwp5html_error = _convert_with_hwp5html(file_path, "HWPX")
-    if converted_pdf:
-        return converted_pdf, ""
-    return None, f"{libreoffice_error} / {hwp5html_error}"
+    return _convert_with_hwp5html(file_path, "HWPX")
 
 
 def cached_viewer_pdf(file_path: Path) -> Path | None:
