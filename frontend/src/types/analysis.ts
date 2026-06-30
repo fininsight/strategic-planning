@@ -29,7 +29,7 @@ export type NoticeDocument = {
   fileName: string;
   extension: string;
   docType: string;
-  viewerType: "pdf" | "html" | "text" | "unsupported" | string;
+  viewerType: "pdf" | "html" | "rhwp" | "text" | "unsupported" | string;
   fileUrl: string;
   originalFileUrl: string;
   pdfUrl: string;

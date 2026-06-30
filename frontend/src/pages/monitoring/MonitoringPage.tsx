@@ -4,6 +4,7 @@ import { loadNoticeAnalysis, loadNoticeDocuments } from "../../api/analysisApi";
 import { NoticeAnalysis, NoticeDocument } from "../../types/analysis";
 import { Notice } from "../../types/notice";
 import { buildDeepLink, formatBudget, formatDateTime } from "../../utils/format";
+import RhwpDocumentViewer from "./RhwpDocumentViewer";
 
 type MonitoringPageProps = {
   notice: Notice;
@@ -211,6 +212,13 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
                   title={activeDocument.fileName}
                 />
               </>
+            ) : activeDocument?.viewerType === "rhwp" ? (
+              <RhwpDocumentViewer
+                fileName={activeDocument.fileName}
+                fileUrl={activeDocument.originalFileUrl || activeDocument.fileUrl}
+                fallbackText={activeDocument.documentText}
+                pdfUrl={activeDocument.pdfUrl}
+              />
             ) : activeDocument?.viewerType === "text" && activeDocument.documentText ? (
               <pre className="textDocumentViewer">{activeDocument.documentText}</pre>
             ) : activeDocument?.viewerType === "text" ? (
@@ -459,7 +467,14 @@ function buildDocumentNotice(document: NoticeDocument): { message: string; href:
 
   if (document.viewerType === "html") {
     return {
-      message: document.viewerError || "PDF 변환 대신 HWPX 표/문단 HTML 뷰어로 표시 중입니다.",
+      message: document.viewerError || "PDF 변환 대신 HTML 뷰어로 표시 중입니다.",
+      href,
+    };
+  }
+
+  if (document.viewerType === "rhwp") {
+    return {
+      message: document.viewerError || "PDF 변환 대신 HWP/HWPX 전용 뷰어로 표시 중입니다.",
       href,
     };
   }

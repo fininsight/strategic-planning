@@ -55,7 +55,11 @@ def _document_payload(
     if extract_text:
         text, page_count, extraction_method, extraction_error = extract_document_text(file_path, extension)
     viewer_type, viewer_path, viewer_error = viewer_file(file_path, extension, allow_convert=convert_viewer)
-    if not extract_text and viewer_type == "text":
+    should_prepare_text_fallback = (
+        viewer_type == "text"
+        or (viewer_type == "rhwp" and extension == ".hwpx" and is_text_like_document(file_path))
+    )
+    if not extract_text and should_prepare_text_fallback:
         text, page_count, extraction_method, extraction_error = extract_document_text(file_path, extension)
 
     if extract_text and viewer_type == "pdf":
@@ -185,6 +189,27 @@ def _refresh_text_viewer_documents(payload: dict) -> bool:
     return changed
 
 
+def _refresh_rhwp_viewer_documents(payload: dict, bid_no: str, bid_ord: str) -> bool:
+    changed = False
+    for idx, document in enumerate(payload.get("documents", [])):
+        extension = str(document.get("extension") or "").lower()
+        if extension not in {".hwp", ".hwpx"} or document.get("viewerType") in {"pdf", "rhwp"}:
+            continue
+        file_path = Path(document.get("filePath") or "")
+        if not file_path.exists() or is_text_like_document(file_path):
+            continue
+
+        document["viewerType"] = "rhwp"
+        document["viewerPath"] = str(file_path)
+        document["pdfPath"] = str(file_path)
+        document["fileUrl"] = _public_or_api_file_url(bid_no, bid_ord, idx, file_path, "files")
+        document["originalFileUrl"] = _public_or_api_file_url(bid_no, bid_ord, idx, file_path, "original-files")
+        document["pdfUrl"] = ""
+        document["viewerError"] = "PDF 변환 대신 HWP/HWPX 전용 뷰어로 표시합니다."
+        changed = True
+    return changed
+
+
 def _document_files_state(payload: dict) -> str:
     """캐시된 파일 상태를 반환한다.
     'ok': 모든 파일이 캐시 경로에 존재
@@ -239,7 +264,9 @@ def prepare_notice_documents(bid_no: str, bid_ord: str) -> dict:
             try:
                 payload = json.loads(cache_path.read_text(encoding="utf-8"))
                 if payload.get("documents") and _document_files_state(payload) == "ok":
-                    if _refresh_text_viewer_documents(payload):
+                    changed = _refresh_text_viewer_documents(payload)
+                    changed = _refresh_rhwp_viewer_documents(payload, bid_no, bid_ord) or changed
+                    if changed:
                         cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
                     return payload
             except Exception:
@@ -303,6 +330,8 @@ def analyze_notice(bid_no: str, bid_ord: str) -> dict:
     payload = prepare_notice_documents(bid_no, bid_ord)
     # 2. 이미 LLM 분석이 완료된 최신 버전이라면 그냥 반환
     if payload.get("status") == "completed" and payload.get("summary", {}).get("analysisVersion") == ANALYSIS_VERSION:
+        if _refresh_rhwp_viewer_documents(payload, bid_no, bid_ord):
+            cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
         return payload
 
     # 3. 문서 텍스트 추출 및 문서별 LLM 분석
