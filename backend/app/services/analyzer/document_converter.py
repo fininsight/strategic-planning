@@ -134,21 +134,24 @@ def cached_viewer_pdf(file_path: Path) -> Path | None:
 
 
 def viewer_file(file_path: Path, extension: str, *, allow_convert: bool = True) -> tuple[str, Path, str]:
-    if extension.lower() == ".pdf":
+    normalized_extension = extension.lower()
+    if normalized_extension == ".pdf":
         return "pdf", file_path, ""
-    if extension.lower() in {".hwp", ".hwpx"} and _is_text_like_file(file_path):
+    if normalized_extension == ".hwp" and _is_text_like_file(file_path):
         return "text", file_path, "실제 파일 내용이 XML/텍스트라 원문 텍스트로 표시합니다."
-    if extension.lower() in {".hwp", ".hwpx"} and not allow_convert:
+    if normalized_extension == ".hwpx" and _is_text_like_file(file_path):
+        return "rhwp", file_path, "실제 파일 내용이 XML/텍스트지만 HWPX 전용 뷰어로 먼저 표시합니다."
+    if normalized_extension in {".hwp", ".hwpx"} and not allow_convert:
         converted_pdf = cached_viewer_pdf(file_path)
         if converted_pdf:
             return "pdf", converted_pdf, ""
         return "rhwp", file_path, "PDF 변환 전 HWP/HWPX 전용 뷰어로 표시합니다."
-    if extension.lower() == ".hwp":
+    if normalized_extension == ".hwp":
         converted_pdf, error = hwp_to_pdf(file_path)
         if converted_pdf:
             return "pdf", converted_pdf, ""
         return "rhwp", file_path, f"PDF 변환에 실패해 HWP/HWPX 전용 뷰어로 표시합니다. ({error})"
-    if extension.lower() == ".hwpx":
+    if normalized_extension == ".hwpx":
         converted_pdf, error = hwpx_to_pdf(file_path)
         if converted_pdf:
             return "pdf", converted_pdf, ""

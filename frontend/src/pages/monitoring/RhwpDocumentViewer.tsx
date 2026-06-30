@@ -5,6 +5,7 @@ import rhwpWasmUrl from "@rhwp/core/rhwp_bg.wasm?url";
 type RhwpDocumentViewerProps = {
   fileName: string;
   fileUrl: string;
+  fallbackText?: string;
   pdfUrl?: string;
 };
 
@@ -42,7 +43,7 @@ type RenderedPage =
   | { kind: "svg"; content: string }
   | { kind: "canvas"; content: string; width: number; height: number };
 
-export default function RhwpDocumentViewer({ fileName, fileUrl, pdfUrl = "" }: RhwpDocumentViewerProps) {
+export default function RhwpDocumentViewer({ fileName, fileUrl, fallbackText = "", pdfUrl = "" }: RhwpDocumentViewerProps) {
   const [visibleCount, setVisibleCount] = useState(INITIAL_PAGE_COUNT);
   const [renderMode, setRenderMode] = useState<RenderMode>("canvas");
   const [renderState, setRenderState] = useState<RenderState>({
@@ -114,6 +115,27 @@ export default function RhwpDocumentViewer({ fileName, fileUrl, pdfUrl = "" }: R
   const hasMorePages = renderState.status === "ready" && renderState.pages.length < renderState.pageCount;
 
   if (renderState.status === "failed") {
+    if (fallbackText.trim()) {
+      return (
+        <div className="rhwpViewer">
+          <div className="rhwpViewerToolbar">
+            <strong>{fileName}</strong>
+            <div className="rhwpViewerActions">
+              <a href={fileUrl}>원본</a>
+              <span>텍스트 fallback</span>
+            </div>
+          </div>
+          <div className="rhwpFallbackPane">
+            <div className="convertedNotice">
+              <span>{renderState.error} 추출 텍스트로 대신 표시합니다.</span>
+              <a href={fileUrl}>원본 다운로드</a>
+            </div>
+            <pre className="textDocumentViewer rhwpFallbackText">{fallbackText}</pre>
+          </div>
+        </div>
+      );
+    }
+
     return (
       <div className="documentEmpty">
         <strong>{fileName}</strong>

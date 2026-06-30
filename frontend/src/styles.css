@@ -1400,6 +1400,15 @@ td:nth-child(7) {
   margin: 0;
 }
 
+.rhwpFallbackPane {
+  padding: 18px;
+}
+
+.rhwpFallbackText {
+  min-height: auto;
+  box-shadow: none;
+}
+
 .rhwpMoreButton {
   display: block;
   width: calc(100% - 36px);

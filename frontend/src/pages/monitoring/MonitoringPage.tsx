@@ -216,6 +216,7 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
               <RhwpDocumentViewer
                 fileName={activeDocument.fileName}
                 fileUrl={activeDocument.originalFileUrl || activeDocument.fileUrl}
+                fallbackText={activeDocument.documentText}
                 pdfUrl={activeDocument.pdfUrl}
               />
             ) : activeDocument?.viewerType === "text" && activeDocument.documentText ? (

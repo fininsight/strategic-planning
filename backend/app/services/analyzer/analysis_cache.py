@@ -55,7 +55,11 @@ def _document_payload(
     if extract_text:
         text, page_count, extraction_method, extraction_error = extract_document_text(file_path, extension)
     viewer_type, viewer_path, viewer_error = viewer_file(file_path, extension, allow_convert=convert_viewer)
-    if not extract_text and viewer_type == "text":
+    should_prepare_text_fallback = (
+        viewer_type == "text"
+        or (viewer_type == "rhwp" and extension == ".hwpx" and is_text_like_document(file_path))
+    )
+    if not extract_text and should_prepare_text_fallback:
         text, page_count, extraction_method, extraction_error = extract_document_text(file_path, extension)
 
     if extract_text and viewer_type == "pdf":
