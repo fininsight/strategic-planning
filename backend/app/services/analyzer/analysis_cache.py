@@ -168,9 +168,9 @@ def _refresh_text_viewer_documents(payload: dict) -> bool:
         file_path = Path(document.get("filePath") or "")
         if not file_path.exists():
             continue
-        if not is_text_like_document(file_path):
-            continue
         extension = str(document.get("extension") or file_path.suffix).lower()
+        if extension != ".hwpx" and not is_text_like_document(file_path):
+            continue
         text, page_count, extraction_method, extraction_error = extract_document_text(file_path, extension)
         if not text:
             continue

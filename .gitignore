@@ -231,3 +231,6 @@ logs/
 reports/
 frontend/public/data/analyses/
 frontend/public/data/attachments/
+
+# Vite temporary config cache
+frontend/vite.config.ts.timestamp-*.mjs

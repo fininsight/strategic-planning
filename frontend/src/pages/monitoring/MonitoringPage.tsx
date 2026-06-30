@@ -1,7 +1,7 @@
 import { PointerEvent as ReactPointerEvent, useEffect, useState } from "react";
 
 import { loadNoticeAnalysis, loadNoticeDocuments } from "../../api/analysisApi";
-import { NoticeAnalysis } from "../../types/analysis";
+import { NoticeAnalysis, NoticeDocument } from "../../types/analysis";
 import { Notice } from "../../types/notice";
 import { buildDeepLink, formatBudget, formatDateTime } from "../../utils/format";
 
@@ -29,6 +29,7 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
   const activeDocument = documents.find((document) => document.id === activeDocumentId) ?? documents[0];
   const activeReport = activeDocument?.analysis;
   const deadline = formatDateTime(notice.closeAt);
+  const documentNotice = activeDocument ? buildDocumentNotice(activeDocument) : null;
 
   useEffect(() => {
     let ignore = false;
@@ -188,6 +189,12 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
                 <p>아래 내용은 기존 공고 데이터 기반 미리보기입니다.</p>
               </div>
             ) : null}
+            {documentNotice ? (
+              <div className="convertedNotice">
+                <span>{documentNotice.message}</span>
+                <a href={documentNotice.href}>원본 다운로드</a>
+              </div>
+            ) : null}
             {activeDocument?.viewerType === "pdf" ? (
               <>
                 <iframe
@@ -195,21 +202,17 @@ export default function MonitoringPage({ notice, onBack }: MonitoringPageProps) 
                   src={`${activeDocument.fileUrl}#toolbar=1&navpanes=0&view=FitV`}
                   title={activeDocument.fileName}
                 />
-                {activeDocument.extension !== ".pdf" ? (
-                  <div className="convertedNotice">
-                    <span>HWP를 PDF로 변환해 표시 중입니다.</span>
-                    <a href={activeDocument.originalFileUrl}>원본 다운로드</a>
-                  </div>
-                ) : null}
+              </>
+            ) : activeDocument?.viewerType === "html" ? (
+              <>
+                <iframe
+                  className="htmlDocumentFrame"
+                  src={activeDocument.fileUrl}
+                  title={activeDocument.fileName}
+                />
               </>
             ) : activeDocument?.viewerType === "text" && activeDocument.documentText ? (
-              <>
-                <div className="convertedNotice">
-                  <span>{activeDocument.viewerError || "PDF 변환 대신 원문 텍스트로 표시 중입니다."}</span>
-                  <a href={activeDocument.originalFileUrl || activeDocument.fileUrl}>원본 다운로드</a>
-                </div>
-                <pre className="textDocumentViewer">{activeDocument.documentText}</pre>
-              </>
+              <pre className="textDocumentViewer">{activeDocument.documentText}</pre>
             ) : activeDocument?.viewerType === "text" ? (
               <div className="documentEmpty">
                 <strong>{activeDocument.fileName}</strong>
@@ -441,4 +444,39 @@ function buildApiNoticeAnalysis(notice: Notice, apiAnalysis: NoticeAnalysis) {
     ],
     documentText: apiAnalysis.documentText,
   };
+}
+
+function buildDocumentNotice(document: NoticeDocument): { message: string; href: string } | null {
+  const href = document.originalFileUrl || document.fileUrl;
+  if (!href) return null;
+
+  if (document.viewerType === "pdf" && document.extension !== ".pdf") {
+    return {
+      message: `${document.extension.toUpperCase()}를 PDF로 변환해 표시 중입니다.`,
+      href,
+    };
+  }
+
+  if (document.viewerType === "html") {
+    return {
+      message: document.viewerError || "PDF 변환 대신 HWPX 표/문단 HTML 뷰어로 표시 중입니다.",
+      href,
+    };
+  }
+
+  if (document.viewerType === "text") {
+    return {
+      message: document.viewerError || "PDF 변환 대신 원문 텍스트로 표시 중입니다.",
+      href,
+    };
+  }
+
+  if (document.viewerError || document.extractionError) {
+    return {
+      message: document.viewerError || document.extractionError,
+      href,
+    };
+  }
+
+  return null;
 }
