@@ -2598,7 +2598,7 @@ td:nth-child(7) {
 }
 
 .strategyMappingTable {
-  min-width: 1440px;
+  min-width: 1560px;
 }
 
 .mappingCodeCol {
@@ -2614,7 +2614,11 @@ td:nth-child(7) {
 }
 
 .mappingDetailCol {
-  width: 420px;
+  width: 380px;
+}
+
+.mappingSourceCol {
+  width: 180px;
 }
 
 .mappingSectionCol {

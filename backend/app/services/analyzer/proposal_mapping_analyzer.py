@@ -7,7 +7,7 @@ from typing import Any
 
 REQUIREMENT_CODE_RE = re.compile(
     r"(?<![A-Za-z0-9가-힣])"
-    r"((?:ECR|SFR|PER|IFR|DAR|TER|SER|QUR|COR|PMR|PSR|REQ|FUN|SEC|DBA|UIX|SYS|TST|MNT)[-_]?\d{1,4})"
+    r"((?:ECR|SFR|PER|SIR|IFR|DAR|TER|SER|QUR|COR|PMR|PSR|REQ|FUN|SEC|DBA|UIX|SYS|TST|MNT)[-_]?\d{1,4})"
     r"(?![A-Za-z0-9가-힣])",
     re.IGNORECASE,
 )
@@ -113,14 +113,6 @@ def _extract_requirements(payload: dict[str, Any], proposal_sheets: dict[str, An
         if file_name and file_name not in source_files:
             source_files.append(file_name)
         text = str(document.get("documentText") or "")
-        composition_requirements = _extract_proposal_composition_requirements(text, file_name)
-        if composition_requirements:
-            return composition_requirements, {
-                "primarySourceFile": file_name,
-                "sourceFiles": [file_name],
-                "warnings": [],
-            }
-
         for requirement in _extract_requirements_from_text(text, file_name):
             code = requirement["code"]
             if code in requirements_by_code:
@@ -136,6 +128,17 @@ def _extract_requirements(payload: dict[str, Any], proposal_sheets: dict[str, An
             "sourceFiles": source_files,
             "warnings": [],
         }
+
+    for document in documents:
+        file_name = str(document.get("fileName") or "")
+        text = str(document.get("documentText") or "")
+        composition_requirements = _extract_proposal_composition_requirements(text, file_name)
+        if composition_requirements:
+            return composition_requirements, {
+                "primarySourceFile": file_name,
+                "sourceFiles": [file_name],
+                "warnings": [],
+            }
 
     sheet_requirements = proposal_sheets.get("noticeInfo", {}).get("requirements") or []
     fallback: list[dict[str, str]] = []
@@ -198,7 +201,14 @@ def _document_requirement_score(file_name: str, text: str) -> int:
     normalized_text = _fold_text(text)
     if any(_fold_text(keyword) in normalized_name for keyword in RFP_DOCUMENT_KEYWORDS):
         score += 100
-    if "제안요구사항" in normalized_text or "요구사항 상세" in normalized_text or "요구사항 명세" in normalized_text:
+    if (
+        "제안요구사항" in normalized_text
+        or "제안요청내용" in normalized_text
+        or "요구사항총괄표" in normalized_text
+        or "요구사항목록" in normalized_text
+        or "요구사항 상세" in normalized_text
+        or "요구사항 명세" in normalized_text
+    ):
         score += 50
     if REQUIREMENT_CODE_RE.search(text):
         score += 20
@@ -488,8 +498,14 @@ def _target_for_requirement(code: str, name: str, detail: str) -> str:
     text = f"{code} {name} {detail}".lower()
     upper_code = code.upper()
 
-    if upper_code.startswith(("SFR", "IFR", "DAR", "TER", "SER", "QUR", "COR", "PMR", "PSR")):
-        return "정성제안서 Ⅲ. 요구사항별 이행 방안"
+    if upper_code.startswith(("SFR", "SIR", "IFR", "DAR")):
+        return "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안"
+    if upper_code.startswith(("PER", "TER", "SER", "QUR", "COR")):
+        return "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안"
+    if upper_code.startswith(("PMR",)):
+        return "정성제안서 Ⅴ. 프로젝트 관리 방안"
+    if upper_code.startswith(("PSR",)):
+        return "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안"
     if upper_code.startswith(("ECR",)) or (
         upper_code.startswith(("REQ",)) and any(keyword in f"{name} {detail}" for keyword in QUANTITATIVE_KEYWORDS)
     ):

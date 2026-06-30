@@ -178,6 +178,7 @@ function TraceabilitySection({ mappings }: { mappings: RequirementMapping[] }) {
             <col className="mappingTypeCol" />
             <col className="mappingNameCol" />
             <col className="mappingDetailCol" />
+            <col className="mappingSourceCol" />
             <col className="mappingSectionCol" />
             <col className="mappingStatusCol" />
           </colgroup>
@@ -187,6 +188,7 @@ function TraceabilitySection({ mappings }: { mappings: RequirementMapping[] }) {
               <th>구분</th>
               <th>요구사항명(원문)</th>
               <th>세부 요구내용</th>
+              <th>출처</th>
               <th>대응 목차</th>
               <th>상태</th>
             </tr>
@@ -199,10 +201,8 @@ function TraceabilitySection({ mappings }: { mappings: RequirementMapping[] }) {
                 </td>
                 <td>{mapping.proposalType === "quantitative" ? "정량" : "정성"}</td>
                 <td>{mapping.name}</td>
-                <td>
-                  {mapping.detail}
-                  {mapping.source ? <small className="mappingSource">출처: {mapping.source}</small> : null}
-                </td>
+                <td>{mapping.detail}</td>
+                <td className="mappingSourceCell">{mapping.source || "원문 확인 필요"}</td>
                 <td>{mapping.targetSection}</td>
                 <td>
                   <span className={mapping.status === "mapped" ? "mappingStatus mapped" : "mappingStatus warning"}>
