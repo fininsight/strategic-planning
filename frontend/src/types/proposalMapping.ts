@@ -9,6 +9,7 @@ export type ProposalMappingPayload = {
   documentTypes: ProposalDocumentType[];
   requirementTraceability: RequirementMapping[];
   scoringPagePlan: ScoringPagePlan[];
+  scoringSource?: string;
   tableOfContents: ProposalTocGroup[];
   validation: ProposalMappingValidation;
 };
@@ -37,6 +38,8 @@ export type ScoringPagePlan = {
   proposalType: "quantitative" | "qualitative" | string;
   recommendedPages: number;
   mappedRequirementCodes: string[];
+  source?: string;
+  detail?: string;
 };
 
 export type ProposalTocGroup = {

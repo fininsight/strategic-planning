@@ -89,6 +89,7 @@ function buildProposalMappingFromSheets(notice: Notice, sheets: ProposalAnalysis
     ],
     requirementTraceability: requirements,
     scoringPagePlan,
+    scoringSource: sheets.scoring.items.length ? "proposalSheets.scoring" : "정적 분석 JSON 기반 추정",
     tableOfContents: buildTocFromMappings(requirements, scoringPagePlan),
     validation: {
       totalRequirements: requirements.length,
@@ -114,6 +115,8 @@ function buildPagePlanFromSheets(sheets: ProposalAnalysisPayload, requirements: 
         proposalType: "qualitative",
         recommendedPages: 8,
         mappedRequirementCodes: requirements.map((item) => item.code),
+        source: "정적 분석 JSON 기반 추정",
+        detail: "",
       },
     ];
   }
@@ -131,6 +134,8 @@ function buildPagePlanFromSheets(sheets: ProposalAnalysisPayload, requirements: 
       mappedRequirementCodes: requirements
         .filter((requirement) => requirement.proposalType === (targetSection.startsWith("정량") ? "quantitative" : "qualitative"))
         .map((requirement) => requirement.code),
+      source: "proposalSheets.scoring",
+      detail: item.detail,
     };
   });
 }

@@ -128,7 +128,7 @@ export default function StrategyPage({ selectedNotice }: StrategyPageProps) {
         </section>
 
         <TraceabilitySection mappings={payload.requirementTraceability} />
-        <PagePlanSection plans={payload.scoringPagePlan} />
+        <PagePlanSection plans={payload.scoringPagePlan} scoringSource={payload.scoringSource} />
         <TocSection groups={payload.tableOfContents} />
       </section>
     </>
@@ -218,14 +218,15 @@ function TraceabilitySection({ mappings }: { mappings: RequirementMapping[] }) {
   );
 }
 
-function PagePlanSection({ plans }: { plans: ScoringPagePlan[] }) {
+function PagePlanSection({ plans, scoringSource = "" }: { plans: ScoringPagePlan[]; scoringSource?: string }) {
   return (
     <section className="proposalPanel fullProposalPanel">
       <div className="proposalPanelHeader">
         <div>
           <span>Score & Page Plan</span>
           <h3>배점표 연동 페이지 배분</h3>
-          <p>배점이 큰 항목일수록 더 많은 페이지를 배정하고, 대응 요구사항 코드를 함께 표시합니다.</p>
+          <p>제안서 기술능력평가 평가항목 및 배점 한도를 기준으로 페이지를 배정합니다.</p>
+          {scoringSource ? <small className="mappingSource">배점 기준: {scoringSource}</small> : null}
         </div>
         <b>{plans.reduce((total, item) => total + item.recommendedPages, 0)}p</b>
       </div>
@@ -239,7 +240,8 @@ function PagePlanSection({ plans }: { plans: ScoringPagePlan[] }) {
               <p>{plan.targetSection}</p>
             </div>
             <b>{plan.recommendedPages}p</b>
-            <small>{plan.score ? `${plan.score}점` : "배점 확인 필요"}</small>
+            <small>{plan.score ? `${plan.score}점 · ${plan.source || "배점표"}` : "배점 확인 필요"}</small>
+            {plan.detail ? <p className="pagePlanDetail">{plan.detail}</p> : null}
             <div className="mappingCodeList">
               {plan.mappedRequirementCodes.length ? plan.mappedRequirementCodes.map((code) => <em key={code}>{code}</em>) : <em>요구사항 연결 확인</em>}
             </div>

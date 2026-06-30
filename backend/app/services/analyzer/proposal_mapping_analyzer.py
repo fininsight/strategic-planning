@@ -81,7 +81,7 @@ def generate_proposal_mapping(payload: dict[str, Any]) -> dict[str, Any]:
     proposal_sheets = payload.get("proposalSheets") or {}
     requirements, extraction = _extract_requirements(payload, proposal_sheets)
     mapped_requirements = [_map_requirement(requirement) for requirement in requirements]
-    scoring_items = proposal_sheets.get("scoring", {}).get("items") or []
+    scoring_items, scoring_source = _extract_scoring_items(payload, proposal_sheets)
     page_plan = _build_page_plan(scoring_items, mapped_requirements)
     toc = _build_toc(mapped_requirements, page_plan)
     validation = _validate_mapping(requirements, mapped_requirements, extraction["warnings"])
@@ -97,6 +97,7 @@ def generate_proposal_mapping(payload: dict[str, Any]) -> dict[str, Any]:
         "documentTypes": _detect_document_types(proposal_sheets),
         "requirementTraceability": mapped_requirements,
         "scoringPagePlan": page_plan,
+        "scoringSource": scoring_source,
         "tableOfContents": toc,
         "validation": validation,
     }
@@ -383,6 +384,98 @@ def _map_requirement(requirement: dict[str, str]) -> dict[str, Any]:
     }
 
 
+def _extract_scoring_items(payload: dict[str, Any], proposal_sheets: dict[str, Any]) -> tuple[list[dict[str, Any]], str]:
+    for document in _candidate_requirement_documents(payload.get("documents") or []):
+        file_name = str(document.get("fileName") or "")
+        text = str(document.get("documentText") or "")
+        items = _extract_score_items_from_text(text)
+        if items:
+            return items, f"제안요청서 원문 배점표: {file_name}"
+
+    sheet_items = proposal_sheets.get("scoring", {}).get("items") or []
+    if sheet_items:
+        return sheet_items, "proposalSheets.scoring"
+    return [], "배점표 확인 필요"
+
+
+def _extract_score_items_from_text(text: str) -> list[dict[str, Any]]:
+    section = _slice_score_table(text)
+    if not section:
+        return []
+
+    compact = re.sub(r"\s+", "", section)
+    specs = [
+        ("기술능력평가", "정량평가", "경영상태", 5),
+        ("기술능력평가", "정량평가", "유사용역 수행실적", 5),
+        ("기술능력평가", "정량평가", "참여인력 경력", 5),
+        ("기술능력평가", "정성평가", "사업 이해도", 5),
+        ("기술능력평가", "정성평가", "교육과정 설계", 10),
+        ("기술능력평가", "정성평가", "강사진 및 교육 운영 역량", 10),
+        ("기술능력평가", "정성평가", "기업 연계 계획", 10),
+        ("기술능력평가", "정성평가", "성과관리 및 평가체계", 5),
+        ("기술능력평가", "정성평가", "사업관리 역량", 5),
+    ]
+
+    items: list[dict[str, Any]] = []
+    for index, (major, middle, minor, score) in enumerate(specs):
+        compact_minor = re.sub(r"\s+", "", minor)
+        if compact_minor not in compact:
+            continue
+        detail = _score_detail(section, minor, specs[index + 1][2] if index + 1 < len(specs) else "")
+        items.append(
+            {
+                "major": major,
+                "middle": middle,
+                "minor": minor,
+                "score": float(score),
+                "weight": float(score),
+                "grade": "B" if score >= 10 else "C",
+                "strategy": "원문 평가항목 기준으로 제안서 분량과 핵심 메시지를 배분",
+                "detail": detail,
+                "source": "제안서 기술능력평가 평가항목 및 배점 한도",
+            }
+        )
+    return items
+
+
+def _slice_score_table(text: str) -> str:
+    normalized = unicodedata.normalize("NFC", text or "")
+    folded = _fold_text(normalized)
+    markers = [
+        "제안서 기술능력평가 평가항목 및 배점 한도",
+        "기술능력평가 평가항목 및 배점 한도",
+        "평가항목 및 배점 한도",
+    ]
+    starts = [folded.find(_fold_text(marker)) for marker in markers]
+    starts = [start for start in starts if start >= 0]
+    if not starts:
+        return ""
+    start = min(starts)
+    end_markers = ["평가점수 산정 방법", "5. 제안서 구성", "제안서 구성", "4. 제안서 작성"]
+    ends = []
+    for marker in end_markers:
+        position = folded.find(_fold_text(marker), start + 1)
+        if position >= 0:
+            ends.append(position)
+    end = min(ends) if ends else min(len(normalized), start + 5000)
+    return normalized[start:end]
+
+
+def _score_detail(section: str, current_label: str, next_label: str) -> str:
+    current_pattern = _loose_label_pattern(current_label)
+    next_pattern = _loose_label_pattern(next_label) if next_label else r"합\s*계|가격|※"
+    match = re.search(rf"({current_pattern}.+?)(?:{next_pattern}|$)", section, re.DOTALL)
+    if not match:
+        return ""
+    detail = _clean(match.group(1))
+    detail = re.sub(r"\b(?:10|9|8|7\.5|7|5|4\.5|4|3\.75|3\.5)\b", " ", detail)
+    return _clean(detail)[:300]
+
+
+def _loose_label_pattern(label: str) -> str:
+    return r"\s*".join(re.escape(char) for char in label)
+
+
 def _proposal_type_for_requirement(code: str, name: str, detail: str) -> str:
     text = f"{code} {name} {detail}"
     upper_code = code.upper()
@@ -443,6 +536,8 @@ def _build_page_plan(scoring_items: list[dict[str, Any]], mappings: list[dict[st
                     "proposalType": "quantitative" if "정량" in target else "qualitative",
                     "recommendedPages": pages,
                     "mappedRequirementCodes": qualitative_sections.get(target, []) + quantitative_sections.get(target, []),
+                    "source": item.get("source") or "배점표",
+                    "detail": _clean(str(item.get("detail") or "")),
                 }
             )
         return items
@@ -458,12 +553,28 @@ def _build_page_plan(scoring_items: list[dict[str, Any]], mappings: list[dict[st
                 "proposalType": "quantitative" if is_quant else "qualitative",
                 "recommendedPages": 2 if is_quant else 4,
                 "mappedRequirementCodes": quantitative_sections.get(section, []) + qualitative_sections.get(section, []),
+                "source": "목차 기반 추정",
+                "detail": "",
             }
         )
     return items
 
 
 def _section_for_score(label: str, mappings: list[dict[str, Any]]) -> str:
+    alias_targets = {
+        "사업 이해도": "제안개요",
+        "교육과정 설계": "사업 추진 계획 및 방안",
+        "강사진 및 교육 운영 역량": "사업 관리",
+        "기업 연계 계획": "사업 추진 계획 및 방안",
+        "성과관리 및 평가체계": "사업 관리",
+        "사업관리 역량": "사업 관리",
+    }
+    for score_label, section_keyword in alias_targets.items():
+        if score_label in label:
+            matched = _find_section_by_keyword(mappings, section_keyword, "qualitative")
+            if matched:
+                return matched
+
     for mapping in mappings:
         section = str(mapping.get("targetSection") or "")
         name = str(mapping.get("name") or "")
@@ -482,6 +593,17 @@ def _section_for_score(label: str, mappings: list[dict[str, Any]]) -> str:
     return "정성제안서 Ⅲ. 요구사항별 이행 방안"
 
 
+def _find_section_by_keyword(mappings: list[dict[str, Any]], keyword: str, proposal_type: str | None = None) -> str:
+    for mapping in mappings:
+        if proposal_type and mapping.get("proposalType") != proposal_type:
+            continue
+        section = str(mapping.get("targetSection") or "")
+        name = str(mapping.get("name") or "")
+        if keyword in section or keyword in name:
+            return section
+    return ""
+
+
 def _recommended_total_pages(scoring_items: list[dict[str, Any]]) -> int:
     if any("매수" in str(item.get("detail", "")) for item in scoring_items):
         return 40
@@ -489,10 +611,13 @@ def _recommended_total_pages(scoring_items: list[dict[str, Any]]) -> int:
 
 
 def _build_toc(mappings: list[dict[str, Any]], page_plan: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    page_by_section = {
-        item["targetSection"]: int(item.get("recommendedPages") or 0)
-        for item in page_plan
-    }
+    page_by_section: dict[str, int] = {}
+    for item in page_plan:
+        section = str(item.get("targetSection") or "")
+        if not section:
+            continue
+        page_by_section[section] = page_by_section.get(section, 0) + int(item.get("recommendedPages") or 0)
+    use_scoring_pages = bool(page_plan)
     codes_by_section = _section_codes(mappings)
     sections = []
     for proposal_type, title, default_sections in [
@@ -533,7 +658,10 @@ def _build_toc(mappings: list[dict[str, Any]], page_plan: list[dict[str, Any]]) 
                     "title": section.replace(f"{title} ", ""),
                     "section": section,
                     "requirementCodes": codes,
-                    "recommendedPages": page_by_section.get(section, 1 if proposal_type == "quantitative" else 3),
+                    "recommendedPages": page_by_section.get(
+                        section,
+                        0 if use_scoring_pages else (1 if proposal_type == "quantitative" else 3),
+                    ),
                 }
             )
         sections.append({"proposalType": proposal_type, "title": title, "children": children})
