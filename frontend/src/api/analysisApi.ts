@@ -14,7 +14,9 @@ export async function loadNoticeDocuments(bidNo: string, bidOrd: string): Promis
 
 export async function loadNoticeAnalysis(bidNo: string, bidOrd: string): Promise<NoticeAnalysis> {
   try {
-    const response = await fetch(`${ANALYSIS_API_BASE_URL}/api/notices/${bidNo}/${bidOrd}/analysis`);
+    const response = await fetch(`${ANALYSIS_API_BASE_URL}/api/notices/${bidNo}/${bidOrd}/analysis`, {
+      cache: "no-store",
+    });
     const payload = await response.json();
     if (response.ok) {
       return payload as NoticeAnalysis;
