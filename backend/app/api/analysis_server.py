@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import mimetypes
+import os
 import re
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -115,8 +116,10 @@ class Handler(BaseHTTPRequestHandler):
 
 
 def main():
-    server = ThreadingHTTPServer(("127.0.0.1", 8787), Handler)
-    print("Analysis API listening on http://127.0.0.1:8787")
+    host = os.getenv("ANALYSIS_HOST", "127.0.0.1")
+    port = int(os.getenv("ANALYSIS_PORT", "8787"))
+    server = ThreadingHTTPServer((host, port), Handler)
+    print(f"Analysis API listening on http://{host}:{port}")
     server.serve_forever()
 
 

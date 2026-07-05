@@ -1,7 +1,7 @@
 import { Notice } from "../types/notice";
 import { ProposalAnalysisPayload } from "../types/analyzer";
 
-const ANALYSIS_API_BASE_URL = "http://127.0.0.1:8787";
+const ANALYSIS_API_BASE_URL = import.meta.env.VITE_ANALYSIS_API_BASE_URL ?? "";
 
 function isProposalAnalysisPayload(value: unknown): value is ProposalAnalysisPayload {
   if (!value || typeof value !== "object") {

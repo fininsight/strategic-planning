@@ -7,7 +7,13 @@ from dotenv import load_dotenv
 PROJECT_ROOT = Path(__file__).resolve().parents[4]
 load_dotenv(PROJECT_ROOT / ".env")
 
-WEB_ANALYSIS_DIR = PROJECT_ROOT / "frontend" / "public" / "data" / "analyses"
+_analysis_dir = Path(
+    os.getenv(
+        "OPPORTUNITY_ANALYSIS_DIR",
+        str(PROJECT_ROOT / "frontend" / "public" / "data" / "analyses"),
+    )
+)
+WEB_ANALYSIS_DIR = _analysis_dir if _analysis_dir.is_absolute() else PROJECT_ROOT / _analysis_dir
 _attachment_dir = Path(
     os.getenv(
         "OPPORTUNITY_ATTACHMENT_DIR",
@@ -36,4 +42,4 @@ def _chrome_path() -> Path:
 
 CHROME_PATH = _chrome_path()
 ANALYSIS_VERSION = 20
-API_ORIGIN = "http://127.0.0.1:8787"
+API_ORIGIN = os.getenv("API_ORIGIN", "http://127.0.0.1:8787")

@@ -1,0 +1,28 @@
+FROM python:3.11-slim
+
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONPATH=/app/backend \
+    CHROME_PATH=/usr/bin/chromium \
+    ANALYSIS_HOST=0.0.0.0 \
+    ANALYSIS_PORT=8787
+
+WORKDIR /app
+
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+        chromium \
+        fonts-noto-cjk \
+        nodejs \
+        npm \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY backend/requirements.txt /app/backend/requirements.txt
+RUN pip install --no-cache-dir -r /app/backend/requirements.txt
+
+COPY backend /app/backend
+COPY scripts /app/scripts
+COPY frontend/public/data /app/frontend/public/data
+
+EXPOSE 8787
+
+CMD ["python", "-m", "app.api.analysis_server"]

@@ -1,6 +1,6 @@
 import { NoticeAnalysis } from "../types/analysis";
 
-const ANALYSIS_API_BASE_URL = "http://127.0.0.1:8787";
+const ANALYSIS_API_BASE_URL = import.meta.env.VITE_ANALYSIS_API_BASE_URL ?? "";
 
 export async function loadNoticeDocuments(bidNo: string, bidOrd: string): Promise<NoticeAnalysis> {
   const response = await fetch(`${ANALYSIS_API_BASE_URL}/api/notices/${bidNo}/${bidOrd}/documents`, {
