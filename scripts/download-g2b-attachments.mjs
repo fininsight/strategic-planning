@@ -157,6 +157,10 @@ function chromeExtraArgs() {
     .filter(Boolean);
 }
 
+function chromeHeadlessArg() {
+  return process.env.CHROME_HEADLESS_ARG || "--headless";
+}
+
 function getJson(port, route) {
   return new Promise((resolve, reject) => {
     http
@@ -439,7 +443,7 @@ async function main() {
   const url = `https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=${encodeURIComponent(bidNo)}&bidPbancOrd=${encodeURIComponent(bidOrd)}`;
 
   const chrome = spawn(findChromePath(), [
-    "--headless=new",
+    chromeHeadlessArg(),
     "--disable-gpu",
     "--disable-dev-shm-usage",
     "--no-sandbox",

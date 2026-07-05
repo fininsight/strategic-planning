@@ -23,7 +23,8 @@ services:
       OPPORTUNITY_ANALYSIS_DIR: /data/analyses
       DATABASE_URL: postgresql://fi:${POSTGRES_PASSWORD:-change_me}@postgres:5432/fi_strategic_planning
       CHROME_PROFILE_ROOT: /tmp
-      CHROME_EXTRA_ARGS: "--no-zygote --single-process --disable-crashpad"
+      CHROME_HEADLESS_ARG: "--headless"
+      CHROME_EXTRA_ARGS: ""
     volumes:
       - /data/fi-strategic-planning/attachments:/data/attachments
       - /data/fi-strategic-planning/analyses:/data/analyses
