@@ -2,7 +2,7 @@ FROM python:3.11-slim
 
 ENV PYTHONUNBUFFERED=1 \
     PYTHONPATH=/app/backend \
-    CHROME_PATH=/usr/bin/chromium \
+    CHROME_PATH=/usr/bin/google-chrome-stable \
     ANALYSIS_HOST=0.0.0.0 \
     ANALYSIS_PORT=8787
 
@@ -10,10 +10,17 @@ WORKDIR /app
 
 RUN apt-get update \
     && apt-get install -y --no-install-recommends \
-        chromium \
+        ca-certificates \
+        curl \
         fonts-noto-cjk \
+        gnupg \
         nodejs \
         npm \
+    && install -m 0755 -d /etc/apt/keyrings \
+    && curl -fsSL https://dl.google.com/linux/linux_signing_key.pub | gpg --dearmor -o /etc/apt/keyrings/google-linux.gpg \
+    && echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/google-linux.gpg] http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list \
+    && apt-get update \
+    && apt-get install -y --no-install-recommends google-chrome-stable \
     && rm -rf /var/lib/apt/lists/*
 
 COPY backend/requirements.txt /app/backend/requirements.txt
