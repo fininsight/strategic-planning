@@ -440,6 +440,7 @@ async function main() {
   const port = 9222 + Math.floor(Math.random() * 1000);
   const profileRoot = process.env.CHROME_PROFILE_ROOT || os.tmpdir();
   const profileDir = path.join(profileRoot, "g2b-chrome-profiles", crypto.randomUUID());
+  fs.mkdirSync(profileDir, { recursive: true });
   const url = `https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=${encodeURIComponent(bidNo)}&bidPbancOrd=${encodeURIComponent(bidOrd)}`;
 
   const chrome = spawn(findChromePath(), [
