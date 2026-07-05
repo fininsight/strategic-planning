@@ -22,10 +22,15 @@ services:
       OPPORTUNITY_ATTACHMENT_DIR: /data/attachments
       OPPORTUNITY_ANALYSIS_DIR: /data/analyses
       DATABASE_URL: postgresql://fi:${POSTGRES_PASSWORD:-change_me}@postgres:5432/fi_strategic_planning
+      CHROME_PROFILE_ROOT: /tmp
+      CHROME_EXTRA_ARGS: "--no-zygote --single-process --disable-crashpad"
     volumes:
       - /data/fi-strategic-planning/attachments:/data/attachments
       - /data/fi-strategic-planning/analyses:/data/analyses
       - /data/fi-strategic-planning/logs:/app/logs
+    shm_size: "1gb"
+    security_opt:
+      - seccomp=unconfined
     depends_on:
       - postgres
     restart: unless-stopped

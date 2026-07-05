@@ -150,6 +150,13 @@ function parseArgs() {
   };
 }
 
+function chromeExtraArgs() {
+  return String(process.env.CHROME_EXTRA_ARGS || "")
+    .split(/\s+/)
+    .map((arg) => arg.trim())
+    .filter(Boolean);
+}
+
 function getJson(port, route) {
   return new Promise((resolve, reject) => {
     http
@@ -427,7 +434,8 @@ async function main() {
   fs.mkdirSync(outDir, { recursive: true });
   const before = new Set(fs.readdirSync(outDir));
   const port = 9222 + Math.floor(Math.random() * 1000);
-  const profileDir = path.join(process.cwd(), ".cache", "chrome_profiles", crypto.randomUUID());
+  const profileRoot = process.env.CHROME_PROFILE_ROOT || os.tmpdir();
+  const profileDir = path.join(profileRoot, "g2b-chrome-profiles", crypto.randomUUID());
   const url = `https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=${encodeURIComponent(bidNo)}&bidPbancOrd=${encodeURIComponent(bidOrd)}`;
 
   const chrome = spawn(findChromePath(), [
@@ -435,11 +443,23 @@ async function main() {
     "--disable-gpu",
     "--disable-dev-shm-usage",
     "--no-sandbox",
+    "--disable-setuid-sandbox",
+    "--disable-crashpad",
+    "--disable-crash-reporter",
+    "--disable-breakpad",
     "--no-first-run",
+    "--no-default-browser-check",
+    "--disable-extensions",
+    "--disable-component-update",
+    "--disable-sync",
+    "--metrics-recording-only",
+    "--password-store=basic",
     "--disable-background-networking",
+    "--disable-features=MediaRouter,OptimizationHints",
     "--remote-debugging-address=127.0.0.1",
     `--remote-debugging-port=${port}`,
     `--user-data-dir=${profileDir}`,
+    ...chromeExtraArgs(),
     "about:blank",
   ], { stdio: ["ignore", "ignore", "pipe"] });
   let chromeError = "";
