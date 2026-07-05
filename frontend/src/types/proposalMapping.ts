@@ -63,3 +63,83 @@ export type ProposalMappingValidation = {
   isComplete: boolean;
   message: string;
 };
+
+export type StrategyResearchPayload = {
+  id: string;
+  generatedAt: string;
+  projectName: string;
+  sourceMode: "web_ai" | "fallback" | string;
+  status: "verified" | "needs_verification" | "failed" | string;
+  executiveSummary: string;
+  competitors: StrategyCompetitor[];
+  precedents: StrategyPrecedent[];
+  marketStats: StrategyMarketStat[];
+  trends: StrategyTrend[];
+  swot: StrategySwotItem[];
+  advantages: StrategyAdvantage[];
+  factChecks: StrategyFactCheck[];
+  researchPrompt: string;
+  warnings: string[];
+};
+
+export type StrategySource = {
+  title: string;
+  url: string;
+  publisher?: string;
+  publishedAt?: string;
+};
+
+export type StrategyCompetitor = {
+  name: string;
+  expectedRole: string;
+  rationale: string;
+  likelyPartners: string[];
+  sources: StrategySource[];
+};
+
+export type StrategyPrecedent = {
+  projectName: string;
+  buyer: string;
+  winner: string;
+  year: string;
+  contractAmount?: string;
+  relevance: string;
+  sources: StrategySource[];
+};
+
+export type StrategyMarketStat = {
+  metric: string;
+  value: string;
+  period: string;
+  interpretation: string;
+  verification: "verified" | "unverified" | string;
+  sources: StrategySource[];
+};
+
+export type StrategyTrend = {
+  title: string;
+  detail: string;
+  implication: string;
+  sources: StrategySource[];
+};
+
+export type StrategySwotItem = {
+  type: "S" | "W" | "O" | "T";
+  title: string;
+  detail: string;
+};
+
+export type StrategyAdvantage = {
+  evaluationItem: string;
+  finInsightEdge: string;
+  evidenceNeeded: string;
+  competitorComparison: string;
+  priority: "high" | "medium" | "low" | string;
+};
+
+export type StrategyFactCheck = {
+  claim: string;
+  status: "verified" | "unverified" | "conflict" | string;
+  note: string;
+  sources: StrategySource[];
+};

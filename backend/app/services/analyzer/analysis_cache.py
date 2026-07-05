@@ -405,3 +405,39 @@ def analyze_notice(bid_no: str, bid_ord: str) -> dict:
     database.record_document_payloads(bid_no, bid_ord, payload.get("documents", []), ANALYSIS_VERSION)
     database.record_notice_analysis(bid_no, bid_ord, payload, ANALYSIS_VERSION)
     return payload
+
+
+def get_market_research(bid_no: str, bid_ord: str, *, refresh: bool = False) -> dict:
+    """웹검색 기반 시장·경쟁 리서치를 분석 캐시에 저장해 재사용한다."""
+    key = f"{bid_no}-{bid_ord}"
+    cache_path = WEB_ANALYSIS_DIR / f"{key}.json"
+
+    with _prepare_lock(f"{key}:market-research"):
+        payload = analyze_notice(bid_no, bid_ord)
+        cached = payload.get("marketResearch")
+        if not refresh and isinstance(cached, dict) and cached.get("sourceMode") == "web_ai" and _has_visible_market_research(cached):
+            return cached
+
+        from .market_research_analyzer import generate_market_research
+
+        research = generate_market_research(payload)
+        if research.get("sourceMode") == "web_ai":
+            payload["marketResearch"] = research
+            payload["marketResearchCachedAt"] = datetime.now().isoformat()
+            WEB_ANALYSIS_DIR.mkdir(parents=True, exist_ok=True)
+            cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+        return research
+
+
+def _has_visible_market_research(research: dict) -> bool:
+    for key in ("competitors", "precedents", "marketStats", "trends", "advantages", "factChecks"):
+        items = research.get(key)
+        if not isinstance(items, list):
+            continue
+        for item in items:
+            if not isinstance(item, dict):
+                continue
+            for value in item.values():
+                if isinstance(value, str) and value.strip():
+                    return True
+    return False

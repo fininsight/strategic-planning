@@ -6,7 +6,7 @@ import os
 import re
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
-from urllib.parse import quote, unquote, urlparse
+from urllib.parse import parse_qs, quote, unquote, urlparse
 
 from app.services.storage import database
 
@@ -35,7 +35,9 @@ class Handler(BaseHTTPRequestHandler):
         self._send_json(200, {"ok": True})
 
     def do_GET(self):
-        path = unquote(urlparse(self.path).path)
+        parsed_url = urlparse(self.path)
+        path = unquote(parsed_url.path)
+        query = parse_qs(parsed_url.query)
         if path == "/api/notices":
             payload = database.load_dashboard_payload_from_db()
             if payload:
@@ -74,6 +76,18 @@ class Handler(BaseHTTPRequestHandler):
                 self._send_json(200, generate_proposal_mapping(payload))
             except Exception as exc:
                 self._send_json(500, {"error": "proposal_mapping_failed", "message": str(exc)})
+            return
+
+        research_match = re.fullmatch(r"/api/notices/([^/]+)/([^/]+)/market-research", path)
+        if research_match:
+            bid_no, bid_ord = research_match.groups()
+            try:
+                from app.services.analyzer.analysis_cache import get_market_research
+
+                refresh = query.get("refresh", ["0"])[0] in {"1", "true", "yes"}
+                self._send_json(200, get_market_research(bid_no, bid_ord, refresh=refresh))
+            except Exception as exc:
+                self._send_json(500, {"error": "market_research_failed", "message": str(exc)})
             return
 
         documents_match = re.fullmatch(r"/api/notices/([^/]+)/([^/]+)/documents", path)

@@ -2527,6 +2527,10 @@ td:nth-child(7) {
   align-content: start;
 }
 
+.strategySubTabs {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 .strategyHero dl div:nth-child(3) dd {
   color: #d8243c;
 }
@@ -2595,6 +2599,257 @@ td:nth-child(7) {
 .documentTypePills .detected {
   background: #e6f8ef;
   color: #008b55;
+}
+
+.researchMetricPills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.researchMetricPills span {
+  padding: 7px 10px;
+  border-radius: 999px;
+  background: #eef4ff;
+  color: #1455f5;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.researchGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  align-items: start;
+}
+
+.researchList {
+  display: grid;
+}
+
+.researchList article {
+  display: grid;
+  gap: 8px;
+  padding: 16px 18px;
+  border-bottom: 1px solid #edf2f7;
+}
+
+.researchList article:last-child {
+  border-bottom: 0;
+}
+
+.researchList article.needsVerification {
+  background: #fff8ec;
+}
+
+.researchList strong,
+.researchList p,
+.researchList small {
+  margin: 0;
+}
+
+.researchList strong {
+  color: #071225;
+  font-size: 15px;
+}
+
+.researchList p {
+  color: #53657f;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.researchList small {
+  color: #7a8aa0;
+  font-weight: 800;
+}
+
+.researchEmpty {
+  padding: 18px;
+  color: #7a8aa0;
+  font-size: 13px;
+}
+
+.sourceLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.sourceLinks a,
+.sourceLinks.emptySource {
+  width: fit-content;
+  max-width: 100%;
+  padding: 5px 8px;
+  border-radius: 999px;
+  background: #eef4ff;
+  color: #1455f5;
+  font-size: 12px;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.sourceLinks.emptySource {
+  background: #fff1d6;
+  color: #a86400;
+}
+
+.advantageGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  padding: 18px 22px 22px;
+}
+
+.advantageGrid article {
+  display: grid;
+  gap: 8px;
+  padding: 16px;
+  border: 1px solid #dbe5f1;
+  border-radius: 8px;
+  background: #fbfdff;
+}
+
+.advantageGrid span {
+  width: fit-content;
+  padding: 5px 8px;
+  border-radius: 999px;
+  background: #e6f8ef;
+  color: #008b55;
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.advantageGrid strong,
+.advantageGrid p,
+.advantageGrid small,
+.advantageGrid em {
+  margin: 0;
+}
+
+.advantageGrid strong {
+  color: #071225;
+}
+
+.advantageGrid p,
+.advantageGrid em {
+  color: #53657f;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.advantageGrid small {
+  color: #7a8aa0;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.advantageGrid em {
+  padding-top: 8px;
+  border-top: 1px solid #e7eef7;
+  font-style: normal;
+}
+
+.factCheckList {
+  display: grid;
+}
+
+.factCheckList article {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 16px;
+  align-items: center;
+  padding: 16px 18px;
+  border-bottom: 1px solid #edf2f7;
+}
+
+.factCheckList article:last-child {
+  border-bottom: 0;
+}
+
+.factCheckList article.blocked {
+  background: #fff8ec;
+}
+
+.factCheckList strong,
+.factCheckList p {
+  margin: 0;
+}
+
+.factCheckList p {
+  margin-top: 6px;
+  color: #607086;
+  font-size: 13px;
+}
+
+.factCheckList span {
+  padding: 7px 9px;
+  border-radius: 999px;
+  background: #fff1d6;
+  color: #a86400;
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.factCheckList .verified span {
+  background: #e6f8ef;
+  color: #008b55;
+}
+
+.swotGrid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.swotHeader {
+  padding: 14px 16px;
+  border-bottom: 1px solid #edf2f7;
+  background: #fbfdff;
+  color: #1455f5;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.swotItem {
+  padding: 14px 16px;
+  border-bottom: 1px solid #edf2f7;
+}
+
+.swotItem:last-child {
+  border-bottom: 0;
+}
+
+.swotItem strong,
+.swotItem p {
+  margin: 0;
+}
+
+.swotItem strong {
+  color: #071225;
+}
+
+.swotItem p {
+  margin-top: 6px;
+  color: #607086;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.researchWarnings {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.researchWarnings span {
+  padding: 7px 10px;
+  border-radius: 999px;
+  background: #fff1d6;
+  color: #a86400;
+  font-size: 12px;
+  font-weight: 900;
 }
 
 .strategyMappingTable {
@@ -2864,7 +3119,10 @@ td:nth-child(7) {
   }
 
   .proposalHero,
-  .proposalSheetGrid {
+  .proposalSheetGrid,
+  .researchGrid,
+  .advantageGrid,
+  .swotGrid {
     grid-template-columns: 1fr;
   }
 

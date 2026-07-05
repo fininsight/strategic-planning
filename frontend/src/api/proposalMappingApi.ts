@@ -4,6 +4,7 @@ import {
   ProposalMappingPayload,
   RequirementMapping,
   ScoringPagePlan,
+  StrategyResearchPayload,
 } from "../types/proposalMapping";
 
 const ANALYSIS_API_BASE_URL = "http://127.0.0.1:8787";
@@ -55,6 +56,46 @@ export async function loadProposalMappingData(notice: Notice): Promise<ProposalM
   return analysis.proposalMapping;
 }
 
+function isStrategyResearchPayload(value: unknown): value is StrategyResearchPayload {
+  if (!value || typeof value !== "object") {
+    return false;
+  }
+  const payload = value as Partial<StrategyResearchPayload>;
+  return Boolean(payload.factChecks && payload.marketStats && payload.competitors && payload.advantages);
+}
+
+export async function loadStrategyMarketResearchData(notice: Notice): Promise<StrategyResearchPayload> {
+  const bidNo = notice.bidNtceNo || notice.number.split("-")[0];
+  const bidOrd = notice.bidNtceOrd || notice.number.split("-")[1] || "000";
+  let apiError = "";
+
+  try {
+    const response = await fetch(`${ANALYSIS_API_BASE_URL}/api/notices/${bidNo}/${bidOrd}/market-research`, {
+      cache: "no-store",
+    });
+    if (response.ok) {
+      const payload = await response.json();
+      if (isStrategyResearchPayload(payload)) {
+        return payload;
+      }
+      apiError = "marketResearch_empty";
+    } else {
+      apiError = `HTTP ${response.status}`;
+    }
+  } catch (error) {
+    apiError = error instanceof Error ? error.message : "analysis_api_unreachable";
+  }
+
+  const response = await fetch(`data/analyses/${notice.number}.json`, { cache: "no-store" });
+  if (response.ok) {
+    const analysis = (await response.json()) as { marketResearch?: StrategyResearchPayload };
+    if (isStrategyResearchPayload(analysis.marketResearch)) {
+      return analysis.marketResearch;
+    }
+  }
+  return buildMarketResearchFallback(notice, apiError);
+}
+
 function buildProposalMappingFromSheets(notice: Notice, sheets: ProposalAnalysisPayload): ProposalMappingPayload {
   const requirements: RequirementMapping[] = (sheets.noticeInfo.requirements.length
     ? sheets.noticeInfo.requirements
@@ -101,6 +142,79 @@ function buildProposalMappingFromSheets(notice: Notice, sheets: ProposalAnalysis
         ? "원문 요구사항 코드가 없는 항목이 있어 제안요청서 원문 재확인이 필요합니다."
         : "모든 요구사항이 원문 코드 기준으로 목차에 매핑되었습니다.",
     },
+  };
+}
+
+function buildMarketResearchFallback(notice: Notice, apiError: string): StrategyResearchPayload {
+  const projectName = notice.title || "선택 공고";
+  return {
+    id: notice.number,
+    generatedAt: new Date().toISOString(),
+    projectName,
+    sourceMode: "fallback",
+    status: "needs_verification",
+    executiveSummary:
+      "웹검색 AI 리서치 결과가 아직 생성되지 않았습니다. 아래 항목은 제안서 작성 전 검증해야 할 리서치 체크리스트이며, 수치와 수주사실은 출처가 확인되기 전까지 사용 금지입니다.",
+    competitors: [
+      {
+        name: "동종 공공 SI·데이터 분석 전문사",
+        expectedRole: "주관 또는 데이터/AI 분석 부문 참여 후보",
+        rationale: `${projectName}의 과업 범위와 유사한 공공 데이터·AI·시스템 구축 실적 보유사가 경쟁 후보가 될 수 있습니다.`,
+        likelyPartners: ["공공 SI", "클라우드/인프라", "데이터 컨설팅"],
+        sources: [],
+      },
+    ],
+    precedents: [],
+    marketStats: [
+      {
+        metric: "시장 규모·성장률",
+        value: "출처 확인 전",
+        period: "2023~2025 자료 우선",
+        interpretation: "공식 통계, 조달 수주 이력, 신뢰 가능한 리서치 기관 자료를 교차 확인해야 합니다.",
+        verification: "unverified",
+        sources: [],
+      },
+    ],
+    trends: [
+      {
+        title: "웹검색 AI 리서치 필요",
+        detail: "정책·제도 흐름, 유사 발주 동향, 데이터/AI 기술 트렌드를 검색 기반으로 확인해야 합니다.",
+        implication: "출처 링크가 붙은 항목만 제안서 본문에 반영합니다.",
+        sources: [],
+      },
+    ],
+    swot: [
+      {
+        type: "S",
+        title: "솔루션 기반 제안 구조",
+        detail: "Krayon·InsightStudio·InsightPage를 요구사항 대응 기능으로 연결할 수 있으나, 실제 인증·실적 증빙은 RAG 또는 사내 자료 확인이 필요합니다.",
+      },
+      {
+        type: "W",
+        title: "사내 실적·인증 근거 미연동",
+        detail: "현재 화면은 웹검색 AI 중심입니다. 회사 소개서, 인증서, 수행실적 RAG 연동 전에는 내부 강점 수치를 확정하지 않습니다.",
+      },
+    ],
+    advantages: [
+      {
+        evaluationItem: "기술 이해도 및 구현 방안",
+        finInsightEdge: "Krayon·InsightStudio·InsightPage를 요구사항별 산출물과 연결해 제안할 수 있습니다.",
+        evidenceNeeded: "각 솔루션 기능 명세, 구축 사례, 인증·보안 자료",
+        competitorComparison: "경쟁사 대비 우위 판단은 유사 실적과 평가항목 배점 확인 후 확정합니다.",
+        priority: "high",
+      },
+    ],
+    factChecks: [
+      {
+        claim: "출처 없는 수치·시장점유율·수주사실은 제안서 사용 금지",
+        status: "unverified",
+        note: apiError ? `리서치 API 미사용: ${apiError}` : "웹검색 AI 실행 전",
+        sources: [],
+      },
+    ],
+    researchPrompt:
+      "경쟁사/컨소시엄, 유사 선행사례, 시장 규모·성장률, 기술 트렌드, SWOT, 핀인사이트 경쟁우위를 출처 링크와 함께 조사한다.",
+    warnings: ["검증 전 fallback 데이터입니다.", "회사 강점은 향후 RAG 자료로 보강해야 합니다."],
   };
 }
 
