@@ -12,6 +12,7 @@ from .g2b_document_downloader import attachment_payload, download_g2b_attachment
 from .llm_analyzer import document_kind, llm_document_analysis, rule_document_analysis, summarize_notice
 from .proposal_sheet_analyzer import generate_proposal_sheets
 from .text_extractor import extract_document_text, extract_pdf_text, is_text_like_document
+from app.services.storage import database
 
 _PREPARE_LOCKS: dict[str, threading.Lock] = {}
 _PREPARE_LOCKS_GUARD = threading.Lock()
@@ -83,6 +84,7 @@ def _document_payload(
     )
     document = {
         "id": str(idx),
+        "attachmentKey": database.attachment_key(selected),
         "fileName": file_name,
         "extension": extension,
         "docType": document_kind(file_name),
@@ -318,6 +320,10 @@ def prepare_notice_documents(bid_no: str, bid_ord: str) -> dict:
 
         WEB_ANALYSIS_DIR.mkdir(parents=True, exist_ok=True)
         cache_path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+        database.upsert_attachments(bid_no, bid_ord, attachments)
+        database.record_downloads(bid_no, bid_ord, downloads)
+        database.record_document_payloads(bid_no, bid_ord, documents, ANALYSIS_VERSION)
+        database.record_notice_analysis(bid_no, bid_ord, result, ANALYSIS_VERSION)
         return result
 
 
@@ -332,6 +338,8 @@ def analyze_notice(bid_no: str, bid_ord: str) -> dict:
     if payload.get("status") == "completed" and payload.get("summary", {}).get("analysisVersion") == ANALYSIS_VERSION:
         if _refresh_rhwp_viewer_documents(payload, bid_no, bid_ord):
             cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+            database.record_document_payloads(bid_no, bid_ord, payload.get("documents", []), ANALYSIS_VERSION)
+            database.record_notice_analysis(bid_no, bid_ord, payload, ANALYSIS_VERSION)
         return payload
 
     # 3. 문서 텍스트 추출 및 문서별 LLM 분석
@@ -392,4 +400,6 @@ def analyze_notice(bid_no: str, bid_ord: str) -> dict:
 
     # 5. 캐시에 저장하고 최종 반환
     cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    database.record_document_payloads(bid_no, bid_ord, payload.get("documents", []), ANALYSIS_VERSION)
+    database.record_notice_analysis(bid_no, bid_ord, payload, ANALYSIS_VERSION)
     return payload
