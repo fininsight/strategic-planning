@@ -8,6 +8,8 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import quote, unquote, urlparse
 
+from app.services.storage import database
+
 PROJECT_ROOT = Path(__file__).resolve().parents[3]
 NOTICES_JSON = PROJECT_ROOT / "frontend" / "public" / "data" / "notices.json"
 
@@ -35,6 +37,10 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path = unquote(urlparse(self.path).path)
         if path == "/api/notices":
+            payload = database.load_dashboard_payload_from_db()
+            if payload:
+                self._send_json(200, payload)
+                return
             try:
                 self._send_json(200, json.loads(NOTICES_JSON.read_text(encoding="utf-8")))
             except Exception as exc:

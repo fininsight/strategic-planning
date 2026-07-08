@@ -7,6 +7,7 @@ import threading
 from pathlib import Path
 
 from .config import DOWNLOAD_SCRIPT, PROJECT_ROOT
+from app.services.storage import database
 
 NOTICE_KEYWORDS = ("공고서", "공고문", "입찰공고")
 _DOWNLOAD_LOCK = threading.Lock()
@@ -63,6 +64,8 @@ def download_g2b_attachments(bid_no: str, bid_ord: str, out_dir: Path) -> dict:
     out_dir.mkdir(parents=True, exist_ok=True)
     cached = _cached_download_info(out_dir)
     if cached:
+        database.upsert_attachments(bid_no, bid_ord, cached.get("attachments") or [])
+        database.record_downloads(bid_no, bid_ord, cached.get("downloads") or [])
         return cached
 
     command = [
@@ -79,6 +82,8 @@ def download_g2b_attachments(bid_no: str, bid_ord: str, out_dir: Path) -> dict:
         with _DOWNLOAD_LOCK:
             cached = _cached_download_info(out_dir)
             if cached:
+                database.upsert_attachments(bid_no, bid_ord, cached.get("attachments") or [])
+                database.record_downloads(bid_no, bid_ord, cached.get("downloads") or [])
                 return cached
             result = subprocess.run(
                 command,
@@ -91,17 +96,23 @@ def download_g2b_attachments(bid_no: str, bid_ord: str, out_dir: Path) -> dict:
     except subprocess.CalledProcessError as exc:
         cached = _cached_download_info(out_dir)
         if cached:
+            database.upsert_attachments(bid_no, bid_ord, cached.get("attachments") or [])
+            database.record_downloads(bid_no, bid_ord, cached.get("downloads") or [])
             return cached
         detail = (exc.stderr or exc.stdout or str(exc)).strip()
         raise RuntimeError(f"첨부파일 다운로드 실패: {detail}") from exc
     except subprocess.TimeoutExpired as exc:
         cached = _cached_download_info(out_dir)
         if cached:
+            database.upsert_attachments(bid_no, bid_ord, cached.get("attachments") or [])
+            database.record_downloads(bid_no, bid_ord, cached.get("downloads") or [])
             return cached
         detail = (exc.stderr or exc.stdout or "").strip()
         raise RuntimeError(f"첨부파일 다운로드 시간 초과: {detail}") from exc
     cached = _cached_download_info(out_dir)
     if cached:
+        database.upsert_attachments(bid_no, bid_ord, cached.get("attachments") or [])
+        database.record_downloads(bid_no, bid_ord, cached.get("downloads") or [])
         return cached
 
     stdout = (result.stdout or "").strip()
@@ -109,7 +120,10 @@ def download_g2b_attachments(bid_no: str, bid_ord: str, out_dir: Path) -> dict:
         detail = (result.stderr or "다운로드 스크립트가 JSON 결과를 출력하지 않았습니다.").strip()
         raise RuntimeError(f"첨부파일 다운로드 결과 파싱 실패: {detail}")
     try:
-        return json.loads(stdout)
+        payload = json.loads(stdout)
+        database.upsert_attachments(bid_no, bid_ord, payload.get("attachments") or [])
+        database.record_downloads(bid_no, bid_ord, payload.get("downloads") or [])
+        return payload
     except json.JSONDecodeError as exc:
         detail = stdout[:1000]
         if result.stderr:

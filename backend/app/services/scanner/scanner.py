@@ -20,6 +20,7 @@ import argparse
 import logging
 import os
 import sys
+import time
 from datetime import datetime, timedelta
 from pathlib import Path
 
@@ -276,11 +277,19 @@ def preload_notice_attachments(keyword_results: dict[str, dict], limit: int) -> 
 
     from app.services.analyzer.analysis_cache import analyze_notice
     from app.services.analyzer.config import WEB_ANALYSIS_DIR
+    from app.services.storage import database
 
     targets = _rank_top_bids(keyword_results, limit)
     logger.info("[추가] 상위 공고 첨부파일 사전 수집 중: %d건", len(targets))
 
     generated = []
+    failed = 0
+    started = time.monotonic()
+    job_id = database.start_job(
+        "preload_top_notices",
+        target_count=len(targets),
+        details={"limit": limit, "bidNtceNos": [bid.get("bidNtceNo", "") for bid in targets]},
+    )
     for index, bid in enumerate(targets, 1):
         bid_no = bid.get("bidNtceNo", "")
         bid_ord = bid.get("bidNtceOrd", "000") or "000"
@@ -300,6 +309,7 @@ def preload_notice_attachments(keyword_results: dict[str, dict], limit: int) -> 
             analyze_notice(bid_no, bid_ord)
             generated.append(str(WEB_ANALYSIS_DIR / f"{bid_no}-{bid_ord}.json"))
         except Exception as exc:
+            failed += 1
             logger.warning(
                 "   [%d/%d] 첨부파일 수집 실패: %s-%s | %s",
                 index,
@@ -309,6 +319,14 @@ def preload_notice_attachments(keyword_results: dict[str, dict], limit: int) -> 
                 exc,
             )
 
+    database.finish_job(
+        job_id,
+        status="completed" if failed == 0 else "completed_with_errors",
+        success_count=len(generated),
+        failed_count=failed,
+        started_monotonic=started,
+        details={"generated": generated},
+    )
     logger.info("   첨부파일 분석 JSON 생성/갱신: %d건", len(generated))
     return generated
 
@@ -399,6 +417,16 @@ def run_scan(keywords: list[str],
     )
     for json_path in json_paths:
         logger.info("   대시보드 JSON: %s", json_path)
+
+    try:
+        from app.services.scanner.dashboard_exporter import build_dashboard_payload
+        from app.services.storage import database
+
+        stored = database.persist_dashboard_payload(build_dashboard_payload(keyword_results, today))
+        if stored:
+            logger.info("   DB 공고 저장/갱신: %d건", stored)
+    except Exception as exc:
+        logger.warning("   DB 공고 저장 건너뜀: %s", exc)
 
     # 요약 출력
     logger.info("=" * 60)
