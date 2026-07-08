@@ -294,6 +294,9 @@ def load_dashboard_payload_from_db() -> dict | None:
                 """
                 SELECT raw_payload
                 FROM notices
+                WHERE raw_payload ? 'title'
+                   OR raw_payload ? 'bidNtceNm'
+                   OR raw_payload ? 'number'
                 ORDER BY score DESC, updated_at DESC
                 """
             )
