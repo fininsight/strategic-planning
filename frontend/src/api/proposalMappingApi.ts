@@ -6,8 +6,7 @@ import {
   ScoringPagePlan,
   StrategyResearchPayload,
 } from "../types/proposalMapping";
-
-const ANALYSIS_API_BASE_URL = "http://127.0.0.1:8787";
+import { apiUrl, fetchJson } from "./baseUrl";
 
 function isProposalMappingPayload(value: unknown): value is ProposalMappingPayload {
   if (!value || typeof value !== "object") {
@@ -23,37 +22,32 @@ export async function loadProposalMappingData(notice: Notice): Promise<ProposalM
   let apiError = "";
 
   try {
-    const response = await fetch(`${ANALYSIS_API_BASE_URL}/api/notices/${bidNo}/${bidOrd}/proposal-mapping`, {
+    const payload = await fetchJson<unknown>(apiUrl(`/api/notices/${bidNo}/${bidOrd}/proposal-mapping`), {
       cache: "no-store",
     });
-    if (response.ok) {
-      const payload = await response.json();
-      if (isProposalMappingPayload(payload)) {
-        return payload;
-      }
-      apiError = "proposalMapping_empty";
-    } else {
-      apiError = `HTTP ${response.status}`;
+    if (isProposalMappingPayload(payload)) {
+      return payload;
     }
+    apiError = "proposalMapping_empty";
   } catch (error) {
     apiError = error instanceof Error ? error.message : "analysis_api_unreachable";
   }
 
-  const response = await fetch(`data/analyses/${notice.number}.json`, { cache: "no-store" });
-  if (!response.ok) {
-    throw new Error(apiError || `HTTP ${response.status}`);
-  }
-  const analysis = (await response.json()) as {
-    proposalMapping?: ProposalMappingPayload;
-    proposalSheets?: ProposalAnalysisPayload;
-  };
-  if (!isProposalMappingPayload(analysis.proposalMapping)) {
+  try {
+    const analysis = await fetchJson<{
+      proposalMapping?: ProposalMappingPayload;
+      proposalSheets?: ProposalAnalysisPayload;
+    }>(`data/analyses/${notice.number}.json`, { cache: "no-store" });
+    if (isProposalMappingPayload(analysis.proposalMapping)) {
+      return analysis.proposalMapping;
+    }
     if (analysis.proposalSheets) {
       return buildProposalMappingFromSheets(notice, analysis.proposalSheets);
     }
-    throw new Error(apiError || "proposalMapping_not_found");
+  } catch {
+    // Prefer the API error below; missing static artifacts are only a fallback detail.
   }
-  return analysis.proposalMapping;
+  throw new Error(apiError || "proposalMapping_not_found");
 }
 
 function isStrategyResearchPayload(value: unknown): value is StrategyResearchPayload {
@@ -70,28 +64,26 @@ export async function loadStrategyMarketResearchData(notice: Notice): Promise<St
   let apiError = "";
 
   try {
-    const response = await fetch(`${ANALYSIS_API_BASE_URL}/api/notices/${bidNo}/${bidOrd}/market-research`, {
+    const payload = await fetchJson<unknown>(apiUrl(`/api/notices/${bidNo}/${bidOrd}/market-research`), {
       cache: "no-store",
     });
-    if (response.ok) {
-      const payload = await response.json();
-      if (isStrategyResearchPayload(payload)) {
-        return payload;
-      }
-      apiError = "marketResearch_empty";
-    } else {
-      apiError = `HTTP ${response.status}`;
+    if (isStrategyResearchPayload(payload)) {
+      return payload;
     }
+    apiError = "marketResearch_empty";
   } catch (error) {
     apiError = error instanceof Error ? error.message : "analysis_api_unreachable";
   }
 
-  const response = await fetch(`data/analyses/${notice.number}.json`, { cache: "no-store" });
-  if (response.ok) {
-    const analysis = (await response.json()) as { marketResearch?: StrategyResearchPayload };
+  try {
+    const analysis = await fetchJson<{ marketResearch?: StrategyResearchPayload }>(`data/analyses/${notice.number}.json`, {
+      cache: "no-store",
+    });
     if (isStrategyResearchPayload(analysis.marketResearch)) {
       return analysis.marketResearch;
     }
+  } catch {
+    // Use generated fallback below.
   }
   return buildMarketResearchFallback(notice, apiError);
 }

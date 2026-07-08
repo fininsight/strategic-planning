@@ -42,4 +42,4 @@ def _chrome_path() -> Path:
 
 CHROME_PATH = _chrome_path()
 ANALYSIS_VERSION = 20
-API_ORIGIN = os.getenv("API_ORIGIN", "http://127.0.0.1:8787")
+API_ORIGIN = os.getenv("API_ORIGIN", "")

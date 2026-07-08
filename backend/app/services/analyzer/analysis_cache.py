@@ -141,7 +141,7 @@ def _public_or_api_file_url(bid_no: str, bid_ord: str, idx: int, file_path: Path
             return f"{PUBLIC_FILE_BASE.rstrip('/')}/{relative.as_posix()}"
         except ValueError:
             return f"{PUBLIC_FILE_BASE.rstrip('/')}/{file_path.name}"
-    return f"{API_ORIGIN}/api/notices/{bid_no}/{bid_ord}/{api_kind}/{idx}"
+    return f"{API_ORIGIN.rstrip('/')}/api/notices/{bid_no}/{bid_ord}/{api_kind}/{idx}"
 
 
 def _refresh_converted_pdf_text(payload: dict) -> bool:
@@ -249,9 +249,9 @@ def _patch_document_urls(payload: dict, bid_no: str, bid_ord: str) -> dict:
             not viewer_path.exists() or not _is_cache_path(viewer_path)
         )
         if file_missing:
-            document["originalFileUrl"] = f"{API_ORIGIN}/api/notices/{bid_no}/{bid_ord}/original-files/{idx}"
+            document["originalFileUrl"] = f"{API_ORIGIN.rstrip('/')}/api/notices/{bid_no}/{bid_ord}/original-files/{idx}"
         if viewer_missing:
-            document["fileUrl"] = f"{API_ORIGIN}/api/notices/{bid_no}/{bid_ord}/files/{idx}"
+            document["fileUrl"] = f"{API_ORIGIN.rstrip('/')}/api/notices/{bid_no}/{bid_ord}/files/{idx}"
             document["pdfUrl"] = document["fileUrl"]
     return patched
 

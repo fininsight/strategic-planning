@@ -1,0 +1,10 @@
+services:
+  frontend:
+    ports:
+      - "8080:80"
+
+  api:
+    volumes:
+      - ./.local-data/attachments:/data/attachments
+      - ./.local-data/analyses:/data/analyses
+      - ./.local-data/logs:/app/logs
