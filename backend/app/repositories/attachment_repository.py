@@ -151,6 +151,27 @@ def _upsert_attachment_file(
     return existing
 
 
+def upsert_attachment_file(
+    session: Session,
+    attachment_id_value: int,
+    *,
+    file_role: str,
+    storage_path: str,
+    size: int = 0,
+    status: str = "downloaded",
+    error: str = "",
+) -> AttachmentFile:
+    return _upsert_attachment_file(
+        session,
+        attachment_id_value,
+        file_role=file_role,
+        storage_path=storage_path,
+        size=size,
+        status=status,
+        error=error,
+    )
+
+
 def record_downloads(bid_no: str, bid_ord: str, downloads: list[dict]) -> Optional[int]:
     if not is_enabled():
         return None

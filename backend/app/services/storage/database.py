@@ -477,6 +477,15 @@ def record_downloads(bid_no: str, bid_ord: str, downloads: list[dict]) -> int:
 
 
 def record_document_payloads(bid_no: str, bid_ord: str, documents: list[dict], analysis_version: int) -> int:
+    try:
+        from app.repositories.analysis_repository import record_document_payloads as orm_record_document_payloads
+
+        stored = orm_record_document_payloads(bid_no, bid_ord, documents, analysis_version)
+        if stored is not None:
+            return int(stored)
+    except Exception as exc:
+        logger.warning("SQLAlchemy document payload record skipped: %s", exc)
+
     def _persist(conn: Any) -> int:
         count = 0
         for document in documents:
@@ -556,6 +565,15 @@ def record_document_payloads(bid_no: str, bid_ord: str, documents: list[dict], a
 
 
 def record_notice_analysis(bid_no: str, bid_ord: str, payload: dict, analysis_version: int) -> None:
+    try:
+        from app.repositories.analysis_repository import record_notice_analysis as orm_record_notice_analysis
+
+        recorded = orm_record_notice_analysis(bid_no, bid_ord, payload, analysis_version)
+        if recorded is not None:
+            return
+    except Exception as exc:
+        logger.warning("SQLAlchemy notice analysis record skipped: %s", exc)
+
     def _persist(conn: Any) -> None:
         notice_id = upsert_notice(
             conn,
@@ -689,6 +707,15 @@ def save_checklist_state(bid_no: str, bid_ord: str, checks: dict) -> dict:
 
 
 def start_job(job_type: str, target_count: int = 0, details: dict | None = None) -> int | None:
+    try:
+        from app.repositories.job_repository import start_job as orm_start_job
+
+        job_id = orm_start_job(job_type, target_count=target_count, details=details)
+        if job_id is not None:
+            return job_id
+    except Exception as exc:
+        logger.warning("SQLAlchemy crawl job start skipped: %s", exc)
+
     def _start(conn: Any) -> int:
         with conn.cursor() as cur:
             cur.execute(
@@ -718,6 +745,22 @@ def finish_job(
 ) -> None:
     if not job_id:
         return
+    try:
+        from app.repositories.job_repository import finish_job as orm_finish_job
+
+        finished = orm_finish_job(
+            job_id,
+            status=status,
+            success_count=success_count,
+            failed_count=failed_count,
+            started_monotonic=started_monotonic,
+            details=details,
+            error=error,
+        )
+        if finished is not None:
+            return
+    except Exception as exc:
+        logger.warning("SQLAlchemy crawl job finish skipped: %s", exc)
 
     def _finish(conn: Any) -> None:
         duration = time.monotonic() - started_monotonic if started_monotonic else None
