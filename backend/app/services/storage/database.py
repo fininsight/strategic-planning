@@ -289,6 +289,15 @@ def upsert_notice(conn: Any, notice: dict) -> int:
 
 
 def persist_dashboard_payload(payload: dict) -> int:
+    try:
+        from app.repositories.notice_repository import persist_dashboard_payload as orm_persist_dashboard_payload
+
+        stored = orm_persist_dashboard_payload(payload)
+        if stored is not None:
+            return int(stored)
+    except Exception as exc:
+        logger.warning("SQLAlchemy dashboard payload persistence skipped: %s", exc)
+
     def _persist(conn: Any) -> int:
         count = 0
         for notice in payload.get("notices", []):
@@ -301,6 +310,15 @@ def persist_dashboard_payload(payload: dict) -> int:
 
 
 def load_dashboard_payload_from_db() -> dict | None:
+    try:
+        from app.repositories.notice_repository import load_dashboard_payload as orm_load_dashboard_payload
+
+        payload = orm_load_dashboard_payload()
+        if payload is not None:
+            return payload
+    except Exception as exc:
+        logger.warning("SQLAlchemy dashboard payload load skipped: %s", exc)
+
     def _load(conn: Any) -> dict:
         with conn.cursor() as cur:
             cur.execute(
