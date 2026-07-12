@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import hashlib
 import json
 import logging
 import os
@@ -10,6 +9,8 @@ from contextlib import contextmanager
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterator
+
+from app.core.keys import attachment_key
 
 logger = logging.getLogger(__name__)
 PROJECT_ROOT = Path(__file__).resolve().parents[4]
@@ -39,20 +40,6 @@ def utc_now() -> datetime:
 
 def json_dumps(value: Any) -> str:
     return json.dumps(value, ensure_ascii=False, default=str)
-
-
-def attachment_key(item: dict) -> str:
-    if item.get("attachmentKey"):
-        return str(item["attachmentKey"])
-    parts = [
-        item.get("untyAtchFileNo"),
-        item.get("atchFileSqno"),
-        item.get("atchFileNm"),
-        item.get("orgnlAtchFileNm") or item.get("fileName"),
-        item.get("fileSz") or item.get("size"),
-    ]
-    raw = "|".join(str(part or "") for part in parts)
-    return hashlib.sha256(raw.encode("utf-8")).hexdigest()[:24]
 
 
 @contextmanager
@@ -348,6 +335,15 @@ def load_dashboard_payload_from_db() -> dict | None:
 
 
 def upsert_attachments(bid_no: str, bid_ord: str, attachments: list[dict]) -> int:
+    try:
+        from app.repositories.attachment_repository import upsert_attachments as orm_upsert_attachments
+
+        stored = orm_upsert_attachments(bid_no, bid_ord, attachments)
+        if stored is not None:
+            return int(stored)
+    except Exception as exc:
+        logger.warning("SQLAlchemy attachment upsert skipped: %s", exc)
+
     def _persist(conn: Any) -> int:
         notice_id = upsert_notice(conn, {"bidNtceNo": bid_no, "bidNtceOrd": bid_ord, "status": "attachments_ready"})
         count = 0
@@ -433,6 +429,15 @@ def _attachment_id(conn: Any, bid_no: str, bid_ord: str, selected: dict) -> int:
 
 
 def record_downloads(bid_no: str, bid_ord: str, downloads: list[dict]) -> int:
+    try:
+        from app.repositories.attachment_repository import record_downloads as orm_record_downloads
+
+        stored = orm_record_downloads(bid_no, bid_ord, downloads)
+        if stored is not None:
+            return int(stored)
+    except Exception as exc:
+        logger.warning("SQLAlchemy download record skipped: %s", exc)
+
     def _persist(conn: Any) -> int:
         count = 0
         for item in downloads:
