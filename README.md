@@ -13,7 +13,14 @@
 ├── backend/
 │   ├── requirements.txt
 │   └── app/
-│       ├── api/        # HTTP API 엔드포인트
+│       ├── main.py     # FastAPI 앱 조립 및 uvicorn 진입점
+│       ├── core/       # 공통 설정
+│       ├── db/         # SQLAlchemy Base, engine, session
+│       ├── models/     # SQLAlchemy ORM 모델
+│       ├── schemas/    # Pydantic 요청/응답 스키마
+│       ├── repositories/ # DB 접근 계층
+│       ├── api/        # FastAPI 라우터, 에러 응답 유틸
+│       │   └── routes/ # health, notices, analysis, checklist, files 라우터
 │       └── services/
 │           ├── scanner/      # 나라장터 공고 수집, 필터링, 스코어링, 엑셀/JSON 생성
 │           └── analyzer/     # 첨부파일 다운로드, PDF 변환, 텍스트 추출, AI/룰 기반 분석

@@ -583,6 +583,15 @@ def _normalize_checks_payload(checks: Any) -> dict[str, bool]:
 
 
 def load_checklist_state(bid_no: str, bid_ord: str) -> dict:
+    try:
+        from app.repositories.checklist_repository import load_checklist_state as orm_load_checklist_state
+
+        loaded = orm_load_checklist_state(bid_no, bid_ord)
+        if loaded is not None:
+            return loaded
+    except Exception as exc:
+        logger.warning("SQLAlchemy checklist load skipped: %s", exc)
+
     def _load(conn: Any) -> dict | None:
         notice_id = upsert_notice(conn, {"bidNtceNo": bid_no, "bidNtceOrd": bid_ord})
         with conn.cursor() as cur:
@@ -618,6 +627,14 @@ def load_checklist_state(bid_no: str, bid_ord: str) -> dict:
 
 def save_checklist_state(bid_no: str, bid_ord: str, checks: dict) -> dict:
     normalized_checks = _normalize_checks_payload(checks)
+    try:
+        from app.repositories.checklist_repository import save_checklist_state as orm_save_checklist_state
+
+        saved = orm_save_checklist_state(bid_no, bid_ord, normalized_checks)
+        if saved is not None:
+            return saved
+    except Exception as exc:
+        logger.warning("SQLAlchemy checklist save skipped: %s", exc)
 
     def _save(conn: Any) -> dict:
         notice_id = upsert_notice(conn, {"bidNtceNo": bid_no, "bidNtceOrd": bid_ord})
