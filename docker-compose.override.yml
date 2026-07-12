@@ -7,4 +7,5 @@ services:
     volumes:
       - ./.local-data/attachments:/data/attachments
       - ./.local-data/analyses:/data/analyses
+      - ./.local-data/company-knowledge:/data/company-knowledge
       - ./.local-data/logs:/app/logs

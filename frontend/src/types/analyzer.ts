@@ -5,7 +5,10 @@ export type ProposalAnalysisPayload = {
   match: ProposalAnalysisMatch;
   noticeInfo: {
     details: NoticeInfoDetail[];
+    detailGroups?: NoticeInfoDetailGroup[];
     requirements: NoticeRequirement[];
+    risks?: NoticeRisk[];
+    clarifications?: NoticeClarification[];
     summary: NoticeInfoSummary;
   };
   checklist: ProposalChecklist;
@@ -27,10 +30,30 @@ export type NoticeInfoDetail = {
   note: string;
 };
 
+export type NoticeInfoDetailGroup = {
+  category: string;
+  items: NoticeInfoDetail[];
+};
+
 export type NoticeRequirement = {
+  code?: string;
   requirement: string;
+  name?: string;
   detail: string;
   type: string;
+  category?: string;
+  source?: string;
+};
+
+export type NoticeRisk = {
+  title: string;
+  detail: string;
+  severity: string;
+};
+
+export type NoticeClarification = {
+  question: string;
+  reason: string;
 };
 
 export type NoticeInfoSummary = {

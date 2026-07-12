@@ -415,7 +415,13 @@ def get_market_research(bid_no: str, bid_ord: str, *, refresh: bool = False) -> 
     with _prepare_lock(f"{key}:market-research"):
         payload = analyze_notice(bid_no, bid_ord)
         cached = payload.get("marketResearch")
-        if not refresh and isinstance(cached, dict) and cached.get("sourceMode") == "web_ai" and _has_visible_market_research(cached):
+        if (
+            not refresh
+            and isinstance(cached, dict)
+            and cached.get("sourceMode") == "web_ai"
+            and _has_visible_market_research(cached)
+            and _has_company_evidence_schema(cached)
+        ):
             return cached
 
         from .market_research_analyzer import generate_market_research
@@ -441,3 +447,8 @@ def _has_visible_market_research(research: dict) -> bool:
                 if isinstance(value, str) and value.strip():
                     return True
     return False
+
+
+def _has_company_evidence_schema(research: dict) -> bool:
+    """RAG 도입 전 생성된 시장조사 캐시는 회사자료 근거가 없어 재생성한다."""
+    return isinstance(research.get("companyEvidence"), list)

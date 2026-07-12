@@ -58,13 +58,13 @@ function isStrategyResearchPayload(value: unknown): value is StrategyResearchPay
   return Boolean(payload.factChecks && payload.marketStats && payload.competitors && payload.advantages);
 }
 
-export async function loadStrategyMarketResearchData(notice: Notice): Promise<StrategyResearchPayload> {
+export async function loadStrategyMarketResearchData(notice: Notice, refresh = false): Promise<StrategyResearchPayload> {
   const bidNo = notice.bidNtceNo || notice.number.split("-")[0];
   const bidOrd = notice.bidNtceOrd || notice.number.split("-")[1] || "000";
   let apiError = "";
 
   try {
-    const payload = await fetchJson<unknown>(apiUrl(`/api/notices/${bidNo}/${bidOrd}/market-research`), {
+    const payload = await fetchJson<unknown>(apiUrl(`/api/notices/${bidNo}/${bidOrd}/market-research${refresh ? "?refresh=1" : ""}`), {
       cache: "no-store",
     });
     if (isStrategyResearchPayload(payload)) {
@@ -204,6 +204,7 @@ function buildMarketResearchFallback(notice: Notice, apiError: string): Strategy
         sources: [],
       },
     ],
+    companyEvidence: [],
     researchPrompt:
       "경쟁사/컨소시엄, 유사 선행사례, 시장 규모·성장률, 기술 트렌드, SWOT, 핀인사이트 경쟁우위를 출처 링크와 함께 조사한다.",
     warnings: ["검증 전 fallback 데이터입니다.", "회사 강점은 향후 RAG 자료로 보강해야 합니다."],

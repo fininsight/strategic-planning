@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 
 import { loadProposalMappingData, loadStrategyMarketResearchData } from "../../api/proposalMappingApi";
 import { Notice } from "../../types/notice";
@@ -33,6 +33,28 @@ export default function StrategyPage({ selectedNotice }: StrategyPageProps) {
   const [researchError, setResearchError] = useState("");
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState("");
+
+  const refreshResearch = useCallback(
+    async (force = false) => {
+      if (!selectedNotice) {
+        return;
+      }
+
+      setIsResearchLoading(true);
+      setResearchError("");
+
+      try {
+        const data = await loadStrategyMarketResearchData(selectedNotice, force);
+        setResearchPayload(data);
+      } catch (loadError) {
+        setResearchPayload(null);
+        setResearchError(loadError instanceof Error ? loadError.message : "시장·경쟁 리서치를 불러오지 못했습니다.");
+      } finally {
+        setIsResearchLoading(false);
+      }
+    },
+    [selectedNotice],
+  );
 
   useEffect(() => {
     let ignore = false;
@@ -80,23 +102,8 @@ export default function StrategyPage({ selectedNotice }: StrategyPageProps) {
         return;
       }
 
-      setIsResearchLoading(true);
-      setResearchError("");
-
-      try {
-        const data = await loadStrategyMarketResearchData(selectedNotice);
-        if (!ignore) {
-          setResearchPayload(data);
-        }
-      } catch (loadError) {
-        if (!ignore) {
-          setResearchPayload(null);
-          setResearchError(loadError instanceof Error ? loadError.message : "시장·경쟁 리서치를 불러오지 못했습니다.");
-        }
-      } finally {
-        if (!ignore) {
-          setIsResearchLoading(false);
-        }
+      if (!ignore) {
+        await refreshResearch(false);
       }
     }
 
@@ -105,7 +112,7 @@ export default function StrategyPage({ selectedNotice }: StrategyPageProps) {
     return () => {
       ignore = true;
     };
-  }, [activeView, selectedNotice, researchPayload]);
+  }, [activeView, selectedNotice, researchPayload, refreshResearch]);
 
   useEffect(() => {
     setResearchPayload(null);
@@ -203,7 +210,12 @@ export default function StrategyPage({ selectedNotice }: StrategyPageProps) {
             <TocSection groups={payload.tableOfContents} />
           </>
         ) : (
-          <MarketResearchSection payload={researchPayload} isLoading={isResearchLoading} error={researchError} />
+          <MarketResearchSection
+            payload={researchPayload}
+            isLoading={isResearchLoading}
+            error={researchError}
+            onRefresh={() => refreshResearch(true)}
+          />
         )}
       </section>
     </>
@@ -360,10 +372,12 @@ function MarketResearchSection({
   payload,
   isLoading,
   error,
+  onRefresh,
 }: {
   payload: StrategyResearchPayload | null;
   isLoading: boolean;
   error: string;
+  onRefresh: () => void;
 }) {
   if (isLoading) {
     return <StrategyInlineState message="웹검색 AI로 시장·경쟁 리서치를 생성하는 중입니다." />;
@@ -388,6 +402,9 @@ function MarketResearchSection({
           <span>{payload.competitors.length}개 경쟁 후보</span>
           <span>{payload.marketStats.length}개 시장 수치</span>
           <span>{unverifiedClaims}개 미검증</span>
+          <button type="button" onClick={onRefresh}>
+            재조사
+          </button>
         </div>
       </section>
 
@@ -401,6 +418,7 @@ function MarketResearchSection({
             body: joinText([item.expectedRole, item.rationale], "경쟁 후보의 역할과 근거 확인 필요"),
             meta: safeArray(item.likelyPartners).join(", ") || "파트너 구성 확인 필요",
             sources: safeSources(item.sources),
+            emptySourceLabel: "AI 전략 초안",
           }))}
         />
         <ResearchListPanel
@@ -439,6 +457,7 @@ function MarketResearchSection({
             body: safeText(item.detail, "상세 동향 확인 필요"),
             meta: safeText(item.implication, "제안 반영 포인트 확인 필요"),
             sources: safeSources(item.sources),
+            emptySourceLabel: "AI 전략 초안",
           }))}
         />
       </section>
@@ -448,7 +467,7 @@ function MarketResearchSection({
           <div>
             <span>FinInsight Positioning</span>
             <h3>핀인사이트 경쟁우위와 보완점</h3>
-            <p>Krayon·InsightStudio·InsightPage를 평가항목에 연결하되, 인증·실적은 RAG 또는 사내 증빙으로 확정합니다.</p>
+            <p>Krayon·InsightStudio·InsightPage를 평가항목에 연결하되, 인증·실적은 회사자료 RAG 근거로 확정합니다.</p>
           </div>
           <b>{payload.advantages.length}개</b>
         </div>
@@ -456,6 +475,32 @@ function MarketResearchSection({
           {payload.advantages.map((item) => (
             <AdvantageCard item={item} key={`${item.evaluationItem}-${item.priority}`} />
           ))}
+        </div>
+      </section>
+
+      <section className="proposalPanel fullProposalPanel">
+        <div className="proposalPanelHeader">
+          <div>
+            <span>Company RAG</span>
+            <h3>핀인사이트 내부 근거</h3>
+            <p>회사소개서·수행실적·솔루션 자료에서 검색된 근거입니다. 외부 수치와 수주사실은 별도 웹 출처가 필요합니다.</p>
+          </div>
+          <b>{payload.companyEvidence?.length ?? 0}개</b>
+        </div>
+        <div className="researchList companyEvidenceList">
+          {payload.companyEvidence?.length ? (
+            payload.companyEvidence.slice(0, 6).map((item) => (
+              <article key={item.chunkId}>
+                <strong>{safeText(item.fileName, "회사자료")}</strong>
+                <p>{safeText(item.text, "검색된 근거 텍스트가 없습니다.")}</p>
+                <small>
+                  {safeText(item.docType, "회사자료")} · match {item.score.toFixed(2)}
+                </small>
+              </article>
+            ))
+          ) : (
+            <div className="researchEmpty">회사자료 RAG 검색 결과가 없습니다.</div>
+          )}
         </div>
       </section>
 
@@ -512,7 +557,7 @@ function ResearchListPanel({
   eyebrow: string;
   title: string;
   count: number;
-  items: { title: string; body: string; meta: string; sources: StrategySource[]; warning?: boolean }[];
+  items: { title: string; body: string; meta: string; sources: StrategySource[]; warning?: boolean; emptySourceLabel?: string }[];
   empty?: string;
 }) {
   return (
@@ -531,7 +576,7 @@ function ResearchListPanel({
               <strong>{item.title}</strong>
               <p>{item.body}</p>
               <small>{item.meta}</small>
-              <SourceLinks sources={item.sources} />
+              <SourceLinks sources={item.sources} emptyLabel={item.emptySourceLabel} />
             </article>
           ))
         ) : (
@@ -567,9 +612,9 @@ function FactCheckRow({ item }: { item: StrategyFactCheck }) {
   );
 }
 
-function SourceLinks({ sources }: { sources: StrategySource[] }) {
+function SourceLinks({ sources, emptyLabel = "출처 링크 없음" }: { sources: StrategySource[]; emptyLabel?: string }) {
   if (!sources.length) {
-    return <div className="sourceLinks emptySource">출처 링크 없음</div>;
+    return <div className="sourceLinks emptySource">{emptyLabel}</div>;
   }
   return (
     <div className="sourceLinks">

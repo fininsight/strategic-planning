@@ -4,6 +4,7 @@ import hashlib
 import json
 import logging
 import os
+import re
 import time
 from contextlib import contextmanager
 from datetime import datetime, timezone
@@ -11,6 +12,10 @@ from pathlib import Path
 from typing import Any, Iterator
 
 logger = logging.getLogger(__name__)
+PROJECT_ROOT = Path(__file__).resolve().parents[4]
+CHECKLIST_STATE_DIR = Path(
+    os.getenv("OPPORTUNITY_CHECKLIST_STATE_DIR", str(PROJECT_ROOT / ".local-data" / "checklist-states"))
+)
 
 try:
     import psycopg
@@ -166,6 +171,14 @@ def ensure_schema(conn: Any | None = None) -> None:
       analyzed_at TIMESTAMPTZ,
       updated_at TIMESTAMPTZ NOT NULL DEFAULT now(),
       UNIQUE (notice_id, analysis_version)
+    );
+
+    CREATE TABLE IF NOT EXISTS proposal_checklist_states (
+      id BIGSERIAL PRIMARY KEY,
+      notice_id BIGINT NOT NULL REFERENCES notices(id) ON DELETE CASCADE,
+      checks_payload JSONB NOT NULL DEFAULT '{}'::jsonb,
+      updated_at TIMESTAMPTZ NOT NULL DEFAULT now(),
+      UNIQUE (notice_id)
     );
 
     CREATE TABLE IF NOT EXISTS crawl_jobs (
@@ -556,6 +569,83 @@ def record_notice_analysis(bid_no: str, bid_ord: str, payload: dict, analysis_ve
         conn.commit()
 
     best_effort("record_notice_analysis", _persist)
+
+
+def _checklist_state_path(bid_no: str, bid_ord: str) -> Path:
+    safe_key = re.sub(r"[^A-Za-z0-9_.-]+", "_", f"{bid_no}-{bid_ord}")
+    return CHECKLIST_STATE_DIR / f"{safe_key}.json"
+
+
+def _normalize_checks_payload(checks: Any) -> dict[str, bool]:
+    if not isinstance(checks, dict):
+        return {}
+    return {str(key): bool(value) for key, value in checks.items() if str(key).strip()}
+
+
+def load_checklist_state(bid_no: str, bid_ord: str) -> dict:
+    def _load(conn: Any) -> dict | None:
+        notice_id = upsert_notice(conn, {"bidNtceNo": bid_no, "bidNtceOrd": bid_ord})
+        with conn.cursor() as cur:
+            cur.execute(
+                """
+                SELECT checks_payload, updated_at
+                FROM proposal_checklist_states
+                WHERE notice_id = %s
+                """,
+                (notice_id,),
+            )
+            row = cur.fetchone()
+        if not row:
+            return None
+        checks = row[0] if isinstance(row[0], dict) else json.loads(row[0] or "{}")
+        return {"checks": _normalize_checks_payload(checks), "updatedAt": row[1].isoformat() if row[1] else ""}
+
+    loaded = best_effort("load_checklist_state", _load)
+    if loaded is not None:
+        return loaded
+    path = _checklist_state_path(bid_no, bid_ord)
+    if not path.exists():
+        return {"checks": {}, "updatedAt": ""}
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        return {
+            "checks": _normalize_checks_payload(payload.get("checks")),
+            "updatedAt": str(payload.get("updatedAt") or ""),
+        }
+    except Exception:
+        return {"checks": {}, "updatedAt": ""}
+
+
+def save_checklist_state(bid_no: str, bid_ord: str, checks: dict) -> dict:
+    normalized_checks = _normalize_checks_payload(checks)
+
+    def _save(conn: Any) -> dict:
+        notice_id = upsert_notice(conn, {"bidNtceNo": bid_no, "bidNtceOrd": bid_ord})
+        with conn.cursor() as cur:
+            cur.execute(
+                """
+                INSERT INTO proposal_checklist_states (notice_id, checks_payload, updated_at)
+                VALUES (%s, %s::jsonb, now())
+                ON CONFLICT (notice_id) DO UPDATE SET
+                  checks_payload = EXCLUDED.checks_payload,
+                  updated_at = now()
+                RETURNING updated_at
+                """,
+                (notice_id, json_dumps(normalized_checks)),
+            )
+            row = cur.fetchone()
+        conn.commit()
+        return {"checks": normalized_checks, "updatedAt": row[0].isoformat() if row and row[0] else ""}
+
+    saved = best_effort("save_checklist_state", _save)
+    if saved is not None:
+        return saved
+
+    payload = {"checks": normalized_checks, "updatedAt": utc_now().isoformat()}
+    path = _checklist_state_path(bid_no, bid_ord)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json_dumps(payload), encoding="utf-8")
+    return payload
 
 
 def start_job(job_type: str, target_count: int = 0, details: dict | None = None) -> int | None:

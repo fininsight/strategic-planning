@@ -21,7 +21,7 @@ class Handler(BaseHTTPRequestHandler):
             self.send_response(status)
             self.send_header("Content-Type", "application/json; charset=utf-8")
             self.send_header("Access-Control-Allow-Origin", "*")
-            self.send_header("Access-Control-Allow-Methods", "GET, OPTIONS")
+            self.send_header("Access-Control-Allow-Methods", "GET, PUT, POST, OPTIONS")
             self.send_header("Access-Control-Allow-Headers", "Content-Type")
             self.send_header("Content-Length", str(len(body)))
             self.end_headers()
@@ -33,6 +33,13 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_OPTIONS(self):
         self._send_json(200, {"ok": True})
+
+    def _read_json_body(self) -> dict:
+        length = int(self.headers.get("Content-Length") or 0)
+        if length <= 0:
+            return {}
+        raw = self.rfile.read(length)
+        return json.loads(raw.decode("utf-8") or "{}")
 
     def do_GET(self):
         parsed_url = urlparse(self.path)
@@ -63,6 +70,15 @@ class Handler(BaseHTTPRequestHandler):
                 self._send_json(200, analyze_notice(bid_no, bid_ord).get("proposalSheets", {}))
             except Exception as exc:
                 self._send_json(500, {"error": "proposal_analysis_failed", "message": str(exc)})
+            return
+
+        checklist_state_match = re.fullmatch(r"/api/notices/([^/]+)/([^/]+)/checklist-state", path)
+        if checklist_state_match:
+            bid_no, bid_ord = checklist_state_match.groups()
+            try:
+                self._send_json(200, database.load_checklist_state(bid_no, bid_ord))
+            except Exception as exc:
+                self._send_json(500, {"error": "checklist_state_failed", "message": str(exc)})
             return
 
         mapping_match = re.fullmatch(r"/api/notices/([^/]+)/([^/]+)/proposal-mapping", path)
@@ -117,6 +133,26 @@ class Handler(BaseHTTPRequestHandler):
             self._send_json(200, analyze_notice(bid_no, bid_ord))
         except Exception as exc:
             self._send_json(500, {"error": "analysis_failed", "message": str(exc)})
+
+    def do_PUT(self):
+        self._handle_write()
+
+    def do_POST(self):
+        self._handle_write()
+
+    def _handle_write(self):
+        parsed_url = urlparse(self.path)
+        path = unquote(parsed_url.path)
+        checklist_state_match = re.fullmatch(r"/api/notices/([^/]+)/([^/]+)/checklist-state", path)
+        if not checklist_state_match:
+            self._send_json(404, {"error": "not_found"})
+            return
+        bid_no, bid_ord = checklist_state_match.groups()
+        try:
+            payload = self._read_json_body()
+            self._send_json(200, database.save_checklist_state(bid_no, bid_ord, payload.get("checks") or {}))
+        except Exception as exc:
+            self._send_json(500, {"error": "checklist_state_save_failed", "message": str(exc)})
 
     def _send_file(self, bid_no: str, bid_ord: str, file_kind: str, document_id: str):
         try:

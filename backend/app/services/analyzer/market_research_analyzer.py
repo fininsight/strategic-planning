@@ -8,6 +8,8 @@ from typing import Any
 
 import requests
 
+from app.services.knowledge.company_knowledge import retrieve_company_evidence
+
 from .llm_analyzer import api_key, clip
 
 
@@ -20,12 +22,16 @@ def generate_market_research(payload: dict[str, Any]) -> dict[str, Any]:
         or "선택 공고"
     )
     base = _fallback_payload(payload, "")
+    company_evidence = retrieve_company_evidence(payload)
+    base["companyEvidence"] = company_evidence.get("results", [])
+    base["warnings"].extend(company_evidence.get("warnings", []))
+    base = _enrich_fallback_with_strategy_draft(base, payload, company_evidence)
 
     if not api_key():
         base["warnings"].append("OPENAI_API_KEY 또는 LLM_API_KEY가 없어 웹검색 AI 리서치를 실행하지 않았습니다.")
         return base
 
-    prompt = _research_prompt(payload, project_name)
+    prompt = _research_prompt(payload, project_name, company_evidence)
     try:
         result = _responses_web_search_json(prompt)
     except Exception as exc:
@@ -35,9 +41,15 @@ def generate_market_research(payload: dict[str, Any]) -> dict[str, Any]:
         return base
 
     normalized = _normalize_research(result, base)
+    normalized = _fill_short_sections(normalized, base)
     normalized["sourceMode"] = "web_ai"
     normalized["researchPrompt"] = prompt
-    normalized["warnings"].append("회사 인증·실적은 현재 RAG 미연동 상태이므로 사내 증빙으로 재확인해야 합니다.")
+    normalized["companyEvidence"] = company_evidence.get("results", [])
+    normalized["warnings"].extend(company_evidence.get("warnings", []))
+    if company_evidence.get("results"):
+        normalized["warnings"].append("핀인사이트 강점은 회사자료 RAG 검색결과에 근거하되, 외부 수치·수주사실은 웹 출처가 있는 항목만 사용합니다.")
+    else:
+        normalized["warnings"].append("회사 인증·실적은 RAG 검색 결과가 없어 사내 증빙으로 재확인해야 합니다.")
     return normalized
 
 
@@ -82,7 +94,7 @@ def _parse_json_object(text: str) -> dict[str, Any]:
         return json.loads(match.group(0))
 
 
-def _research_prompt(payload: dict[str, Any], project_name: str) -> str:
+def _research_prompt(payload: dict[str, Any], project_name: str, company_evidence: dict[str, Any]) -> str:
     notice = payload.get("notice") or {}
     documents = payload.get("documents") or []
     excerpts = [
@@ -104,19 +116,24 @@ def _research_prompt(payload: dict[str, Any], project_name: str) -> str:
             "keywords": notice.get("keywords"),
         },
         "documentExcerpts": excerpts,
-        "finInsightStrengthsToValidate": [
-            "Krayon",
-            "InsightStudio",
-            "InsightPage",
-            "보유 인증",
-            "유사 수행실적",
-            "데이터·AI 기술력",
-        ],
+        "companyOverview": company_evidence.get("overview", {}),
+        "companyEvidence": company_evidence.get("results", []),
+        "companyEvidenceWarnings": company_evidence.get("warnings", []),
     }
     return (
         "너는 공공입찰 제안서용 시장·경쟁 리서처이자 팩트체커다. "
-        "웹검색으로만 확인 가능한 사실을 조사하고, 출처 링크가 없는 수치·시장점유율·수주사실은 verified로 표시하지 마라. "
-        "가능하면 2023~2025년 자료를 우선 사용한다. 회사 내부 인증·실적은 RAG 미연동 상태이므로 추정하지 말고 evidenceNeeded에 적어라. "
+        "중요: 이 결과는 제안 전략 초안이므로 빈칸을 만들지 말고 충분히 작성한다. "
+        "다만 사실 검증 원칙은 분리한다. 경쟁사 후보, 예상 컨소시엄, 기술 트렌드, SWOT, 평가항목별 전략은 LLM이 사업내용을 바탕으로 합리적 가설/초안으로 작성해도 된다. "
+        "반대로 시장 규모·성장률 같은 수치, 법령·고시번호, 시장점유율, 특정 사업 수주사실, 계약금액은 반드시 web_search 출처 링크가 있을 때만 verified로 둔다. "
+        "출처 없는 수치·점유율·수주사실은 factChecks에서 unverified로 표시하고 제안서 사용 금지라고 쓴다. "
+        "1단계 competitive-researcher 역할로 경쟁사·예상 컨소시엄, 유사 선행사례, 시장 규모·성장률, 기술 트렌드, SWOT을 작성한다. "
+        "2단계 proposal-fact-checker 역할로 수치·통계·법령·고시번호·시장점유율·수주사실만 web_search로 교차검증한다. "
+        "3단계로 핀인사이트 경쟁우위를 도출한다. companyEvidence와 companyOverview는 핀인사이트 내부자료 RAG 결과이므로 강점·실적·인력·솔루션 근거로 적극 활용한다. "
+        "회사자료에 있는 내용은 '회사자료 근거'로 보고 우위 문장에 반영하되, 회사자료에도 없는 인증명·실적명·정량 수치는 새로 만들지 않는다. "
+        "가능하면 2023~2025년 자료를 우선 사용한다. "
+        "핀인사이트 기본 강점 후보는 Krayon, InsightStudio, InsightPage, 보유 인증, 유사 수행실적, 데이터·AI 기술력이다. "
+        "후속 전략 도출·제안서 작성에서 재사용할 수 있도록 검증된 핵심 수치, 출처, 경쟁우위, 보완 필요점을 JSON에 일관되게 남겨라. "
+        "분량 지침: competitors 4~6개, precedents 3~6개, marketStats 3~5개, trends 4~6개, swot는 S/W/O/T 각각 2개 이상, advantages 4~6개, factChecks 6~10개를 목표로 한다. "
         "JSON 객체만 반환한다. 스키마는 다음과 같다: "
         "{executiveSummary:string, competitors:[{name,expectedRole,rationale,likelyPartners:string[],sources:[{title,url,publisher,publishedAt}]}], "
         "precedents:[{projectName,buyer,winner,year,contractAmount,relevance,sources}], "
@@ -142,6 +159,45 @@ def _normalize_research(result: dict[str, Any], base: dict[str, Any]) -> dict[st
     normalized["warnings"] = [str(item) for item in _pick_list(result, "warnings", "notes")[:8] if str(item).strip()]
     normalized["status"] = "verified" if _all_number_claims_sourced(normalized) else "needs_verification"
     return normalized
+
+
+def _fill_short_sections(payload: dict[str, Any], fallback: dict[str, Any]) -> dict[str, Any]:
+    minimums = {
+        "competitors": 4,
+        "trends": 4,
+        "swot": 8,
+        "advantages": 4,
+        "factChecks": 4,
+    }
+    for key, minimum in minimums.items():
+        current = payload.get(key) if isinstance(payload.get(key), list) else []
+        if len(current) >= minimum:
+            continue
+        payload[key] = _append_unique_rows(current, fallback.get(key, []), key)[: max(minimum, len(current))]
+    return payload
+
+
+def _append_unique_rows(current: list[Any], fallback: Any, key: str) -> list[Any]:
+    rows = list(current)
+    if not isinstance(fallback, list):
+        return rows
+    seen = {json.dumps(item, ensure_ascii=False, sort_keys=True) for item in rows if isinstance(item, dict)}
+    for item in fallback:
+        if not isinstance(item, dict):
+            continue
+        marker_key = {
+            "competitors": "name",
+            "trends": "title",
+            "swot": "title",
+            "advantages": "evaluationItem",
+            "factChecks": "claim",
+        }.get(key)
+        marker = str(item.get(marker_key) or json.dumps(item, ensure_ascii=False, sort_keys=True))
+        if marker in seen:
+            continue
+        rows.append(item)
+        seen.add(marker)
+    return rows
 
 
 def _normalize_competitors(items: list[Any]) -> list[dict[str, Any]]:
@@ -443,3 +499,204 @@ def _fallback_payload(payload: dict[str, Any], warning: str) -> dict[str, Any]:
         "researchPrompt": "경쟁사/컨소시엄, 유사 선행사례, 시장 규모·성장률, 기술 트렌드, SWOT, 핀인사이트 경쟁우위를 출처 링크와 함께 조사한다.",
         "warnings": warnings,
     }
+
+
+def _enrich_fallback_with_strategy_draft(base: dict[str, Any], payload: dict[str, Any], company_evidence: dict[str, Any]) -> dict[str, Any]:
+    project_name = base.get("projectName") or "선택 공고"
+    project_text = _project_text(payload)
+    domain = _infer_project_domain(project_text)
+    company_docs = company_evidence.get("overview", {}).get("documents", [])
+    doc_types = company_evidence.get("overview", {}).get("docTypes", [])
+    has_performance = "주요 수행실적" in doc_types
+    has_people = "인력/조직" in doc_types
+    has_company_profile = "회사소개서" in doc_types or bool(company_docs)
+    evidence_files = ", ".join(str(item.get("fileName", "")) for item in company_docs[:4] if isinstance(item, dict) and item.get("fileName"))
+
+    base["executiveSummary"] = (
+        f"{project_name}은 {domain} 역량, 공공사업 수행관리, 보안·품질 관리, 데이터/AI 활용 역량을 함께 평가받을 가능성이 큽니다. "
+        "아래 경쟁·트렌드·SWOT은 제안 전략 초안이며, 수치·수주사실·법령명은 팩트체크 로그에서 출처가 확인된 항목만 제안서에 사용해야 합니다."
+    )
+    base["competitors"] = [
+        {
+            "name": "대형 공공 SI 사업자",
+            "expectedRole": "주관사 또는 인프라·시스템통합 총괄",
+            "rationale": f"{domain} 과업은 요구사항 관리, 보안, 구축·운영 안정성이 중요해 공공 SI 경험이 많은 업체가 참여할 가능성이 높습니다.",
+            "likelyPartners": ["클라우드/인프라", "보안", "데이터 분석"],
+            "sources": [],
+        },
+        {
+            "name": "AI·데이터 플랫폼 전문기업",
+            "expectedRole": "AI/RAG·데이터 처리·분석 기능 구축",
+            "rationale": "RAG, 문서분석, 검색, 자동화 요구가 포함된 사업은 AI 플랫폼 구현 경험을 가진 전문사가 경쟁 후보가 됩니다.",
+            "likelyPartners": ["공공 SI", "LLM/API", "검색엔진"],
+            "sources": [],
+        },
+        {
+            "name": "클라우드·인프라 구축사",
+            "expectedRole": "GPU/서버/클라우드 환경 설계 및 운영",
+            "rationale": "성능·확장성·운영 안정성이 평가되는 경우 인프라 전문사가 컨소시엄 파트너로 들어올 수 있습니다.",
+            "likelyPartners": ["AI 플랫폼", "보안", "운영관리"],
+            "sources": [],
+        },
+        {
+            "name": "보안·품질관리 전문기업",
+            "expectedRole": "보안성 검토, 취약점 조치, 품질관리 지원",
+            "rationale": "공공 정보화 사업은 보안 요구사항과 품질 산출물 관리가 중요해 보안·품질 전문 역량이 차별 요소가 됩니다.",
+            "likelyPartners": ["주관 SI", "PMO", "인증/점검"],
+            "sources": [],
+        },
+    ]
+    base["trends"] = [
+        {
+            "title": "기관 특화 RAG와 하이브리드 검색",
+            "detail": "공공기관 내부 문서와 외부 최신 자료를 결합해 응답 근거를 제시하는 RAG 구조가 제안의 핵심 설계 포인트가 됩니다.",
+            "implication": "문서 수집·정제·청킹·검색·근거표시·재색인 운영 절차를 과업 요구사항과 연결해 제시합니다.",
+            "sources": [],
+        },
+        {
+            "title": "LLM 기반 업무 자동화와 에이전트 협업",
+            "detail": "단순 질의응답을 넘어 보고서 작성, 행정 자동화, 다단계 검토를 수행하는 AI 에이전트형 서비스 요구가 커지고 있습니다.",
+            "implication": "워크플로우, 승인, 로그, 재시도, 품질검증을 포함한 운영 가능한 자동화 구조를 제안합니다.",
+            "sources": [],
+        },
+        {
+            "title": "보안·접근통제 중심의 생성형 AI 도입",
+            "detail": "공공 데이터와 내부자료를 다루는 AI 시스템은 권한, 감사로그, 비식별화, 외부 API 호출 통제 설계가 중요합니다.",
+            "implication": "권한 기반 검색, 민감정보 마스킹, 외부 호출 정책, 감사로그를 기술 우위 항목으로 정리합니다.",
+            "sources": [],
+        },
+        {
+            "title": "사용자 주도형 노코드·로우코드 AI 활용",
+            "detail": "현업 사용자가 직접 AI 서비스나 템플릿을 만들고 개선하는 방향으로 플랫폼 요구가 확장되고 있습니다.",
+            "implication": "Krayon·InsightStudio·InsightPage를 사용자 경험, 산출물 생성, 지식 활용 흐름과 연결합니다.",
+            "sources": [],
+        },
+    ]
+    base["swot"] = [
+        {
+            "type": "S",
+            "title": "AI·데이터 제안 구조화 역량",
+            "detail": "핀인사이트 보유 솔루션과 회사자료 RAG를 과업 요구사항, 평가항목, 산출물로 연결해 제안 논리를 빠르게 구성할 수 있습니다.",
+        },
+        {
+            "type": "S",
+            "title": "내부자료 기반 증빙 활용",
+            "detail": f"회사자료 RAG에서 확인된 자료({evidence_files or '회사소개서·실적·인력 자료'})를 근거로 강점 문장을 제안서에 일관되게 반영할 수 있습니다.",
+        },
+        {
+            "type": "W",
+            "title": "외부 공인 수치 검증 필요",
+            "detail": "시장 규모, 점유율, 특정 수주사실은 내부자료가 아니라 웹 출처가 필요하므로 별도 팩트체크가 필요합니다.",
+        },
+        {
+            "type": "W",
+            "title": "대형 SI 대비 레퍼런스 인지도 보완",
+            "detail": "경쟁사가 대형 공공 SI인 경우 조직 규모와 유사 대형사업 인지도에서 열위로 평가될 수 있어 실적 증빙과 협력체계를 명확히 해야 합니다.",
+        },
+        {
+            "type": "O",
+            "title": "공공 AI 전환 수요 확대",
+            "detail": "기관별 생성형 AI, 문서 자동화, RAG 기반 지식관리 수요가 확대되면서 전문 솔루션 기반 제안의 기회가 커지고 있습니다.",
+        },
+        {
+            "type": "O",
+            "title": "보안형 내부자료 활용 요구",
+            "detail": "공공기관은 내부 문서 유출 없이 AI를 활용해야 하므로, 폐쇄형·권한형 RAG 설계가 차별 포인트가 됩니다.",
+        },
+        {
+            "type": "T",
+            "title": "대형사 컨소시엄 경쟁",
+            "detail": "공공 SI, 클라우드, 보안사가 결합한 컨소시엄이 가격·인력·레퍼런스 측면에서 강하게 경쟁할 수 있습니다.",
+        },
+        {
+            "type": "T",
+            "title": "팩트 오류 리스크",
+            "detail": "제안서에 검증되지 않은 시장 수치나 수주사실이 들어가면 신뢰도와 평가 안정성이 떨어질 수 있습니다.",
+        },
+    ]
+    base["advantages"] = [
+        {
+            "evaluationItem": "사업 이해도 및 추진전략",
+            "finInsightEdge": f"{domain} 요구를 AI·데이터·문서 자동화 관점으로 구조화하고, 공고 첨부파일 분석 결과와 회사자료 RAG 근거를 함께 사용해 전략을 구체화할 수 있습니다.",
+            "evidenceNeeded": evidence_files or "회사소개서, 솔루션 소개서, 수행실적 증빙",
+            "competitorComparison": "대형 SI가 범용 구축 경험을 앞세울 때, 핀인사이트는 과업별 AI 활용 시나리오와 산출물 중심 제안으로 차별화해야 합니다.",
+            "priority": "high",
+        },
+        {
+            "evaluationItem": "기술 구현 방안",
+            "finInsightEdge": "Krayon·InsightStudio·InsightPage를 RAG 검색, 분석, 보고서/페이지 생성 흐름과 연결해 요구사항별 구현 방안을 제시할 수 있습니다.",
+            "evidenceNeeded": "솔루션 기능 명세, 화면 예시, 적용 시나리오",
+            "competitorComparison": "범용 개발사 대비 자체 솔루션 기반 데모와 업무 흐름 설명이 가능한 점을 강조합니다.",
+            "priority": "high",
+        },
+        {
+            "evaluationItem": "수행 경험 및 안정성",
+            "finInsightEdge": "회사자료 RAG에 포함된 수행실적과 인력 자료를 바탕으로 유사 업무 수행 가능성과 투입체계를 제안서에 연결할 수 있습니다.",
+            "evidenceNeeded": "주요 수행실적, 인력증빙, 역할별 투입계획",
+            "competitorComparison": "대형사 대비 규모 열위는 핵심 인력의 역할 명확화와 컨소시엄 보완 전략으로 상쇄해야 합니다.",
+            "priority": "high" if has_performance or has_people else "medium",
+        },
+        {
+            "evaluationItem": "품질·보안·운영관리",
+            "finInsightEdge": "출처 기반 리서치, 내부자료 RAG, 팩트체크 로그를 분리해 제안서 작성 단계부터 검증 가능한 산출물 관리 체계를 만들 수 있습니다.",
+            "evidenceNeeded": "품질관리 계획, 보안관리 계획, 산출물 검토 절차",
+            "competitorComparison": "경쟁사 대비 제안 준비 단계의 근거관리·팩트체크 프로세스를 차별 요소로 제시합니다.",
+            "priority": "medium",
+        },
+    ]
+    if has_company_profile:
+        base["warnings"] = [warning for warning in base["warnings"] if "사내 증빙 미연동" not in warning]
+    base["factChecks"] = [
+        {
+            "claim": "경쟁사 후보와 SWOT 중 정성적 전략 초안은 LLM 가설이며 수치 사실이 아니다",
+            "status": "unverified",
+            "note": "제안 전략 초안으로 사용 가능하나, 특정 업체 수주사실·점유율·금액으로 표현하려면 별도 출처가 필요합니다.",
+            "sources": [],
+        },
+        {
+            "claim": "시장 규모·성장률·점유율·계약금액은 출처 링크가 있어야 제안서에 사용 가능",
+            "status": "unverified",
+            "note": "웹검색으로 검증된 marketStats와 factChecks의 verified 항목만 본문 수치로 채택합니다.",
+            "sources": [],
+        },
+        {
+            "claim": "핀인사이트 강점은 회사자료 RAG 근거와 연결",
+            "status": "unverified",
+            "note": f"현재 RAG 자료: {evidence_files or '회사자료 검색 결과 확인 필요'}",
+            "sources": [],
+        },
+        {
+            "claim": "회사자료에 없는 인증명·실적명·정량 수치는 임의 생성 금지",
+            "status": "unverified",
+            "note": "없는 내용은 필요 증빙으로 남기고 사람 검토 후 확정합니다.",
+            "sources": [],
+        },
+    ]
+    return base
+
+
+def _project_text(payload: dict[str, Any]) -> str:
+    notice = payload.get("notice") or {}
+    proposal_sheets = payload.get("proposalSheets") or {}
+    documents = payload.get("documents") or []
+    parts = [
+        str(notice.get("title") or ""),
+        str(notice.get("industry") or ""),
+        str(proposal_sheets.get("noticeInfo", {}).get("summary", {}).get("projectName") or ""),
+        str(payload.get("summary", {}).get("summary") or ""),
+    ]
+    parts.extend(str(item.get("documentText") or "")[:1600] for item in documents[:3] if isinstance(item, dict))
+    return " ".join(parts)
+
+
+def _infer_project_domain(text: str) -> str:
+    lowered = text.lower()
+    if any(keyword in lowered for keyword in ("rag", "llm", "생성형", "인공지능", "ai", "에이전트")):
+        return "생성형 AI·RAG 플랫폼"
+    if any(keyword in lowered for keyword in ("빅데이터", "데이터", "분석", "통계")):
+        return "데이터 분석·플랫폼"
+    if any(keyword in lowered for keyword in ("클라우드", "서버", "gpu", "인프라")):
+        return "AI 인프라·클라우드"
+    if any(keyword in lowered for keyword in ("홈페이지", "포털", "웹", "콘텐츠")):
+        return "웹서비스·콘텐츠 플랫폼"
+    return "공공 정보화"

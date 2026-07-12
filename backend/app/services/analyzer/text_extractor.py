@@ -110,13 +110,15 @@ def extract_hwpx_text(file_path: Path) -> tuple[str, str]:
     try:
         with zipfile.ZipFile(file_path) as archive:
             names = archive.namelist()
+            preview_text = ""
             preview_name = next((name for name in names if name.lower().endswith("preview/prvtext.txt")), "")
             if preview_name:
                 for encoding in ("utf-8", "utf-16", "cp949", "euc-kr"):
                     try:
                         text = archive.read(preview_name).decode(encoding)
                         if text.strip():
-                            return clean_text(text), ""
+                            preview_text = clean_text(text)
+                            break
                     except UnicodeDecodeError:
                         continue
 
@@ -128,9 +130,15 @@ def extract_hwpx_text(file_path: Path) -> tuple[str, str]:
             parts: list[str] = []
             for name in section_names:
                 parts.extend(_iter_xml_text(archive.read(name)))
-            text = clean_text("\n".join(parts))
-            if text:
-                return text, ""
+            section_text = clean_text("\n".join(parts))
+            if section_text:
+                if len(section_text) >= len(preview_text):
+                    return section_text, ""
+                if preview_text:
+                    combined_text = clean_text(f"{section_text}\n\n{preview_text}")
+                    return combined_text, "HWPX 본문 XML 텍스트가 미리보기보다 짧아 본문과 미리보기를 함께 사용했습니다."
+            if preview_text:
+                return preview_text, "HWPX 본문 XML에서 충분한 텍스트를 찾지 못해 미리보기 텍스트를 사용했습니다."
             return "", "HWPX 본문 XML에서 텍스트를 찾지 못했습니다."
     except zipfile.BadZipFile:
         return "", "HWPX 파일 구조가 올바른 ZIP 형식이 아닙니다."

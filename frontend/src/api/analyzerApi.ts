@@ -36,3 +36,28 @@ export async function loadAnalyzerData(notice: Notice): Promise<ProposalAnalysis
   }
   return analysis.proposalSheets;
 }
+
+export async function loadChecklistState(bidNo: string, bidOrd: string): Promise<Record<string, boolean>> {
+  const payload = await fetchJson<{ checks?: Record<string, boolean> }>(
+    apiUrl(`/api/notices/${bidNo}/${bidOrd}/checklist-state`),
+    { cache: "no-store" },
+  );
+  return payload.checks ?? {};
+}
+
+export async function saveChecklistState(
+  bidNo: string,
+  bidOrd: string,
+  checks: Record<string, boolean>,
+): Promise<Record<string, boolean>> {
+  const response = await fetch(apiUrl(`/api/notices/${bidNo}/${bidOrd}/checklist-state`), {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ checks }),
+  });
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
+  const payload = (await response.json()) as { checks?: Record<string, boolean> };
+  return payload.checks ?? checks;
+}

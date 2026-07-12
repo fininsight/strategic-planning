@@ -78,6 +78,7 @@ export type StrategyResearchPayload = {
   swot: StrategySwotItem[];
   advantages: StrategyAdvantage[];
   factChecks: StrategyFactCheck[];
+  companyEvidence?: StrategyCompanyEvidence[];
   researchPrompt: string;
   warnings: string[];
 };
@@ -142,4 +143,12 @@ export type StrategyFactCheck = {
   status: "verified" | "unverified" | "conflict" | string;
   note: string;
   sources: StrategySource[];
+};
+
+export type StrategyCompanyEvidence = {
+  fileName: string;
+  docType: string;
+  chunkId: string;
+  score: number;
+  text: string;
 };
