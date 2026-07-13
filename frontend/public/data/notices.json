@@ -1,46 +1,48 @@
 {
-  "generatedAt": "2026-07-06T12:40:44.741795",
+  "generatedAt": "2026-07-13T11:54:21.789570",
   "summary": {
-    "qualified": 3,
+    "qualified": 145,
     "disqualified": 0,
     "keywords": [
-      "AI",
-      "교육",
       "데이터분석",
       "빅데이터",
       "인공지능",
+      "AI",
+      "양성",
       "리터러시",
-      "양성"
+      "교육"
     ]
   },
   "notices": [
     {
       "keyword": "AI",
       "task": "용역",
-      "number": "R26BK01587722-000",
-      "bidNtceNo": "R26BK01587722",
+      "number": "R26BK01603546-000",
+      "bidNtceNo": "R26BK01603546",
       "bidNtceOrd": "000",
       "category": "일반",
-      "title": "IITP AI 활용을 위한 기반 인프라(GPU서버) 구축",
-      "agency": "조달청",
-      "demandAgency": "한국연구재단 정보통신기획평가원",
-      "region": "전국",
-      "closeAt": "2026-07-15T10:00:00",
-      "postedAt": "2026-06-19T11:00:00",
+      "title": "파주 출판도시 AI 문화·콘텐츠 도시 조성을 위한 기본계획 및 타당성 조사 용역",
+      "agency": "조달청 서울지방조달청",
+      "demandAgency": "경기도 파주시",
+      "region": "서울",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-06-30T10:23:00",
       "method": "전자입찰",
-      "industry": "SW(컴퓨터관련서비스)",
+      "industry": "SW(컴퓨터관련서비스) / 학술연구용역",
       "matchedCodes": [
-        "1468"
+        "1468",
+        "1169"
       ],
       "qualificationSource": "검색조건(API)",
-      "budget": 672727273,
-      "score": 85,
+      "budget": 256736364,
+      "score": 102,
       "grade": "S",
       "reasons": [
         "AI 응용 사업 직접 매칭",
-        "고가치 발주기관: 조달청"
+        "등록업종 2개 매칭",
+        "고가치 발주기관: 조달청 서울지방조달청"
       ],
-      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01587722&bidPbancOrd=000",
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01603546&bidPbancOrd=000",
       "keywords": [
         "AI"
       ]
@@ -48,20 +50,1520 @@
     {
       "keyword": "AI",
       "task": "용역",
-      "number": "R26BK01595093-000",
-      "bidNtceNo": "R26BK01595093",
+      "number": "R26BK01620469-000",
+      "bidNtceNo": "R26BK01620469",
+      "bidNtceOrd": "000",
+      "category": "긴급",
+      "title": "(긴급)AI교육센터 파일럿 프로그램 개발 및 운영 용역",
+      "agency": "서울특별시교육청",
+      "demandAgency": "서울특별시교육청",
+      "region": "서울",
+      "closeAt": "2026-07-21T11:00:00",
+      "postedAt": "2026-07-07T13:36:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 453833636,
+      "score": 96,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "AI·데이터 리터러시 교육 키워드",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620469&bidPbancOrd=000",
+      "keywords": [
+        "AI",
+        "교육"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01605618-000",
+      "bidNtceNo": "R26BK01605618",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 동아보건대학교 대학 혁신을 위한 AI 스마트 캠퍼스 포털 고도화 사업",
+      "agency": "동아보건대학교",
+      "demandAgency": "동아보건대학교",
+      "region": "전국",
+      "closeAt": "2026-08-10T10:00:00",
+      "postedAt": "2026-06-29T10:22:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스) / SW(디지털콘텐츠) / SW(DB제작/검색)",
+      "matchedCodes": [
+        "1468",
+        "1469",
+        "1470"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 181818182,
+      "score": 95,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "등록업종 3개 복합 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01605618&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01602207-000",
+      "bidNtceNo": "R26BK01602207",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "생성형 AI기반 침해대응체계 도입 및 구축",
+      "agency": "조달청 광주지방조달청",
+      "demandAgency": "한국인터넷진흥원",
+      "region": "광주",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-06-29T11:11:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스) / SW(DB제작/검색)",
+      "matchedCodes": [
+        "1468",
+        "1470"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 4545454545,
+      "score": 95,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "등록업종 2개 매칭",
+        "고가치 발주기관: 조달청 광주지방조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01602207&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01625116-000",
+      "bidNtceNo": "R26BK01625116",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "부산형 AI서비스 확대 구축",
+      "agency": "조달청 부산지방조달청",
+      "demandAgency": "부산광역시",
+      "region": "부산",
+      "closeAt": "2026-07-24T10:00:00",
+      "postedAt": "2026-07-09T14:28:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 491418882,
+      "score": 95,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 부산지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01625116&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01619660-000",
+      "bidNtceNo": "R26BK01619660",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "[연구,173] 감염병 인체위험도 평가를 위한 AI 분석 플랫폼 설계 기본계획 연구",
+      "agency": "조달청 충북지방조달청",
+      "demandAgency": "질병관리청",
+      "region": "충북",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-07T13:23:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 100000000,
+      "score": 95,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 충북지방조달청",
+        "전략→후속 연결 가능 (로드맵/정책연구)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01619660&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01627578-000",
+      "bidNtceNo": "R26BK01627578",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026 청년취업사관학교 AI 인재 페스티벌 행사운영 용역",
+      "agency": "(재)서울경제진흥원",
+      "demandAgency": "(재)서울경제진흥원",
+      "region": "서울",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-10T15:36:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 263636364,
+      "score": 95,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "재직자·청년·HRD 대상 교육",
+        "고가치 발주기관: (재)서울경제진흥원"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01627578&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01621393-000",
+      "bidNtceNo": "R26BK01621393",
+      "bidNtceOrd": "000",
+      "category": "긴급",
+      "title": "[긴급]2026년 찾아가는 AI교육지원 프로그램 운영 용역",
+      "agency": "인천광역시교육청",
+      "demandAgency": "인천광역시교육청",
+      "region": "인천",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-07T18:32:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 272727273,
+      "score": 91,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "AI·데이터 리터러시 교육 키워드",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01621393&bidPbancOrd=000",
+      "keywords": [
+        "AI",
+        "교육"
+      ]
+    },
+    {
+      "keyword": "빅데이터",
+      "task": "용역",
+      "number": "R26BK01622407-000",
+      "bidNtceNo": "R26BK01622407",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 스마트 해양교통안전 빅데이터 플랫폼 고도화",
+      "agency": "조달청",
+      "demandAgency": "한국해양교통안전공단",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-08T11:08:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 231218182,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "빅데이터·데이터분석 직접 매칭",
+        "고가치 발주기관: 조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01622407&bidPbancOrd=000",
+      "keywords": [
+        "빅데이터"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01592911-000",
+      "bidNtceNo": "R26BK01592911",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "베트남 온라인 NPL 거래 플랫폼 AI 시스템 구축",
+      "agency": "조달청 부산지방조달청",
+      "demandAgency": "한국자산관리공사",
+      "region": "부산",
+      "closeAt": "2026-08-11T10:00:00",
+      "postedAt": "2026-06-26T14:30:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 317312091,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 부산지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01592911&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01614363-000",
+      "bidNtceNo": "R26BK01614363",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "직무능력은행 AI 서비스 도입 및 환경구축을 위한 ISMP 수립 사업",
+      "agency": "조달청 부산지방조달청",
+      "demandAgency": "한국산업인력공단",
+      "region": "부산",
+      "closeAt": "2026-07-30T10:00:00",
+      "postedAt": "2026-07-03T15:16:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 272256364,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 부산지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01614363&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01617410-000",
+      "bidNtceNo": "R26BK01617410",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI 슬립테크 데이터 공유 플랫폼 구축",
+      "agency": "사단법인 범부처통합헬스케어협회",
+      "demandAgency": "사단법인 범부처통합헬스케어협회",
+      "region": "전국",
+      "closeAt": "2026-08-19T11:00:00",
+      "postedAt": "2026-07-06T10:31:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 272727273,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01617410&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01618471-000",
+      "bidNtceNo": "R26BK01618471",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "대기질모델개발시스템의 AI 인프라 구축(Ⅱ)",
+      "agency": "조달청 인천지방조달청",
+      "demandAgency": "기후에너지환경부 국립환경과학원",
+      "region": "인천",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-07T08:47:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 390909091,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 인천지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01618471&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01619794-000",
+      "bidNtceNo": "R26BK01619794",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI-Ready 데이터 확보를 위한  데이터 파이프라인 구축 용역",
+      "agency": "한국기계연구원",
+      "demandAgency": "한국기계연구원",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-07T09:49:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 125066364,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 한국기계연구원",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01619794&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01620173-000",
+      "bidNtceNo": "R26BK01620173",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "다중모델 생성형 AI 플랫폼 서비스 도입 용역",
+      "agency": "조달청 광주지방조달청",
+      "demandAgency": "목포대학교 산학협력단",
+      "region": "광주",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-07T14:07:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 118181818,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 광주지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620173&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01615032-000",
+      "bidNtceNo": "R26BK01615032",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "120달구벌콜센터 AI상담시스템 3단계 구축사업 개발용역",
+      "agency": "조달청 대구지방조달청",
+      "demandAgency": "대구광역시",
+      "region": "대구",
+      "closeAt": "2026-07-23T10:00:00",
+      "postedAt": "2026-07-07T18:00:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 263788182,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 대구지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01615032&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01609091-000",
+      "bidNtceNo": "R26BK01609091",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "KUSF 영상 AI 아카이빙 시스템 고도화 구축",
+      "agency": "조달청 서울지방조달청",
+      "demandAgency": "(사）한국대학스포츠협의회",
+      "region": "서울",
+      "closeAt": "2026-07-28T10:00:00",
+      "postedAt": "2026-07-08T14:49:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 142727273,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 서울지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01609091&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01622816-000",
+      "bidNtceNo": "R26BK01622816",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI 보안 테스트베드 구축 및 지원을 위한 레드티밍 도구 구매",
+      "agency": "조달청 광주지방조달청",
+      "demandAgency": "한국인터넷진흥원",
+      "region": "광주",
+      "closeAt": "2026-07-23T10:00:00",
+      "postedAt": "2026-07-09T14:51:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스) / 기타자유업종",
+      "matchedCodes": [
+        "1468",
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 254545455,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 광주지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01622816&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01626100-000",
+      "bidNtceNo": "R26BK01626100",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI 보안 테스트베드 구축 및 지원을 위한 레드티밍 도구 구매",
+      "agency": "조달청 광주지방조달청",
+      "demandAgency": "한국인터넷진흥원",
+      "region": "광주",
+      "closeAt": "2026-07-23T10:00:00",
+      "postedAt": "2026-07-10T11:11:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스) / 기타자유업종",
+      "matchedCodes": [
+        "1468",
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 254545455,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 광주지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01626100&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01619979-000",
+      "bidNtceNo": "R26BK01619979",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "영재학교·과학고 대학-기업 연계 정보 분야 AI+X 심화연구반 운영 용역",
+      "agency": "조달청 충북지방조달청",
+      "demandAgency": "한국교육개발원",
+      "region": "충북",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-07T13:09:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 150000000,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 충북지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01619979&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01620165-000",
+      "bidNtceNo": "R26BK01620165",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "영재학교·과학고 대학-기업 연계  공학 분야 AI+X 심화연구반 운영 용역",
+      "agency": "조달청 충북지방조달청",
+      "demandAgency": "한국교육개발원",
+      "region": "충북",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-07T13:15:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 150000000,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 충북지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620165&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01626780-000",
+      "bidNtceNo": "R26BK01626780",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "영재학교·과학고 대학-기업 연계 응용과학 분야 AI+X 심화연구반 운영 사업 용역",
+      "agency": "조달청 충북지방조달청",
+      "demandAgency": "한국교육개발원",
+      "region": "충북",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-10T10:33:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 150000000,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 충북지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01626780&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01628587-000",
+      "bidNtceNo": "R26BK01628587",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 AI 교육 지원센터 프로그램 위탁 운영 용역 사업",
+      "agency": "조달청 인천지방조달청",
+      "demandAgency": "인천광역시교육청 인천광역시교육청AI융합교육원",
+      "region": "인천",
+      "closeAt": "2026-07-24T10:00:00",
+      "postedAt": "2026-07-13T11:29:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 204136364,
+      "score": 90,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "AI·데이터 리터러시 교육 키워드",
+        "고가치 발주기관: 조달청 인천지방조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628587&bidPbancOrd=000",
+      "keywords": [
+        "AI",
+        "교육"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01565789-000",
+      "bidNtceNo": "R26BK01565789",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "[RISE] 경남대학교 2026학년도 피지컬AI 사관학교 운영 용역",
+      "agency": "경남대학교",
+      "demandAgency": "경남대학교",
+      "region": "경남",
+      "closeAt": "2026-07-20T14:00:00",
+      "postedAt": "2026-06-08T13:29:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스) / SW(디지털콘텐츠)",
+      "matchedCodes": [
+        "1468",
+        "1469"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 360200000,
+      "score": 88,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "등록업종 2개 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01565789&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01565398-000",
+      "bidNtceNo": "R26BK01565398",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "TS AI 공통플랫폼 고도화 및 민원·전세버스 공시 AI 구축 용역",
+      "agency": "한국교통안전공단",
+      "demandAgency": "한국교통안전공단",
+      "region": "전국",
+      "closeAt": "2026-07-20T12:00:00",
+      "postedAt": "2026-06-08T11:02:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 407560079,
+      "score": 86,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01565398&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01622018-000",
+      "bidNtceNo": "R26BK01622018",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI 영상분석을 통한 보행안전시스템 구축사업",
+      "agency": "경찰청 부산광역시경찰청",
+      "demandAgency": "경찰청 부산광역시경찰청",
+      "region": "부산",
+      "closeAt": "2026-07-20T18:00:00",
+      "postedAt": "2026-07-08T09:39:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 500000000,
+      "score": 86,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01622018&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01624190-000",
+      "bidNtceNo": "R26BK01624190",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "MDA플랫폼 특화 데이터 융합분석 AI 기술개발 RnD 기획연구용역",
+      "agency": "해양경찰청",
+      "demandAgency": "해양경찰청",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-09T14:49:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 45454545,
+      "score": 86,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01624190&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "데이터분석",
+      "task": "용역",
+      "number": "R26BK01621419-000",
+      "bidNtceNo": "R26BK01621419",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "학습데이터 분석·활용 체계 구축(2단계) 감리",
+      "agency": "조달청 대구지방조달청",
+      "demandAgency": "한국교육학술정보원",
+      "region": "대구",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-07T17:54:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 687272727,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "빅데이터·데이터분석 직접 매칭",
+        "고가치 발주기관: 조달청 대구지방조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01621419&bidPbancOrd=000",
+      "keywords": [
+        "데이터분석"
+      ]
+    },
+    {
+      "keyword": "인공지능",
+      "task": "용역",
+      "number": "R26BK01621917-000",
+      "bidNtceNo": "R26BK01621917",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "HTDream 인공지능(BION GPT) 서비스 고도화 사업",
+      "agency": "한국보건산업진흥원",
+      "demandAgency": "한국보건산업진흥원",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-08T14:49:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 90909091,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "빅데이터+AI 동시 매칭",
+        "고가치 발주기관: 한국보건산업진흥원",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01621917&bidPbancOrd=000",
+      "keywords": [
+        "인공지능"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01593466-000",
+      "bidNtceNo": "R26BK01593466",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "특수교육 AI 디지털 교육자료 플랫폼(중학) 구축 사업",
+      "agency": "조달청",
+      "demandAgency": "대전광역시교육청",
+      "region": "대전",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-06-22T10:09:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 909090909,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01593466&bidPbancOrd=000",
+      "keywords": [
+        "AI",
+        "교육"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01606492-000",
+      "bidNtceNo": "R26BK01606492",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "기획예산처 데이터플랫폼 AI-ON구축 사업",
+      "agency": "조달청",
+      "demandAgency": "기획예산처",
+      "region": "전국",
+      "closeAt": "2026-07-30T10:00:00",
+      "postedAt": "2026-06-29T16:19:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 4460327273,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01606492&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01612518-000",
+      "bidNtceNo": "R26BK01612518",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 AI 사이버공격 대응 플랫폼 구축(2단계)",
+      "agency": "조달청 대구지방조달청",
+      "demandAgency": "한국교육학술정보원",
+      "region": "대구",
+      "closeAt": "2026-07-30T10:00:00",
+      "postedAt": "2026-07-02T17:30:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 3948181818,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 대구지방조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01612518&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01615178-000",
+      "bidNtceNo": "R26BK01615178",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "디지털배움터 플랫폼 AI 실습 기능 개발",
+      "agency": "조달청 대구지방조달청",
+      "demandAgency": "한국지능정보사회진흥원",
+      "region": "대구",
+      "closeAt": "2026-07-28T10:00:00",
+      "postedAt": "2026-07-03T13:37:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 2725446684,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 대구지방조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01615178&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01618433-000",
+      "bidNtceNo": "R26BK01618433",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "대기질모델개발시스템의 AI 인프라 구축(Ⅰ)",
+      "agency": "조달청 인천지방조달청",
+      "demandAgency": "기후에너지환경부 국립환경과학원",
+      "region": "인천",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-07T08:46:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 545454545,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 인천지방조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01618433&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01620931-000",
+      "bidNtceNo": "R26BK01620931",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI학습용데이터 통합제공시스템 구축",
+      "agency": "조달청 대구지방조달청",
+      "demandAgency": "한국지능정보사회진흥원",
+      "region": "대구",
+      "closeAt": "2026-07-30T10:00:00",
+      "postedAt": "2026-07-07T18:00:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 2617440542,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 대구지방조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620931&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01626217-000",
+      "bidNtceNo": "R26BK01626217",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "대내 생성형 AI 서비스 구축",
+      "agency": "한국해외인프라도시개발지원공사",
+      "demandAgency": "한국해외인프라도시개발지원공사",
+      "region": "전국",
+      "closeAt": "2026-08-19T10:00:00",
+      "postedAt": "2026-07-09T18:07:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 1245454545,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01626217&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01626047-000",
+      "bidNtceNo": "R26BK01626047",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "청소년 AI 데이터 생태계 구축 및 정책지원 용역",
+      "agency": "한국청소년활동진흥원",
+      "demandAgency": "한국청소년활동진흥원",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-09T17:14:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 22727273,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 한국청소년활동진흥원"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01626047&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01617819-000",
+      "bidNtceNo": "R26BK01617819",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "해양수산 AI 응용제품 신속 상용화 지원사업 비즈니스모델(BM) 구축 및 해외 진출 지원",
+      "agency": "조달청 서울지방조달청",
+      "demandAgency": "해양수산과학기술진흥원",
+      "region": "서울",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-06T15:33:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 409090909,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 서울지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01617819&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01622522-000",
+      "bidNtceNo": "R26BK01622522",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "산업AI 국제인증(ISO/IEC 42001) 및 ISO 26262 SW분야 컨설턴트 양성 교육 운영",
+      "agency": "재단법인 울산정보산업진흥원",
+      "demandAgency": "재단법인 울산정보산업진흥원",
+      "region": "울산",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-08T10:54:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 36363636,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 재단법인 울산정보산업진흥원",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01622522&bidPbancOrd=000",
+      "keywords": [
+        "AI",
+        "양성",
+        "교육"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01625860-000",
+      "bidNtceNo": "R26BK01625860",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "학연협력 기반 엔지니어 양성을 위한 피지컬 AI 비교과프로그램 개발 및운영",
+      "agency": "한국전기연구원",
+      "demandAgency": "한국전기연구원",
+      "region": "전국",
+      "closeAt": "2026-07-21T11:00:00",
+      "postedAt": "2026-07-09T16:05:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 84820000,
+      "score": 85,
+      "grade": "S",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 한국전기연구원",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01625860&bidPbancOrd=000",
+      "keywords": [
+        "AI",
+        "양성"
+      ]
+    },
+    {
+      "keyword": "인공지능",
+      "task": "용역",
+      "number": "R26BK01628660-000",
+      "bidNtceNo": "R26BK01628660",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "(정책연구) 지식재산처의 지식재산 분야 인공지능 전환 정책 추진을 위한 제언 연구",
+      "agency": "지식재산처",
+      "demandAgency": "지식재산처",
+      "region": "전국",
+      "closeAt": "2026-07-24T10:00:00",
+      "postedAt": "2026-07-13T09:10:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 45454545,
+      "score": 83,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "전략→후속 연결 가능 (로드맵/정책연구)",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628660&bidPbancOrd=000",
+      "keywords": [
+        "인공지능"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01624862-000",
+      "bidNtceNo": "R26BK01624862",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI기반 통합 진료정보 요약·시각화 및 약제 의사결정지원 솔루션",
+      "agency": "부산대학교병원",
+      "demandAgency": "부산대학교병원",
+      "region": "부산",
+      "closeAt": "2026-07-21T15:00:00",
+      "postedAt": "2026-07-09T13:17:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 46245455,
+      "score": 81,
+      "grade": "A",
+      "reasons": [
+        "빅데이터+AI 동시 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01624862&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01568955-000",
+      "bidNtceNo": "R26BK01568955",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "지역신문제안사업(취재역량 강화 위한 AI 취재 지원 및 분석 시스템 구축)",
+      "agency": "(주)원주투데이신문사",
+      "demandAgency": "(주)원주투데이신문사",
+      "region": "전국",
+      "closeAt": "2026-07-21T15:00:00",
+      "postedAt": "2026-06-09T15:16:00",
+      "method": "전자입찰",
+      "industry": "SW(디지털콘텐츠)",
+      "matchedCodes": [
+        "1469"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 29000000,
+      "score": 81,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01568955&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "인공지능",
+      "task": "용역",
+      "number": "R26BK01613781-000",
+      "bidNtceNo": "R26BK01613781",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "음성인식기반 인공지능  의무기록 서비스 사업",
+      "agency": "부산대학교병원",
+      "demandAgency": "부산대학교병원",
+      "region": "부산",
+      "closeAt": "2026-08-12T15:00:00",
+      "postedAt": "2026-07-02T16:01:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 258090909,
+      "score": 80,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01613781&bidPbancOrd=000",
+      "keywords": [
+        "인공지능"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01587014-000",
+      "bidNtceNo": "R26BK01587014",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "국유재산 관리 시스템 AI전환(AX) 컨설팅",
+      "agency": "조달청 부산지방조달청",
+      "demandAgency": "한국자산관리공사",
+      "region": "부산",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-06-23T16:37:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 372710909,
+      "score": 80,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 부산지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01587014&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01618368-000",
+      "bidNtceNo": "R26BK01618368",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "온두라스 AI 기반 개인 맞춤형 복지 안내 및 상담서비스 PoC 구현 및 확산전략 수립",
+      "agency": "조달청 대구지방조달청",
+      "demandAgency": "한국지능정보사회진흥원",
+      "region": "대구",
+      "closeAt": "2026-08-05T10:00:00",
+      "postedAt": "2026-07-07T10:40:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 281268067,
+      "score": 80,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 대구지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01618368&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01620049-000",
+      "bidNtceNo": "R26BK01620049",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "구조화 중심 생활하수 활용 질병 AI 조기경보 프레임워크 개발",
+      "agency": "조달청",
+      "demandAgency": "한국과학기술정보연구원",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-07T16:42:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 345454545,
+      "score": 80,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620049&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01621034-000",
+      "bidNtceNo": "R26BK01621034",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "공단 AI·데이터 활성화 컨설팅 사업",
+      "agency": "조달청 부산지방조달청",
+      "demandAgency": "한국산업인력공단",
+      "region": "부산",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-07T17:46:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 136363636,
+      "score": 80,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 부산지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01621034&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01617835-000",
+      "bidNtceNo": "R26BK01617835",
       "bidNtceOrd": "000",
       "category": "일반",
       "title": "2026년도 고가 실험실습기자재(HPC-AI 서버) 구입",
       "agency": "조달청",
       "demandAgency": "국립군산대학교",
       "region": "전국",
-      "closeAt": "2026-07-14T10:00:00",
-      "postedAt": "2026-06-24T16:18:00",
+      "closeAt": "2026-07-24T10:00:00",
+      "postedAt": "2026-07-07T09:35:00",
       "method": "전자입찰",
-      "industry": "SW(컴퓨터관련서비스)",
+      "industry": "SW(컴퓨터관련서비스) / 기타자유업종",
       "matchedCodes": [
-        "1468"
+        "1468",
+        "9999"
       ],
       "qualificationSource": "검색조건(API)",
       "budget": 272700000,
@@ -72,7 +1574,7 @@
         "고가치 발주기관: 조달청",
         "예산 적정 (3천만~5억)"
       ],
-      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01595093&bidPbancOrd=000",
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01617835&bidPbancOrd=000",
       "keywords": [
         "AI"
       ]
@@ -80,31 +1582,3011 @@
     {
       "keyword": "AI",
       "task": "용역",
-      "number": "R26BK01616785-000",
-      "bidNtceNo": "R26BK01616785",
+      "number": "R26BK01559111-000",
+      "bidNtceNo": "R26BK01559111",
       "bidNtceOrd": "000",
-      "category": "긴급",
-      "title": "(긴급) 국립한국교통대학교 AI Computing Farm 구축",
-      "agency": "국립한국교통대학교",
-      "demandAgency": "국립한국교통대학교",
+      "category": "일반",
+      "title": "[정책,154] 손상기전별 AI 기반 손상위험 예측모델 개발 및 정책 활용 방안 연구",
+      "agency": "조달청",
+      "demandAgency": "질병관리청",
       "region": "전국",
-      "closeAt": "2026-07-16T10:00:00",
-      "postedAt": "2026-07-05T09:46:00",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-06-08T17:48:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 409090909,
+      "score": 80,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01559111&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01602494-000",
+      "bidNtceNo": "R26BK01602494",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI기반 바이오데이터 표준 추출·검증 및 표준화 기술 연구",
+      "agency": "조달청",
+      "demandAgency": "한국생명공학연구원",
+      "region": "전국",
+      "closeAt": "2026-07-23T10:00:00",
+      "postedAt": "2026-07-02T13:13:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 454545455,
+      "score": 80,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01602494&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01618036-000",
+      "bidNtceNo": "R26BK01618036",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI 기반 대체육·음료·포장 분야 시뮬레이션 모델 고도화 용역",
+      "agency": "한국식품산업클러스터진흥원",
+      "demandAgency": "한국식품산업클러스터진흥원",
+      "region": "전국",
+      "closeAt": "2026-07-28T11:00:00",
+      "postedAt": "2026-07-06T13:47:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 354545455,
+      "score": 80,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 한국식품산업클러스터진흥원",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01618036&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01618747-000",
+      "bidNtceNo": "R26BK01618747",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "지역특화산업 역량강화 제조AI 교육프로그램 개발",
+      "agency": "한국생산기술연구원",
+      "demandAgency": "한국생산기술연구원",
+      "region": "전국",
+      "closeAt": "2026-07-20T12:00:00",
+      "postedAt": "2026-07-06T15:49:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 20000000,
+      "score": 80,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "AI·데이터 리터러시 교육 키워드",
+        "고가치 발주기관: 한국생산기술연구원"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01618747&bidPbancOrd=000",
+      "keywords": [
+        "AI",
+        "교육"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01617343-000",
+      "bidNtceNo": "R26BK01617343",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2027년 AI·디지털 분야 트렌드 조사",
+      "agency": "한국지능정보사회진흥원",
+      "demandAgency": "한국지능정보사회진흥원",
+      "region": "전국",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-07T09:21:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 63610938,
+      "score": 80,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 한국지능정보사회진흥원",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01617343&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01625902-000",
+      "bidNtceNo": "R26BK01625902",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "글로벌 AI 협력 방안 수립 지원",
+      "agency": "조달청 대구지방조달청",
+      "demandAgency": "한국지능정보사회진흥원",
+      "region": "대구",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-09T18:59:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 181787454,
+      "score": 80,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 대구지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01625902&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01603425-000",
+      "bidNtceNo": "R26BK01603425",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI 기반 전력 및 지역난방 통합운영시스템 구축",
+      "agency": "한국지역난방공사",
+      "demandAgency": "한국지역난방공사",
+      "region": "전국",
+      "closeAt": "2026-08-06T14:00:00",
+      "postedAt": "2026-06-25T20:04:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 9917700000,
+      "score": 80,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01603425&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "빅데이터",
+      "task": "용역",
+      "number": "R26BK01575613-000",
+      "bidNtceNo": "R26BK01575613",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "빅데이터 통합관리시스템(With-YONSEI)재구축 사업 용역",
+      "agency": "연세대학교 미래캠퍼스",
+      "demandAgency": "연세대학교 미래캠퍼스",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-06-11T17:06:00",
       "method": "전자입찰",
       "industry": "SW(컴퓨터관련서비스)",
       "matchedCodes": [
         "1468"
       ],
       "qualificationSource": "검색조건(API)",
-      "budget": 1567272727,
-      "score": 73,
+      "budget": 263636364,
+      "score": 78,
+      "grade": "A",
+      "reasons": [
+        "빅데이터·데이터분석 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01575613&bidPbancOrd=000",
+      "keywords": [
+        "빅데이터"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01628685-000",
+      "bidNtceNo": "R26BK01628685",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "(정책연구) IP 서비스 산업 실태조사 및 AI 기반 IP 전문인력 양성 연구",
+      "agency": "지식재산처",
+      "demandAgency": "지식재산처",
+      "region": "전국",
+      "closeAt": "2026-07-24T10:00:00",
+      "postedAt": "2026-07-13T09:17:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 27272727,
+      "score": 78,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "전략→후속 연결 가능 (로드맵/정책연구)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628685&bidPbancOrd=000",
+      "keywords": [
+        "AI",
+        "양성"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01618213-000",
+      "bidNtceNo": "R26BK01618213",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "삼육보건대학교 글로벌 AID 캠퍼스 구축  용역",
+      "agency": "삼육간호보건대학 산학협력단",
+      "demandAgency": "삼육간호보건대학 산학협력단",
+      "region": "전국",
+      "closeAt": "2026-07-20T12:00:00",
+      "postedAt": "2026-07-06T14:47:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 150000000,
+      "score": 78,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "AI·데이터 리터러시 교육 키워드",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01618213&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01618963-000",
+      "bidNtceNo": "R26BK01618963",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI BIZ 크리에이터 스쿨 행사 기획 및 운영 용역",
+      "agency": "주식회사 어반플레이",
+      "demandAgency": "주식회사 어반플레이",
+      "region": "전국",
+      "closeAt": "2026-07-20T17:00:00",
+      "postedAt": "2026-07-06T17:04:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 170000000,
+      "score": 78,
+      "grade": "A",
+      "reasons": [
+        "빅데이터+AI 동시 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01618963&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01619907-000",
+      "bidNtceNo": "R26BK01619907",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI BIZ 크리에이터 스쿨 행사 기획 및 운영 용역(재공고)",
+      "agency": "주식회사 어반플레이",
+      "demandAgency": "주식회사 어반플레이",
+      "region": "전국",
+      "closeAt": "2026-07-20T17:00:00",
+      "postedAt": "2026-07-07T10:12:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 170000000,
+      "score": 78,
+      "grade": "A",
+      "reasons": [
+        "빅데이터+AI 동시 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01619907&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01628588-000",
+      "bidNtceNo": "R26BK01628588",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "[지역 주도형 AI 대전환 사업]시설 기자재(CMM검사기 자동화) 구축",
+      "agency": "퍼시픽엑스코리아주식회사",
+      "demandAgency": "퍼시픽엑스코리아주식회사",
+      "region": "대전",
+      "closeAt": "2026-07-20T17:00:00",
+      "postedAt": "2026-07-13T08:49:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 139000000,
+      "score": 78,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628588&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01622309-000",
+      "bidNtceNo": "R26BK01622309",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "(지역주도형 AI대전환)_인버터형 공기압축기 인프라구축",
+      "agency": "주식회사 케이와이",
+      "demandAgency": "주식회사 케이와이",
+      "region": "대전",
+      "closeAt": "2026-07-20T17:00:00",
+      "postedAt": "2026-07-08T10:15:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 120000000,
+      "score": 78,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01622309&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01624172-000",
+      "bidNtceNo": "R26BK01624172",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "[지역 주도형 AI 대전환 사업] 오일씰 성형 준비공정 AI기반 정렬 로봇 자동화 시스템 구축(재공고)",
+      "agency": "(주)진양오일씰",
+      "demandAgency": "(주)진양오일씰",
+      "region": "대전",
+      "closeAt": "2026-07-21T17:00:00",
+      "postedAt": "2026-07-10T10:12:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 400000000,
+      "score": 78,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01624172&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "데이터분석",
+      "task": "용역",
+      "number": "R26BK01622603-000",
+      "bidNtceNo": "R26BK01622603",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI기반 병리∙의료데이터 분석 및 연구지원 용역사업",
+      "agency": "(학)성균관대학삼성창원병원",
+      "demandAgency": "(학)성균관대학삼성창원병원",
+      "region": "전국",
+      "closeAt": "2026-07-21T17:00:00",
+      "postedAt": "2026-07-08T12:33:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 50272727,
+      "score": 76,
+      "grade": "A",
+      "reasons": [
+        "빅데이터+AI 동시 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01622603&bidPbancOrd=000",
+      "keywords": [
+        "데이터분석",
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01623506-000",
+      "bidNtceNo": "R26BK01623506",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 AI기반 업무자동화(RPA) 고도화 및 ERP 기능개선 용역",
+      "agency": "소상공인시장진흥공단",
+      "demandAgency": "소상공인시장진흥공단",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-08T16:00:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 81818182,
+      "score": 76,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01623506&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01620361-000",
+      "bidNtceNo": "R26BK01620361",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI 기반 약물 안전 및 진료 효율 시스템 임대",
+      "agency": "부산대학교병원",
+      "demandAgency": "부산대학교병원",
+      "region": "부산",
+      "closeAt": "2026-07-20T15:00:00",
+      "postedAt": "2026-07-07T13:10:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스) / 기타자유업종",
+      "matchedCodes": [
+        "1468",
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 93300000,
+      "score": 76,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620361&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01613680-000",
+      "bidNtceNo": "R26BK01613680",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "아동 관련 AI·디지털 정책 전문영향평가",
+      "agency": "국가아동권리보장원",
+      "demandAgency": "국가아동권리보장원",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-10T10:00:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 31818182,
+      "score": 76,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01613680&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "데이터분석",
+      "task": "용역",
+      "number": "R26BK01628686-000",
+      "bidNtceNo": "R26BK01628686",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "파랑 측정 및 데이터 분석",
+      "agency": "국방과학연구소",
+      "demandAgency": "국방과학연구소",
+      "region": "전국",
+      "closeAt": "2026-08-25T10:00:00",
+      "postedAt": "2026-07-13T09:21:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 80181818,
+      "score": 75,
+      "grade": "A",
+      "reasons": [
+        "빅데이터·데이터분석 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628686&bidPbancOrd=000",
+      "keywords": [
+        "데이터분석"
+      ]
+    },
+    {
+      "keyword": "데이터분석",
+      "task": "용역",
+      "number": "R26BK01628741-000",
+      "bidNtceNo": "R26BK01628741",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "무인수상정 항해 항법 센서 데이터 분석 모델 구현",
+      "agency": "국방과학연구소",
+      "demandAgency": "국방과학연구소",
+      "region": "전국",
+      "closeAt": "2026-08-25T10:00:00",
+      "postedAt": "2026-07-13T09:34:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 329727273,
+      "score": 75,
+      "grade": "A",
+      "reasons": [
+        "빅데이터·데이터분석 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628741&bidPbancOrd=000",
+      "keywords": [
+        "데이터분석"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01619248-000",
+      "bidNtceNo": "R26BK01619248",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "(267021-H)국방AI 데이터센터 실증목적 GPU구매(리스자산)",
+      "agency": "국방부 국군재정관리단",
+      "demandAgency": "국방부 국군재정관리단",
+      "region": "전국",
+      "closeAt": "2026-07-28T10:00:00",
+      "postedAt": "2026-07-06T18:03:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스) / 기타자유업종",
+      "matchedCodes": [
+        "1468",
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 1472448664,
+      "score": 75,
       "grade": "A",
       "reasons": [
         "AI 응용 사업 직접 매칭"
       ],
-      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01616785&bidPbancOrd=000",
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01619248&bidPbancOrd=000",
       "keywords": [
         "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01621075-000",
+      "bidNtceNo": "R26BK01621075",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "26년 초거대AI 확산 생태계 조성 사업 성과 조사",
+      "agency": "조달청 대구지방조달청",
+      "demandAgency": "한국지능정보사회진흥원",
+      "region": "대구",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-07T17:08:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 100072727,
+      "score": 75,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 대구지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01621075&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01611388-000",
+      "bidNtceNo": "R26BK01611388",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI 학습 및 검증을 위한 3D 이미지영상 어노테이션 및 AI 학습모델 디버깅 도구",
+      "agency": "조달청 경남지방조달청",
+      "demandAgency": "한국산업기술시험원",
+      "region": "경남",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-01T16:38:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 227272727,
+      "score": 75,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 경남지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01611388&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01625086-000",
+      "bidNtceNo": "R26BK01625086",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "[개편학과장비_전기전자교육자료] 시퀀스실습장비(31대) 및 AI응용실습장비(31대) 구매",
+      "agency": "조달청 경남지방조달청",
+      "demandAgency": "한국폴리텍7대학",
+      "region": "경남",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-10T13:37:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 132454545,
+      "score": 75,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "고가치 발주기관: 조달청 경남지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01625086&bidPbancOrd=000",
+      "keywords": [
+        "AI",
+        "교육"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01618304-000",
+      "bidNtceNo": "R26BK01618304",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI 기반 전공역량 교육과정 개발 및 운영체계 구축 용역",
+      "agency": "인덕대학",
+      "demandAgency": "인덕대학",
+      "region": "전국",
+      "closeAt": "2026-07-20T12:00:00",
+      "postedAt": "2026-07-06T15:48:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 209090909,
+      "score": 73,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01618304&bidPbancOrd=000",
+      "keywords": [
+        "AI",
+        "교육"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01624716-000",
+      "bidNtceNo": "R26BK01624716",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI & 모빌리티 창의 과학캠프 운영 위탁 용역",
+      "agency": "한서대학교",
+      "demandAgency": "한서대학교",
+      "region": "전국",
+      "closeAt": "2026-07-27T10:00:00",
+      "postedAt": "2026-07-09T10:53:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 36363636,
+      "score": 73,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01624716&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01627091-000",
+      "bidNtceNo": "R26BK01627091",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "동국대학교 AI Starter Program 교육운영 용역",
+      "agency": "동국대학교 산학협력단",
+      "demandAgency": "동국대학교 산학협력단",
+      "region": "전국",
+      "closeAt": "2026-07-21T11:00:00",
+      "postedAt": "2026-07-10T13:39:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 42727273,
+      "score": 73,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01627091&bidPbancOrd=000",
+      "keywords": [
+        "AI",
+        "교육"
+      ]
+    },
+    {
+      "keyword": "데이터분석",
+      "task": "용역",
+      "number": "R26BK01617461-000",
+      "bidNtceNo": "R26BK01617461",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "농업진흥지역 밖 농지 데이터 분석 및 등급화 용역",
+      "agency": "한국농어촌공사",
+      "demandAgency": "한국농어촌공사",
+      "region": "전국",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-06T10:58:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 843636364,
+      "score": 71,
+      "grade": "A",
+      "reasons": [
+        "빅데이터·데이터분석 직접 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01617461&bidPbancOrd=000",
+      "keywords": [
+        "데이터분석"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01615767-000",
+      "bidNtceNo": "R26BK01615767",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "방송공익광고 생각의 힘 키우기-AI생활편 제작 용역",
+      "agency": "한국방송광고진흥공사",
+      "demandAgency": "한국방송광고진흥공사",
+      "region": "전국",
+      "closeAt": "2026-07-23T11:00:00",
+      "postedAt": "2026-07-07T08:20:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 136363636,
+      "score": 71,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01615767&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01621092-000",
+      "bidNtceNo": "R26BK01621092",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026 AI 기반 지역관광 문제해결 프로젝트 홍보마케팅",
+      "agency": "한국관광공사",
+      "demandAgency": "한국관광공사",
+      "region": "전국",
+      "closeAt": "2026-07-20T15:00:00",
+      "postedAt": "2026-07-07T15:36:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 362649091,
+      "score": 71,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01621092&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01619991-000",
+      "bidNtceNo": "R26BK01619991",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "위치추적기를 활용한 AI 감수성 조류의 시공간적 질병발생 추적 연구(`26-`27)",
+      "agency": "기후에너지환경부 국립야생동물질병관리원",
+      "demandAgency": "기후에너지환경부 국립야생동물질병관리원",
+      "region": "전국",
+      "closeAt": "2026-07-21T12:00:00",
+      "postedAt": "2026-07-07T16:12:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 93636364,
+      "score": 71,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01619991&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01628695-000",
+      "bidNtceNo": "R26BK01628695",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "ARM AI 가속 연구용 서버",
+      "agency": "부경대학교 산학협력단",
+      "demandAgency": "부경대학교 산학협력단",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-13T09:24:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 54545455,
+      "score": 71,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628695&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01597190-000",
+      "bidNtceNo": "R26BK01597190",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026 AI특화 콘텐츠 창작자 양성 지원사업",
+      "agency": "(주)소이랩엑스",
+      "demandAgency": "(주)소이랩엑스",
+      "region": "전국",
+      "closeAt": "2026-08-05T15:00:00",
+      "postedAt": "2026-06-25T20:38:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 87272727,
+      "score": 70,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01597190&bidPbancOrd=000",
+      "keywords": [
+        "AI",
+        "양성"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01614566-000",
+      "bidNtceNo": "R26BK01614566",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI 기반 불공정거래 대응체계 마련사업",
+      "agency": "금융감독원",
+      "demandAgency": "금융감독원",
+      "region": "전국",
+      "closeAt": "2026-08-13T15:00:00",
+      "postedAt": "2026-07-02T18:34:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 4485509000,
+      "score": 70,
+      "grade": "A",
+      "reasons": [
+        "AI 응용 사업 직접 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01614566&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "양성",
+      "task": "용역",
+      "number": "R26BK01601728-000",
+      "bidNtceNo": "R26BK01601728",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "[RISE] 2026학년도 클라우드 기반 Business Application 인재양성 프로그램 운영 용역",
+      "agency": "경남대학교",
+      "demandAgency": "경남대학교",
+      "region": "경남",
+      "closeAt": "2026-08-05T14:00:00",
+      "postedAt": "2026-06-25T10:05:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스) / SW(디지털콘텐츠)",
+      "matchedCodes": [
+        "1468",
+        "1469"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 335789091,
+      "score": 70,
+      "grade": "A",
+      "reasons": [
+        "교육 일반 매칭",
+        "등록업종 2개 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01601728&bidPbancOrd=000",
+      "keywords": [
+        "양성"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01619251-000",
+      "bidNtceNo": "R26BK01619251",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI솔루션 실증 지원사업 수혜기업 컨설팅 용역(장기계속)",
+      "agency": "(재)광주테크노파크",
+      "demandAgency": "(재)광주테크노파크",
+      "region": "광주",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-06T17:40:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 109090909,
+      "score": 68,
+      "grade": "B",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01619251&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01614682-000",
+      "bidNtceNo": "R26BK01614682",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "전남광주통합특별시교육청 주요 정보시스템 통합 구축 ISP/BPR 수립 용역",
+      "agency": "조달청 광주지방조달청",
+      "demandAgency": "전남광주통합특별시교육청 전남청사",
+      "region": "광주",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-03T16:05:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 789683091,
+      "score": 65,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 광주지방조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01614682&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01617204-000",
+      "bidNtceNo": "R26BK01617204",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "중앙경찰학교 스마트 교육환경 구축 서버실 통합유지보수",
+      "agency": "조달청 충북지방조달청",
+      "demandAgency": "경찰청 중앙경찰학교",
+      "region": "충북",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-06T13:41:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 117943273,
+      "score": 65,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 충북지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01617204&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01617564-000",
+      "bidNtceNo": "R26BK01617564",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "교육시설 공사관리 플랫폼 유지보수 용역",
+      "agency": "조달청 인천지방조달청",
+      "demandAgency": "경기도교육청",
+      "region": "인천",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-07T14:08:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 288425455,
+      "score": 65,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 인천지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01617564&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01624131-000",
+      "bidNtceNo": "R26BK01624131",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "숭의여자대학교 기후환경 ESG 교육시설 구축 용역",
+      "agency": "숭의여자대학",
+      "demandAgency": "숭의여자대학",
+      "region": "전국",
+      "closeAt": "2026-08-20T17:00:00",
+      "postedAt": "2026-07-08T18:16:00",
+      "method": "전자입찰",
+      "industry": "SW(디지털콘텐츠) / 학술연구용역",
+      "matchedCodes": [
+        "1469",
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 600000000,
+      "score": 65,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "등록업종 2개 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01624131&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01625152-000",
+      "bidNtceNo": "R26BK01625152",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 노동감독관 수사역량 강화 교육체계 구축 및 매뉴얼 개발사업 용역",
+      "agency": "조달청 서울지방조달청",
+      "demandAgency": "한국고용노동교육원",
+      "region": "서울",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-09T15:29:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 214181818,
+      "score": 65,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 서울지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01625152&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01616103-000",
+      "bidNtceNo": "R26BK01616103",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 섬유패션기업 AI도입 실태조사",
+      "agency": "한국섬유산업연합회",
+      "demandAgency": "한국섬유산업연합회",
+      "region": "전국",
+      "closeAt": "2026-07-20T14:00:00",
+      "postedAt": "2026-07-07T09:05:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 45454545,
+      "score": 63,
+      "grade": "B",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01616103&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01623461-000",
+      "bidNtceNo": "R26BK01623461",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI반도체 기반 AX디바이스(임무카메라) 시제품 통합 개발을 위한 기개발 연계 부품 구매",
+      "agency": "한국정보통신기술협회",
+      "demandAgency": "한국정보통신기술협회",
+      "region": "전국",
+      "closeAt": "2026-07-22T16:00:00",
+      "postedAt": "2026-07-08T15:17:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 33800000,
+      "score": 63,
+      "grade": "B",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01623461&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01614548-000",
+      "bidNtceNo": "R26BK01614548",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI반도체 검증장비 전력측정기 구매",
+      "agency": "인공지능산업융합사업단",
+      "demandAgency": "인공지능산업융합사업단",
+      "region": "전국",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-08T15:24:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 96460000,
+      "score": 63,
+      "grade": "B",
+      "reasons": [
+        "AI 응용 사업 직접 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01614548&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01614362-000",
+      "bidNtceNo": "R26BK01614362",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026 서부내륙권 로컬 특화 체험관광상품 육성 역량강화 교육 컨설팅 운영 용역",
+      "agency": "재단법인 충남문화관광재단",
+      "demandAgency": "재단법인 충남문화관광재단",
+      "region": "충남",
+      "closeAt": "2026-07-23T12:00:00",
+      "postedAt": "2026-07-02T17:21:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 181818182,
+      "score": 61,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01614362&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "양성",
+      "task": "용역",
+      "number": "R26BK01597701-000",
+      "bidNtceNo": "R26BK01597701",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "GTH-B 글로벌 바이오 인력양성 허브 사업 하반기 국제협력연수 운영대행",
+      "agency": "오송첨단의료산업진흥재단",
+      "demandAgency": "오송첨단의료산업진흥재단",
+      "region": "전국",
+      "closeAt": "2026-08-03T14:00:00",
+      "postedAt": "2026-06-23T14:05:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 263636364,
+      "score": 60,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01597701&bidPbancOrd=000",
+      "keywords": [
+        "양성"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01616980-000",
+      "bidNtceNo": "R26BK01616980",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "스마트 교육환경정보시스템 구축(3차년도)",
+      "agency": "조달청",
+      "demandAgency": "재단법인한국교육환경보호원",
+      "region": "전국",
+      "closeAt": "2026-08-06T10:00:00",
+      "postedAt": "2026-07-06T11:33:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 1045454545,
+      "score": 60,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01616980&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01624091-000",
+      "bidNtceNo": "R26BK01624091",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "경남정보보호지원센터 운영 지원 및 전문교육 용역",
+      "agency": "조달청 경남지방조달청",
+      "demandAgency": "재단법인 경남테크노파크",
+      "region": "경남",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-09T10:18:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 145454545,
+      "score": 60,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 경남지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01624091&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01569189-000",
+      "bidNtceNo": "R26BK01569189",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "능력개발교육원 HRD교육팀 교재 인쇄 및 납품 용역",
+      "agency": "조달청 대전지방조달청",
+      "demandAgency": "한국기술교육대학교",
+      "region": "대전",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-06-11T09:50:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 299267700,
+      "score": 60,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "재직자·청년·HRD 대상 교육",
+        "고가치 발주기관: 조달청 대전지방조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01569189&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01623319-000",
+      "bidNtceNo": "R26BK01623319",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "AI반도체 기반 AX디바이스(상업용청소로봇) 시제품 통합 개발을 위한 기개발 연계 부품 구매",
+      "agency": "한국정보통신기술협회",
+      "demandAgency": "한국정보통신기술협회",
+      "region": "전국",
+      "closeAt": "2026-07-22T16:00:00",
+      "postedAt": "2026-07-08T14:47:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 545400000,
+      "score": 58,
+      "grade": "B",
+      "reasons": [
+        "AI 응용 사업 직접 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01623319&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "task": "용역",
+      "number": "R26BK01620259-000",
+      "bidNtceNo": "R26BK01620259",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "KAI 2026년배출권거래제 감축설비 지원사업(물품)",
+      "agency": "한국항공우주산업주식회사",
+      "demandAgency": "한국항공우주산업주식회사",
+      "region": "전국",
+      "closeAt": "2026-07-24T12:00:00",
+      "postedAt": "2026-07-13T09:06:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 1200000000,
+      "score": 58,
+      "grade": "B",
+      "reasons": [
+        "AI 응용 사업 직접 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620259&bidPbancOrd=000",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01628005-000",
+      "bidNtceNo": "R26BK01628005",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "제4교통안전체험교육센터 건립 타당성 검토 및 입지선정 연구 용역",
+      "agency": "한국교통안전공단",
+      "demandAgency": "한국교통안전공단",
+      "region": "전국",
+      "closeAt": "2026-07-21T12:00:00",
+      "postedAt": "2026-07-10T16:40:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 45363636,
+      "score": 58,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "전략→후속 연결 가능 (로드맵/정책연구)",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628005&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "양성",
+      "task": "용역",
+      "number": "R26BK01615161-000",
+      "bidNtceNo": "R26BK01615161",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "제2차 부산 생물다양성 전략 및 자연환경보전 실천계획수립 용역",
+      "agency": "부산광역시",
+      "demandAgency": "부산광역시",
+      "region": "부산",
+      "closeAt": "2026-07-24T10:00:00",
+      "postedAt": "2026-07-03T10:30:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 181818182,
+      "score": 56,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01615161&bidPbancOrd=000",
+      "keywords": [
+        "양성"
+      ]
+    },
+    {
+      "keyword": "양성",
+      "task": "용역",
+      "number": "R26BK01617727-000",
+      "bidNtceNo": "R26BK01617727",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 문화예술후원매개전문가 양성사업 운영 용역",
+      "agency": "한국문화예술위원회",
+      "demandAgency": "한국문화예술위원회",
+      "region": "전국",
+      "closeAt": "2026-07-20T16:00:00",
+      "postedAt": "2026-07-06T13:26:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 140636364,
+      "score": 56,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01617727&bidPbancOrd=000",
+      "keywords": [
+        "양성"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01617848-000",
+      "bidNtceNo": "R26BK01617848",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "국외사적지 체험형 교육 콘텐츠(영상) 개발 및 운영",
+      "agency": "국가보훈부 국립대한민국임시정부기념관",
+      "demandAgency": "국가보훈부 국립대한민국임시정부기념관",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-06T13:53:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 54545455,
+      "score": 56,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01617848&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01628452-000",
+      "bidNtceNo": "R26BK01628452",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026 온동네 돌봄·교육센터(온봄학교 돌봄교실) 위탁 운영 용역",
+      "agency": "경기도교육청 경기도동두천양주교육지원청",
+      "demandAgency": "경기도교육청 경기도동두천양주교육지원청",
+      "region": "경기",
+      "closeAt": "2026-07-24T16:00:00",
+      "postedAt": "2026-07-12T14:47:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 42000000,
+      "score": 56,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628452&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "양성",
+      "task": "용역",
+      "number": "R26BK01603969-000",
+      "bidNtceNo": "R26BK01603969",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "타워크레인 조종 경력자 양성교육",
+      "agency": "조달청",
+      "demandAgency": "국토교통부",
+      "region": "전국",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-06-30T14:14:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 309090909,
+      "score": 55,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01603969&bidPbancOrd=000",
+      "keywords": [
+        "양성",
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01618649-000",
+      "bidNtceNo": "R26BK01618649",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 문해교육종합정보시스템 고도화 사업",
+      "agency": "조달청 서울지방조달청",
+      "demandAgency": "국가평생교육진흥원",
+      "region": "서울",
+      "closeAt": "2026-07-28T10:00:00",
+      "postedAt": "2026-07-06T17:06:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 254545455,
+      "score": 55,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 서울지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01618649&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01606902-000",
+      "bidNtceNo": "R26BK01606902",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 사회적기업 온라인 교육 콘텐츠 개발 용역",
+      "agency": "조달청 서울지방조달청",
+      "demandAgency": "한국사회적기업진흥원",
+      "region": "서울",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-06-29T15:49:00",
+      "method": "전자입찰",
+      "industry": "SW(디지털콘텐츠)",
+      "matchedCodes": [
+        "1469"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 190909091,
+      "score": 55,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 서울지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01606902&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01620903-000",
+      "bidNtceNo": "R26BK01620903",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 희망리턴패키지 특화취업 기초교육 e러닝 콘텐츠 제작 용역",
+      "agency": "조달청 대전지방조달청",
+      "demandAgency": "소상공인시장진흥공단",
+      "region": "대전",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-08T10:37:00",
+      "method": "전자입찰",
+      "industry": "SW(디지털콘텐츠) / 기타자유업종",
+      "matchedCodes": [
+        "1469",
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 141038100,
+      "score": 55,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 대전지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620903&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01621335-000",
+      "bidNtceNo": "R26BK01621335",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 성인지정책교육 효과성 측정도구 개발",
+      "agency": "한국양성평등교육진흥원",
+      "demandAgency": "한국양성평등교육진흥원",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-08T16:52:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 30000000,
+      "score": 55,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 한국양성평등교육진흥원",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01621335&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01615757-000",
+      "bidNtceNo": "R26BK01615757",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "의료기술시험연수원 호흡기 내시경 교육장비 구축",
+      "agency": "조달청 대구지방조달청",
+      "demandAgency": "대구경북첨단의료산업진흥재단",
+      "region": "대구",
+      "closeAt": "2026-08-19T10:00:00",
+      "postedAt": "2026-07-07T13:31:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 1638181818,
+      "score": 55,
+      "grade": "B",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 대구지방조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01615757&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "양성",
+      "task": "용역",
+      "number": "R26BK01621856-000",
+      "bidNtceNo": "R26BK01621856",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "[재공고]2026 미래창업가 양성 프로그램 용역",
+      "agency": "경기도교육청",
+      "demandAgency": "경기도교육청",
+      "region": "경기",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-07T20:21:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 220454546,
+      "score": 51,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01621856&bidPbancOrd=000",
+      "keywords": [
+        "양성"
+      ]
+    },
+    {
+      "keyword": "양성",
+      "task": "용역",
+      "number": "R26BK01628261-000",
+      "bidNtceNo": "R26BK01628261",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "산림생물다양성 보전활동 정량 평가체계 설계 및 TNFD 적용방안 마련 연구",
+      "agency": "산림청 국립수목원",
+      "demandAgency": "산림청 국립수목원",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-10T18:39:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 45454545,
+      "score": 51,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628261&bidPbancOrd=000",
+      "keywords": [
+        "양성"
+      ]
+    },
+    {
+      "keyword": "리터러시",
+      "task": "용역",
+      "number": "R26BK01618766-000",
+      "bidNtceNo": "R26BK01618766",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 미디어 리터러시 주간-미리위크 행사 기획 및 운영 용역",
+      "agency": "한국언론진흥재단",
+      "demandAgency": "한국언론진흥재단",
+      "region": "전국",
+      "closeAt": "2026-07-21T11:00:00",
+      "postedAt": "2026-07-10T09:04:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 347272727,
+      "score": 51,
+      "grade": "C",
+      "reasons": [
+        "AI·데이터 리터러시 교육 키워드",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01618766&bidPbancOrd=000",
+      "keywords": [
+        "리터러시"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01624249-000",
+      "bidNtceNo": "R26BK01624249",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 구급 사이버교육 콘텐츠 개발",
+      "agency": "소방청",
+      "demandAgency": "소방청",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-09T14:31:00",
+      "method": "전자입찰",
+      "industry": "SW(디지털콘텐츠)",
+      "matchedCodes": [
+        "1469"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 55181818,
+      "score": 51,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01624249&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01625301-000",
+      "bidNtceNo": "R26BK01625301",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "공수처 수사역량강화 교육체계 수립 및 온라인 콘텐츠 개발",
+      "agency": "고위공직자범죄수사처",
+      "demandAgency": "고위공직자범죄수사처",
+      "region": "전국",
+      "closeAt": "2026-07-24T10:00:00",
+      "postedAt": "2026-07-09T14:53:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 54545455,
+      "score": 51,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01625301&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "양성",
+      "task": "용역",
+      "number": "R26BK01580074-000",
+      "bidNtceNo": "R26BK01580074",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026 국민대학교 RISE 사업 창조산업 인재양성 정규교과목 연계 실습캠프 운영 용역",
+      "agency": "국민대학교 산학협력단",
+      "demandAgency": "국민대학교 산학협력단",
+      "region": "전국",
+      "closeAt": "2026-07-28T10:00:00",
+      "postedAt": "2026-06-16T14:55:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 27272727,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01580074&bidPbancOrd=000",
+      "keywords": [
+        "양성"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01614740-000",
+      "bidNtceNo": "R26BK01614740",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 국가교육정책분야 원격연수 콘텐츠 개발",
+      "agency": "조달청 대구지방조달청",
+      "demandAgency": "한국교육학술정보원",
+      "region": "대구",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-03T10:52:00",
+      "method": "전자입찰",
+      "industry": "SW(디지털콘텐츠)",
+      "matchedCodes": [
+        "1469"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 718181818,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 대구지방조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01614740&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01614031-000",
+      "bidNtceNo": "R26BK01614031",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "4급 보직후보자 및 5급 승진후보자 역량교육 과제개발",
+      "agency": "과학기술정보통신부 우정사업본부 우정인재개발원",
+      "demandAgency": "과학기술정보통신부 우정사업본부 우정인재개발원",
+      "region": "전국",
+      "closeAt": "2026-07-24T10:00:00",
+      "postedAt": "2026-07-13T09:34:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역",
+      "matchedCodes": [
+        "1169"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 26363636,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 과학기술정보통신부 우정사업본부 우정인재개발원"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01614031&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01586847-000",
+      "bidNtceNo": "R26BK01586847",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "26년 재도전응원본부 재창업 특화교육·컨설팅 추진 용역",
+      "agency": "중소벤처기업진흥공단",
+      "demandAgency": "중소벤처기업진흥공단",
+      "region": "전국",
+      "closeAt": "2026-07-28T10:00:00",
+      "postedAt": "2026-06-17T14:03:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 271254545,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01586847&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01626642-000",
+      "bidNtceNo": "R26BK01626642",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "한-우즈벡 희소금속센터 고품위 상용화 소재 생산 지원사업 우즈벡 엔지니어 교육",
+      "agency": "(재)한국기계전기전자시험연구원",
+      "demandAgency": "(재)한국기계전기전자시험연구원",
+      "region": "전국",
+      "closeAt": "2026-07-21T11:00:00",
+      "postedAt": "2026-07-10T10:08:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 136363636,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: (재)한국기계전기전자시험연구원",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01626642&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01620471-000",
+      "bidNtceNo": "R26BK01620471",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "경호안전교육원 3단계사업 혼합골재(보조기층재) 구입",
+      "agency": "조달청 서울지방조달청",
+      "demandAgency": "대통령경호처",
+      "region": "서울",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-07T17:36:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 258829091,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 서울지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620471&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01617418-000",
+      "bidNtceNo": "R26BK01617418",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "한국폴리텍대학 충주캠퍼스 교육훈련장비(전력IT수배전 실습장치) 구매",
+      "agency": "조달청 충북지방조달청",
+      "demandAgency": "한국폴리텍대학 충주캠퍼스",
+      "region": "충북",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-08T09:50:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 180000000,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 충북지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01617418&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01617873-000",
+      "bidNtceNo": "R26BK01617873",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "한국폴리텍대학 충주캠퍼스 교육훈련장비(자동화PLC실습장치) 구매",
+      "agency": "조달청 충북지방조달청",
+      "demandAgency": "한국폴리텍대학 충주캠퍼스",
+      "region": "충북",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-08T09:50:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 330000000,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 충북지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01617873&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01627286-000",
+      "bidNtceNo": "R26BK01627286",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "한국폴리텍대학 충남캠퍼스 학과 개편 교육훈련장비(수배전 관련 총 7종) 구매",
+      "agency": "조달청 대전지방조달청",
+      "demandAgency": "한국폴리텍대학충남캠퍼스",
+      "region": "대전",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-10T15:42:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 112545455,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 대전지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01627286&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01627279-000",
+      "bidNtceNo": "R26BK01627279",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "한국폴리텍대학 충남캠퍼스 학과 개편 교육훈련장비(태양광 관련 총 4종) 구매",
+      "agency": "조달청 대전지방조달청",
+      "demandAgency": "한국폴리텍대학충남캠퍼스",
+      "region": "대전",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-10T15:42:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 139363636,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 대전지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01627279&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01627262-000",
+      "bidNtceNo": "R26BK01627262",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "한국폴리텍대학 충남캠퍼스 학과 개편 교육훈련장비(소방 관련 총 5종) 구매",
+      "agency": "조달청 대전지방조달청",
+      "demandAgency": "한국폴리텍대학충남캠퍼스",
+      "region": "대전",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-10T15:47:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 333636364,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 대전지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01627262&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01621315-000",
+      "bidNtceNo": "R26BK01621315",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 한국폴리텍IV대학 청주캠퍼스 개편학과(반도체시스템과) 교육훈련장비(ICP-OES) 구매",
+      "agency": "조달청 충북지방조달청",
+      "demandAgency": "한국폴리텍IV청주캠퍼스",
+      "region": "충북",
+      "closeAt": "2026-07-23T10:00:00",
+      "postedAt": "2026-07-10T17:27:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 136363636,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 충북지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01621315&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01628436-000",
+      "bidNtceNo": "R26BK01628436",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "[학과 개편 교육훈련장비] 굴착기 등 3종 4대 구매(건설기계)",
+      "agency": "조달청 대구지방조달청",
+      "demandAgency": "한국폴리텍대학남대구캠퍼스",
+      "region": "대구",
+      "closeAt": "2026-07-22T10:00:00",
+      "postedAt": "2026-07-13T10:11:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 393985455,
+      "score": 50,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 대구지방조달청",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628436&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01627649-000",
+      "bidNtceNo": "R26BK01627649",
+      "bidNtceOrd": "000",
+      "category": "긴급",
+      "title": "[긴급] 2026년 서울 서남권 IT 취업연계 및 직무교육 지원사업 취업캠프 및 교육 운영 용역",
+      "agency": "(사)중소기업기술혁신협회",
+      "demandAgency": "(사)중소기업기술혁신협회",
+      "region": "서울",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-10T16:31:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 54545455,
+      "score": 48,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01627649&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01628954-000",
+      "bidNtceNo": "R26BK01628954",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "메타버스 어린이병원 통합 환자안전 교육 플랫폼 개발",
+      "agency": "경북대학교 산학협력단",
+      "demandAgency": "경북대학교 산학협력단",
+      "region": "경북",
+      "closeAt": "2026-07-24T10:00:00",
+      "postedAt": "2026-07-13T10:28:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 54545455,
+      "score": 48,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628954&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01608277-000",
+      "bidNtceNo": "R26BK01608277",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 교육시설통합정보망 기능개선 용역",
+      "agency": "한국교육시설안전원",
+      "demandAgency": "한국교육시설안전원",
+      "region": "전국",
+      "closeAt": "2026-07-20T14:00:00",
+      "postedAt": "2026-06-30T10:24:00",
+      "method": "전자입찰",
+      "industry": "SW(컴퓨터관련서비스)",
+      "matchedCodes": [
+        "1468"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 1043636364,
+      "score": 46,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01608277&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01624973-000",
+      "bidNtceNo": "R26BK01624973",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 읍면 지역 영유아를 위한 문화예술교육 지원 용역",
+      "agency": "세종특별자치시교육청",
+      "demandAgency": "세종특별자치시교육청",
+      "region": "세종",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-09T17:36:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 160000000,
+      "score": 46,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01624973&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01627131-000",
+      "bidNtceNo": "R26BK01627131",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "한성고등학교 2학년 소규모테마형교육여행 용역 입찰 공고",
+      "agency": "서울특별시교육청 한성고등학교",
+      "demandAgency": "서울특별시교육청 한성고등학교",
+      "region": "서울",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-10T12:53:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 147836364,
+      "score": 46,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01627131&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01626833-000",
+      "bidNtceNo": "R26BK01626833",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "경륜훈련원 교육훈련용 영상 및 계측시스템 교체사업(재공고)",
+      "agency": "서울올림픽기념국민체육진흥공단 경륜경정총괄본부",
+      "demandAgency": "서울올림픽기념국민체육진흥공단 경륜경정총괄본부",
+      "region": "서울",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-10T17:56:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 408181818,
+      "score": 46,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01626833&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01628855-000",
+      "bidNtceNo": "R26BK01628855",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "경기도기술학교 북부캠퍼스 교육용 장비 및 실습재료 구매",
+      "agency": "재단법인경기도일자리재단",
+      "demandAgency": "재단법인경기도일자리재단",
+      "region": "경기",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-13T10:14:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 97961709,
+      "score": 46,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628855&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01578790-000",
+      "bidNtceNo": "R26BK01578790",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "인도네시아 모성 및 신생아 건강향상을 위한 조산사 전문교육체계 및 정책기반 강화사업(UNFPA) 심층 성과관리 용역",
+      "agency": "한국국제협력단",
+      "demandAgency": "한국국제협력단",
+      "region": "전국",
+      "closeAt": "2026-08-19T14:00:00",
+      "postedAt": "2026-06-22T17:59:00",
+      "method": "전자입찰",
+      "industry": "학술연구용역 / 기타자유업종",
+      "matchedCodes": [
+        "1169",
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 922090909,
+      "score": 45,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01578790&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01624115-000",
+      "bidNtceNo": "R26BK01624115",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "실험실습기자재(2026년도 의대교육여건개선) 의과대학 환경개선해부대 등 9종 구매",
+      "agency": "조달청 강원지방조달청",
+      "demandAgency": "강원대학교",
+      "region": "강원",
+      "closeAt": "2026-07-21T14:00:00",
+      "postedAt": "2026-07-09T16:37:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 878172727,
+      "score": 45,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "고가치 발주기관: 조달청 강원지방조달청"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01624115&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01628668-000",
+      "bidNtceNo": "R26BK01628668",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2027학년도 보은교육지원청 주관 보덕중 외 4교 표준교복 및 생활복 구매",
+      "agency": "충청북도교육청 충청북도보은교육지원청",
+      "demandAgency": "충청북도교육청 충청북도보은교육지원청",
+      "region": "전국",
+      "closeAt": "2026-07-24T10:00:00",
+      "postedAt": "2026-07-13T09:35:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 312727,
+      "score": 41,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628668&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01620768-000",
+      "bidNtceNo": "R26BK01620768",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 IBK기업은행 위탁 교육기관 선정",
+      "agency": "중소기업은행",
+      "demandAgency": "중소기업은행",
+      "region": "전국",
+      "closeAt": "2026-08-18T15:00:00",
+      "postedAt": "2026-07-07T15:29:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 1154209091,
+      "score": 40,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01620768&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01627055-000",
+      "bidNtceNo": "R26BK01627055",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "[혁신사업]건국대학교 교육만족도 및 수요도조사 대행용역",
+      "agency": "건국대학교",
+      "demandAgency": "건국대학교",
+      "region": "전국",
+      "closeAt": "2026-07-22T14:00:00",
+      "postedAt": "2026-07-10T11:35:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 45623636,
+      "score": 38,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01627055&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01628228-000",
+      "bidNtceNo": "R26BK01628228",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "2026년 우수선수 육성인력 교육 용역",
+      "agency": "대한체육회 진천선수촌",
+      "demandAgency": "대한체육회 진천선수촌",
+      "region": "전국",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-10T17:58:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 395380000,
+      "score": 38,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628228&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01618738-000",
+      "bidNtceNo": "R26BK01618738",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "경기과학기술대학교 PLC/MFEC 교육장비",
+      "agency": "경기과학기술대학교",
+      "demandAgency": "경기과학기술대학교",
+      "region": "경기",
+      "closeAt": "2026-07-21T10:00:00",
+      "postedAt": "2026-07-07T13:57:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 54545455,
+      "score": 38,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01618738&bidPbancOrd=000",
+      "keywords": [
+        "교육"
+      ]
+    },
+    {
+      "keyword": "교육",
+      "task": "용역",
+      "number": "R26BK01628887-000",
+      "bidNtceNo": "R26BK01628887",
+      "bidNtceOrd": "000",
+      "category": "일반",
+      "title": "실습선 한나라호 교육용소음저감 헤드셋",
+      "agency": "한국해양대학교",
+      "demandAgency": "한국해양대학교",
+      "region": "전국",
+      "closeAt": "2026-07-21T15:00:00",
+      "postedAt": "2026-07-13T10:20:00",
+      "method": "전자입찰",
+      "industry": "기타자유업종",
+      "matchedCodes": [
+        "9999"
+      ],
+      "qualificationSource": "검색조건(API)",
+      "budget": 59832573,
+      "score": 38,
+      "grade": "C",
+      "reasons": [
+        "교육 일반 매칭",
+        "예산 적정 (3천만~5억)"
+      ],
+      "deepLink": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01628887&bidPbancOrd=000",
+      "keywords": [
+        "교육"
       ]
     }
   ]
