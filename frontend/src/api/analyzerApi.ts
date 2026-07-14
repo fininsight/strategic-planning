@@ -1,7 +1,6 @@
 import { Notice } from "../types/notice";
 import { ProposalAnalysisPayload } from "../types/analyzer";
-
-const ANALYSIS_API_BASE_URL = import.meta.env.VITE_ANALYSIS_API_BASE_URL ?? "";
+import { apiUrl, fetchJson } from "./baseUrl";
 
 function isProposalAnalysisPayload(value: unknown): value is ProposalAnalysisPayload {
   if (!value || typeof value !== "object") {
@@ -17,30 +16,48 @@ export async function loadAnalyzerData(notice: Notice): Promise<ProposalAnalysis
   let apiError = "";
 
   try {
-    const response = await fetch(`${ANALYSIS_API_BASE_URL}/api/notices/${bidNo}/${bidOrd}/proposal-analysis`, {
+    const payload = await fetchJson<unknown>(apiUrl(`/api/notices/${bidNo}/${bidOrd}/proposal-analysis`), {
       cache: "no-store",
     });
-    if (response.ok) {
-      const payload = await response.json();
-      if (isProposalAnalysisPayload(payload)) {
-        return payload;
-      }
-      apiError = "proposalSheets_empty";
-    } else {
-      apiError = `HTTP ${response.status}`;
+    if (isProposalAnalysisPayload(payload)) {
+      return payload;
     }
+    apiError = "proposalSheets_empty";
   } catch (error) {
     apiError = error instanceof Error ? error.message : "analysis_api_unreachable";
     // Fall back to the static analysis artifact below.
   }
 
-  const response = await fetch(`data/analyses/${notice.number}.json`, { cache: "no-store" });
-  if (!response.ok) {
-    throw new Error(apiError || `HTTP ${response.status}`);
-  }
-  const analysis = (await response.json()) as { proposalSheets?: ProposalAnalysisPayload };
+  const analysis = await fetchJson<{ proposalSheets?: ProposalAnalysisPayload }>(`data/analyses/${notice.number}.json`, {
+    cache: "no-store",
+  });
   if (!isProposalAnalysisPayload(analysis.proposalSheets)) {
     throw new Error(apiError || "proposalSheets_not_found");
   }
   return analysis.proposalSheets;
+}
+
+export async function loadChecklistState(bidNo: string, bidOrd: string): Promise<Record<string, boolean>> {
+  const payload = await fetchJson<{ checks?: Record<string, boolean> }>(
+    apiUrl(`/api/notices/${bidNo}/${bidOrd}/checklist-state`),
+    { cache: "no-store" },
+  );
+  return payload.checks ?? {};
+}
+
+export async function saveChecklistState(
+  bidNo: string,
+  bidOrd: string,
+  checks: Record<string, boolean>,
+): Promise<Record<string, boolean>> {
+  const response = await fetch(apiUrl(`/api/notices/${bidNo}/${bidOrd}/checklist-state`), {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ checks }),
+  });
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
+  const payload = (await response.json()) as { checks?: Record<string, boolean> };
+  return payload.checks ?? checks;
 }

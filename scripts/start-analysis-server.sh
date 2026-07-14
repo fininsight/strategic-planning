@@ -10,4 +10,6 @@ if [ ! -x "$PYTHON_BIN" ]; then
 fi
 
 export PYTHONPATH="${ROOT_DIR}/backend"
-exec "$PYTHON_BIN" -m app.api.analysis_server
+exec "$PYTHON_BIN" -m uvicorn app.main:app \
+  --host "${ANALYSIS_HOST:-127.0.0.1}" \
+  --port "${ANALYSIS_PORT:-8787}"

@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="900" viewBox="0 0 1280 900" role="img" aria-labelledby="title desc">
+  <title id="title">FI Strategic Planning System Architecture</title>
+  <desc id="desc">Architecture diagram for the React frontend, Python analysis API, scanner pipeline, cache, database, Docker services, and external integrations.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#30445c"/>
+    </marker>
+    <style>
+      .bg { fill: #f7f9fc; }
+      .title { font: 700 28px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #172033; }
+      .subtitle { font: 500 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #5c6b7a; }
+      .group { fill: #ffffff; stroke: #ccd6e2; stroke-width: 1.5; rx: 10; }
+      .groupTitle { font: 700 16px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #24344d; }
+      .box { fill: #ffffff; stroke: #93a4b8; stroke-width: 1.3; rx: 8; }
+      .frontend { fill: #e8f4ff; stroke: #4b8fd8; }
+      .backend { fill: #eef8ef; stroke: #4f9c63; }
+      .storage { fill: #fff6df; stroke: #d39a2e; }
+      .external { fill: #f4ecff; stroke: #8c65c9; }
+      .ops { fill: #edf0f5; stroke: #6b7789; }
+      .text { font: 600 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #172033; }
+      .small { font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #405064; }
+      .tiny { font: 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #5d6b7a; }
+      .arrow { stroke: #30445c; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+      .dash { stroke-dasharray: 6 5; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1280" height="900"/>
+  <text class="title" x="48" y="56">FI Strategic Planning 시스템 아키텍처</text>
+  <text class="subtitle" x="48" y="82">나라장터 공고 수집, 필터링, 첨부파일 분석, 제안 전략 수립을 위한 Vite React + Python API + Postgres/Docker 구성</text>
+
+  <rect class="group" x="44" y="116" width="350" height="300"/>
+  <text class="groupTitle" x="66" y="148">Frontend Container</text>
+  <rect class="box frontend" x="70" y="170" width="298" height="62"/>
+  <text class="text" x="92" y="196">React + TypeScript SPA</text>
+  <text class="small" x="92" y="216">App.tsx 탭 상태: 대시보드, 모니터링, 분석, 전략</text>
+  <rect class="box frontend" x="70" y="252" width="298" height="62"/>
+  <text class="text" x="92" y="278">API Client Layer</text>
+  <text class="small" x="92" y="298">/api 우선 호출, 실패 시 /data JSON fallback</text>
+  <rect class="box frontend" x="70" y="334" width="298" height="54"/>
+  <text class="text" x="92" y="358">Nginx Static + Reverse Proxy</text>
+  <text class="small" x="92" y="378">/api → api:8787, /data → 정적 파일</text>
+
+  <rect class="group" x="466" y="116" width="370" height="420"/>
+  <text class="groupTitle" x="488" y="148">Backend API Container</text>
+  <rect class="box backend" x="492" y="170" width="318" height="58"/>
+  <text class="text" x="514" y="195">ThreadingHTTPServer</text>
+  <text class="small" x="514" y="215">app.api.analysis_server, port 8787</text>
+  <rect class="box backend" x="492" y="248" width="318" height="58"/>
+  <text class="text" x="514" y="273">Document Pipeline</text>
+  <text class="small" x="514" y="293">download → viewer 변환 → 텍스트 추출</text>
+  <rect class="box backend" x="492" y="326" width="318" height="58"/>
+  <text class="text" x="514" y="351">Analysis Pipeline</text>
+  <text class="small" x="514" y="371">룰/LLM 요약, 체크리스트, 배점표, 매핑</text>
+  <rect class="box backend" x="492" y="404" width="318" height="58"/>
+  <text class="text" x="514" y="429">Market Research / Company Knowledge</text>
+  <text class="small" x="514" y="449">웹검색형 LLM 리서치 + 회사자료 RAG 준비</text>
+  <rect class="box backend" x="492" y="482" width="318" height="32"/>
+  <text class="small" x="514" y="503">파일 응답: /api/notices/:no/:ord/files/:id</text>
+
+  <rect class="group" x="890" y="116" width="342" height="300"/>
+  <text class="groupTitle" x="912" y="148">External Services</text>
+  <rect class="box external" x="916" y="170" width="290" height="58"/>
+  <text class="text" x="938" y="195">나라장터 OpenAPI</text>
+  <text class="small" x="938" y="215">공고 목록, 상세, 자격 정보 수집</text>
+  <rect class="box external" x="916" y="248" width="290" height="58"/>
+  <text class="text" x="938" y="273">나라장터 웹 첨부파일</text>
+  <text class="small" x="938" y="293">Chrome DevTools 다운로드 스크립트</text>
+  <rect class="box external" x="916" y="326" width="290" height="58"/>
+  <text class="text" x="938" y="351">OpenAI-compatible LLM API</text>
+  <text class="small" x="938" y="371">OPENAI_API_KEY 또는 LLM_API_KEY</text>
+
+  <rect class="group" x="44" y="468" width="380" height="318"/>
+  <text class="groupTitle" x="66" y="500">Scanner / Batch Pipeline</text>
+  <rect class="box backend" x="70" y="522" width="328" height="54"/>
+  <text class="text" x="92" y="546">python -m app.services.scanner</text>
+  <text class="small" x="92" y="566">키워드 검색, hard filter, 자격 필터, 점수화</text>
+  <rect class="box backend" x="70" y="596" width="328" height="54"/>
+  <text class="text" x="92" y="620">Dashboard Exporter / Excel Writer</text>
+  <text class="small" x="92" y="640">notices.json, reports/*.xlsx 생성</text>
+  <rect class="box ops" x="70" y="670" width="328" height="54"/>
+  <text class="text" x="92" y="694">GitHub Actions</text>
+  <text class="small" x="92" y="714">매주 월요일 09:00 KST develop 데이터 갱신</text>
+  <rect class="box backend" x="70" y="744" width="328" height="24"/>
+  <text class="tiny" x="92" y="761">선택: 상위 공고 첨부파일 사전 분석</text>
+
+  <rect class="group" x="466" y="586" width="370" height="200"/>
+  <text class="groupTitle" x="488" y="618">Storage</text>
+  <rect class="box storage" x="492" y="640" width="318" height="44"/>
+  <text class="text" x="514" y="666">frontend/public/data/*.json</text>
+  <rect class="box storage" x="492" y="700" width="318" height="44"/>
+  <text class="text" x="514" y="726">/data 또는 .local-data 파일 캐시</text>
+  <rect class="box storage" x="492" y="760" width="318" height="44"/>
+  <text class="text" x="514" y="786">Postgres 16</text>
+
+  <rect class="group" x="890" y="468" width="342" height="318"/>
+  <text class="groupTitle" x="912" y="500">Docker Runtime</text>
+  <rect class="box ops" x="916" y="522" width="290" height="54"/>
+  <text class="text" x="938" y="546">frontend</text>
+  <text class="small" x="938" y="566">node build → nginx, host 80/8080</text>
+  <rect class="box ops" x="916" y="596" width="290" height="54"/>
+  <text class="text" x="938" y="620">api</text>
+  <text class="small" x="938" y="640">python:3.11 + chromium + node/npm</text>
+  <rect class="box ops" x="916" y="670" width="290" height="54"/>
+  <text class="text" x="938" y="694">postgres / pgadmin</text>
+  <text class="small" x="938" y="714">DB volume, pgAdmin localhost:5050</text>
+  <rect class="box ops" x="916" y="744" width="290" height="24"/>
+  <text class="tiny" x="938" y="761">override: 로컬 볼륨 ./.local-data 사용</text>
+
+  <path class="arrow" d="M 368 283 C 420 283 430 199 492 199"/>
+  <path class="arrow" d="M 368 362 C 430 362 430 662 492 662"/>
+  <path class="arrow" d="M 810 199 C 854 199 870 199 916 199"/>
+  <path class="arrow" d="M 810 277 C 850 277 868 277 916 277"/>
+  <path class="arrow" d="M 810 355 C 850 355 868 355 916 355"/>
+  <path class="arrow" d="M 234 522 C 234 448 492 448 492 355"/>
+  <path class="arrow" d="M 398 623 C 438 623 452 662 492 662"/>
+  <path class="arrow" d="M 398 697 C 438 697 452 782 492 782"/>
+  <path class="arrow" d="M 651 514 C 651 560 651 590 651 640"/>
+  <path class="arrow dash" d="M 810 782 C 858 782 868 697 916 697"/>
+  <path class="arrow dash" d="M 916 620 C 862 620 850 433 810 433"/>
+
+  <text class="tiny" x="48" y="842">핵심 흐름: 사용자는 React 화면에서 공고를 선택하고, 프론트 API 클라이언트가 /api를 호출합니다. API는 캐시/DB를 확인한 뒤 필요하면 나라장터 첨부파일을 다운로드하고 문서 분석 JSON을 생성합니다.</text>
+  <text class="tiny" x="48" y="864">운영 흐름: GitHub Actions 또는 scanner CLI가 공고 목록을 갱신하고, Docker 환경에서는 Nginx가 정적 프론트와 API 프록시를 함께 제공합니다.</text>
+</svg>

@@ -21,6 +21,7 @@ services:
       API_ORIGIN: ""
       OPPORTUNITY_ATTACHMENT_DIR: /data/attachments
       OPPORTUNITY_ANALYSIS_DIR: /data/analyses
+      COMPANY_KNOWLEDGE_DIR: /data/company-knowledge
       DATABASE_URL: postgresql://fi:${POSTGRES_PASSWORD:-change_me}@postgres:5432/fi_strategic_planning
       CHROME_PROFILE_ROOT: /tmp
       CHROME_HEADLESS_ARG: "--headless"
@@ -28,6 +29,7 @@ services:
     volumes:
       - /data/fi-strategic-planning/attachments:/data/attachments
       - /data/fi-strategic-planning/analyses:/data/analyses
+      - /data/fi-strategic-planning/company-knowledge:/data/company-knowledge
       - /data/fi-strategic-planning/logs:/app/logs
     shm_size: "1gb"
     security_opt:

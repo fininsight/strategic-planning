@@ -53,7 +53,8 @@ def chat_json(messages: list[dict], timeout: int = 45) -> dict:
         json={
             "model": os.getenv("LLM_MODEL", "gpt-4o-mini"),
             "messages": messages,
-            "temperature": 0.2,
+            "temperature": 0,
+            "max_tokens": int(os.getenv("LLM_MAX_TOKENS", "12000")),
             "response_format": {"type": "json_object"},
         },
         timeout=timeout,
@@ -202,4 +203,3 @@ def llm_notice_insights(text: str, summary: dict) -> dict:
         summary["insightSource"] = "rule"
         summary["insightError"] = str(exc)
     return summary
-
