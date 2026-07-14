@@ -2,13 +2,14 @@ import { useState } from "react";
 import AnalyzerPage from "./pages/analyzer/AnalyzerPage";
 import DashboardPage from "./pages/dashboard/DashboardPage";
 import MonitoringPage from "./pages/monitoring/MonitoringPage";
+import StrategyPage from "./pages/strategy/StrategyPage";
 import { Notice } from "./types/notice";
 
 function App() {
   const [activeTab, setActiveTab] = useState("대시보드");
   const [selectedNotice, setSelectedNotice] = useState<Notice | null>(null);
 
-  const tabs = ["대시보드", "모니터링", "분석", "제안서", "파트너"];
+  const tabs = ["대시보드", "모니터링", "분석", "전략 수립", "제안서", "파트너"];
 
   return (
     <div className="layout">
@@ -85,7 +86,8 @@ function App() {
           </>
         )}
         {activeTab === "분석" && <AnalyzerPage selectedNotice={selectedNotice} />}
-        {activeTab !== "대시보드" && activeTab !== "모니터링" && activeTab !== "분석" && (
+        {activeTab === "전략 수립" && <StrategyPage selectedNotice={selectedNotice} />}
+        {activeTab !== "대시보드" && activeTab !== "모니터링" && activeTab !== "분석" && activeTab !== "전략 수립" && (
           <>
             <header className="topbar">
               <div className="titleRow">

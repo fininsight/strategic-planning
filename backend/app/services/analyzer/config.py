@@ -2,7 +2,11 @@ import os
 import shutil
 from pathlib import Path
 
-from dotenv import load_dotenv
+try:
+    from dotenv import load_dotenv
+except ImportError:  # pragma: no cover - optional in minimal local runtimes
+    def load_dotenv(*args, **kwargs):
+        return False
 
 PROJECT_ROOT = Path(__file__).resolve().parents[4]
 load_dotenv(PROJECT_ROOT / ".env")
@@ -22,6 +26,13 @@ _attachment_dir = Path(
 )
 CACHE_DIR = _attachment_dir if _attachment_dir.is_absolute() else PROJECT_ROOT / _attachment_dir
 PUBLIC_FILE_BASE = os.getenv("OPPORTUNITY_PUBLIC_FILE_BASE", "")
+_company_knowledge_dir = Path(
+    os.getenv(
+        "COMPANY_KNOWLEDGE_DIR",
+        str(PROJECT_ROOT / ".local-data" / "company-knowledge"),
+    )
+)
+COMPANY_KNOWLEDGE_DIR = _company_knowledge_dir if _company_knowledge_dir.is_absolute() else PROJECT_ROOT / _company_knowledge_dir
 DOWNLOAD_SCRIPT = PROJECT_ROOT / "scripts" / "download-g2b-attachments.mjs"
 
 
@@ -41,5 +52,5 @@ def _chrome_path() -> Path:
 
 
 CHROME_PATH = _chrome_path()
-ANALYSIS_VERSION = 20
-API_ORIGIN = os.getenv("API_ORIGIN", "http://127.0.0.1:8787")
+ANALYSIS_VERSION = 30
+API_ORIGIN = os.getenv("API_ORIGIN", "")

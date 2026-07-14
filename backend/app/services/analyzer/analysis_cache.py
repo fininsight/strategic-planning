@@ -10,6 +10,7 @@ from .config import ANALYSIS_VERSION, API_ORIGIN, CACHE_DIR, PROJECT_ROOT, PUBLI
 from .document_converter import viewer_file
 from .g2b_document_downloader import attachment_payload, download_g2b_attachments
 from .llm_analyzer import document_kind, llm_document_analysis, rule_document_analysis, summarize_notice
+from .proposal_mapping_analyzer import generate_proposal_mapping
 from .proposal_sheet_analyzer import generate_proposal_sheets
 from .text_extractor import extract_document_text, extract_pdf_text, is_text_like_document
 from app.services.storage import database
@@ -140,7 +141,7 @@ def _public_or_api_file_url(bid_no: str, bid_ord: str, idx: int, file_path: Path
             return f"{PUBLIC_FILE_BASE.rstrip('/')}/{relative.as_posix()}"
         except ValueError:
             return f"{PUBLIC_FILE_BASE.rstrip('/')}/{file_path.name}"
-    return f"{API_ORIGIN}/api/notices/{bid_no}/{bid_ord}/{api_kind}/{idx}"
+    return f"{API_ORIGIN.rstrip('/')}/api/notices/{bid_no}/{bid_ord}/{api_kind}/{idx}"
 
 
 def _refresh_converted_pdf_text(payload: dict) -> bool:
@@ -248,9 +249,9 @@ def _patch_document_urls(payload: dict, bid_no: str, bid_ord: str) -> dict:
             not viewer_path.exists() or not _is_cache_path(viewer_path)
         )
         if file_missing:
-            document["originalFileUrl"] = f"{API_ORIGIN}/api/notices/{bid_no}/{bid_ord}/original-files/{idx}"
+            document["originalFileUrl"] = f"{API_ORIGIN.rstrip('/')}/api/notices/{bid_no}/{bid_ord}/original-files/{idx}"
         if viewer_missing:
-            document["fileUrl"] = f"{API_ORIGIN}/api/notices/{bid_no}/{bid_ord}/files/{idx}"
+            document["fileUrl"] = f"{API_ORIGIN.rstrip('/')}/api/notices/{bid_no}/{bid_ord}/files/{idx}"
             document["pdfUrl"] = document["fileUrl"]
     return patched
 
@@ -395,6 +396,7 @@ def analyze_notice(bid_no: str, bid_ord: str) -> dict:
 
     payload["summary"] = summarize_notice("\n\n".join(combined_text_parts))
     payload["proposalSheets"] = generate_proposal_sheets(payload, use_llm=True)
+    payload["proposalMapping"] = generate_proposal_mapping(payload)
     payload["status"] = "completed"
     payload["analyzedAt"] = datetime.now().isoformat()
 
@@ -403,3 +405,50 @@ def analyze_notice(bid_no: str, bid_ord: str) -> dict:
     database.record_document_payloads(bid_no, bid_ord, payload.get("documents", []), ANALYSIS_VERSION)
     database.record_notice_analysis(bid_no, bid_ord, payload, ANALYSIS_VERSION)
     return payload
+
+
+def get_market_research(bid_no: str, bid_ord: str, *, refresh: bool = False) -> dict:
+    """웹검색 기반 시장·경쟁 리서치를 분석 캐시에 저장해 재사용한다."""
+    key = f"{bid_no}-{bid_ord}"
+    cache_path = WEB_ANALYSIS_DIR / f"{key}.json"
+
+    with _prepare_lock(f"{key}:market-research"):
+        payload = analyze_notice(bid_no, bid_ord)
+        cached = payload.get("marketResearch")
+        if (
+            not refresh
+            and isinstance(cached, dict)
+            and cached.get("sourceMode") == "web_ai"
+            and _has_visible_market_research(cached)
+            and _has_company_evidence_schema(cached)
+        ):
+            return cached
+
+        from .market_research_analyzer import generate_market_research
+
+        research = generate_market_research(payload)
+        if research.get("sourceMode") == "web_ai":
+            payload["marketResearch"] = research
+            payload["marketResearchCachedAt"] = datetime.now().isoformat()
+            WEB_ANALYSIS_DIR.mkdir(parents=True, exist_ok=True)
+            cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+        return research
+
+
+def _has_visible_market_research(research: dict) -> bool:
+    for key in ("competitors", "precedents", "marketStats", "trends", "advantages", "factChecks"):
+        items = research.get(key)
+        if not isinstance(items, list):
+            continue
+        for item in items:
+            if not isinstance(item, dict):
+                continue
+            for value in item.values():
+                if isinstance(value, str) and value.strip():
+                    return True
+    return False
+
+
+def _has_company_evidence_schema(research: dict) -> bool:
+    """RAG 도입 전 생성된 시장조사 캐시는 회사자료 근거가 없어 재생성한다."""
+    return isinstance(research.get("companyEvidence"), list)

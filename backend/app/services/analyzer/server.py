@@ -1,4 +1,4 @@
-from app.api.analysis_server import main
+from app.main import main
 
 
 if __name__ == "__main__":
