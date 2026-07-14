@@ -229,6 +229,7 @@ frontend/.vite/
 .cache/
 logs/
 reports/
+.local-data/
 frontend/public/data/analyses/
 frontend/public/data/attachments/
 
