@@ -64,9 +64,11 @@ export async function loadStrategyMarketResearchData(notice: Notice, refresh = f
   let apiError = "";
 
   try {
-    const payload = await fetchJson<unknown>(apiUrl(`/api/notices/${bidNo}/${bidOrd}/market-research${refresh ? "?refresh=1" : ""}`), {
-      cache: "no-store",
-    });
+    const payload = await fetchJsonWithTimeout<unknown>(
+      apiUrl(`/api/notices/${bidNo}/${bidOrd}/market-research${refresh ? "?refresh=1" : ""}`),
+      { cache: "no-store" },
+      90000,
+    );
     if (isStrategyResearchPayload(payload)) {
       return payload;
     }
@@ -86,6 +88,21 @@ export async function loadStrategyMarketResearchData(notice: Notice, refresh = f
     // Use generated fallback below.
   }
   return buildMarketResearchFallback(notice, apiError);
+}
+
+async function fetchJsonWithTimeout<T>(url: string, init: RequestInit, timeoutMs: number): Promise<T> {
+  const controller = new AbortController();
+  const timeoutId = window.setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    return await fetchJson<T>(url, { ...init, signal: controller.signal });
+  } catch (error) {
+    if (error instanceof DOMException && error.name === "AbortError") {
+      throw new Error("시장·경쟁 리서치 생성 시간이 길어져 중단했습니다. 잠시 후 재조사하거나 서버 로그를 확인해주세요.");
+    }
+    throw error;
+  } finally {
+    window.clearTimeout(timeoutId);
+  }
 }
 
 function buildProposalMappingFromSheets(notice: Notice, sheets: ProposalAnalysisPayload): ProposalMappingPayload {
@@ -307,21 +324,3 @@ function buildTocFromMappings(requirements: RequirementMapping[], plans: Scoring
       })),
     },
     {
-      proposalType: "qualitative",
-      title: "정성제안서",
-      children: [
-        "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
-        "정성제안서 Ⅱ. 제안 전략 및 차별화 방향",
-        "정성제안서 Ⅲ. 요구사항별 이행 방안",
-        "정성제안서 Ⅳ. 운영 및 확산 계획",
-        "정성제안서 Ⅴ. 수행조직 및 투입인력",
-        "정성제안서 Ⅵ. 품질·보안·위험관리",
-      ].map((section) => ({
-        title: section.replace("정성제안서 ", ""),
-        section,
-        requirementCodes: codes(section),
-        recommendedPages: pages.get(section) ?? 3,
-      })),
-    },
-  ];
-}

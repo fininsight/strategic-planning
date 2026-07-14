@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import os
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from typing import Any
 
@@ -71,14 +72,24 @@ def generate_market_research(payload: dict[str, Any]) -> dict[str, Any]:
 
 
 def _responses_web_search_json(prompt: str) -> dict[str, Any]:
-    return _responses_json(prompt, purpose="web_search", use_web=True)
+    return _responses_json(
+        prompt,
+        purpose="web_search",
+        use_web=True,
+        timeout=int(os.getenv("WEB_RESEARCH_TIMEOUT", "30")),
+    )
 
 
 def _responses_analysis_json(prompt: str) -> dict[str, Any]:
-    return _responses_json(prompt, purpose="analysis", use_web=False)
+    return _responses_json(
+        prompt,
+        purpose="analysis",
+        use_web=False,
+        timeout=int(os.getenv("RESEARCH_ANALYSIS_TIMEOUT", "45")),
+    )
 
 
-def _responses_json(prompt: str, *, purpose: str, use_web: bool) -> dict[str, Any]:
+def _responses_json(prompt: str, *, purpose: str, use_web: bool, timeout: int) -> dict[str, Any]:
     payloads = _response_payloads(prompt, purpose=purpose, use_web=use_web)
     last_error: Exception | None = None
     for body in payloads:
@@ -87,7 +98,7 @@ def _responses_json(prompt: str, *, purpose: str, use_web: bool) -> dict[str, An
                 os.getenv("LLM_RESPONSES_URL", "https://api.openai.com/v1/responses"),
                 headers={"Authorization": f"Bearer {api_key()}", "Content-Type": "application/json"},
                 json=body,
-                timeout=int(os.getenv("WEB_RESEARCH_TIMEOUT", "120")),
+                timeout=timeout,
             )
             response.raise_for_status()
             return _parse_response_json(response.json())
@@ -185,21 +196,21 @@ def _build_research_queries(payload: dict[str, Any], project_name: str) -> dict[
         },
         "competitors": [
             f'"{project_name}" 수주 기업',
-            f'"{domain}" 사업 주요 기업',
-            f'"{agency}" "{domain}" 계약',
-            f'"{keyword_text}" 공공 SI 수주사',
-            f'"{keyword_text}" 컨소시엄 주관사',
+            f'"{project_name}" 입찰 결과',
+            f'"{domain}" 기본계획 타당성 조사 수행사',
+            f'"{agency}" "{domain}" 용역 계약',
+            f'"{keyword_text}" 컨설팅 수주사',
         ],
         "precedents": [
-            f'"{agency}" "{domain}" 구축 사업',
-            f'"{domain}" 유사 공공사업 수주 결과',
+            f'"{domain}" 기본계획 타당성 조사 용역',
+            f'"{domain}" 마스터플랜 수립 용역 수주',
             f'"{keyword_text}" 나라장터 입찰 결과',
             f'"{keyword_text}" 제안요청서 수주사',
         ],
         "marketTrends": [
-            f'"{domain}" 시장 규모 성장률 2024 2025',
-            f'"{domain}" 공공부문 정책 동향',
-            f'"{keyword_text}" 기술 트렌드 NIA NIPA ETRI',
+            f'"{domain}" 정책 동향 2024 2025',
+            f'"{domain}" 정부 지원사업 공모 2024 2025',
+            f'"{keyword_text}" 시장 규모 성장률 2024 2025',
             f'"{keyword_text}" 법령 고시 표준',
         ],
         "companyPositioning": [
@@ -208,7 +219,7 @@ def _build_research_queries(payload: dict[str, Any], project_name: str) -> dict[
             f'"{company_name}" 인증 솔루션 공공 AI',
         ],
         "factCheck": [
-            "KOSIS 통계청 공공 데이터 AI 시장 규모",
+            f'"{project_name}" 사업금액 사업기간',
             "나라장터 입찰결과 수주사 계약금액",
             "법제처 국가법령정보센터 관련 법령 고시",
             "NIA NIPA ETRI KISTI TTA 기술 동향 보고서",
@@ -258,31 +269,47 @@ def _collect_web_evidence(payload: dict[str, Any], project_name: str, research_q
     output: list[dict[str, Any]] = []
     warnings: list[str] = []
 
-    for category, label, queries, objective in groups[:limit]:
+    def collect_group(group: tuple[str, str, Any, str]) -> dict[str, Any]:
+        category, label, queries, objective = group
         query_list = [str(item) for item in _list(queries) if str(item).strip()][:5]
         if not query_list:
-            continue
+            return {"category": category, "label": label, "queries": [], "findings": [], "warnings": ["검색어가 비어 있습니다."]}
         prompt = _web_evidence_prompt(payload, project_name, category, label, objective, query_list)
         try:
             result = _responses_web_search_json(prompt)
         except Exception as exc:
-            warnings.append(f"{label} 웹검색 수집 실패: {exc}")
-            output.append({"category": category, "label": label, "queries": query_list, "findings": [], "warnings": [str(exc)]})
-            continue
+            return {"category": category, "label": label, "queries": query_list, "findings": [], "warnings": [f"검색 timeout 또는 실패: {exc}"]}
 
         findings = _normalize_web_findings(_pick_list(result, "findings", "results", "evidence", "items"), category)
         group_warnings = [str(item) for item in _pick_list(result, "warnings", "notes") if str(item).strip()][:4]
         if not findings:
             group_warnings.append("출처 URL이 있는 검색 결과를 확보하지 못했습니다.")
-        output.append(
-            {
-                "category": category,
-                "label": label,
-                "queries": _string_list(result.get("queries") or query_list) or query_list,
-                "findings": findings,
-                "warnings": group_warnings,
-            }
-        )
+        return {
+            "category": category,
+            "label": label,
+            "queries": _string_list(result.get("queries") or query_list) or query_list,
+            "findings": findings,
+            "warnings": group_warnings,
+        }
+
+    selected_groups = groups[:limit]
+    workers = max(1, min(len(selected_groups), int(os.getenv("WEB_RESEARCH_PARALLELISM", "4"))))
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        future_map = {executor.submit(collect_group, group): group for group in selected_groups}
+        collected: dict[str, dict[str, Any]] = {}
+        for future in as_completed(future_map):
+            category, label, _, _ = future_map[future]
+            try:
+                result = future.result()
+            except Exception as exc:
+                result = {"category": category, "label": label, "queries": [], "findings": [], "warnings": [f"검색 timeout 또는 실패: {exc}"]}
+            if result.get("warnings") and not result.get("findings"):
+                warnings.append(f"{label} 웹검색 수집 실패: {'; '.join(_string_list(result.get('warnings'))[:2])}")
+            collected[category] = result
+
+    for category, _, _, _ in selected_groups:
+        if category in collected:
+            output.append(collected[category])
     return {"generatedAt": datetime.now(timezone.utc).isoformat(), "groups": output, "warnings": warnings}
 
 
@@ -1215,22 +1242,4 @@ def _company_insight_sentence(company_evidence: dict[str, Any]) -> str:
     if "주요 수행실적" in doc_types or any(keyword in evidence_text for keyword in ("수행", "실적", "구축", "운영")):
         insights.append("유사 사업 수행 경험을 근거로 착수, 구축, 운영 전환 단계의 리스크를 줄이는 실행 계획을 제시할 수 있습니다.")
     if "인력/조직" in doc_types or any(keyword in evidence_text for keyword in ("인력", "조직", "전담", "PM", "전문가")):
-        insights.append("역할별 투입체계와 전문 인력을 앞세워 발주기관 대응 속도와 수행 안정성을 강조할 수 있습니다.")
-    if "인증/자격" in doc_types or any(keyword in evidence_text for keyword in ("인증", "자격", "보안", "품질")):
-        insights.append("보안·품질 관련 증빙을 활용해 공공사업 평가에서 요구되는 신뢰성과 관리 역량을 보강할 수 있습니다.")
-    if not insights:
-        insights.append("보유 솔루션과 수행 역량을 요구사항별 고객 가치로 정리하되, 실적·인증·정량 수치는 확인 가능한 증빙을 보강해야 합니다.")
-    return " ".join(insights[:2])
-
-
-def _infer_project_domain(text: str) -> str:
-    lowered = text.lower()
-    if any(keyword in lowered for keyword in ("rag", "llm", "생성형", "인공지능", "ai", "에이전트")):
-        return "생성형 AI·지식활용 플랫폼"
-    if any(keyword in lowered for keyword in ("빅데이터", "데이터", "분석", "통계")):
-        return "데이터 분석·플랫폼"
-    if any(keyword in lowered for keyword in ("클라우드", "서버", "gpu", "인프라")):
-        return "AI 인프라·클라우드"
-    if any(keyword in lowered for keyword in ("홈페이지", "포털", "웹", "콘텐츠")):
-        return "웹서비스·콘텐츠 플랫폼"
-    return "공공 정보화"
+        i
