@@ -10,7 +10,7 @@ import requests
 
 from app.services.knowledge.company_knowledge import retrieve_company_evidence
 
-from .llm_analyzer import api_key, clip
+from .llm_analyzer import api_key, clip, llm_model
 
 
 def generate_market_research(payload: dict[str, Any]) -> dict[str, Any]:
@@ -126,7 +126,7 @@ def _response_payloads(prompt: str, *, purpose: str, use_web: bool) -> list[dict
 
 
 def _research_model(_: str) -> str:
-    return "gpt-5"
+    return llm_model()
 
 
 def _env_truthy(name: str, default: bool) -> bool:

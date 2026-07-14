@@ -42,6 +42,13 @@ def api_key() -> str:
     return os.getenv("LLM_API_KEY") or os.getenv("OPENAI_API_KEY") or ""
 
 
+def llm_model() -> str:
+    model = os.getenv("LLM_MODEL", "").strip()
+    if not model:
+        raise RuntimeError("LLM_MODEL 환경변수가 설정되지 않았습니다.")
+    return model
+
+
 def chat_json(messages: list[dict], timeout: int = 45) -> dict:
     key = api_key()
     if not key:
@@ -51,7 +58,7 @@ def chat_json(messages: list[dict], timeout: int = 45) -> dict:
         os.getenv("LLM_BASE_URL", "https://api.openai.com/v1/chat/completions"),
         headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
         json={
-            "model": os.getenv("LLM_MODEL", "gpt-4o-mini"),
+            "model": llm_model(),
             "messages": messages,
             "temperature": 0,
             "max_tokens": int(os.getenv("LLM_MAX_TOKENS", "12000")),
