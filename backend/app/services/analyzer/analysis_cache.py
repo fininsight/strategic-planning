@@ -435,6 +435,26 @@ def get_market_research(bid_no: str, bid_ord: str, *, refresh: bool = False) -> 
         return research
 
 
+def load_cached_market_research(bid_no: str, bid_ord: str) -> dict | None:
+    """시장·경쟁 리서치 캐시만 읽고, 새 분석은 시작하지 않는다."""
+    cache_path = WEB_ANALYSIS_DIR / f"{bid_no}-{bid_ord}.json"
+    if not cache_path.exists():
+        return None
+    try:
+        payload = json.loads(cache_path.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    cached = payload.get("marketResearch")
+    if (
+        isinstance(cached, dict)
+        and cached.get("sourceMode") == "web_ai"
+        and _has_visible_market_research(cached)
+        and _has_company_evidence_schema(cached)
+    ):
+        return cached
+    return None
+
+
 def _has_visible_market_research(research: dict) -> bool:
     for key in ("competitors", "precedents", "marketStats", "trends", "advantages", "factChecks"):
         items = research.get(key)

@@ -58,21 +58,52 @@ function isStrategyResearchPayload(value: unknown): value is StrategyResearchPay
   return Boolean(payload.factChecks && payload.marketStats && payload.competitors && payload.advantages);
 }
 
-export async function loadStrategyMarketResearchData(notice: Notice, refresh = false): Promise<StrategyResearchPayload> {
+function isStrategyResearchProcessing(value: unknown): boolean {
+  if (!value || typeof value !== "object") {
+    return false;
+  }
+  const payload = value as { sourceMode?: unknown; status?: unknown };
+  return payload.sourceMode === "processing" || payload.status === "queued" || payload.status === "processing";
+}
+
+export async function loadStrategyMarketResearchData(
+  notice: Notice,
+  refresh = false,
+  onStatus?: (message: string) => void,
+): Promise<StrategyResearchPayload> {
   const bidNo = notice.bidNtceNo || notice.number.split("-")[0];
   const bidOrd = notice.bidNtceOrd || notice.number.split("-")[1] || "000";
   let apiError = "";
 
   try {
-    const payload = await fetchJsonWithTimeout<unknown>(
-      apiUrl(`/api/notices/${bidNo}/${bidOrd}/market-research${refresh ? "?refresh=1" : ""}`),
-      { cache: "no-store" },
-      90000,
+    const deadline = Date.now() + 180000;
+    let shouldRefresh = refresh;
+    onStatus?.(
+      refresh
+        ? "재조사를 요청했습니다. 서버가 웹검색 AI 리서치를 백그라운드에서 다시 생성합니다."
+        : "시장·경쟁 리서치 캐시를 확인하고, 없으면 백그라운드 생성을 시작합니다.",
     );
-    if (isStrategyResearchPayload(payload)) {
-      return payload;
+
+    while (Date.now() < deadline) {
+      const payload = await fetchJsonWithTimeout<unknown>(
+        apiUrl(`/api/notices/${bidNo}/${bidOrd}/market-research${shouldRefresh ? "?refresh=1" : ""}`),
+        { cache: "no-store" },
+        15000,
+      );
+      shouldRefresh = false;
+
+      if (isStrategyResearchPayload(payload)) {
+        onStatus?.("");
+        return payload;
+      }
+      if (!isStrategyResearchProcessing(payload)) {
+        apiError = "marketResearch_empty";
+        break;
+      }
+      onStatus?.(buildResearchProcessingMessage(payload));
+      await delay(3000);
     }
-    apiError = "marketResearch_empty";
+    apiError = apiError || "marketResearch_processing_timeout";
   } catch (error) {
     apiError = error instanceof Error ? error.message : "analysis_api_unreachable";
   }
@@ -82,12 +113,33 @@ export async function loadStrategyMarketResearchData(notice: Notice, refresh = f
       cache: "no-store",
     });
     if (isStrategyResearchPayload(analysis.marketResearch)) {
+      onStatus?.("");
       return analysis.marketResearch;
     }
   } catch {
     // Use generated fallback below.
   }
+  onStatus?.("");
   return buildMarketResearchFallback(notice, apiError);
+}
+
+function delay(ms: number): Promise<void> {
+  return new Promise((resolve) => window.setTimeout(resolve, ms));
+}
+
+function buildResearchProcessingMessage(value: unknown): string {
+  const payload = value as { status?: unknown; message?: unknown; startedAt?: unknown };
+  const status = typeof payload.status === "string" ? payload.status : "processing";
+  const message =
+    typeof payload.message === "string" && payload.message.trim()
+      ? payload.message.trim()
+      : "시장·경쟁 리서치를 백그라운드에서 생성하고 있습니다.";
+  const startedAt =
+    typeof payload.startedAt === "string" && payload.startedAt
+      ? ` 시작 시각: ${new Date(payload.startedAt).toLocaleTimeString("ko-KR")}.`
+      : "";
+  const statusLabel = status === "queued" ? "대기 중" : "생성 중";
+  return `${message} 현재 상태: ${statusLabel}.${startedAt} 3초마다 완료 여부를 확인합니다.`;
 }
 
 async function fetchJsonWithTimeout<T>(url: string, init: RequestInit, timeoutMs: number): Promise<T> {
@@ -97,7 +149,7 @@ async function fetchJsonWithTimeout<T>(url: string, init: RequestInit, timeoutMs
     return await fetchJson<T>(url, { ...init, signal: controller.signal });
   } catch (error) {
     if (error instanceof DOMException && error.name === "AbortError") {
-      throw new Error("시장·경쟁 리서치 생성 시간이 길어져 중단했습니다. 잠시 후 재조사하거나 서버 로그를 확인해주세요.");
+      throw new Error("시장·경쟁 리서치 상태 확인 시간이 길어졌습니다. 잠시 후 재조사하거나 서버 로그를 확인해주세요.");
     }
     throw error;
   } finally {

@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
 import { loadProposalMappingData, loadStrategyMarketResearchData } from "../../api/proposalMappingApi";
 import { Notice } from "../../types/notice";
@@ -33,26 +33,38 @@ export default function StrategyPage({ selectedNotice }: StrategyPageProps) {
   const [researchPayload, setResearchPayload] = useState<StrategyResearchPayload | null>(null);
   const [isResearchLoading, setIsResearchLoading] = useState(false);
   const [researchError, setResearchError] = useState("");
+  const [researchStatusMessage, setResearchStatusMessage] = useState("");
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState("");
+  const isResearchRequestingRef = useRef(false);
 
   const refreshResearch = useCallback(
     async (force = false) => {
       if (!selectedNotice) {
         return;
       }
+      if (isResearchRequestingRef.current) {
+        setResearchStatusMessage("이미 시장·경쟁 리서치를 생성 중입니다. 완료되면 화면이 자동으로 갱신됩니다.");
+        return;
+      }
 
+      isResearchRequestingRef.current = true;
       setIsResearchLoading(true);
       setResearchError("");
+      setResearchStatusMessage(
+        force ? "재조사를 요청했습니다. 기존 결과 대신 새 웹검색 리서치를 생성합니다." : "시장·경쟁 리서치를 불러오는 중입니다.",
+      );
 
       try {
-        const data = await loadStrategyMarketResearchData(selectedNotice, force);
+        const data = await loadStrategyMarketResearchData(selectedNotice, force, setResearchStatusMessage);
         setResearchPayload(data);
       } catch (loadError) {
         setResearchPayload(null);
         setResearchError(loadError instanceof Error ? loadError.message : "시장·경쟁 리서치를 불러오지 못했습니다.");
       } finally {
+        isResearchRequestingRef.current = false;
         setIsResearchLoading(false);
+        setResearchStatusMessage("");
       }
     },
     [selectedNotice],
@@ -119,6 +131,7 @@ export default function StrategyPage({ selectedNotice }: StrategyPageProps) {
   useEffect(() => {
     setResearchPayload(null);
     setResearchError("");
+    setResearchStatusMessage("");
   }, [selectedNotice]);
 
   const pageTotal = useMemo(
@@ -215,6 +228,7 @@ export default function StrategyPage({ selectedNotice }: StrategyPageProps) {
           <MarketResearchSection
             payload={researchPayload}
             isLoading={isResearchLoading}
+            loadingMessage={researchStatusMessage}
             error={researchError}
             onRefresh={() => refreshResearch(true)}
           />
@@ -373,16 +387,18 @@ function TocSection({ groups }: { groups: ProposalTocGroup[] }) {
 function MarketResearchSection({
   payload,
   isLoading,
+  loadingMessage,
   error,
   onRefresh,
 }: {
   payload: StrategyResearchPayload | null;
   isLoading: boolean;
+  loadingMessage: string;
   error: string;
   onRefresh: () => void;
 }) {
   if (isLoading) {
-    return <StrategyInlineState message="웹검색 AI로 시장·경쟁 리서치를 생성하는 중입니다." />;
+    return <StrategyInlineState message={loadingMessage || "웹검색 AI로 시장·경쟁 리서치를 생성하는 중입니다."} />;
   }
 
   if (error || !payload) {
