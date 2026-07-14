@@ -79,6 +79,10 @@ export type StrategyResearchPayload = {
   advantages: StrategyAdvantage[];
   factChecks: StrategyFactCheck[];
   companyEvidence?: StrategyCompanyEvidence[];
+  webEvidence?: StrategyWebEvidenceGroup[];
+  researchQueries?: StrategyResearchQueries;
+  researchMemory?: StrategyResearchMemory;
+  researchQuality?: StrategyResearchQuality;
   researchPrompt: string;
   warnings: string[];
 };
@@ -88,6 +92,7 @@ export type StrategySource = {
   url: string;
   publisher?: string;
   publishedAt?: string;
+  authorityTier?: "tier1" | "tier2" | "tier3" | "tier4" | string;
 };
 
 export type StrategyCompetitor = {
@@ -95,6 +100,11 @@ export type StrategyCompetitor = {
   expectedRole: string;
   rationale: string;
   likelyPartners: string[];
+  winRecords?: string[];
+  strengths?: string[];
+  weaknesses?: string[];
+  threatLevel?: "high" | "medium" | "low" | string;
+  responseStrategy?: string;
   sources: StrategySource[];
 };
 
@@ -105,6 +115,8 @@ export type StrategyPrecedent = {
   year: string;
   contractAmount?: string;
   relevance: string;
+  outcome?: string;
+  proposalImplication?: string;
   sources: StrategySource[];
 };
 
@@ -136,12 +148,25 @@ export type StrategyAdvantage = {
   evidenceNeeded: string;
   competitorComparison: string;
   priority: "high" | "medium" | "low" | string;
+  evidenceSources?: StrategyAdvantageEvidence[];
+};
+
+export type StrategyAdvantageEvidence = {
+  fileName: string;
+  docType?: string;
+  text: string;
 };
 
 export type StrategyFactCheck = {
   claim: string;
   status: "verified" | "unverified" | "conflict" | string;
+  verdict?: "VERIFIED" | "PARTIAL" | "OUTDATED" | "WEAK_SOURCE" | "CONTRADICTED" | "NOT_FOUND" | string;
+  category?: "numeric" | "competitor" | "legal" | "tech" | "company" | "other" | string;
+  confidence?: number;
   note: string;
+  issue?: string;
+  suggestedFix?: string;
+  citationText?: string;
   sources: StrategySource[];
 };
 
@@ -151,4 +176,47 @@ export type StrategyCompanyEvidence = {
   chunkId: string;
   score: number;
   text: string;
+};
+
+export type StrategyWebEvidenceGroup = {
+  category: string;
+  label: string;
+  queries: string[];
+  findings: StrategyWebFinding[];
+  warnings?: string[];
+};
+
+export type StrategyWebFinding = {
+  category: string;
+  claim: string;
+  summary: string;
+  relevance?: string;
+  sources: StrategySource[];
+};
+
+export type StrategyResearchQueries = {
+  coreContext?: Record<string, unknown>;
+  competitors?: string[];
+  precedents?: string[];
+  marketTrends?: string[];
+  companyPositioning?: string[];
+  factCheck?: string[];
+  authorityTiers?: Record<string, string[]>;
+};
+
+export type StrategyResearchMemory = {
+  verifiedNumbers: string[];
+  verifiedWins: string[];
+  usableCitations: string[];
+  finInsightEdges: string[];
+  gaps: string[];
+};
+
+export type StrategyResearchQuality = {
+  sourcedFacts: number;
+  verifiedClaims: number;
+  verifiedMarketStats: number;
+  sourcedCompetitors: number;
+  sourcedPrecedents: number;
+  sourcedTrends?: number;
 };

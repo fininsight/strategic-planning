@@ -3097,6 +3097,42 @@ td:nth-child(7) {
   font-weight: 800;
 }
 
+.advantageEvidenceList {
+  display: grid;
+  gap: 8px;
+  padding: 10px;
+  border: 1px solid #dbe5f1;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.advantageEvidenceList b,
+.advantageEvidenceList div strong,
+.advantageEvidenceList p {
+  margin: 0;
+}
+
+.advantageEvidenceList b {
+  color: #20324a;
+  font-size: 12px;
+}
+
+.advantageEvidenceList div {
+  display: grid;
+  gap: 3px;
+}
+
+.advantageEvidenceList div strong {
+  color: #1455f5;
+  font-size: 12px;
+}
+
+.advantageEvidenceList p {
+  color: #53657f;
+  font-size: 12px;
+  line-height: 1.45;
+}
+
 .advantageGrid em {
   padding-top: 8px;
   border-top: 1px solid #e7eef7;

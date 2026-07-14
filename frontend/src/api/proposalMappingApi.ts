@@ -179,12 +179,12 @@ function buildMarketResearchFallback(notice: Notice, apiError: string): Strategy
       {
         type: "S",
         title: "솔루션 기반 제안 구조",
-        detail: "Krayon·InsightStudio·InsightPage를 요구사항 대응 기능으로 연결할 수 있으나, 실제 인증·실적 증빙은 RAG 또는 사내 자료 확인이 필요합니다.",
+        detail: "Krayon·InsightStudio·InsightPage를 요구사항 대응 기능과 산출물 생성 흐름으로 연결할 수 있으나, 실제 인증·실적 수치는 사내 증빙 확인이 필요합니다.",
       },
       {
         type: "W",
         title: "사내 실적·인증 근거 미연동",
-        detail: "현재 화면은 웹검색 AI 중심입니다. 회사 소개서, 인증서, 수행실적 RAG 연동 전에는 내부 강점 수치를 확정하지 않습니다.",
+        detail: "현재 화면은 웹검색 AI 중심입니다. 회사 소개서, 인증서, 수행실적 자료에서 확인되지 않은 내부 강점 수치는 확정하지 않습니다.",
       },
     ],
     advantages: [
@@ -194,6 +194,7 @@ function buildMarketResearchFallback(notice: Notice, apiError: string): Strategy
         evidenceNeeded: "각 솔루션 기능 명세, 구축 사례, 인증·보안 자료",
         competitorComparison: "경쟁사 대비 우위 판단은 유사 실적과 평가항목 배점 확인 후 확정합니다.",
         priority: "high",
+        evidenceSources: [],
       },
     ],
     factChecks: [
@@ -205,9 +206,47 @@ function buildMarketResearchFallback(notice: Notice, apiError: string): Strategy
       },
     ],
     companyEvidence: [],
+    webEvidence: [],
+    researchQueries: {
+      coreContext: {
+        projectName,
+        agency: notice.agency || "발주기관 확인 필요",
+        domain: notice.industry || "공공 정보화",
+      },
+      competitors: [
+        `"${projectName}" 수주 기업`,
+        `"${notice.industry || "공공 정보화"}" 사업 주요 기업`,
+        `"${notice.agency || "발주기관"}" "${notice.industry || "공공 정보화"}" 계약`,
+      ],
+      precedents: [
+        `"${notice.agency || "발주기관"}" 유사 구축 사업`,
+        `"${notice.industry || "공공 정보화"}" 나라장터 입찰 결과`,
+      ],
+      marketTrends: [
+        `"${notice.industry || "공공 정보화"}" 시장 규모 성장률 2024 2025`,
+        `"${notice.industry || "공공 정보화"}" 정책 동향 NIA NIPA ETRI`,
+      ],
+      companyPositioning: ['"핀인사이트" Krayon InsightStudio InsightPage', '"핀인사이트" 수행실적 인증'],
+      factCheck: ["KOSIS 통계청 시장 규모", "나라장터 입찰결과 수주사 계약금액", "법제처 관련 법령 고시"],
+    },
+    researchMemory: {
+      verifiedNumbers: [],
+      verifiedWins: [],
+      usableCitations: [],
+      finInsightEdges: [],
+      gaps: ["웹 출처와 사내 증빙 확인 전"],
+    },
+    researchQuality: {
+      sourcedFacts: 0,
+      verifiedClaims: 0,
+      verifiedMarketStats: 0,
+      sourcedCompetitors: 0,
+      sourcedPrecedents: 0,
+      sourcedTrends: 0,
+    },
     researchPrompt:
       "경쟁사/컨소시엄, 유사 선행사례, 시장 규모·성장률, 기술 트렌드, SWOT, 핀인사이트 경쟁우위를 출처 링크와 함께 조사한다.",
-    warnings: ["검증 전 fallback 데이터입니다.", "회사 강점은 향후 RAG 자료로 보강해야 합니다."],
+    warnings: ["검증 전 fallback 데이터입니다.", "회사 강점은 확인 가능한 사내 증빙으로 보강해야 합니다."],
   };
 }
 

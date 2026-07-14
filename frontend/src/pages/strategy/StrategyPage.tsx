@@ -8,6 +8,8 @@ import {
   RequirementMapping,
   ScoringPagePlan,
   StrategyAdvantage,
+  StrategyAdvantageEvidence,
+  StrategyCompanyEvidence,
   StrategyFactCheck,
   StrategyResearchPayload,
   StrategySource,
@@ -401,6 +403,7 @@ function MarketResearchSection({
         <div className="researchMetricPills">
           <span>{payload.competitors.length}개 경쟁 후보</span>
           <span>{payload.marketStats.length}개 시장 수치</span>
+          <span>{payload.researchQuality?.sourcedFacts ?? verifiedClaims}개 검증 출처</span>
           <span>{unverifiedClaims}개 미검증</span>
           <button type="button" onClick={onRefresh}>
             재조사
@@ -467,40 +470,18 @@ function MarketResearchSection({
           <div>
             <span>FinInsight Positioning</span>
             <h3>핀인사이트 경쟁우위와 보완점</h3>
-            <p>Krayon·InsightStudio·InsightPage를 평가항목에 연결하되, 인증·실적은 회사자료 RAG 근거로 확정합니다.</p>
+            <p>Krayon·InsightStudio·InsightPage와 확인된 실적·인증·인력 근거를 평가항목별 제안 문장으로 정리합니다.</p>
           </div>
           <b>{payload.advantages.length}개</b>
         </div>
         <div className="advantageGrid">
           {payload.advantages.map((item) => (
-            <AdvantageCard item={item} key={`${item.evaluationItem}-${item.priority}`} />
+            <AdvantageCard
+              item={item}
+              companyEvidence={payload.companyEvidence ?? []}
+              key={`${item.evaluationItem}-${item.priority}`}
+            />
           ))}
-        </div>
-      </section>
-
-      <section className="proposalPanel fullProposalPanel">
-        <div className="proposalPanelHeader">
-          <div>
-            <span>Company RAG</span>
-            <h3>핀인사이트 내부 근거</h3>
-            <p>회사소개서·수행실적·솔루션 자료에서 검색된 근거입니다. 외부 수치와 수주사실은 별도 웹 출처가 필요합니다.</p>
-          </div>
-          <b>{payload.companyEvidence?.length ?? 0}개</b>
-        </div>
-        <div className="researchList companyEvidenceList">
-          {payload.companyEvidence?.length ? (
-            payload.companyEvidence.slice(0, 6).map((item) => (
-              <article key={item.chunkId}>
-                <strong>{safeText(item.fileName, "회사자료")}</strong>
-                <p>{safeText(item.text, "검색된 근거 텍스트가 없습니다.")}</p>
-                <small>
-                  {safeText(item.docType, "회사자료")} · match {item.score.toFixed(2)}
-                </small>
-              </article>
-            ))
-          ) : (
-            <div className="researchEmpty">회사자료 RAG 검색 결과가 없습니다.</div>
-          )}
         </div>
       </section>
 
@@ -587,29 +568,114 @@ function ResearchListPanel({
   );
 }
 
-function AdvantageCard({ item }: { item: StrategyAdvantage }) {
+function AdvantageCard({
+  item,
+  companyEvidence,
+}: {
+  item: StrategyAdvantage;
+  companyEvidence: StrategyCompanyEvidence[];
+}) {
+  const evidenceSources = mappedAdvantageEvidence(item, companyEvidence);
+
   return (
     <article>
       <span>{item.priority === "high" ? "우선 반영" : "보완 검토"}</span>
       <strong>{safeText(item.evaluationItem, "평가항목 확인 필요")}</strong>
       <p>{safeText(item.finInsightEdge, "핀인사이트 우위 근거 확인 필요")}</p>
       <small>필요 증빙: {safeText(item.evidenceNeeded, "사내 증빙 확인 필요")}</small>
+      <div className="advantageEvidenceList">
+        <b>근거</b>
+        {evidenceSources.length ? (
+          evidenceSources.map((evidence) => (
+            <div key={`${evidence.fileName}-${evidence.text}`}>
+              <strong>{safeText(evidence.fileName, "회사자료")}</strong>
+              <p>{safeText(evidence.text, "근거 내용 확인 필요")}</p>
+            </div>
+          ))
+        ) : (
+          <p>매핑된 회사자료 근거가 없습니다. 필요 증빙을 먼저 확인해야 합니다.</p>
+        )}
+      </div>
       <em>{safeText(item.competitorComparison, "경쟁사 비교 근거 확인 필요")}</em>
     </article>
   );
 }
 
+function mappedAdvantageEvidence(
+  item: StrategyAdvantage,
+  companyEvidence: StrategyCompanyEvidence[],
+): StrategyAdvantageEvidence[] {
+  if (item.evidenceSources?.length) {
+    return item.evidenceSources.slice(0, 2);
+  }
+  if (!companyEvidence.length) {
+    return [];
+  }
+
+  const query = [
+    item.evaluationItem,
+    item.finInsightEdge,
+    item.evidenceNeeded,
+    item.competitorComparison,
+  ].join(" ");
+  const queryTokens = keywordTokens(query);
+  const scored = companyEvidence
+    .map((evidence) => {
+      const haystack = `${evidence.fileName} ${evidence.docType} ${evidence.text}`;
+      const haystackTokens = keywordTokens(haystack);
+      const overlap = queryTokens.filter((token) => haystackTokens.includes(token)).length;
+      const score = overlap * 2 + (evidence.score ?? 0);
+      return { evidence, score };
+    })
+    .filter((item) => item.score > 0)
+    .sort((a, b) => b.score - a.score);
+
+  const rows = (scored.length ? scored : companyEvidence.map((evidence) => ({ evidence, score: evidence.score ?? 0 })))
+    .slice(0, 2)
+    .map(({ evidence }) => ({
+      fileName: evidence.fileName,
+      docType: evidence.docType,
+      text: clippedEvidenceText(evidence.text),
+    }));
+  return rows;
+}
+
+function keywordTokens(text: string) {
+  const matches = text.match(/[0-9A-Za-z가-힣]{2,}/g) ?? [];
+  const stopWords = new Set(["확인", "필요", "제안", "근거", "경쟁", "평가", "항목", "자료", "수행", "기술"]);
+  return Array.from(new Set(matches.map((token) => token.toLowerCase()).filter((token) => !stopWords.has(token))));
+}
+
+function clippedEvidenceText(text: string) {
+  const clean = text.replace(/\s+/g, " ").trim();
+  return clean.length > 120 ? `${clean.slice(0, 120).trim()}...` : clean;
+}
+
 function FactCheckRow({ item }: { item: StrategyFactCheck }) {
+  const statusLabel = factCheckStatusLabel(item);
+  const detail = joinText(
+    [item.note, item.issue ? `문제: ${item.issue}` : "", item.suggestedFix ? `권장 수정: ${item.suggestedFix}` : "", item.citationText],
+    "검증 메모 확인 필요",
+  );
+
   return (
     <article className={item.status === "verified" ? "verified" : "blocked"}>
       <div>
         <strong>{safeText(item.claim, "팩트체크 항목 확인 필요")}</strong>
-        <p>{safeText(item.note, "검증 메모 확인 필요")}</p>
+        <p>{detail}</p>
         <SourceLinks sources={safeSources(item.sources)} />
       </div>
-      <span>{item.status === "verified" ? "사용 가능" : "사용 금지"}</span>
+      <span>{statusLabel}</span>
     </article>
   );
+}
+
+function factCheckStatusLabel(item: StrategyFactCheck) {
+  if (item.status === "verified") return item.verdict === "VERIFIED" ? "사용 가능" : "검증 통과";
+  if (item.status === "conflict" || item.verdict === "CONTRADICTED") return "수정 필요";
+  if (item.verdict === "OUTDATED") return "최신화 필요";
+  if (item.verdict === "WEAK_SOURCE" || item.verdict === "PARTIAL") return "출처 보강";
+  return "사용 금지";
 }
 
 function SourceLinks({ sources, emptyLabel = "출처 링크 없음" }: { sources: StrategySource[]; emptyLabel?: string }) {
@@ -620,7 +686,7 @@ function SourceLinks({ sources, emptyLabel = "출처 링크 없음" }: { sources
     <div className="sourceLinks">
       {sources.slice(0, 3).map((source) => (
         <a href={source.url} target="_blank" rel="noreferrer" key={`${source.title}-${source.url}`}>
-          {source.title || source.publisher || "출처"}
+          {[source.authorityTier, source.title || source.publisher || "출처"].filter(Boolean).join(" · ")}
         </a>
       ))}
     </div>
@@ -632,12 +698,26 @@ function safeText(value: unknown, fallback: string) {
 }
 
 function joinText(values: unknown[], fallback: string) {
-  const parts = values.filter((value): value is string => typeof value === "string" && Boolean(value.trim()));
+  const parts: string[] = [];
+  values.forEach((value) => {
+    if (typeof value === "string" && value.trim()) {
+      parts.push(value.trim());
+    }
+  });
   return parts.length ? parts.join(" · ") : fallback;
 }
 
 function safeArray(value: unknown) {
-  return Array.isArray(value) ? value.filter((item): item is string => typeof item === "string" && Boolean(item.trim())) : [];
+  if (!Array.isArray(value)) {
+    return [];
+  }
+  const parts: string[] = [];
+  value.forEach((item) => {
+    if (typeof item === "string" && item.trim()) {
+      parts.push(item.trim());
+    }
+  });
+  return parts;
 }
 
 function safeSources(value: unknown): StrategySource[] {

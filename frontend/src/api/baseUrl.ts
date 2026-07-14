@@ -5,7 +5,21 @@ export function apiUrl(path: string): string {
 }
 
 export function assetUrl(path: string): string {
-  if (!path || /^(https?:)?\/\//.test(path) || path.startsWith("data:") || path.startsWith("blob:")) {
+  if (!path || path.startsWith("data:") || path.startsWith("blob:")) {
+    return path;
+  }
+  if (/^https?:\/\//.test(path)) {
+    try {
+      const url = new URL(path);
+      if (url.pathname.startsWith("/api/") && ["localhost", "127.0.0.1"].includes(url.hostname)) {
+        return apiUrl(`${url.pathname}${url.search}${url.hash}`);
+      }
+    } catch {
+      return path;
+    }
+    return path;
+  }
+  if (path.startsWith("//")) {
     return path;
   }
   if (!path.startsWith("/api/")) {

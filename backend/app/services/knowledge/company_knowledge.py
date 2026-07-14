@@ -46,8 +46,11 @@ def retrieve_company_evidence(payload: dict[str, Any], *, limit: int = 14) -> di
     overview = build_company_overview(index, results)
     return {
         "sourceMode": "local_company_knowledge" if results else "empty",
+        "storageMode": "file_index",
+        "isPersistent": True,
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "sourceDir": str(SOURCE_DIR),
+        "indexPath": str(INDEX_PATH),
         "query": clip(query, 500),
         "overview": overview,
         "results": results,
