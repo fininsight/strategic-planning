@@ -1242,4 +1242,26 @@ def _company_insight_sentence(company_evidence: dict[str, Any]) -> str:
     if "주요 수행실적" in doc_types or any(keyword in evidence_text for keyword in ("수행", "실적", "구축", "운영")):
         insights.append("유사 사업 수행 경험을 근거로 착수, 구축, 운영 전환 단계의 리스크를 줄이는 실행 계획을 제시할 수 있습니다.")
     if "인력/조직" in doc_types or any(keyword in evidence_text for keyword in ("인력", "조직", "전담", "PM", "전문가")):
-        i
+        insights.append("역할별 투입체계와 전문 인력을 앞세워 발주기관 대응 속도와 수행 안정성을 강조할 수 있습니다.")
+    if "인증/자격" in doc_types or any(keyword in evidence_text for keyword in ("인증", "자격", "보안", "품질")):
+        insights.append("보안·품질 관련 증빙을 활용해 공공사업 평가에서 요구되는 신뢰성과 관리 역량을 보강할 수 있습니다.")
+    if not insights:
+        insights.append("보유 솔루션과 수행 역량을 요구사항별 고객 가치로 정리하되, 실적·인증·정량 수치는 확인 가능한 증빙을 보강해야 합니다.")
+    return " ".join(insights[:2])
+
+
+def _infer_project_domain(text: str) -> str:
+    lowered = text.lower()
+    if any(keyword in lowered for keyword in ("출판도시", "문화·콘텐츠", "문화 콘텐츠", "콘텐츠 도시", "창작", "마스터플랜", "기본계획", "타당성 조사")):
+        return "AI 문화·콘텐츠 도시 기본계획"
+    if any(keyword in lowered for keyword in ("도시", "공간", "거버넌스", "경제적 타당성", "재원조달")):
+        return "도시 기본계획·타당성 조사"
+    if any(keyword in lowered for keyword in ("빅데이터", "데이터", "분석", "통계")):
+        return "데이터 분석·플랫폼"
+    if any(keyword in lowered for keyword in ("클라우드", "서버", "gpu", "인프라")):
+        return "AI 인프라·클라우드"
+    if any(keyword in lowered for keyword in ("홈페이지", "포털", "웹", "콘텐츠")):
+        return "웹서비스·콘텐츠 플랫폼"
+    if any(keyword in lowered for keyword in ("rag", "llm", "생성형", "인공지능", "ai", "에이전트")):
+        return "생성형 AI·지식활용 플랫폼"
+    return "공공 정보화"

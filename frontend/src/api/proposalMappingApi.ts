@@ -324,3 +324,21 @@ function buildTocFromMappings(requirements: RequirementMapping[], plans: Scoring
       })),
     },
     {
+      proposalType: "qualitative",
+      title: "정성제안서",
+      children: [
+        "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+        "정성제안서 Ⅱ. 제안 전략 및 차별화 방향",
+        "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "정성제안서 Ⅳ. 운영 및 확산 계획",
+        "정성제안서 Ⅴ. 수행조직 및 투입인력",
+        "정성제안서 Ⅵ. 품질·보안·위험관리",
+      ].map((section) => ({
+        title: section.replace("정성제안서 ", ""),
+        section,
+        requirementCodes: codes(section),
+        recommendedPages: pages.get(section) ?? 3,
+      })),
+    },
+  ];
+}
