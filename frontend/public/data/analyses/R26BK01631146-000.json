@@ -1,0 +1,676 @@
+{
+  "bidNtceNo": "R26BK01631146",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-07-20T12:46:36.716154",
+  "status": "completed",
+  "source": {
+    "fileName": "붙임2. 의료데이터 품질 인증 및 AI 신뢰성ㆍ투명성 평가 방안 마련 연구 제안요청서.hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01631146-000/붙임2. 의료데이터 품질 인증 및 AI 신뢰성ㆍ투명성 평가 방안 마련 연구 제안요청서.hwp",
+    "pageCount": 52,
+    "textLength": 6623,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "붙임2. 의료데이터 품질 인증 및 AI 신뢰성ㆍ투명성 평가 방안 마련 연구 제안요청서.hwp",
+      "extension": ".hwp",
+      "size": 141824,
+      "kindCode": ""
+    },
+    {
+      "fileName": "붙임3. 긴급입찰사유서.pdf",
+      "extension": ".pdf",
+      "size": 216347,
+      "kindCode": ""
+    },
+    {
+      "fileName": "산출내역서.hwp",
+      "extension": ".hwp",
+      "size": 51712,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "b41d9bf0e967b9c0c62763c7",
+      "fileName": "붙임2. 의료데이터 품질 인증 및 AI 신뢰성ㆍ투명성 평가 방안 마련 연구 제안요청서.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01631146/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01631146/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01631146/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01631146-000/붙임2. 의료데이터 품질 인증 및 AI 신뢰성ㆍ투명성 평가 방안 마련 연구 제안요청서.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01631146-000/converted/붙임2. 의료데이터 품질 인증 및 AI 신뢰성ㆍ투명성 평가 방안 마련 연구 제안요청서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01631146-000/converted/붙임2. 의료데이터 품질 인증 및 AI 신뢰성ㆍ투명성 평가 방안 마련 연구 제안요청서.pdf",
+      "pageCount": 52,
+      "textLength": 6623,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI \n \n2026. 7.\n \n TEL\n \n 02-6263-8334\n 02-6263-8349\n 02-6263-8526\n- -\nⅠ . 1\nⅡ . 7\nⅢ . 11\nⅣ . 18\nⅤ . 28\n[ 1~10] 30\nⅠ \n□ \n○ AI AI AI \n · \n- AI AI , AI \n \n○ Baseline DB AI \n- Baseline DB · (’24~’25) 97.76%\n→ 98.48% 2.24% → 1.52% \n ,\n- · · AI\n \n ’24~’25 \n \n2024 2025 \n (%p)\n \n 0.08% 99.92% 0.37% 99.63% -0.29%\n 3.26% 96.74% 2.29% 97.71% +0.97%\n 2.22% 97.78% 0.34% 99.66% +1.88%\n 0.15% 99.85% 0.18% 99.82% -0.03%\n 5.98% 94.02% 6.05% 93.95% -0.07%\n \n 0.17% 99.83% 0.95% 99.05% -0.78%\n 0.54% 99.46% 0.00% 100.00% +0.54%\n 1.31% 98.69% 0.16% 99.84% +1.15%\n 17.00% 83.00% 13.03% 86.97% +3.97%\n 2.24% 97.76% 1.52% 98.48% +0.72%\n○ \n- · · , \n AI \n○ AI \n- ( · · · ) \n- · · \n \n○ AI \n- AI \n \n- AI \n \n \n ( / ) , , , \n , \n \n \n (Ground Truth) , , , , IoU,\nROUGE, BLEU, Fβ- , EM \n \n \n□ \n○ AI · \n○ · \n○ · AI \n○ AI \n□ \n○ AI · \n○ AI · \n○ AI · \n○ AI \n \n□ \n○ : AI \n○ : ~ 2026. 12. 4.( 6 )\n○ : 50,000 ( )\n○ : *\n* 35 4 2 ( \n40 → 10 **)\n** : \n○ : ( )⋯ 35 4 2 \n‣ \n 35 ( ) ④ 1 3 \n 5 .\n2. \n○ \n※ , (7 ) \n \n- ( ) ( *)\n* (2026.6.3.) 43 ( )\n- * : ‧ ( :1169) ‧ \n 17 **( [ \n 1468])\n* 27 76 ( \n ) \n** S/W \n- : \n- : \n○ ( “ Ⅱ . ” )\n- AI · · \n- AI · \n \n- AI · \n , · \n- ( , )· \n○ \n- AI \n- AI · · AI \n · \n- AI \n· \n- AI AI · \n · · \n□ \n ( ) \n \n \n( )\n \n \n \n( ) \n \n( )\n \n \n○ \n \n \n( ) ▪ \n \n( \n )\n▪ \n▪ \n▪ \n \n( \n )\n▪ \n \n( )\n▪ \n▪ \n▪ · \n□ \n \n \n(7 1 ~2 )\n⇨\n \n \n(~7 2 )\n⇨ \n(7 3 ~4 )\n⇨\n \n \n(7 3 ~4 )\n⇨\n \n \n(7 4 )\n⇨ \n(‘26 7 ~12 )\n 6 7 8 9 10 11 12\n ▪ \n \n▪ · \n \n▪ · \n \n▪ \n · \n▪ · \n \n ▪ \n※ \nⅡ \n AI \n \n \n \n( )\n▫ 14 \n- , \n- \n- \n※ , , \n \n▫ 1/2 \n- \n- , , \n \n( )\n▫ \n- ( ) 10 ( ) USB 1 (HWP, PDF, PPT \n )\n✓ AI · · \n✓ · AI · \n✓ ( ) \n✓ · \n✓ \n✓ · \n- 10 , PPT \n- · ( , raw data, )\n- , \n \n▫ \n- \n \n※ \n□ \n○ AI · · \n○ AI · \n \n○ AI · \n , · \n○ ( , )· \n□ \n① AI · · \n- ( ) · ·AI \n* Baseline DB RuleBase(476 ) AI · \n \n- ( ) AI· \n- AI · \n② AI · \n \n ( ) \n AI \n , , , \n※ AI ( ·NIA), AI (NIA) AI ·\n , ( ) \n- Baseline DB * AI · \n , AI \n* RuleBase( ) , .\n- AI Baseline DB \n※ (AI 5 ) ① → ② · → ③ → ④\n → ⑤ \n※ AI ( ·NIA) · , \n \n- · · · \n · · \n- \n* · \n** · · \n③ AI · \n , · \n- ( ) ·AI \n · \n※ · · · · · · · , Baseline\nDB \n- AI AI · \n \n※ · · · \n- · \n- \n※ \n④ ( , ) \n- AI \n \n- AI · \n \n* ( ) → → → → → \n- \n- \n* → AI ( · ) \n- AI \n- · * \n \n* ( ) ( ) → ( ) → · → \n** AI · · \nⅢ \n□ \n○ ( ) ( \n )\n- , , , \n○ ( ) \n○ ( ) ․ \n , , ․ ․ \n- ․ , \n \n○ ( ) , , \n \n- PM( / ) \n , \n \n○ ( ) (DAP), \n(DQC-V), \n※ DAP: Data Architecture Professional, DQC-V: Database Quality Certification-\nValue\n- PM( ) \n \n- PM( ) \n ( , )\n○ ( ) , \n \n□ \n○ ( ) 14 \n , , \n , , \n- \n- \n○ ( ) 1/2 \n※ \n○ ( ) , , \n · \n- \n○ ( )\n- : \n- : \n- : \n○ ( ) 10 \n · \n- : 10 \n- : USB 1 \n○ ( ) , \n \n- , \n \n□ \n○ , ( \n ) \n- , , ․ \n- \n- ( ) \n , \n \n- USB \n- , ( ) \n \n- , \n \n□ \n○ \n \n○ \n \n○ , \n○ , \n \n○ , \n \n○ , \n \n○ \n□ \n○ · · \n . , \n○ 3 \n \n \n○ 3 , , \n \n○ , ( ) \n \n□ \n○ \n \n○ , \n \n○ , \n \n \n□ \n○ \n- \n \n .\n- .\n- , .\n- , \n .\n- .\n· \n· \n○ , \n- \n .\n- \n .\n- , \n .\n- .\n- 3 \n , \n \n · .\n○ \n- , \n , , ,\n , , ․\n .\n- · , \n .\n- , \n .\n○ \n- \n , , , \n .\n- \n .\n- \n .\n- , \n .\n□ \n○ \n , \n .\n○ \n .\n○ \n .\n□ \n○ \n , .\n- \n- \n- \n- , \n \n○ \n \n .\nⅣ \n□ \n○ \n- \n- \n- , \n※ ( ) ( ) ( ) \n \n○ : \n○ * : \n* 27 76 ( \n ) \n- \n· ① , \n· ② ‧ ( :1169) ‧ \n 17 *( [ \n1468])\n* S/W \n- ( ) , \n· ① , \n 12 ( ) 14 \n \n· ② 5 , 10% \n [ ( ) 9 ]\n· ③ , \n( ) (G2B) \n○ \n- \n \n* 43 ( )\n○ ( ) (90%), (10%)\n* 90\n \n○ ( ) ( ) , \n * \n \n* “ ” \n- 2 \n○ ( ) \n○ ( ) = + \n- 90 76.5 (85%) \n- , \n \n○ ( ) “ ” \n※ (2026.6.3.) 43 ( ) \n (2026.1.2.) \n○ ( )\n- \n- \n \n- , , , \n \n※ \n- ․ , \n \n○ ( )\n- \n- (10%) \n , \n \n- , \n \n- \n \n- · \n , .\n· 10% , \n , \n \n· \n· \n- · \n · \n· \n· \n \n□ \n○ \n- 7 \n \n※ (2026.6.3.) 43 ( ), \n (2026.1.2.) 7 ( )\n※ 1 \n- \n \n- \n \n※ (2026.1.2.) 7 ( ) \n \n○ \n- ( : (90%),\n (10%))\n- ( ) \n- \n \n \n (100 )\n \n \n \n \n \n \n(90 )\n \n(20)\n- \n- ( ) 20\n \n \n(30)\n- \n- \n- \n- ․ \n- \n- \n30\n \n \n(20)\n[ ]\n- ( )\n- (Tool) \n- \n- \n10\n[ ]\n- \n- ( ) \n10\n \n(10)\n- ( ) \n※ , , \n- \n10\n \n \n(10)\n- 10\n \n (10 ) - ( ) 10\n \n \n \nA B C D E\n \n(20)\n- \n- ( ) 20 18 16 14 12\n \n \n(30)\n- \n- 10 9 8 7 6\n- \n- ․ 10 9 8 7 6\n- \n- 10 9 8 7 6\n \n \n(20)\n- ( )\n- (Tool) \n- \n- \n10 9 8 7 6\n- \n- ( ) 10 9 8 7 6\n \n \n(10)\n- ( ) \n- 10 9 8 7 6\n \n \n(10)\n- 10 9 8 7 6\n \nA , \n \nB , \n \nC , \n \nD , \n \nE , \n \n□ \n○ \n※ “ ” \n○ ( ) (www.khis.kr) \n※ > > \n○ \n- : \n- · : (02-6263-8301)\n- : \n \n \n \n 02-6263-8349\n 02-6263-8526\n : khdata@khis.kr\n○ \n- ( ) 1 , 1 \n- \n○ : \n- , \n \n○ \n- , , : \n□ ( )\n○ \n- A4 , (70 ), \n \n※ \n- , \n○ \n- , .\n- \n , ․ .\n- , \n .\n- , “~ ( ) ”, “~ \n ”, “~ ( ) ” \n \n- , \n‘ ’ \n- , \n□ \n○ \n- , , , \n \n- , \n \n○ \n- , \n , \n \n- , \n○ \n- , \n \n- , \n \n- , , \n \n- 56 \n \n . \n- \n , \n- \nⅤ \n□ \n○ \n \nⅠ . \nⅡ . \n1. ∙ \n2. ∙ \n3. ∙ \n4. ‧ ∙ ‧ \n5. ∙ \nⅢ . \n1. ∙ , , ‧ \n2. ‧ ‧ ∙ , \n3. ∙ \n \n4. ∙ \n5. ∙ \n∙ ․ \nⅣ . \n1. ∙ \n2. ∙ \n3. ∙ \n4. ∙ ( ‧ ‧ ‧ ) \n5. ∙ , \n6. ∙ \n7. ∙ \nⅤ . \n ∙ \n ( )\n1. \n . \n , \n . · \n . , \n . \n . \n2. ( )\n . .\n※ 1. Ⅰ , 1 , , o , , ․ \n2. , \n . A4 , A4 \n \n . , \n \n . ( ) , \n . \n . “ ” . , , ,\n , \n \n . \n 1 \n \nAI \n \n( )\n \n \n ( )\n \n . . ~ . . ( )\n \n “ AI \n ” .\n \n ( )\n ( )\n :\n \n< > ☞ 5Page \n \n \n 2026. 0. 00. ~ 0. 00. ( )\n \n◦ \n◦ \n- \n- \n◦ \n- \n- \n◦ \n- \n- ․ \n 2 \n \n1. \n \n \n \n \n / /\n \n (2025)\n \n ( )\n2. \n / / \n3. ( )\n ( )\n \n \n \n \n 3 \n \n( : )\n 2023 2024 2025 \n \n \n \n \n \n \n \n00 \n00 \n00 \n00 \n \n \n \n \n \n※ 1 .\n=> 4 4 1 4 \n ( ) ( ) \n ( , \n ‘ ’)\n 4 (3 )\n \n \n \n※ : ․ \n 5 \n< >\n( )\n \n< >\n \n( )\n※ \n※ \n 6 \n \n \n \n \n \n \n [ ] [ ] ( / ) [ ] ( / )\n[ ] \n ∼ \n ( )\n .\n20 . . .\n : \n : \nⅠ . \n1. \n- \n2. \n3. \n- \n4. \n- ( ) \n5. \n \n \n \n6. \n- · \n7. \n 1 2 3 4 5 6 7 8 9 10 11 12\n (%)\nⅡ . \n1. ( )\n ) \n -\n \n \n : \n : \n \n \n \n \n \n ) ( 3 )\n1) \n \n \n( ,\n )\n \n \n \n( - )\n \n \n( : )\n \n \n \n \n2) \n \n \n \n( , )\n \n \n0000.00 ∼ 0000.00\n2. \n ) ( )\n -\n \n : \n : \n \n ) \n \n ) \n , , \n ) ( )\n -\n \n : \n : \n \n ) \n \n ) \n , , \n ) ( )\n -\n \n : \n : \n \n ) \n \n ) \n , , \n3. \n ) \n \n ) \n \nⅢ . \n1. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )%\n ( )%\n \n \n1. \n○ × × = \n○ × × = \n○ × × = \n○ × × = \n2. = \n . = \n○ × 1 × × = \n × 1 × × = \n × 1 × = \n○ × × × = \n × × × = \n × × = \n○ × × × = \n × × × = \n × × = \n . = \n○ × 1 × = \n × 1 × = \n × 1 × = \n○ × 1 × = \n × 1 × = \n × 1 × = \n3. = \n○ × = \n○ × = \n○ × = \n○ × = \n4. = \n○ × = \n○ ( ) × = \n○ ( ) × = \n5. = \n○ \n6. = \n○ × × = \n × × = \n○ , \n ( , , ) × = \n″( ) × = \n ( ) × = \n″( ) × = \n7. = \n○ ( ) × × = \n○ × = \n8. \n○ × × = \n○ × × = \n○ × = \n9. = \n○ \n10. = \n○ 1 9 × 5% \n11. = \n○ 1 10 × 5% \n \n \n1. \n○ ( ) ( , , , ) \n-\n○ ( )\n \n %\n2. \n . \n○ ( ) \n-\n○ ( )\n- ( ), , \n \n ○ ○ \n . \n○ ( ) \n-\n○ ( ) , , ( ), , \n-\n · \n ○ ○ \n3. \n○ ( ) \n-\n○ ( ) , (A4 ), , \n-\n ( ) ( ) \n4. \n○ ( ) \n-\n○ ( ) , \n-\n5. \n○ ( ) \n-\n○ ( ) \n-\n6. \n○ ( ) , \n-\n○ ( ) , , \n-\n \n \n7. \n○ ( ) \n-\n○ ( ) , , , \n-\n \n8. \n○ , , \n \n9. \n○ \n10. \n○ ( ) \n-\n○ ( )\n- , , \n \n 7 \n \n \n \n \n ~ \n .\n \n : 1. 1 \n2. 1 \n3. 1 \n4. 1 \n \n 8 \n \n \n \n \n ~ \n \n .\n :\n :\n :\n \n \n \n 9 \n \n , \n .\n \n \n20 \n ( )\n \n 10 \n ․ \n , .\n■ ․ \n1. .\n2. ( ) , , , , , , , , , , \n3. 5 : 26 \n4. ․ . , \n .\n■ ․ ․ \n \n( , ,\n , )\n \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n20",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "AI \n \n2026. 7.\n \n TEL\n \n 02-6263-8334\n 02-6263-8349\n 02-6263-8526\n- -\nⅠ . 1\nⅡ . 7\nⅢ . 11\nⅣ . 18\nⅤ . 28\n[ 1~10] 30\nⅠ \n□ \n○ AI AI AI \n · \n- AI AI , AI \n \n○ Baseline DB AI \n- Baseline DB · (’24~’25) 97.76%\n→ 98.48% 2.24% → 1.52% \n ,\n- · · AI\n \n ’24~’25 \n \n2024 2025 \n (%p)\n \n 0.08% 99.92% 0.37% 99.63% -0.29%\n 3.26% 96.74% 2.29% 97.71% +0.97%\n 2.22% 97.78% 0.34%...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "0820df30869ed099f43b2d0c",
+      "fileName": "붙임3. 긴급입찰사유서.pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01631146/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01631146/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01631146/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01631146-000/붙임3. 긴급입찰사유서.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01631146-000/붙임3. 긴급입찰사유서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01631146-000/붙임3. 긴급입찰사유서.pdf",
+      "pageCount": 2,
+      "textLength": 1047,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "긴급입찰 사유서\n사업 개요\n가 사 업 명 \n의료데이터 품질 인증 및 신뢰성ㆍ투명성 평가 방안 마련 연구\n나 사업예산 천원 부가가치세 포함\n다 사업기간 계약체결일로부터 \n 약 개월\n긴급입찰에 부치는 사유\n가 법적근거 해당사항에 체크\n○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호\n「 」\n국가계약법 시행령 제 조 제 항35 4\n제 조 입찰공고의 시기35 ( )  \n제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰1 3④ \n서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 . \n1. 제 조20 제 항2 에 따른 재공고입찰의 경우\n의 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우1 2. \n다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우2. \n긴급한 행사 또는 긴급한 재해예방ㆍ복구 등을 위하여 필요한 경우3. \n그 밖에 제 호 및 제 호에 준하는 경우4. 2 3\n나 긴급입찰 사유\n○ 본 연구용역은 대한민국 인공지능 행동계획 정책과제인 데이터 기반 \n「\n의료 안전성 제고 및 의료종사자 역량 강화 이행을 위한 사업으로\n」 년 \n분기까지 의료데이터 품질 인증 및 신뢰성투명성 평가방안 마련이 필요\n○ 연구 결과는 \n년 분기부터 추진 예정인 의료종사자 윤리 활용 교육 \n및 역량강화 지원의 기반으로 활용되는 등 다른 국가사업과 연계된 \n과업달성을 위한 일정조정 불가피\n보건복지부 인공지능 행동계획 국가인공지능전략위원회(’26.2, )\n정책축 글로벌 기본사회 기여3. AI \n전략분야 전략분야 기본 사회11) AI \n행동과제 기본 의료의 구현90 AI \n과제번호 과제명/ 데이터 기반 의료 안전성 제고 및 의료종사자 역량 강화90-6. AI \n정책권고 문구\n복지부는 년 분기까지 의료데이터 품질 인증 및 신뢰성 투명성 평가’26 4 AI · \n방안을 마련하여 데이터 기반 의료의 안전성을 높이고 년 분기부터 의료 , ’27 1\n종사자 대상 윤리 활용 교육을 지원함으로써 의료 종사자가 의 진단 판단AI · AI ·\n을 임상적으로 해석 검증할 수 있는 역량을 강화한다· .\n다 공고기간\n일",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "긴급입찰 사유서\n사업 개요\n가 사 업 명 \n의료데이터 품질 인증 및 신뢰성ㆍ투명성 평가 방안 마련 연구\n나 사업예산 천원 부가가치세 포함\n다 사업기간 계약체결일로부터 \n 약 개월\n긴급입찰에 부치는 사유\n가 법적근거 해당사항에 체크\n○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호\n「 」\n국가계약법 시행령 제 조 제 항35 4\n제 조 입찰공고의 시기35 ( )  \n제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰1 3④ \n서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 . \n1. 제 조20 제 항2 에 따른 재공고입찰의 경우\n의 국가의 재정정책상 예산의 조기집행을 위...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "2",
+      "attachmentKey": "8d2ba5c84e719139aaffd051",
+      "fileName": "산출내역서.hwp",
+      "extension": ".hwp",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01631146/000/files/2",
+      "originalFileUrl": "/api/notices/R26BK01631146/000/original-files/2",
+      "pdfUrl": "/api/notices/R26BK01631146/000/files/2",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01631146-000/산출내역서.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01631146-000/converted/산출내역서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01631146-000/converted/산출내역서.pdf",
+      "pageCount": 2,
+      "textLength": 414,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "Ⅳ \n□ : 50,000 ( )\n○ ( ) \n○ ( ) '26 (K-CURE)– – - \n \n○ \n \n \n (%) ( )\n (A) 37,979 76.0\n▪ (3,783,728 ( 53.00% ))×1 ×6 12,032 24.1\n▪ (2,901,312 ( 74.52% ))×2 ×6 25,947 51.9\n (B) 3,250 6.5\n▪ 10 ×40,000 400 0.8\n 20 ×5 ×4,500 450 0.9\n▪ 4 ×3 ×200,000 2,400 4.8\n (C) C = (A+B)×0.05 2,061 4.1\n (D) D = (A+B+C)×0.05 2,165 4.3\n (E) E = A+B+C+D 45,455 90.9\n (F) F = E×0.1 4,545 9.1\n (G) G = E+F\n* 100 50,000 100.0\n※ ( 2) (’26 )",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "Ⅳ \n□ : 50,000 ( )\n○ ( ) \n○ ( ) '26 (K-CURE)– – - \n \n○ \n \n \n (%) ( )\n (A) 37,979 76.0\n▪ (3,783,728 ( 53.00% ))×1 ×6 12,032 24.1\n▪ (2,901,312 ( 74.52% ))×2 ×6 25,947 51.9\n (B) 3,250 6.5\n▪ 10 ×40,000 400 0.8\n 20 ×5 ×4,500 450 0.9\n▪ 4 ×3 ×200,000 2,400 4.8\n (C) C = (A+B)×0.05 2,061 4.1\n (D) D = (A+B+C)×0.05 2,165 4.3\n (E) E = A+B+C+D 45,455 90.9\n (F) F = E×0.1 4...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "AI \n \n2026. 7.\n \n TEL\n \n 02-6263-8334\n 02-6263-8349\n 02-6263-8526\n- -\nⅠ . 1\nⅡ . 7\nⅢ . 11\nⅣ . 18\nⅤ . 28\n[ 1~10] 30\nⅠ \n□ \n○ AI AI AI \n · \n- AI AI , AI \n \n○ Baseline DB AI \n- Baseline DB · (’24~’25) 97.76%\n→ 98.48% 2.24% → 1.52% \n ,\n- · · AI\n \n ’24~’25 \n \n2024 2025 \n (%p)\n \n 0.08% 99.92% 0.37% 99.63% -0.29%\n 3.26% 96.74% 2.29% 97.71% +0.97%\n 2.22% 97.78% 0.34% 99.66% +1.88%\n 0.15% 99.85% 0.18% 99.82% -0.03%\n 5.98% 94.02% 6.05% 93.95% -0.07%\n \n 0.17% 99.83% 0.95% 99.05% -0.78%\n 0.54% 99.46% 0.00% 100.00% +0.54%\n 1.31% 98.69% 0.16% 99.84% +1.15%\n 17.00% 83.00% 13.03% 86.97% +3.97%\n 2.24% 97.76% 1.52% 98.48% +0.72%\n○ \n- · · , \n AI \n○ AI \n- ( · · · ) \n- · · \n \n○ AI \n- AI \n \n- AI \n \n \n ( / ) , , , \n , \n \n \n (Ground Truth) , , , , IoU,\nROUGE, BLEU, Fβ- , EM \n \n \n□ \n○ AI · \n○ · \n○ · AI \n○ AI \n□ \n○ AI · \n○ AI · \n○ AI · \n○ AI \n \n□ \n○ : AI \n○ : ~ 2026. 12. 4.( 6 )\n○ : 50,000 ( )\n○ : *\n* 35 4 2 ( \n40 → 10 **)\n** : \n○ : ( )⋯ 35 4 2 \n‣ \n 35 ( ) ④ 1 3 \n 5 .\n2. \n○ \n※ , (7 ) \n \n- ( ) ( *)\n* (2026.6.3.) 43 ( )\n- * : ‧ ( :1169) ‧ \n 17 **( [ \n 1468])\n* 27 76 ( \n ) \n** S/W \n- : \n- : \n○ ( “ Ⅱ . ” )\n- AI · · \n- AI · \n \n- AI · \n , · \n- ( , )· \n○ \n- AI \n- AI · · AI \n · \n- AI \n· \n- AI AI · \n · · \n□ \n ( ) \n \n \n( )\n \n \n \n( ) \n \n( )\n \n \n○ \n \n \n( ) ▪ \n \n( \n )\n▪ \n▪ \n▪ \n \n( \n )\n▪ \n \n( )\n▪ \n▪ \n▪ · \n□ \n \n \n(7 1 ~2 )\n⇨\n \n \n(~7 2 )\n⇨ \n(7 3 ~4 )\n⇨\n \n \n(7 3 ~4 )\n⇨\n \n \n(7 4 )\n⇨ \n(‘26 7 ~12 )\n 6 7 8 9 10 11 12\n ▪ \n \n▪ · \n \n▪ · \n \n▪ \n · \n▪ · \n \n ▪ \n※ \nⅡ \n AI \n \n \n \n( )\n▫ 14 \n- , \n- \n- \n※ , , \n \n▫ 1/2 \n- \n- , , \n \n( )\n▫ \n- ( ) 10 ( ) USB 1 (HWP, PDF, PPT \n )\n✓ AI · · \n✓ · AI · \n✓ ( ) \n✓ · \n✓ \n✓ · \n- 10 , PPT \n- · ( , raw data, )\n- , \n \n▫ \n- \n \n※ \n□ \n○ AI · · \n○ AI · \n \n○ AI · \n , · \n○ ( , )· \n□ \n① AI · · \n- ( ) · ·AI \n* Baseline DB RuleBase(476 ) AI · \n \n- ( ) AI· \n- AI · \n② AI · \n \n ( ) \n AI \n , , , \n※ AI ( ·NIA), AI (NIA) AI ·\n , ( ) \n- Baseline DB * AI · \n , AI \n* RuleBase( ) , .\n- AI Baseline DB \n※ (AI 5 ) ① → ② · → ③ → ④\n → ⑤ \n※ AI ( ·NIA) · , \n \n- · · · \n · · \n- \n* · \n** · · \n③ AI · \n , · \n- ( ) ·AI \n · \n※ · · · · · · · , Baseline\nDB \n- AI AI · \n \n※ · · · \n- · \n- \n※ \n④ ( , ) \n- AI \n \n- AI · \n \n* ( ) → → → → → \n- \n- \n* → AI ( · ) \n- AI \n- · * \n \n* ( ) ( ) → ( ) → · → \n** AI · · \nⅢ \n□ \n○ ( ) ( \n )\n- , , , \n○ ( ) \n○ ( ) ․ \n , , ․ ․ \n- ․ , \n \n○ ( ) , , \n \n- PM( / ) \n , \n \n○ ( ) (DAP), \n(DQC-V), \n※ DAP: Data Architecture Professional, DQC-V: Database Quality Certification-\nValue\n- PM( ) \n \n- PM( ) \n ( , )\n○ ( ) , \n \n□ \n○ ( ) 14 \n , , \n , , \n- \n- \n○ ( ) 1/2 \n※ \n○ ( ) , , \n · \n- \n○ ( )\n- : \n- : \n- : \n○ ( ) 10 \n · \n- : 10 \n- : USB 1 \n○ ( ) , \n \n- , \n \n□ \n○ , ( \n ) \n- , , ․ \n- \n- ( ) \n , \n \n- USB \n- , ( ) \n \n- , \n \n□ \n○ \n \n○ \n \n○ , \n○ , \n \n○ , \n \n○ , \n \n○ \n□ \n○ · · \n . , \n○ 3 \n \n \n○ 3 , , \n \n○ , ( ) \n \n□ \n○ \n \n○ , \n \n○ , \n \n \n□ \n○ \n- \n \n .\n- .\n- , .\n- , \n .\n- .\n· \n· \n○ , \n- \n .\n- \n .\n- , \n .\n- .\n- 3 \n , \n \n · .\n○ \n- , \n , , ,\n , , ․\n .\n- · , \n .\n- , \n .\n○ \n- \n , , , \n .\n- \n .\n- \n .\n- , \n .\n□ \n○ \n , \n .\n○ \n .\n○ \n .\n□ \n○ \n , .\n- \n- \n- \n- , \n \n○ \n \n .\nⅣ \n□ \n○ \n- \n- \n- , \n※ ( ) ( ) ( ) \n \n○ : \n○ * : \n* 27 76 ( \n ) \n- \n· ① , \n· ② ‧ ( :1169) ‧ \n 17 *( [ \n1468])\n* S/W \n- ( ) , \n· ① , \n 12 ( ) 14 \n \n· ② 5 , 10% \n [ ( ) 9 ]\n· ③ , \n( ) (G2B) \n○ \n- \n \n* 43 ( )\n○ ( ) (90%), (10%)\n* 90\n \n○ ( ) ( ) , \n * \n \n* “ ” \n- 2 \n○ ( ) \n○ ( ) = + \n- 90 76.5 (85%) \n- , \n \n○ ( ) “ ” \n※ (2026.6.3.) 43 ( ) \n (2026.1.2.) \n○ ( )\n- \n- \n \n- , , , \n \n※ \n- ․ , \n \n○ ( )\n- \n- (10%) \n , \n \n- , \n \n- \n \n- · \n , .\n· 10% , \n , \n \n· \n· \n- · \n · \n· \n· \n \n□ \n○ \n- 7 \n \n※ (2026.6.3.) 43 ( ), \n (2026.1.2.) 7 ( )\n※ 1 \n- \n \n- \n \n※ (2026.1.2.) 7 ( ) \n \n○ \n- ( : (90%),\n (10%))\n- ( ) \n- \n \n \n (100 )\n \n \n \n \n \n \n(90 )\n \n(20)\n- \n- ( ) 20\n \n \n(30)\n- \n- \n- \n- ․ \n- \n- \n30\n \n \n(20)\n[ ]\n- ( )\n- (Tool) \n- \n- \n10\n[ ]\n- \n- ( ) \n10\n \n(10)\n- ( ) \n※ , , \n- \n10\n \n \n(10)\n- 10\n \n (10 ) - ( ) 10\n \n \n \nA B C D E\n \n(20)\n- \n- ( ) 20 18 16 14 12\n \n \n(30)\n- \n- 10 9 8 7 6\n- \n- ․ 10 9 8 7 6\n- \n- 10 9 8 7 6\n \n \n(20)\n- ( )\n- (Tool) \n- \n- \n10 9 8 7 6\n- \n- ( ) 10 9 8 7 6\n \n \n(10)\n- ( ) \n- 10 9 8 7 6\n \n \n(10)\n- 10 9 8 7 6\n \nA , \n \nB , \n \nC , \n \nD , \n \nE , \n \n□ \n○ \n※ “ ” \n○ ( ) (www.khis.kr) \n※ > > \n○ \n- : \n- · : (02-6263-8301)\n- : \n \n \n \n 02-6263-8349\n 02-6263-8526\n : khdata@khis.kr\n○ \n- ( ) 1 , 1 \n- \n○ : \n- , \n \n○ \n- , , : \n□ ( )\n○ \n- A4 , (70 ), \n \n※ \n- , \n○ \n- , .\n- \n , ․ .\n- , \n .\n- , “~ ( ) ”, “~ \n ”, “~ ( ) ” \n \n- , \n‘ ’ \n- , \n□ \n○ \n- , , , \n \n- , \n \n○ \n- , \n , \n \n- , \n○ \n- , \n \n- , \n \n- , , \n \n- 56 \n \n . \n- \n , \n- \nⅤ \n□ \n○ \n \nⅠ . \nⅡ . \n1. ∙ \n2. ∙ \n3. ∙ \n4. ‧ ∙ ‧ \n5. ∙ \nⅢ . \n1. ∙ , , ‧ \n2. ‧ ‧ ∙ , \n3. ∙ \n \n4. ∙ \n5. ∙ \n∙ ․ \nⅣ . \n1. ∙ \n2. ∙ \n3. ∙ \n4. ∙ ( ‧ ‧ ‧ ) \n5. ∙ , \n6. ∙ \n7. ∙ \nⅤ . \n ∙ \n ( )\n1. \n . \n , \n . · \n . , \n . \n . \n2. ( )\n . .\n※ 1. Ⅰ , 1 , , o , , ․ \n2. , \n . A4 , A4 \n \n . , \n \n . ( ) , \n . \n . “ ” . , , ,\n , \n \n . \n 1 \n \nAI \n \n( )\n \n \n ( )\n \n . . ~ . . ( )\n \n “ AI \n ” .\n \n ( )\n ( )\n :\n \n< > ☞ 5Page \n \n \n 2026. 0. 00. ~ 0. 00. ( )\n \n◦ \n◦ \n- \n- \n◦ \n- \n- \n◦ \n- \n- ․ \n 2 \n \n1. \n \n \n \n \n / /\n \n (2025)\n \n ( )\n2. \n / / \n3. ( )\n ( )\n \n \n \n \n 3 \n \n( : )\n 2023 2024 2025 \n \n \n \n \n \n \n \n00 \n00 \n00 \n00 \n \n \n \n \n \n※ 1 .\n=> 4 4 1 4 \n ( ) ( ) \n ( , \n ‘ ’)\n 4 (3 )\n \n \n \n※ : ․ \n 5 \n< >\n( )\n \n< >\n \n( )\n※ \n※ \n 6 \n \n \n \n \n \n \n [ ] [ ] ( / ) [ ] ( / )\n[ ] \n ∼ \n ( )\n .\n20 . . .\n : \n : \nⅠ . \n1. \n- \n2. \n3. \n- \n4. \n- ( ) \n5. \n \n \n \n6. \n- · \n7. \n 1 2 3 4 5 6 7 8 9 10 11 12\n (%)\nⅡ . \n1. ( )\n ) \n -\n \n \n : \n : \n \n \n \n \n \n ) ( 3 )\n1) \n \n \n( ,\n )\n \n \n \n( - )\n \n \n( : )\n \n \n \n \n2) \n \n \n \n( , )\n \n \n0000.00 ∼ 0000.00\n2. \n ) ( )\n -\n \n : \n : \n \n ) \n \n ) \n , , \n ) ( )\n -\n \n : \n : \n \n ) \n \n ) \n , , \n ) ( )\n -\n \n : \n : \n \n ) \n \n ) \n , , \n3. \n ) \n \n ) \n \nⅢ . \n1. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )%\n ( )%\n \n \n1. \n○ × × = \n○ × × = \n○ × × = \n○ × × = \n2. = \n . = \n○ × 1 × × = \n × 1 × × = \n × 1 × = \n○ × × × = \n × × × = \n × × = \n○ × × × = \n × × × = \n × × = \n . = \n○ × 1 × = \n × 1 × = \n × 1 × = \n○ × 1 × = \n × 1 × = \n × 1 × = \n3. = \n○ × = \n○ × = \n○ × = \n○ × = \n4. = \n○ × = \n○ ( ) × = \n○ ( ) × = \n5. = \n○ \n6. = \n○ × × = \n × × = \n○ , \n ( , , ) × = \n″( ) × = \n ( ) × = \n″( ) × = \n7. = \n○ ( ) × × = \n○ × = \n8. \n○ × × = \n○ × × = \n○ × = \n9. = \n○ \n10. = \n○ 1 9 × 5% \n11. = \n○ 1 10 × 5% \n \n \n1. \n○ ( ) ( , , , ) \n-\n○ ( )\n \n %\n2. \n . \n○ ( ) \n-\n○ ( )\n- ( ), , \n \n ○ ○ \n . \n○ ( ) \n-\n○ ( ) , , ( ), , \n-\n · \n ○ ○ \n3. \n○ ( ) \n-\n○ ( ) , (A4 ), , \n-\n ( ) ( ) \n4. \n○ ( ) \n-\n○ ( ) , \n-\n5. \n○ ( ) \n-\n○ ( ) \n-\n6. \n○ ( ) , \n-\n○ ( ) , , \n-\n \n \n7. \n○ ( ) \n-\n○ ( ) , , , \n-\n \n8. \n○ , , \n \n9. \n○ \n10. \n○ ( ) \n-\n○ ( )\n- , , \n \n 7 \n \n \n \n \n ~ \n .\n \n : 1. 1 \n2. 1 \n3. 1 \n4. 1 \n \n 8 \n \n \n \n \n ~ \n \n .\n :\n :\n :\n \n \n \n 9 \n \n , \n .\n \n \n20 \n ( )\n \n 10 \n ․ \n , .\n■ ․ \n1. .\n2. ( ) , , , , , , , , , , \n3. 5 : 26 \n4. ․ . , \n .\n■ ․ ․ \n \n( , ,\n , )\n \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n□ □ \n20",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01631146-000",
+    "sourceFile": "붙임2. 의료데이터 품질 인증 및 AI 신뢰성ㆍ투명성 평가 방안 마련 연구 제안요청서.hwp",
+    "generatedAt": "2026-07-20T12:46:04.381014",
+    "match": {
+      "noticeId": "R26BK01631146-000",
+      "bidNtceNo": "R26BK01631146",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01631146-000",
+      "projectName": "의료데이터 품질 인증 및 신뢰성ㆍ투명성 평가 방안 마련 연구 나 사업예산 천원 부가가치세 포함 다 사업기간 계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+      "keywords": [
+        "의료데이터 품질 인증 및 신뢰성ㆍ투명성 평가 방안 마련 연구 나 사업예산 천원 부가가치세 포함 다 사업기간 계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+        "R26BK01631146-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "용역 공고",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "의료데이터 품질 인증 및 신뢰성ㆍ투명성 평가 방안 마련 연구 나 사업예산 천원 부가가치세 포함 다 사업기간 계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01631146-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "의료데이터 품질 인증 및 신뢰성ㆍ투명성 평가 방안 마련 연구 나 사업예산 천원 부가가치세 포함 다 사업기간 계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "천원 부가가치세 포함 다 사업기간 계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "의료데이터 품질 인증 및 신뢰성ㆍ투명성 평가 방안 마련 연구 나 사업예산 천원 부가가치세 포함 다 사업기간 계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "천원 부가가치세 포함 다 사업기간 계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4, (70 ), ※ -, ○ -, . -, ․ . -, . -, “~ ( ) ”, “~ ”, “~ ( ) ” -, ‘ ’ -, □ ○ -,,, -, ○ -,, -, ○ -, -, -,, - 56 . -, - Ⅴ □ ○ Ⅰ . Ⅱ . 1. ∙ 2. ∙",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "USB 1 (HWP, PDF, PPT ) ✓ AI · · ✓ · AI · ✓ ( ) ✓ · ✓ ✓ · - 10, PPT - · (, raw data, ) -, ▫ - ※ □ ○ AI · · ○ AI · ○ AI ·, · ○ (, )· □ ① AI · · - ( ) · ·AI * Basel",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "",
+          "requirement": "공고문 확인",
+          "name": "공고문 확인",
+          "detail": "입찰 참가 요건 원문 확인 필요",
+          "type": "확인",
+          "category": "입찰 참가 자격",
+          "source": ""
+        }
+      ],
+      "risks": [
+        {
+          "title": "실적·인증 요건",
+          "detail": "인증 및 AI 신뢰성ㆍ투명성 평가 방안 마련 연구 제안요청서.hwp]",
+          "severity": "확인"
+        },
+        {
+          "title": "일정 리스크",
+          "detail": "긴급입찰사유서.pdf]",
+          "severity": "확인"
+        }
+      ],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "의료데이터 품질 인증 및 신뢰성ㆍ투명성 평가 방안 마련 연구 나 사업예산 천원 부가가치세 포함 다 사업기간 계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+        "agency": "",
+        "noticeNumber": "R26BK01631146-000",
+        "budget": "천원 부가가치세 포함 다 사업기간 계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+        "period": "계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: 의료데이터 품질 인증 및 신뢰성ㆍ투명성 평가 방안 마련 연구 나 사업예산 천원 부가가치세 포함 다 사업기간 계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "1 (HWP, PDF, PPT \n )\n✓ AI · · \n✓ · AI · \n✓ ( ) \n✓ · \n✓ \n✓ · \n- 10 , PPT \n- · ( , raw data, )\n- , \n \n▫ \n- \n \n※ \n□ \n○ AI",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 4개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "5",
+          "score": 85.0,
+          "weight": 85.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "5 85점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "·",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "· 10점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "728",
+          "score": 53.0,
+          "weight": 53.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "728 53점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "312",
+          "score": 74.52,
+          "weight": 74.52,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "312 74.52점"
+        }
+      ],
+      "totals": {
+        "score": 222.51999999999998,
+        "weight": 222.51999999999998,
+        "gradeA": 3,
+        "gradeB": 1,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01631146-000",
+    "generatedAt": "2026-07-20T12:46:36.716132",
+    "sourceAnalysisAt": "2026-07-20T12:46:04.381014",
+    "projectName": "의료데이터 품질 인증 및 신뢰성ㆍ투명성 평가 방안 마련 연구 나 사업예산 천원 부가가치세 포함 다 사업기간 계약체결일로부터 약 개월 긴급입찰에 부치는 사유 가 법적근거 해당사항에 체크 ○ 국가를 당사자로 하는 계약에 관한 법률 시행령 제 조제 항제 호 「 」 국가계약법 시행령 제 조 제 항354 제 조 입찰공고의 시기35 ( ) 제 항부터 제 항까지의 규정에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 입찰13④ 서 제출마감일의 전날부터 기산하여 일 전까지 공고할 수 있다5 .",
+    "sourceFile": "붙임2. 의료데이터 품질 인증 및 AI 신뢰성ㆍ투명성 평가 방안 마련 연구 제안요청서.hwp",
+    "requirementSourceFiles": [
+      "붙임2. 의료데이터 품질 인증 및 AI 신뢰성ㆍ투명성 평가 방안 마련 연구 제안요청서.hwp"
+    ],
+    "extractionWarnings": [
+      "RFP 원문에서 요구사항 코드를 찾지 못해 기존 분석 요약을 보조 자료로 사용했습니다."
+    ],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "코드 미확인-001",
+        "name": "공고문 확인",
+        "detail": "입찰 참가 요건 원문 확인 필요",
+        "source": "proposalSheets.noticeInfo.requirements",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "5",
+        "score": 85.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 19,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "5 85점"
+      },
+      {
+        "scoreItem": "·",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 2,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "· 10점"
+      },
+      {
+        "scoreItem": "728",
+        "score": 53.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 12,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "728 53점"
+      },
+      {
+        "scoreItem": "312",
+        "score": 74.52,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 17,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "312 74.52점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 사업 이해 및 추진 방향",
+            "section": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+            "requirementCodes": [
+              "코드 미확인-001"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 1,
+      "mappedRequirements": 1,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": false,
+      "message": "RFP 원문에서 요구사항 코드를 찾지 못해 기존 분석 요약을 보조 자료로 사용했습니다."
+    }
+  }
+}

@@ -1,0 +1,1774 @@
+{
+  "bidNtceNo": "R26BK01633665",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-07-20T12:43:08.230523",
+  "status": "completed",
+  "source": {
+    "fileName": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+    "pageCount": 69,
+    "textLength": 12458,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+      "extension": ".hwp",
+      "size": 1228800,
+      "kindCode": ""
+    },
+    {
+      "fileName": "긴급입찰사유서.hwp",
+      "extension": ".hwp",
+      "size": 115200,
+      "kindCode": ""
+    },
+    {
+      "fileName": "산출내역.zip",
+      "extension": ".zip",
+      "size": 253805,
+      "kindCode": ""
+    },
+    {
+      "fileName": "생성형 AI 기반 지능형 서비스 플랫폼 구축(안).pdf",
+      "extension": ".pdf",
+      "size": 96936,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "dd0f9b645311fe1f9971317d",
+      "fileName": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01633665/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01633665/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01633665/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/converted/260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/converted/260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.pdf",
+      "pageCount": 69,
+      "textLength": 12458,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI \n \n2026. 6.\n \n \n \nkjpark@seoultech.ac.kr TEL. 02-970-9052\n \nnotoman@seoultech.ac.kr TEL. 02-970-9054\n \n \nⅠ . 1\n1. 1\n2. 1\n3. 2\n4. 3\nⅡ . 6\n1. 6\n2. 6\n3. 9\nⅢ . 32\n1. 32\n2. 32\n3. 33\nⅣ . 34\n1. 34\n2. 35\n3. 36\n4. 36\n#. 37\nⅠ \n1. \n○ : AI \n○ : 150 ( 30 )\n○ : 110,000,000 ( )\n※ ‵ ′ , \n‵ ′ \n○ : \n○ : ( )\n○ : ( )\n○ : \n○ : AI , (API, ),\n \n 50 \n \n2. \n○ : (VISION 2034) \n 24 , \n \n○ RAG : , (DB), \n (RAG) , \n \n○ AI : AI \n \n○ : \n , \nLLM AI \n○ AI , \n AI \n3. \n . AI \n- : AI \n , GPU· \n- : (sLLM) LLM \n \n- : , , , MCP \nDB AI · \n- : AES-256 · , TLS , LLM \n (DLP) , SSO( SAML) \n \n . AI \n- , , \n \n- Vector DB \n(Keyword+Semantic+Re-ranking) RAG \n- UI sLLM · \n \n- AI : AI\n , AI \n ( )\n : , iSSR , \n- (Skill, MCP, ) \n \n- / LLM API Key · \n- RAG Script Chat\nAPI \n . \n- : , ( / ) , ( ) / \n \n- : ( ) \n \n- AI : , \n \n- , , GPU \n \n- ( \n , )\n . \n- : , (Skill,MCP ) \n \n- : , , \n \n- \n4. \n . \n○ : ( )\n○ : ( )\n○ : 43 ( ) \n \n . \n○ : = 90%( ) : 10%( )\n○ ( ), \n ( ) \n \n- \n- ( ) \n \n \n \n \n \n \nAAA, AA+, AA0,\nAA-\nA+, A0, A-, BBB+,\nBBB0\nA1, A2+, A20, A2-,\nA3+,A30\nAAA, AA+, AA0,\nAA-, A+, A0, A-,\nBBB+, BBB0\n100% 5.00\nBBB-, BB+, BB0,\nBB- A3-, B+, B0 BBB-, BB+,\nBB0, BB- 95% 4.75\nB+, B0, B- B- B+, B0, B- 90% 4.50\nCCC+ C CCC+ 70% 3.50\n[ ]\n1. 2 8 3 335 \n3 , \n , . , \n .\n2. , \n . , .\n3. 1 , \n . , \n .\n4. 7 \n . , \n . , , \n ( , ) \n .( )\n5. , \n .\n( ) (A ×A )+(B ×B )…\n6. .\n . \n○ \n 5 4 \n○ 85% \n○ \n . \n○ ( ) (85% ) , \n \n○ \n- , \n \n- \n- \n- , \n , \nⅡ . \n1. \n◯ , \n \n (I-3), (II-3) . \n \n .\n◯ ,\n \n \n2. \n . \n ID \n \n \n \n(System Function\nRequirement)\nSFR-000\n \n \n ( ) \n16\n \n(Equipment Composition\nRequirements)\nECR-000\n H/W, S/W, N/W \n \n \n3\n \n(Data Requirements) DAR-000\n \n , , \n \n8\n \n(Security Requirement) SER-000 \n , 6\n \n(Interface Requirement) INR-000 \n 4\n \n(Quality Requirement) QUR-000 , , , \n 2\n \n(Constraint Requirement) COR-000 , , \n 7\n \n(Project Management\nRequirement)\nPMR-000 \n 3\n \n(Project Support\nRequirement)\nPSR-000 , , \n 2\n . \n \n SFR-001 \nSFR-002 \nSFR-003 (LLM/sLLM) \nSFR-004 AI \nSFR-005 \nSFR-006 Chat API \nSFR-007 RAG \nSFR-008 \nSFR-009 \nSFR-010 UI/UX \nSFR-011 LLMOps 1\nSFR-012 LLMOps 2\nSFR-013 LLMOps 3\nSFR-014 LLMOps 4\nSFR-015 LLMOps 5\nSFR-016 \n \nECR-001 \nECR-002 GPU \nECR-003 \n \nDAR-001 \nDAR-002 \nDAR-003 Vector DB \nDAR-004 AI \nDAR-005 AI \nDAR-006 \nDAR-007 OCR \nDAR-008 \n \nSER-001 \nSER-002 AI \nSER-003 \nSER-004 \nSER-005 \nSER-006 \n \nINR-001 LLM API \nINR-002 LLM API \nINR-003 \nINR-004 API Key \n QUR-001 \nQUR-002 \n \nCOR-001 ( , ) \nCOR-002 \nCOR-003 \nCOR-004 SW \nCOR-005 \nCOR-006 \nCOR-007 AI \n PMR-001 \nPMR-002 \nPMR-003 \n PSR-001 \nPSR-002 \n3. \n○ \n SFR-001\n \n \n \n \n \n 100 (= / ) ( ) \n \n 100 \n (Context) .\n \n (25 ) / \n , URL , , AI \n , \n \n- , , , , , , , \n \n AI , , \n \n , , \n \n- \n , , \n PDF, PPTX, TXT, CSV, XLSX, DOCX, HWP, PNG,\nJPG, JSON 10 , \n 4 ( , , , ) \n \n ( URL) \n Prompt Engineering \n RAG , UI \n (PC, , ), OS(Windows, Mac, Android, iOS ), \n (Chrome, Edge, Safari, FireFox ) \n : / / /API ( ) \n \n \n \n \n SFR-002\n \n \n \n \n AI \" / \" , “ ” UI \n- \" \" \n “ ” \n- / \n- ( ) \n / \n \n SFR-018\n SFR-003\n (LLM/sLLM) \n \n \n \n LLM(GPT, Gemini ) sLLM \n \n sLLM 2 UI \n \n \n SFR-004\n AI \n \n \n \n LLM , \n , \n \n \n SFR-005\n \n \n \n \n / / \n \n , \n \n SFR-006\n Chat API \n \n \n \n Chat API \n \n AI ( ) (Javascript ) \n , UI \n \n \n \n SFR-007\n RAG \n \n \n \n RAG \n , \n \n MCP DB ( ) , 10 \n .\n ) , , , , , \n \n SFR-008\n \n \n \n ( ) \n / (Temperature ) \n \n SFR-009\n \n \n \n \n , , \n / \n ( ) \n \n SFR-010\n UI/UX \n \n \n \n \n UI \n sLLM · ( , \n )\n \n SFR-011\n LLMOps 1\n \n \n \n ( ) LLM , API \n , \n \n \n \n SFR-012\n LLMOps 2\n \n RAG \n (RAG ) , , , DB , , \n \n \n ( ) , ( , , FAQ) \n \n (Graph RAG) Graph RAG \n \n \n SFR-013\n LLMOps 3\n \n \n ( ) , (TTFT) \n , , \n SFR-002\n SFR-014\n LLMOps 4\n \n \n \n , , , , \n , , \n \n SFR-002\n SFR-015\n LLMOps 5\n \n \n \n \n- ( / ), ( / / / / ) \n \n SFR-016\n \n \n \n AI \n \n \n○ \n ECR-001\n \n \n \n \n GPU, CPU, \n \n NVIDIA A100 80GB 8 ( B200 192GB 8 ) \n※ GPU \n 8 \n GPU ( ) , API \n \n , ‧ \n※ , \n \n CPU (PaaS) \n※ PaaS SW: / 2.x\n- : Vector DB, Embedding Model, RAG Pipleine\n- : Model Router, Load Balancer\n- : LLM Gateway, API Gateway, Guardrail, \n \n \n ECR-002\n GPU \n \n \n \n\nGPU 0~7 (Gemma4, EXAONE, Llama4 ) \n \n \n \n / ( )\n \n ECR-003\n \n \n \n \n GPU (LLM) \n \n A100 (Ampere) B200 (Blackwell)\nGemma 4 (31B) BF16 (Original) FP4 FP8\nEXAONE 4 (32B)BF16 ( ) FP8 (Fine-grained)\nLlama4-scout (17B)BF16 ( ) FP8\n GPU \n \n○ \n DAR-001\n \n \n \n / / \n \n (ACL, \n , )\n , , 3 \n \n SER-001\n DAR-002\n \n \n \n \n \n LLM \n \n , \n , , AES-256 \n \n DAR-003\n Vector DB \n \n RAG \n \n RAG Vector DB \n API \n , \n \n DAR-004\n AI \n \n AI \n AI \n ( )\n ( \n ( ) , \n ( ) \n AI \n \n- , , \n \n DAR-005\n AI \n \n \n \n \n- ( , , ) \n \n- (hwp, hwpx), (docx)\n \n \n DAR-006\n \n \n \n \n \n- hwp/hwpx, doc/docx, ppt/pptx, excel, pdf\n AI \n , \n \n , , \n \n DAR-007\n OCR \n \n \n \n AI \n \n \n \n \n DAR-008\n \n \n \n \n \n \n○ \n SER-001\n \n \n \n \n AES-256 SSL/TLS \n SSO , .\n( )\n※ (enpass) SSO: API , 300 \nSAML SSO: IdP(GoogleWorkspace)\n : \n , \n AI ‧ ‧ \n \n \n SER-002\n AI \n \n \n \n AI 2.0 \n \n ( & ) \n \n SER-003\n \n \n \n \n ,\n \n \n \n 3 \n \n \n \n ‧ ( ) \n※ \n ( , )\n \n SER-004\n \n \n \n \n DB \n \n ( , \n ) 1 \n- : \n- : \n \n- : \n- : OWASP 10 , 8 , \n \n , \n \n SER-005\n \n \n \n \n \n \n- , \n \n , \n- : , \n- : , \n \n· : \n· : \n· : \n· : , \n \n- 1 \n- , ‘ ’ \n \n- \n \n , ( ) \n \n \n , \n \n , , \n \n , · \n ( , ), , , \n \n SER-006\n \n \n \n \n 59 , 54 , \n ( 32 \nSW \n 4 \n SW \n SW \n- SW , \n , \n \n- SW 3 \n \n- SW \n 76 2 3 \n \n , \n \n○ \n INR-001\n LLM API \n \n LLM \n \n GPT, Gemini LLM \n \n \n \n INR-002\n LLM API \n \n LLM \n \n AI API API Gateway \n OpenAI API(OpenAI-Compatible API) *\n API (LLM API ) \n*Open WebUI, LibreChat, AnythingLLM, Dify, Claude Code \n , , , , \n , \n \n- : Semantic Router( \n ), Threshold-base( (0~1) \n . , )\n- : PII( ), Local ( \n , )\n- “ ” , Ingress (Classifier) small\nLLM \n , , injection \n / , latency, , \n \n INR-003\n \n \n \n \n LLM API & Function Calling, MCP, Webhook \n \n , , \n \n : (Drag-and-drop ), \n(Tool/Skill) , & \n \n INR-004\n API Key \n \n API Key ‧ \n Key : API Key \n- key , , , , , \n : \n- \n- HTTPS , \n : LLM \n \n- OpenAI API Spec (/v1/chat/completions), SDK (Python, Node.js\n )\n : \n \n- Rate Limiting: API Key (RPM) (TPM) \n- : Key , / , \n- : API ( , IP, ) \n . Prompt \n \n \n○ \n QUR-001\n \n \n \n \n \n \n , , , \n \n 1 ( ) \n \n \n \n \n \n \n \n \n , \n / , \n , ,\n \n \n . ( \n )\n- , , (SLA) \n \n PSR-001\n QUR-002\n \n \n SW \n \n , \n \n- SW \n- SW \n ․ , \n \n \n \n○ \n COR-001\n ( , ) \n \n \n \n · \n \n- · · ( )\n- 2.1( )\n- ( )\n- ( )\n- ( )\n- ( )\n- ( )\n- , ( )\n , \n \n , SW \n ( ) \n \n※ \n \n \n COR-002\n \n \n \n \n “ “ \n \n- \n- : OWASP 10 , 8 \n ‧ \n \n COR-003\n \n \n \n \n 4 \n \n \n , \n \n , \n \n COR-004\n SW \n \n SW \n \n 46 , \n SW (SW ) · \n< SW >\n \nSW \n( SW , HW, SW \n ) 1 \n \nSW \n( , )\n SW www.spir.kr ‘SW \n ’ \n SW \n \n COR-005\n \n \n \n \n 50 , 47 1 2 , 3 \n · , \n * * 8 \n “ ” \n \n \n COR-006\n \n \n \n \n \n , \n · ( ) 41 \n .\n , \n , \n .\n※ \n \n , \n \n .\n \n COR-007\n AI \n \n AI \n \n \n AI ( , , ,\n ) AI \n 2.0 ( ) , AI \n \n AI · , \n \n , \n \n , \n \n / / ‧ \n \n AI , \n \n · , \n \n AI , \n \n , , , \n \n AI , , , \n \n , \n \n \n \n○ \n PMR-001\n \n \n \n \n \n , \n SW \n \n \n \n PMR-002\n \n \n \n \n \n ( ) \n \n \n PMR-003\n \n \n \n \n \n \n PM/PL : (PM) (PL) \n \n 2 \n , ( , , ) \n \n \n○ \n PSR-001\n \n \n , \n \n \n \n , \n ․ \n \n , , , , \n , , \n PSR-002, QUR-001\n PSR-002\n \n \n ‧ \n \n \n , , , , \n \n ( ) : 2 X 4 \n- , , AI , \n : 2 X 2 ※ \n- , , , \n \n : 1 X 2 \n- AI , , AI \n \n PSR-001\nⅢ . \n1. \n○ 12 14 \n , \n○ (G2B) \n ( , :1468) \n \n○ 9 10 , \n [ : ( : 8111159901)] \n , \n (SMPP) \n○ 2 · 2 \n · · \n( : ) \n○ 20 48 \n (SW ‘ : ’ )\n○ 27 76 ( \n ) \n○ 48 \n○ 54 , ( \n ) \n○ \n○ \n2. \n○ 43 ( \n ) \n○ \n \n3. , \n○ \n- : (90%), (10%)\n- = + \n○ \n- \n 100 90 , 100 10 \n- : \n- 90 \n- 6 \n \n- \n \n- \n※ 4 5 \n○ \n- 85% \n \n- (90%) (10% : ) \n \n- , 2 \n , \n \n- \n- \n- \nⅣ . \n1. \n○ \n , \n○ \n \n○ \n○ \n \n○ \n \n○ 3 ,\n , \n \n○ \n \n \n○ , \n , , \n \n○ , , \n○ \n \n \n○ , \n○ ( ) 56 ( \n ) \n○ \n \n○ \n○ , \n○ A4 A4 \n \n○ ( , \n )\n○ \n- \n \n2. \n○ ․ , , \n- , \n \n○ , , \n \n○ ( ) \n , ( \n , , ) \n○ , ( ) ,\n \n○ ․ \n3. \n○ : 1 , 1 , 1 , ( ) 1 \n○ : ※ PDF / 300MB / \n○ : \n○ ( )\n- ( ) (PM) , \n(PM) . \n . : 25 ( 15 , 10 , \n 2 ( (PM) ))\n- , \n .\n- (PM) 11 6 \n . \n \n○ : \n○ : \n○ : \n4. \n○ 16 , \n \n \n[ 1] \n[ 2] \n[ 3] \n 1 \n 2 3 \n 3 3 \n 4 \n 5 \n 6 ( )\n 7 ( )\n 8 ( )\n 9 \n 10 \n[ 1] \n[ 2] \n[ 3] \n[ 4] \n[ 5] \n[ 6] \n[ 1] \n \nⅠ . \n1. - , 3 \n[ 3 - 1 , 2 ]\n2. - \n3. \n \n- \n※ “V. ” “3. ” \n[ 3 - 5 ]\n4. - \n5. - 3 \n[ 3 - 3 , 4 ]\nⅡ . \n1. - , , \n \n2. - ( ) \n \n3. - , \n4. - , , \n \nⅢ . \n1. \n- / ( )\n- \n- , \n2. - \n3. - \n- \n4. - , \n \n5. - , , , \n \nⅣ . \n1. - , \n \n2. - · \n3. - \n4. - , \n- ( / / / ) , , \nⅤ . \n1. - , , , \n \n2. - , \n3. \n \n- (PM) , , \n- \n4. - , \n \nⅥ . \n1. \n \n- \n- \n2. - , , , \n3. - , , , \n- , , / / , \n4. \n , \n- , , , , , , \n- / \n5. / \n \n- II-1( ) / \n \n- II-1( ) \n※ , \n[ 2] \n \n \n 3\n10\n \n 2\n , \n 3\n \n \n , \n 2\n \n \n \n / \n \n SW , \n \n4\n20\n \n \n \n \n \n5\n \n \n \n \n3\n \n \n , \n 4\n , , \n 4\n \n \n , \n \n \n5\n15\n , , \n , \n \n5\n \n \n \n \n \n \n5\n \n \n \n , ( ) , , \n \n \n5\n20 \n \n (PM) , \n , \n \n7\n \n 5\n \n 3\n \n \n , \n 21 \n \n3\n20\n , \n , 3\n , \n 3\n , , , \n 4\n , , , \n 3\n \n 2\n / \n 2\n < > 5\n \nAAA, AA+,\nAA0, AA-\nA+, A0, A-,\nBBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0,\nAA-,\nA+, A0, A-, BBB+,\nBBB0\n \n100%\nBBB-, BB+,\nBB0, BB- A3-, B+, B0BBB-, BB+, BB0,\nBB- “ 95%\nB+, B0, B- B- B+, B0, B- “ 90%\nCCC+ C CCC+ “ 70%\n 90\n[ 3][ 1 ]\n \n \n \n \n \n \n ( )\n \n[ 3][ 2 ]\n ( 3 )\n : ( : )\n 2023 2024 2025 \n \n \n \n \nBPR/ISP\n \n \n \n \n S/W \nH/W \n \n○○ \n○○ \n \n \n( / )\n \n( / )\n \n \n \n \n ) 1. , .\n2. , , ‘ ’ .\n[ 3][ 3 ]\n \n \n※ , .\n※ .\n※ / / .\n[ 3][ 4 ]\n\n[ 3][ 5 ]\n \n \n \n \n \n \n \n \n( ) \n[ 3][ 6 ]\n ( )\n 2026 AI \n .\n1. AI \n .\n2. \n .\n3. \n .\n2026 00 00 \n :\n( ) :\n : ( )\n :\n :\n :\n : ( )\n :\n[ 3][ 7 ]\n ( )\n 2026 AI \n .\n※ AI \n .\n※ \n .\n※ .\n . 35 ( ) 76 ( )\n2026 \n \n ( )\n \n ( )\n[ 3][ 8 ]\n ( )\n AI , \n .\n○ ( ) ( ) \n , \n .\n○ ( ) \n .\n2026 \n ( ) \n :\n :\n : ( )\n \n[ 3][ 9 ]\n \n \n , OECD \n , \n \n1. , , \n .\n2. , , ( ) \n , \n , , \n .\n3. , \n .\n , \n , , \n .\n2026 \n : ○○○ ○○○ ( )\n \n[ 3][ 10 ]\n ( )\n ( “ ” ) △△△ ( “ ” ) “ ” \n “ ” .\n 1 ( ) “ ” “ ” , “ ” “ \n ” .\n 2 ( ) , ,\n ( 2025-9 ) ( \n 2025-4 ) .\n 3 ( ) “ ” ( ) \n .\n1.\n2.\n 4 ( ) .\n : 2026 ~ ( )\n 5 ( ) “ ” “ ” “ ” \n 3 .\n “ ” 3 “ ” 7 “ ” \n .\n 6 ( ) “ ” 23 2 24 3 29 , \n 21 30 , ( 2025-9 ) \n ․ .\n 7 ( ) “ ” \n 3 .\n “ ” \n 16 ( 2025-9 ) \n “ ” .\n 2 “ ” “ ” .\n 8 ( · ) “ ” “ ” , “ \n ” .\n1. \n2. \n3. \n4. ․ 5. 6. \n \n “ ” “ ” 1 , “ ” \n .\n “ ” · · · 1 1\n “ ” , “ ” .\n 1 “ ” “ ” .\n 9 ( ) “ ” , · , \n .\n 10 ( ) “ ” 4 \n “ ” .\n 11 ( ) “ ” “ ” “ ” \n “ ” “ ” “ \n ” “ ” 3 \n “ ” .\n 1 3 “ ” \n “ ” “ ” .\n 2 , “ ” “ ” 1 \n .\n2026. . .\n \n :\n ( ) :\n : ( )\n \n :\n ( ) :\n : ( )\n[ 1] \n \n \n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n◦ \n( )\n◦ \n \n◦ \n \n◦ \n \n \n1. \n . \n . \n . ․ \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P \n . · \n . \n . PC \n . PC \n . \n . ( )\n◦ \n \n◦ \n \n◦ \n \n \n \n1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n◦ \n \n◦ \n \n/ \n◦ \n \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n◦ \n \n◦ \n/ \n[ 2] \n A~D \n \n \nA B C D \n 1 1 2 3 \n \n 500 300 100 \n※ [ 1] \n , \n※ 1 \n .\n[ 3] \n \n< 13 >\n1. IP \n2. \n3. \n4. \n5. ( \n )\n6. , \n7. \n8. 9 1 \n9. 2 1 \n10. 4 16 3 \n11. \n[ 4] \n[V] , [ ] \n AI \n 2026. 4. 20.\n◇ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( ) · ( )\n ( ) ( )\n ( ) ( )\n ( ) ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n◇ \n \n / / \n \n \n \n \n \n \n , , \n .\nO\n \n \n \n 2.2 O\n O\n O\n UI/UX O\n \n \n- HTML 4.01/HTML 5, CSS 2.1 / CSS 3 O\n- XHTML 1.0 O\n- XML 1.0, XSL 1.0, XSLT 2.0 O\n- ECMAScript 14th O\n \n- 1.0\n(KICS.KO-10.0307) O\n- 2.0\n(KSX3253:2016) O\n \n (KS X ISO/IEC 20000)/ ITIL v3, v4 O\n \n \nIPv4 O\nIPv6 O\n◇ \n \n / / \n \n \n \n \n \n , \n \n .\nO\n \n \n \n- SOAP 1.2, WSDL 2.0, XML 1.0 O\n- RESTful O\n \n- UML 2.X / BPMN 2.X O\n- ebXML/BPEL/XPDL O\n : XML 1.0, JSON O\n : RESTful API, WSDL 2.0 O\n◇ \n / / \n \n \n \n \n \n \n IPv4 IPv6 \n . O\n , \n \n .\nO\n \n \n : H.320~H.324, H.310 O\n : VoIP\n- H.323 O\n- SIP O\n- Megaco(H.248) O\n \n \n ( ) \n- POSIX.0 O\n- UNIX O\n- Windows Server O\n- Linux O\n \n- android O\n- IOS O\n \n DBMS\n- RDBMS O\n- ORDBMS O\n- OODBMS O\n- MMDBMS O\n- TSDBMS O\n ITIL v3, v4 / ISO20000 O\n : O\n \n \n IaaS O\n PaaS O\n SaaS O\n◇ \n \n / / \n \n \n \n \n \n . O\n , , , ,\n . O\n ( 2 6 ) \n , \n , \n .\nO\n , \n , \n \n .\nO\n \n . O\n \n \n \n \n \nO\n \n : HTML 4.01 / HTML 5 O\n \n- JSP 2.x O\n- ASP.net O\n- PHP O\n- ( ) O\n \n \n- C O\n- C++ O\n- Java O\n- C# O\n- ( ) O\n \n- XMI 2.0 / XMI 3.2 O\n- SOAP 1.2 O\n- API O\n \n- EUC-KR O\n- UTF-8( , UTF-8 ) O\n◇ \n \n / / \n \n \n \n \n \n \n \n \n \n . “ ”, “ \n ”, “ ” “ ” .\nO\n \n . O\n \n . O\n \n \n \n O\n ( ) O\n ( ) O\n \n \n \n \n \n \n ( )\n- PKI O\n- SSO ( CC ) O\n- O\n- (DRM)( CC ) O\n- O\n- O\n- O\n- DB ( CC ) O\n- (8 ) O\n- O\n CC ( CC )\n- ( ) O\n- ( ) ( ) O\n- ( ) O\n- O\n- DDos ( ) O\n- O\n- O\n- O\n- ( ) O\n- O\n- (2022.1 ) O\n- ( ) O\n- O\n- O\n- O\n- DB O\n- O\n- ( \n ) O\n- ( ) O\n- O\n- USB(2020.1.1 , \n ) O\n- (2021.1.1 , , \n ) O\n- (2021.1.1 ) O\n- CC O\n \n- USB( ) O\n- ( , \n ) O\n- O\n- O\n- (L3 ) O\n- O\n ( · ) \n- · ( ) O\n- O\n \n- (CSAP) O\n- O\n \n \n \n \n- O\n- O\n- O\n- O\n- O\n- O\n- O\n- O\n- O\n \n- O\n- ( ) O\n- ( ) O\n- O\n※ “ ” \n[ 5] \n\n[ 6]",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "AI \n \n2026. 6.\n \n \n \nkjpark@seoultech.ac.kr TEL. 02-970-9052\n \nnotoman@seoultech.ac.kr TEL. 02-970-9054\n \n \nⅠ . 1\n1. 1\n2. 1\n3. 2\n4. 3\nⅡ . 6\n1. 6\n2. 6\n3. 9\nⅢ . 32\n1. 32\n2. 32\n3. 33\nⅣ . 34\n1. 34\n2. 35\n3. 36\n4. 36\n#. 37\nⅠ \n1. \n○ : AI \n○ : 150 ( 30 )\n○ : 110,000,000 ( )\n※ ‵ ′ , \n‵ ′ \n○ : \n○ : ( )\n○ : ( )\n○ : \n○ : AI , (API, ),\n \n 50 \n \n2. \n○ : (VISION 2034) \n 24...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "521c5de68dc605c219a72b23",
+      "fileName": "긴급입찰사유서.hwp",
+      "extension": ".hwp",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01633665/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01633665/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01633665/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/긴급입찰사유서.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/converted/긴급입찰사유서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/converted/긴급입찰사유서.pdf",
+      "pageCount": 1,
+      "textLength": 153,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "1. \n . : AI \n . : 110,000,000 \n . : 150 (5 )\n2. \n . : 35 4 2 \n 35 4 \n1. 20 2 \n1 2. \n2. \n3. · \n4. 2 3 \n . \n○ AI , \n . \n · \n○ AI \n , \n➧ · \n \n . *: 10 \n* 10",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "1. \n . : AI \n . : 110,000,000 \n . : 150 (5 )\n2. \n . : 35 4 2 \n 35 4 \n1. 20 2 \n1 2. \n2. \n3. · \n4. 2 3 \n . \n○ AI , \n . \n · \n○ AI \n , \n➧ · \n \n . *: 10 \n* 10",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "2",
+      "attachmentKey": "8582fa3049e71b68dcf8cca7",
+      "fileName": "산출내역.zip",
+      "extension": ".zip",
+      "docType": "첨부서류",
+      "viewerType": "unsupported",
+      "fileUrl": "/api/notices/R26BK01633665/000/files/2",
+      "originalFileUrl": "/api/notices/R26BK01633665/000/original-files/2",
+      "pdfUrl": "",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/산출내역.zip",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/산출내역.zip",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/산출내역.zip",
+      "pageCount": 0,
+      "textLength": 0,
+      "extractionMethod": "extract_document_text",
+      "extractionError": "",
+      "viewerError": ".zip 파일은 현재 뷰어 변환을 지원하지 않습니다.",
+      "documentText": "",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "첨부서류 파일입니다. 텍스트 추출 가능 여부를 확인한 뒤 세부 내용을 검토해야 합니다.",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "3",
+      "attachmentKey": "d331bdde2597a949e3851976",
+      "fileName": "생성형 AI 기반 지능형 서비스 플랫폼 구축(안).pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01633665/000/files/3",
+      "originalFileUrl": "/api/notices/R26BK01633665/000/original-files/3",
+      "pdfUrl": "/api/notices/R26BK01633665/000/files/3",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/생성형 AI 기반 지능형 서비스 플랫폼 구축(안).pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/생성형 AI 기반 지능형 서비스 플랫폼 구축(안).pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01633665-000/생성형 AI 기반 지능형 서비스 플랫폼 구축(안).pdf",
+      "pageCount": 0,
+      "textLength": 0,
+      "extractionMethod": "deferred",
+      "extractionError": "Cannot find Root object in pdf",
+      "viewerError": "",
+      "documentText": "",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "첨부서류 파일입니다. 텍스트 추출 가능 여부를 확인한 뒤 세부 내용을 검토해야 합니다.",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "AI \n \n2026. 6.\n \n \n \nkjpark@seoultech.ac.kr TEL. 02-970-9052\n \nnotoman@seoultech.ac.kr TEL. 02-970-9054\n \n \nⅠ . 1\n1. 1\n2. 1\n3. 2\n4. 3\nⅡ . 6\n1. 6\n2. 6\n3. 9\nⅢ . 32\n1. 32\n2. 32\n3. 33\nⅣ . 34\n1. 34\n2. 35\n3. 36\n4. 36\n#. 37\nⅠ \n1. \n○ : AI \n○ : 150 ( 30 )\n○ : 110,000,000 ( )\n※ ‵ ′ , \n‵ ′ \n○ : \n○ : ( )\n○ : ( )\n○ : \n○ : AI , (API, ),\n \n 50 \n \n2. \n○ : (VISION 2034) \n 24 , \n \n○ RAG : , (DB), \n (RAG) , \n \n○ AI : AI \n \n○ : \n , \nLLM AI \n○ AI , \n AI \n3. \n . AI \n- : AI \n , GPU· \n- : (sLLM) LLM \n \n- : , , , MCP \nDB AI · \n- : AES-256 · , TLS , LLM \n (DLP) , SSO( SAML) \n \n . AI \n- , , \n \n- Vector DB \n(Keyword+Semantic+Re-ranking) RAG \n- UI sLLM · \n \n- AI : AI\n , AI \n ( )\n : , iSSR , \n- (Skill, MCP, ) \n \n- / LLM API Key · \n- RAG Script Chat\nAPI \n . \n- : , ( / ) , ( ) / \n \n- : ( ) \n \n- AI : , \n \n- , , GPU \n \n- ( \n , )\n . \n- : , (Skill,MCP ) \n \n- : , , \n \n- \n4. \n . \n○ : ( )\n○ : ( )\n○ : 43 ( ) \n \n . \n○ : = 90%( ) : 10%( )\n○ ( ), \n ( ) \n \n- \n- ( ) \n \n \n \n \n \n \nAAA, AA+, AA0,\nAA-\nA+, A0, A-, BBB+,\nBBB0\nA1, A2+, A20, A2-,\nA3+,A30\nAAA, AA+, AA0,\nAA-, A+, A0, A-,\nBBB+, BBB0\n100% 5.00\nBBB-, BB+, BB0,\nBB- A3-, B+, B0 BBB-, BB+,\nBB0, BB- 95% 4.75\nB+, B0, B- B- B+, B0, B- 90% 4.50\nCCC+ C CCC+ 70% 3.50\n[ ]\n1. 2 8 3 335 \n3 , \n , . , \n .\n2. , \n . , .\n3. 1 , \n . , \n .\n4. 7 \n . , \n . , , \n ( , ) \n .( )\n5. , \n .\n( ) (A ×A )+(B ×B )…\n6. .\n . \n○ \n 5 4 \n○ 85% \n○ \n . \n○ ( ) (85% ) , \n \n○ \n- , \n \n- \n- \n- , \n , \nⅡ . \n1. \n◯ , \n \n (I-3), (II-3) . \n \n .\n◯ ,\n \n \n2. \n . \n ID \n \n \n \n(System Function\nRequirement)\nSFR-000\n \n \n ( ) \n16\n \n(Equipment Composition\nRequirements)\nECR-000\n H/W, S/W, N/W \n \n \n3\n \n(Data Requirements) DAR-000\n \n , , \n \n8\n \n(Security Requirement) SER-000 \n , 6\n \n(Interface Requirement) INR-000 \n 4\n \n(Quality Requirement) QUR-000 , , , \n 2\n \n(Constraint Requirement) COR-000 , , \n 7\n \n(Project Management\nRequirement)\nPMR-000 \n 3\n \n(Project Support\nRequirement)\nPSR-000 , , \n 2\n . \n \n SFR-001 \nSFR-002 \nSFR-003 (LLM/sLLM) \nSFR-004 AI \nSFR-005 \nSFR-006 Chat API \nSFR-007 RAG \nSFR-008 \nSFR-009 \nSFR-010 UI/UX \nSFR-011 LLMOps 1\nSFR-012 LLMOps 2\nSFR-013 LLMOps 3\nSFR-014 LLMOps 4\nSFR-015 LLMOps 5\nSFR-016 \n \nECR-001 \nECR-002 GPU \nECR-003 \n \nDAR-001 \nDAR-002 \nDAR-003 Vector DB \nDAR-004 AI \nDAR-005 AI \nDAR-006 \nDAR-007 OCR \nDAR-008 \n \nSER-001 \nSER-002 AI \nSER-003 \nSER-004 \nSER-005 \nSER-006 \n \nINR-001 LLM API \nINR-002 LLM API \nINR-003 \nINR-004 API Key \n QUR-001 \nQUR-002 \n \nCOR-001 ( , ) \nCOR-002 \nCOR-003 \nCOR-004 SW \nCOR-005 \nCOR-006 \nCOR-007 AI \n PMR-001 \nPMR-002 \nPMR-003 \n PSR-001 \nPSR-002 \n3. \n○ \n SFR-001\n \n \n \n \n \n 100 (= / ) ( ) \n \n 100 \n (Context) .\n \n (25 ) / \n , URL , , AI \n , \n \n- , , , , , , , \n \n AI , , \n \n , , \n \n- \n , , \n PDF, PPTX, TXT, CSV, XLSX, DOCX, HWP, PNG,\nJPG, JSON 10 , \n 4 ( , , , ) \n \n ( URL) \n Prompt Engineering \n RAG , UI \n (PC, , ), OS(Windows, Mac, Android, iOS ), \n (Chrome, Edge, Safari, FireFox ) \n : / / /API ( ) \n \n \n \n \n SFR-002\n \n \n \n \n AI \" / \" , “ ” UI \n- \" \" \n “ ” \n- / \n- ( ) \n / \n \n SFR-018\n SFR-003\n (LLM/sLLM) \n \n \n \n LLM(GPT, Gemini ) sLLM \n \n sLLM 2 UI \n \n \n SFR-004\n AI \n \n \n \n LLM , \n , \n \n \n SFR-005\n \n \n \n \n / / \n \n , \n \n SFR-006\n Chat API \n \n \n \n Chat API \n \n AI ( ) (Javascript ) \n , UI \n \n \n \n SFR-007\n RAG \n \n \n \n RAG \n , \n \n MCP DB ( ) , 10 \n .\n ) , , , , , \n \n SFR-008\n \n \n \n ( ) \n / (Temperature ) \n \n SFR-009\n \n \n \n \n , , \n / \n ( ) \n \n SFR-010\n UI/UX \n \n \n \n \n UI \n sLLM · ( , \n )\n \n SFR-011\n LLMOps 1\n \n \n \n ( ) LLM , API \n , \n \n \n \n SFR-012\n LLMOps 2\n \n RAG \n (RAG ) , , , DB , , \n \n \n ( ) , ( , , FAQ) \n \n (Graph RAG) Graph RAG \n \n \n SFR-013\n LLMOps 3\n \n \n ( ) , (TTFT) \n , , \n SFR-002\n SFR-014\n LLMOps 4\n \n \n \n , , , , \n , , \n \n SFR-002\n SFR-015\n LLMOps 5\n \n \n \n \n- ( / ), ( / / / / ) \n \n SFR-016\n \n \n \n AI \n \n \n○ \n ECR-001\n \n \n \n \n GPU, CPU, \n \n NVIDIA A100 80GB 8 ( B200 192GB 8 ) \n※ GPU \n 8 \n GPU ( ) , API \n \n , ‧ \n※ , \n \n CPU (PaaS) \n※ PaaS SW: / 2.x\n- : Vector DB, Embedding Model, RAG Pipleine\n- : Model Router, Load Balancer\n- : LLM Gateway, API Gateway, Guardrail, \n \n \n ECR-002\n GPU \n \n \n \n\nGPU 0~7 (Gemma4, EXAONE, Llama4 ) \n \n \n \n / ( )\n \n ECR-003\n \n \n \n \n GPU (LLM) \n \n A100 (Ampere) B200 (Blackwell)\nGemma 4 (31B) BF16 (Original) FP4 FP8\nEXAONE 4 (32B)BF16 ( ) FP8 (Fine-grained)\nLlama4-scout (17B)BF16 ( ) FP8\n GPU \n \n○ \n DAR-001\n \n \n \n / / \n \n (ACL, \n , )\n , , 3 \n \n SER-001\n DAR-002\n \n \n \n \n \n LLM \n \n , \n , , AES-256 \n \n DAR-003\n Vector DB \n \n RAG \n \n RAG Vector DB \n API \n , \n \n DAR-004\n AI \n \n AI \n AI \n ( )\n ( \n ( ) , \n ( ) \n AI \n \n- , , \n \n DAR-005\n AI \n \n \n \n \n- ( , , ) \n \n- (hwp, hwpx), (docx)\n \n \n DAR-006\n \n \n \n \n \n- hwp/hwpx, doc/docx, ppt/pptx, excel, pdf\n AI \n , \n \n , , \n \n DAR-007\n OCR \n \n \n \n AI \n \n \n \n \n DAR-008\n \n \n \n \n \n \n○ \n SER-001\n \n \n \n \n AES-256 SSL/TLS \n SSO , .\n( )\n※ (enpass) SSO: API , 300 \nSAML SSO: IdP(GoogleWorkspace)\n : \n , \n AI ‧ ‧ \n \n \n SER-002\n AI \n \n \n \n AI 2.0 \n \n ( & ) \n \n SER-003\n \n \n \n \n ,\n \n \n \n 3 \n \n \n \n ‧ ( ) \n※ \n ( , )\n \n SER-004\n \n \n \n \n DB \n \n ( , \n ) 1 \n- : \n- : \n \n- : \n- : OWASP 10 , 8 , \n \n , \n \n SER-005\n \n \n \n \n \n \n- , \n \n , \n- : , \n- : , \n \n· : \n· : \n· : \n· : , \n \n- 1 \n- , ‘ ’ \n \n- \n \n , ( ) \n \n \n , \n \n , , \n \n , · \n ( , ), , , \n \n SER-006\n \n \n \n \n 59 , 54 , \n ( 32 \nSW \n 4 \n SW \n SW \n- SW , \n , \n \n- SW 3 \n \n- SW \n 76 2 3 \n \n , \n \n○ \n INR-001\n LLM API \n \n LLM \n \n GPT, Gemini LLM \n \n \n \n INR-002\n LLM API \n \n LLM \n \n AI API API Gateway \n OpenAI API(OpenAI-Compatible API) *\n API (LLM API ) \n*Open WebUI, LibreChat, AnythingLLM, Dify, Claude Code \n , , , , \n , \n \n- : Semantic Router( \n ), Threshold-base( (0~1) \n . , )\n- : PII( ), Local ( \n , )\n- “ ” , Ingress (Classifier) small\nLLM \n , , injection \n / , latency, , \n \n INR-003\n \n \n \n \n LLM API & Function Calling, MCP, Webhook \n \n , , \n \n : (Drag-and-drop ), \n(Tool/Skill) , & \n \n INR-004\n API Key \n \n API Key ‧ \n Key : API Key \n- key , , , , , \n : \n- \n- HTTPS , \n : LLM \n \n- OpenAI API Spec (/v1/chat/completions), SDK (Python, Node.js\n )\n : \n \n- Rate Limiting: API Key (RPM) (TPM) \n- : Key , / , \n- : API ( , IP, ) \n . Prompt \n \n \n○ \n QUR-001\n \n \n \n \n \n \n , , , \n \n 1 ( ) \n \n \n \n \n \n \n \n \n , \n / , \n , ,\n \n \n . ( \n )\n- , , (SLA) \n \n PSR-001\n QUR-002\n \n \n SW \n \n , \n \n- SW \n- SW \n ․ , \n \n \n \n○ \n COR-001\n ( , ) \n \n \n \n · \n \n- · · ( )\n- 2.1( )\n- ( )\n- ( )\n- ( )\n- ( )\n- ( )\n- , ( )\n , \n \n , SW \n ( ) \n \n※ \n \n \n COR-002\n \n \n \n \n “ “ \n \n- \n- : OWASP 10 , 8 \n ‧ \n \n COR-003\n \n \n \n \n 4 \n \n \n , \n \n , \n \n COR-004\n SW \n \n SW \n \n 46 , \n SW (SW ) · \n< SW >\n \nSW \n( SW , HW, SW \n ) 1 \n \nSW \n( , )\n SW www.spir.kr ‘SW \n ’ \n SW \n \n COR-005\n \n \n \n \n 50 , 47 1 2 , 3 \n · , \n * * 8 \n “ ” \n \n \n COR-006\n \n \n \n \n \n , \n · ( ) 41 \n .\n , \n , \n .\n※ \n \n , \n \n .\n \n COR-007\n AI \n \n AI \n \n \n AI ( , , ,\n ) AI \n 2.0 ( ) , AI \n \n AI · , \n \n , \n \n , \n \n / / ‧ \n \n AI , \n \n · , \n \n AI , \n \n , , , \n \n AI , , , \n \n , \n \n \n \n○ \n PMR-001\n \n \n \n \n \n , \n SW \n \n \n \n PMR-002\n \n \n \n \n \n ( ) \n \n \n PMR-003\n \n \n \n \n \n \n PM/PL : (PM) (PL) \n \n 2 \n , ( , , ) \n \n \n○ \n PSR-001\n \n \n , \n \n \n \n , \n ․ \n \n , , , , \n , , \n PSR-002, QUR-001\n PSR-002\n \n \n ‧ \n \n \n , , , , \n \n ( ) : 2 X 4 \n- , , AI , \n : 2 X 2 ※ \n- , , , \n \n : 1 X 2 \n- AI , , AI \n \n PSR-001\nⅢ . \n1. \n○ 12 14 \n , \n○ (G2B) \n ( , :1468) \n \n○ 9 10 , \n [ : ( : 8111159901)] \n , \n (SMPP) \n○ 2 · 2 \n · · \n( : ) \n○ 20 48 \n (SW ‘ : ’ )\n○ 27 76 ( \n ) \n○ 48 \n○ 54 , ( \n ) \n○ \n○ \n2. \n○ 43 ( \n ) \n○ \n \n3. , \n○ \n- : (90%), (10%)\n- = + \n○ \n- \n 100 90 , 100 10 \n- : \n- 90 \n- 6 \n \n- \n \n- \n※ 4 5 \n○ \n- 85% \n \n- (90%) (10% : ) \n \n- , 2 \n , \n \n- \n- \n- \nⅣ . \n1. \n○ \n , \n○ \n \n○ \n○ \n \n○ \n \n○ 3 ,\n , \n \n○ \n \n \n○ , \n , , \n \n○ , , \n○ \n \n \n○ , \n○ ( ) 56 ( \n ) \n○ \n \n○ \n○ , \n○ A4 A4 \n \n○ ( , \n )\n○ \n- \n \n2. \n○ ․ , , \n- , \n \n○ , , \n \n○ ( ) \n , ( \n , , ) \n○ , ( ) ,\n \n○ ․ \n3. \n○ : 1 , 1 , 1 , ( ) 1 \n○ : ※ PDF / 300MB / \n○ : \n○ ( )\n- ( ) (PM) , \n(PM) . \n . : 25 ( 15 , 10 , \n 2 ( (PM) ))\n- , \n .\n- (PM) 11 6 \n . \n \n○ : \n○ : \n○ : \n4. \n○ 16 , \n \n \n[ 1] \n[ 2] \n[ 3] \n 1 \n 2 3 \n 3 3 \n 4 \n 5 \n 6 ( )\n 7 ( )\n 8 ( )\n 9 \n 10 \n[ 1] \n[ 2] \n[ 3] \n[ 4] \n[ 5] \n[ 6] \n[ 1] \n \nⅠ . \n1. - , 3 \n[ 3 - 1 , 2 ]\n2. - \n3. \n \n- \n※ “V. ” “3. ” \n[ 3 - 5 ]\n4. - \n5. - 3 \n[ 3 - 3 , 4 ]\nⅡ . \n1. - , , \n \n2. - ( ) \n \n3. - , \n4. - , , \n \nⅢ . \n1. \n- / ( )\n- \n- , \n2. - \n3. - \n- \n4. - , \n \n5. - , , , \n \nⅣ . \n1. - , \n \n2. - · \n3. - \n4. - , \n- ( / / / ) , , \nⅤ . \n1. - , , , \n \n2. - , \n3. \n \n- (PM) , , \n- \n4. - , \n \nⅥ . \n1. \n \n- \n- \n2. - , , , \n3. - , , , \n- , , / / , \n4. \n , \n- , , , , , , \n- / \n5. / \n \n- II-1( ) / \n \n- II-1( ) \n※ , \n[ 2] \n \n \n 3\n10\n \n 2\n , \n 3\n \n \n , \n 2\n \n \n \n / \n \n SW , \n \n4\n20\n \n \n \n \n \n5\n \n \n \n \n3\n \n \n , \n 4\n , , \n 4\n \n \n , \n \n \n5\n15\n , , \n , \n \n5\n \n \n \n \n \n \n5\n \n \n \n , ( ) , , \n \n \n5\n20 \n \n (PM) , \n , \n \n7\n \n 5\n \n 3\n \n \n , \n 21 \n \n3\n20\n , \n , 3\n , \n 3\n , , , \n 4\n , , , \n 3\n \n 2\n / \n 2\n < > 5\n \nAAA, AA+,\nAA0, AA-\nA+, A0, A-,\nBBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0,\nAA-,\nA+, A0, A-, BBB+,\nBBB0\n \n100%\nBBB-, BB+,\nBB0, BB- A3-, B+, B0BBB-, BB+, BB0,\nBB- “ 95%\nB+, B0, B- B- B+, B0, B- “ 90%\nCCC+ C CCC+ “ 70%\n 90\n[ 3][ 1 ]\n \n \n \n \n \n \n ( )\n \n[ 3][ 2 ]\n ( 3 )\n : ( : )\n 2023 2024 2025 \n \n \n \n \nBPR/ISP\n \n \n \n \n S/W \nH/W \n \n○○ \n○○ \n \n \n( / )\n \n( / )\n \n \n \n \n ) 1. , .\n2. , , ‘ ’ .\n[ 3][ 3 ]\n \n \n※ , .\n※ .\n※ / / .\n[ 3][ 4 ]\n\n[ 3][ 5 ]\n \n \n \n \n \n \n \n \n( ) \n[ 3][ 6 ]\n ( )\n 2026 AI \n .\n1. AI \n .\n2. \n .\n3. \n .\n2026 00 00 \n :\n( ) :\n : ( )\n :\n :\n :\n : ( )\n :\n[ 3][ 7 ]\n ( )\n 2026 AI \n .\n※ AI \n .\n※ \n .\n※ .\n . 35 ( ) 76 ( )\n2026 \n \n ( )\n \n ( )\n[ 3][ 8 ]\n ( )\n AI , \n .\n○ ( ) ( ) \n , \n .\n○ ( ) \n .\n2026 \n ( ) \n :\n :\n : ( )\n \n[ 3][ 9 ]\n \n \n , OECD \n , \n \n1. , , \n .\n2. , , ( ) \n , \n , , \n .\n3. , \n .\n , \n , , \n .\n2026 \n : ○○○ ○○○ ( )\n \n[ 3][ 10 ]\n ( )\n ( “ ” ) △△△ ( “ ” ) “ ” \n “ ” .\n 1 ( ) “ ” “ ” , “ ” “ \n ” .\n 2 ( ) , ,\n ( 2025-9 ) ( \n 2025-4 ) .\n 3 ( ) “ ” ( ) \n .\n1.\n2.\n 4 ( ) .\n : 2026 ~ ( )\n 5 ( ) “ ” “ ” “ ” \n 3 .\n “ ” 3 “ ” 7 “ ” \n .\n 6 ( ) “ ” 23 2 24 3 29 , \n 21 30 , ( 2025-9 ) \n ․ .\n 7 ( ) “ ” \n 3 .\n “ ” \n 16 ( 2025-9 ) \n “ ” .\n 2 “ ” “ ” .\n 8 ( · ) “ ” “ ” , “ \n ” .\n1. \n2. \n3. \n4. ․ 5. 6. \n \n “ ” “ ” 1 , “ ” \n .\n “ ” · · · 1 1\n “ ” , “ ” .\n 1 “ ” “ ” .\n 9 ( ) “ ” , · , \n .\n 10 ( ) “ ” 4 \n “ ” .\n 11 ( ) “ ” “ ” “ ” \n “ ” “ ” “ \n ” “ ” 3 \n “ ” .\n 1 3 “ ” \n “ ” “ ” .\n 2 , “ ” “ ” 1 \n .\n2026. . .\n \n :\n ( ) :\n : ( )\n \n :\n ( ) :\n : ( )\n[ 1] \n \n \n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n◦ \n( )\n◦ \n \n◦ \n \n◦ \n \n \n1. \n . \n . \n . ․ \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P \n . · \n . \n . PC \n . PC \n . \n . ( )\n◦ \n \n◦ \n \n◦ \n \n \n \n1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n◦ \n \n◦ \n \n/ \n◦ \n \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n◦ \n \n◦ \n/ \n[ 2] \n A~D \n \n \nA B C D \n 1 1 2 3 \n \n 500 300 100 \n※ [ 1] \n , \n※ 1 \n .\n[ 3] \n \n< 13 >\n1. IP \n2. \n3. \n4. \n5. ( \n )\n6. , \n7. \n8. 9 1 \n9. 2 1 \n10. 4 16 3 \n11. \n[ 4] \n[V] , [ ] \n AI \n 2026. 4. 20.\n◇ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( ) · ( )\n ( ) ( )\n ( ) ( )\n ( ) ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n◇ \n \n / / \n \n \n \n \n \n \n , , \n .\nO\n \n \n \n 2.2 O\n O\n O\n UI/UX O\n \n \n- HTML 4.01/HTML 5, CSS 2.1 / CSS 3 O\n- XHTML 1.0 O\n- XML 1.0, XSL 1.0, XSLT 2.0 O\n- ECMAScript 14th O\n \n- 1.0\n(KICS.KO-10.0307) O\n- 2.0\n(KSX3253:2016) O\n \n (KS X ISO/IEC 20000)/ ITIL v3, v4 O\n \n \nIPv4 O\nIPv6 O\n◇ \n \n / / \n \n \n \n \n \n , \n \n .\nO\n \n \n \n- SOAP 1.2, WSDL 2.0, XML 1.0 O\n- RESTful O\n \n- UML 2.X / BPMN 2.X O\n- ebXML/BPEL/XPDL O\n : XML 1.0, JSON O\n : RESTful API, WSDL 2.0 O\n◇ \n / / \n \n \n \n \n \n \n IPv4 IPv6 \n . O\n , \n \n .\nO\n \n \n : H.320~H.324, H.310 O\n : VoIP\n- H.323 O\n- SIP O\n- Megaco(H.248) O\n \n \n ( ) \n- POSIX.0 O\n- UNIX O\n- Windows Server O\n- Linux O\n \n- android O\n- IOS O\n \n DBMS\n- RDBMS O\n- ORDBMS O\n- OODBMS O\n- MMDBMS O\n- TSDBMS O\n ITIL v3, v4 / ISO20000 O\n : O\n \n \n IaaS O\n PaaS O\n SaaS O\n◇ \n \n / / \n \n \n \n \n \n . O\n , , , ,\n . O\n ( 2 6 ) \n , \n , \n .\nO\n , \n , \n \n .\nO\n \n . O\n \n \n \n \n \nO\n \n : HTML 4.01 / HTML 5 O\n \n- JSP 2.x O\n- ASP.net O\n- PHP O\n- ( ) O\n \n \n- C O\n- C++ O\n- Java O\n- C# O\n- ( ) O\n \n- XMI 2.0 / XMI 3.2 O\n- SOAP 1.2 O\n- API O\n \n- EUC-KR O\n- UTF-8( , UTF-8 ) O\n◇ \n \n / / \n \n \n \n \n \n \n \n \n \n . “ ”, “ \n ”, “ ” “ ” .\nO\n \n . O\n \n . O\n \n \n \n O\n ( ) O\n ( ) O\n \n \n \n \n \n \n ( )\n- PKI O\n- SSO ( CC ) O\n- O\n- (DRM)( CC ) O\n- O\n- O\n- O\n- DB ( CC ) O\n- (8 ) O\n- O\n CC ( CC )\n- ( ) O\n- ( ) ( ) O\n- ( ) O\n- O\n- DDos ( ) O\n- O\n- O\n- O\n- ( ) O\n- O\n- (2022.1 ) O\n- ( ) O\n- O\n- O\n- O\n- DB O\n- O\n- ( \n ) O\n- ( ) O\n- O\n- USB(2020.1.1 , \n ) O\n- (2021.1.1 , , \n ) O\n- (2021.1.1 ) O\n- CC O\n \n- USB( ) O\n- ( , \n ) O\n- O\n- O\n- (L3 ) O\n- O\n ( · ) \n- · ( ) O\n- O\n \n- (CSAP) O\n- O\n \n \n \n \n- O\n- O\n- O\n- O\n- O\n- O\n- O\n- O\n- O\n \n- O\n- ( ) O\n- ( ) O\n- O\n※ “ ” \n[ 5] \n\n[ 6]",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01633665-000",
+    "sourceFile": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+    "generatedAt": "2026-07-20T12:42:15.379405",
+    "match": {
+      "noticeId": "R26BK01633665-000",
+      "bidNtceNo": "R26BK01633665",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01633665-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01633665-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01633665-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4 A4 ○ (, ) ○ - 2. ○ ․,, -, ○,, ○ ( ), (,, ) ○, ( ), ○ ․ 3. ○ : 1, 1, 1, ( ) 1 ○ : ※ PDF / 300MB / ○ : ○ ( ) - ( ) (PM), (PM) . . : 25 ( 15, 10, 2 ( (PM) )) -, . - (PM",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "USB(2020.1.1, ) O - (2021.1.1,, ) O - (2021.1.1 ) O - CC O - USB( ) O - (, ) O - O - O - (L3 ) O - O ( · ) - · ( ) O - O - (CSAP) O - O - O - O - O - O - O - O - O - O - O - O - ( ) O - ( ) O - O ※ “ ” [ 5] [ 6] [긴급입찰사유서.hw",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "SFR-000",
+          "requirement": "Requirement",
+          "name": "Requirement",
+          "detail": "(I-3), (II-3) . . ◯ , . (System Function",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-000",
+          "requirement": "Requirements",
+          "name": "Requirements",
+          "detail": "(System Function Requirement) (Equipment Composition",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-000",
+          "requirement": "H/W, S/W, N/W",
+          "name": "H/W, S/W, N/W",
+          "detail": "(Equipment Composition Requirements) (Data Requirements)",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-000",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": ", 6",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-000",
+          "requirement": "Quality Requirement) , , ,",
+          "name": "Quality Requirement) , , ,",
+          "detail": ", , ,",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-000",
+          "requirement": "Quality Requirement) , , ,",
+          "name": "Quality Requirement) , , ,",
+          "detail": ", ,",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-000",
+          "requirement": "Requirement",
+          "name": "Requirement",
+          "detail": "(Interface Requirement) INR-000 (Quality Requirement) QUR-000 , , , (Constraint Requirement) COR-000 , , (Project Management",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-000",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": ", ,",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": "Requirement) (Project Support Requirement) PSR-000 , ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-002",
+          "requirement": ".",
+          "name": ".",
+          "detail": "(Project Support Requirement) PSR-000 , ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-003",
+          "requirement": ".",
+          "name": ".",
+          "detail": "(LLM/sLLM)",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-004",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-005",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "Requirement) PSR-000 , , . SFR-003 (LLM/sLLM)",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-006",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "Chat API",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-007",
+          "requirement": "RAG",
+          "name": "RAG",
+          "detail": "RAG",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-008",
+          "requirement": "RAG",
+          "name": "RAG",
+          "detail": ". SFR-003 (LLM/sLLM) SFR-004 AI SFR-006 Chat API",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-009",
+          "requirement": "RAG",
+          "name": "RAG",
+          "detail": "SFR-003 (LLM/sLLM) SFR-004 AI SFR-006 Chat API",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-010",
+          "requirement": "RAG",
+          "name": "RAG",
+          "detail": "UI/UX",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-011",
+          "requirement": "UI/UX",
+          "name": "UI/UX",
+          "detail": "LLMOps 1",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-012",
+          "requirement": "LLMOps 1",
+          "name": "LLMOps 1",
+          "detail": "LLMOps 2",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-013",
+          "requirement": "LLMOps 2",
+          "name": "LLMOps 2",
+          "detail": "LLMOps 3",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-014",
+          "requirement": "LLMOps 3",
+          "name": "LLMOps 3",
+          "detail": "LLMOps 4",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-015",
+          "requirement": "LLMOps 4",
+          "name": "LLMOps 4",
+          "detail": "LLMOps 5",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-016",
+          "requirement": "LLMOps 5",
+          "name": "LLMOps 5",
+          "detail": "SFR-010 UI/UX SFR-011 LLMOps 1 SFR-012 LLMOps 2 SFR-013 LLMOps 3 SFR-014 LLMOps 4",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-001",
+          "requirement": "LLMOps 5",
+          "name": "LLMOps 5",
+          "detail": "SFR-010 UI/UX SFR-011 LLMOps 1 SFR-012 LLMOps 2 SFR-013 LLMOps 3 SFR-014 LLMOps 4",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-002",
+          "requirement": "GPU",
+          "name": "GPU",
+          "detail": "GPU",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-003",
+          "requirement": "GPU",
+          "name": "GPU",
+          "detail": "SFR-011 LLMOps 1 SFR-012 LLMOps 2 SFR-013 LLMOps 3 SFR-014 LLMOps 4 SFR-015 LLMOps 5",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-001",
+          "requirement": "GPU",
+          "name": "GPU",
+          "detail": "SFR-012 LLMOps 2 SFR-013 LLMOps 3 SFR-014 LLMOps 4 SFR-015 LLMOps 5",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-002",
+          "requirement": "GPU",
+          "name": "GPU",
+          "detail": "SFR-013 LLMOps 3 SFR-014 LLMOps 4 SFR-015 LLMOps 5",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-003",
+          "requirement": "GPU",
+          "name": "GPU",
+          "detail": "Vector DB",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-004",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-005",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-006",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "ECR-002 GPU DAR-003 Vector DB",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-007",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "OCR",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-008",
+          "requirement": "OCR",
+          "name": "OCR",
+          "detail": "DAR-003 Vector DB DAR-004 AI DAR-005 AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "OCR",
+          "name": "OCR",
+          "detail": "DAR-003 Vector DB DAR-004 AI DAR-005 AI",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "DAR-003 Vector DB DAR-007 OCR",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "DAR-007 OCR",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-005",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "DAR-007 OCR",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-006",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "INR-001 LLM API INR-002 LLM API",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": "INR-004 API Key",
+          "name": "INR-004 API Key",
+          "detail": "INR-001 LLM API INR-002 LLM API INR-003",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": "INR-004 API Key",
+          "name": "INR-004 API Key",
+          "detail": "INR-001 LLM API INR-002 LLM API INR-003",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": ",",
+          "name": ",",
+          "detail": ",",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": "INR-001 LLM API INR-002 LLM API INR-003 INR-004 API Key",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-003",
+          "requirement": ",",
+          "name": ",",
+          "detail": "INR-001 LLM API INR-002 LLM API INR-003 INR-004 API Key",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-004",
+          "requirement": ",",
+          "name": ",",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-005",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "INR-003 INR-004 API Key COR-001 ( , )",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-006",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "INR-004 API Key COR-001 ( , )",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-007",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "AI",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "COR-001 ( , ) COR-004 SW",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "COR-001 ( , ) COR-004 SW",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "COR-004 SW",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "COR-004 SW",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "COR-004 SW",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-018",
+          "requirement": "/",
+          "name": "/",
+          "detail": ": / / /API ( ) AI \" / \" , “ ” UI - \" \" “ ”",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [
+        {
+          "title": "일정 리스크",
+          "detail": "긴급입찰사유서.hwp]",
+          "severity": "확인"
+        }
+      ],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01633665-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "전자파일 제출 매체, 원본/사본 구분 확인",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 2개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "BBB0",
+          "score": 100.0,
+          "weight": 100.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "BBB0 100점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "BBB0",
+          "score": 100.0,
+          "weight": 100.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "BBB0 100점"
+        }
+      ],
+      "totals": {
+        "score": 200.0,
+        "weight": 200.0,
+        "gradeA": 2,
+        "gradeB": 0,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01633665-000",
+    "generatedAt": "2026-07-20T12:43:08.230501",
+    "sourceAnalysisAt": "2026-07-20T12:42:15.379405",
+    "projectName": "",
+    "sourceFile": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+    "requirementSourceFiles": [
+      "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "SFR-000",
+        "name": "( )",
+        "detail": "16 (Equipment Composition Requirements)",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-000",
+        "name": "H/W, S/W, N/W",
+        "detail": "3",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-000",
+        "name": ", ,",
+        "detail": "8",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-000",
+        "name": ", 6",
+        "detail": "(Interface Requirement) INR-000 4",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-000",
+        "name": ", , ,",
+        "detail": "2",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-000",
+        "name": ", ,",
+        "detail": "7 (Project Management Requirement)",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-000",
+        "name": "3",
+        "detail": "(Project Support Requirement)",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-000",
+        "name": ", ,",
+        "detail": "2 .",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-001",
+        "name": "SFR-001",
+        "detail": "100 (Context) . (25 ) / , URL , , AI ,",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-002",
+        "name": "SFR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-003",
+        "name": "(LLM/sLLM)",
+        "detail": "LLM(GPT, Gemini ) sLLM sLLM 2 UI",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-004",
+        "name": "AI",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-005",
+        "name": "SFR-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-006",
+        "name": "Chat API",
+        "detail": "Chat API AI ( ) (Javascript ) , UI",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-007",
+        "name": "RAG",
+        "detail": "RAG , MCP DB ( ) , 10 . ) , , , , ,",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-008",
+        "name": "SFR-008",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-009",
+        "name": "SFR-009",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-010",
+        "name": "UI/UX",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-011",
+        "name": "LLMOps 1",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-012",
+        "name": "LLMOps 2",
+        "detail": "RAG (RAG ) , , , DB , , ( ) , ( , , FAQ) (Graph RAG) Graph RAG",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-013",
+        "name": "LLMOps 3",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-014",
+        "name": "LLMOps 4",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-015",
+        "name": "LLMOps 5",
+        "detail": "( / ), ( / / / / )",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-016",
+        "name": "SFR-016",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-001",
+        "name": "ECR-001",
+        "detail": "NVIDIA A100 80GB 8 ( B200 192GB 8 ) ※ GPU 8 GPU ( ) , API , ‧",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-002",
+        "name": "GPU",
+        "detail": "GPU 0~7 (Gemma4, EXAONE, Llama4 ) / ( )",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-003",
+        "name": "ECR-003",
+        "detail": "A100 (Ampere) B200 (Blackwell) Gemma 4 (31B) BF16 (Original) FP4 FP8 EXAONE 4 (32B)BF16 ( ) FP8 (Fine-grained) Llama4-scout (17B)BF16 ( ) FP8 GPU",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-001",
+        "name": "DAR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-002",
+        "name": "DAR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-003",
+        "name": "Vector DB",
+        "detail": "RAG RAG Vector DB API ,",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-004",
+        "name": "AI",
+        "detail": "AI AI ( ) ( ( ) ,",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-005",
+        "name": "AI",
+        "detail": "( , , ) (hwp, hwpx), (docx)",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-006",
+        "name": "DAR-006",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-007",
+        "name": "OCR",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-008",
+        "name": "DAR-008",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "SER-001",
+        "detail": "SSO , . ( ) ※ (enpass) SSO: API , 300 SAML SSO: IdP(GoogleWorkspace) ,",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "AI",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "SER-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "SER-004",
+        "detail": "( , ) 1 OWASP 10 , 8 , ,",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-005",
+        "name": "SER-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-006",
+        "name": "INR-001 LLM API",
+        "detail": "INR-002 LLM API INR-003 INR-004 API Key",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "QUR-001",
+        "detail": "1 ( ) , / , , , . (",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": "QUR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": "( , )",
+        "detail": "· · · ( ) 2.1( ) ( ) ( )",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": "COR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-003",
+        "name": "COR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-004",
+        "name": "SW",
+        "detail": "SW 46 , SW (SW ) · < SW > SW",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-005",
+        "name": "COR-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-006",
+        "name": "COR-006",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-007",
+        "name": "AI",
+        "detail": "AI AI ( , , , ) AI 2.0 ( ) , AI AI · ,",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "PMR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "PMR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "PMR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "PSR-001",
+        "detail": "1. ○ 12 14 , ○ (G2B) ( , :1468)",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": "3.",
+        "detail": ", , , , ( ) : 2 X 4 , , AI , 2 X 2 ※ , , ,",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-018",
+        "name": "SFR-018",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "260714 생성형 AI기반 지능형 서비스 플랫폼 구축_제안요청서_v1.2.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "BBB0",
+        "score": 100.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 25,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "BBB0 100점"
+      },
+      {
+        "scoreItem": "BBB0",
+        "score": 100.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 25,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "BBB0 100점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [
+              "ECR-000",
+              "ECR-001",
+              "ECR-002",
+              "ECR-003"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "SFR-000",
+              "DAR-000",
+              "SFR-001",
+              "SFR-002",
+              "SFR-003",
+              "SFR-004",
+              "SFR-005",
+              "SFR-006",
+              "SFR-007",
+              "SFR-008",
+              "SFR-009",
+              "SFR-010",
+              "SFR-011",
+              "SFR-012",
+              "SFR-013",
+              "SFR-014",
+              "SFR-015",
+              "SFR-016",
+              "DAR-001",
+              "DAR-002",
+              "DAR-003",
+              "DAR-004",
+              "DAR-005",
+              "DAR-006",
+              "DAR-007",
+              "DAR-008",
+              "SFR-018"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "SER-000",
+              "QUR-000",
+              "COR-000",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "SER-005",
+              "SER-006",
+              "QUR-001",
+              "QUR-002",
+              "COR-001",
+              "COR-002",
+              "COR-003",
+              "COR-004",
+              "COR-005",
+              "COR-006",
+              "COR-007"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-000",
+              "PMR-001",
+              "PMR-002",
+              "PMR-003"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-000",
+              "PSR-001",
+              "PSR-002"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 56,
+      "mappedRequirements": 56,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

@@ -1,0 +1,1333 @@
+{
+  "bidNtceNo": "R26BK01614363",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-07-20T12:36:07.284033",
+  "status": "completed",
+  "source": {
+    "fileName": "계약특수조건.hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/계약특수조건.hwp",
+    "pageCount": 6,
+    "textLength": 1525,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "계약특수조건.hwp",
+      "extension": ".hwp",
+      "size": 61952,
+      "kindCode": ""
+    },
+    {
+      "fileName": "과업지시서.hwp",
+      "extension": ".hwp",
+      "size": 3884544,
+      "kindCode": ""
+    },
+    {
+      "fileName": "긴급입찰 사유서.pdf",
+      "extension": ".pdf",
+      "size": 181995,
+      "kindCode": ""
+    },
+    {
+      "fileName": "제안요청서.hwp",
+      "extension": ".hwp",
+      "size": 730112,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "343bb1db38f13e5c6e75e5db",
+      "fileName": "계약특수조건.hwp",
+      "extension": ".hwp",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01614363/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01614363/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01614363/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/계약특수조건.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/converted/계약특수조건.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/converted/계약특수조건.pdf",
+      "pageCount": 6,
+      "textLength": 1525,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI ISMP \n \n “ ” “ ” \n .\n 1 ( ) “ ” “ ” \n .\n 2 ( ) ① AI \nISMP \n .\n② “ ” “ ” “ \n ” . , “ ” “ ” \n .\n③ (AI ) AI \n ․ ․ .\n④ (AI POC) AI POC \n .\n⑤ (LLM RAG ) LLM RAG, Vector\nDB, Agent .\n ( ․ AI ) AI , AI , , (Hallucination)\n .\n ( AI ) AI , AI \n , AI .\n 3 ( ) , , , , , \n , , \n .\n 4 ( ) ① “ ” 10 \n ․ “ ” , . \n“ ” “ ” .\n1. \n2. ( )\n3. “ ” \n② “ ” “ ”\n , , \n “ ” .\n③ “ ” “ ” \n “ ” .\n④ “ ” \n“ ” “ ” \n “ ” .\n⑤ “ ” “ ” \n \n .\n 5 ( ) “ ” 3 \n , “ ” .\n 6 ( ) ① .\n② “ ” “ ” \n .\n 7 ( ) ① “ ” \n , , . \n“ ” \n .\n② “ ” ① “ ” \n “ ” .\n \n ◦ ( ), , \n※ \n \n◦ , , \n◦ , ( )\n※ ( )\n ◦ \n \n \n \n◦ 10 \n◦ (TO-BE) \n◦ , ISMP \n③ ① , ② “ ” “ ” \n “ ” .\n④ “ ” , 2 \n , \n(PDF,HWP,PPTX ) ( USB ) \n .\n 8 ( ) ① “ ” “ \n ” , \n “ ” .\n② “ ” 1 “ ” \n .\n③ “ ” \n , “ ” \n10 .\n④ .\n 9 ( ) ① “ ” “ ” \n .\n② “ ” “ ” \n .\n③ “ ” “ ” \n .\n 10 ( ) ① “ ” POC \n .\n② (S/W) “ ” .\n③ “ ” , \n “ ” .\n④ “ ” .\n 11 ( ) , , AI , \n , \n 12 ( ) ① “ ” “ ” \n , “ ” \n .\n② “ ” 1 “ \n ” 14 \n . , ․ \n 7 .\n③ “ ” 2 “ ” \n 7 .\n “ ” 2 \n .\n④ 3 \n .\n⑤ “ ” 2 3 \n . “ ” .\n⑥ “ ” 3 5 \n “ ” .\n 13 ( , , ) ① “ ” \n .\n② “ ” \n , .\n③ “ ” \n , “ ” “ \n ” .\n 14 ( ) ① “ ” “ ” \n , “ ” \n , .\n② 1 “ ” 21 1 “ \n ” S/W “ ” , “ \n ” “ ” .\n③ “ ” “ ” \n “ ” “ ” \n .\n 15 ( ) ① “ ” \n “ ” \n . “ ” “ ” .\n② 1 “ ” \n .\n③ “ ” \n , “ ” .\n 17 ( ) ( 12 ) \n “ ” \n .\n 18 ( ) “ ” \n “ ” .\n 19 ( ) ① “ ” “ ” \n .\n② “ ” , , , \n “ ” .\n 20 ( ) ① “ ” \n \n .\n② “ ” ,\n , 3 , \n .\n③ “ ” \n .\n 21 ( ) ① \n , , , , “ ” “ \n ” .\n② “ ” , \n ․ “ ” \n .\n 22 ( ) ① “ ” POC “ ”\n 1 \n 6 .\n② “ ” “ ”\n ( 1 ) , \n .\n③ “ ” 9 \n .\n④ “ ” “ ” \n “ ” “ ” \n “ ” .\n 23 ( ) ① \n “ ” “ ” .\n② 1 “ ” “ ” \n “ ” .",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "AI ISMP \n \n “ ” “ ” \n .\n 1 ( ) “ ” “ ” \n .\n 2 ( ) ① AI \nISMP \n .\n② “ ” “ ” “ \n ” . , “ ” “ ” \n .\n③ (AI ) AI \n ․ ․ .\n④ (AI POC) AI POC \n .\n⑤ (LLM RAG ) LLM RAG, Vector\nDB, Agent .\n ( ․ AI ) AI , AI , , (Hallucination)\n .\n ( AI ) AI , AI \n , AI .\n 3 ( ) , , , , , \n , , \n .\n 4 ( ) ① “ ” 10 \n ․ “ ” , . \n“ ” “ ” .\n1. \n2. ( )\n3. “ ” \n② “ ” “ ”\n , , \n “ ” .\n③ “ ” “...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "460c020308c1d73496407946",
+      "fileName": "과업지시서.hwp",
+      "extension": ".hwp",
+      "docType": "과업지시서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01614363/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01614363/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01614363/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/과업지시서.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/converted/과업지시서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/converted/과업지시서.pdf",
+      "pageCount": 5,
+      "textLength": 1384,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "1. : AI ISMP \n2. : 120 (4 )\n3. : 299,482,000 ( )\n4. \n○ AI AI , AI \n , AI, Agent, Graph RAG, VLM AI \n \n .\n○ 24 AI · \n · \n \n5. \n○ ( ) , , \n ( 24, Q-NET, HRD-Net 19 ) AI \n \n○ ( · ) ( · · · ) , , \n , AI \n○ ( · ) , \n AI \n○ ( · ) ( · ), , , \n \n \n○ ( ) · ·\n AI \n○ (AI )\n ․ CS Agent \nAI \n① AI Agent ② AI Agent ③ AI GAP Agent\n④ AI Agent\n○ (AI ) AI \n , AI TO-BE . · \n · \n○ ( ) AI · · \n , 24·Q-NET \n , (1~2 )· (3~5 )· (5 ) \n○ ( )\nAI LLM Multi-LLM RAG \n Graph RAG VLM DB AI Gateway\n AI Agent Frame \n○ ( )\nAI AI NCS-SQF \n (Embedding) \n○ (AI ) ① AI Fabrix \n Clova Studio GOV SaaS LLM *\n : AI \n○ (AI ) GPU , APU , \n , , , , \n* : AI \n○ ( ) \n \n○ ( (FP) ) \n , ·DB · ( \n ) \n○ ( ) · · · \n . \n \n○ ( (RFP) ) RFP \n \n○ ( ) · · \n , , · \n \n○ (AI ) AI \n , AI · \n \n \n○ (AI ) ① AI (XAI) ③ AI \n AI \n○ ( ) \n · \n○ AI (POC) \n- AI \n- \n- \n \nPOC - 1 NCS → NCS \nPOC - 2 NCS → SQF \nPOC - 3 AI GAP \nPOC - 4 GAP \nPOC – 5 VLM \nPOC - 6 Agent \n- ( ) APU LLM AI SaaS LLM \n \nRAG \n- ( )\n① TOP-1 = 1 / \n② TOP-3 = AI 3 \n③ Precision : \n④ Recall : \n⑤ : \n⑥ : \n⑦ : \n⑧ Hallucination : \n- : AI , \n○ AI (2026.6.10.( ), \n ) \n- AI , , Agent ,\nGraph RAG, VLM , Multi-LLM AI \n AI \n \n AI Fabrix ․ Clova Studio GOV \nAgent ․ ․ Agent\nGraph RAG NCS ․ SQF \nVLM \nMulti-LLM LLM \nAI ․ RAG ․ \n- : AI \n6. \n○ 10 \n .\n○ .\n \n \n \n \n \n \n․ ( )\n․ \n․ \n \n \n․ ( )\n․ \n․ \n \n \n \n \n \n \n \n \n ․ \n․ \n 10 \n \n ․ , ,\n , , 2 \n ․ISMP \n ․ \n○ .\n○ \n , . ( ) \n , .\n○ \n .\n○ .\n7. , .",
+      "analysis": {
+        "docType": "과업지시서",
+        "summary": "1. : AI ISMP \n2. : 120 (4 )\n3. : 299,482,000 ( )\n4. \n○ AI AI , AI \n , AI, Agent, Graph RAG, VLM AI \n \n .\n○ 24 AI · \n · \n \n5. \n○ ( ) , , \n ( 24, Q-NET, HRD-Net 19 ) AI \n \n○ ( · ) ( · · · ) , , \n , AI \n○ ( · ) , \n AI \n○ ( · ) ( · ), , , \n \n \n○ ( ) · ·\n AI \n○ (AI )\n ․ CS Agent \nAI \n① AI Agent ② AI Agent ③ AI GAP Agent\n④ AI Agent\n○ (AI ) AI \n , AI TO-BE . · \n ·...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "2",
+      "attachmentKey": "9ca8e34edfd697cb33b2627f",
+      "fileName": "긴급입찰 사유서.pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01614363/000/files/2",
+      "originalFileUrl": "/api/notices/R26BK01614363/000/original-files/2",
+      "pdfUrl": "/api/notices/R26BK01614363/000/files/2",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/긴급입찰 사유서.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/긴급입찰 사유서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/긴급입찰 사유서.pdf",
+      "pageCount": 1,
+      "textLength": 538,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "긴급입찰사유서1.사업개요가.사업명:직무능력은행A I서비스도입및환경구축을위한전략수립(ISM P )사업나.예산금액(추정):299,482천원(VAT포함)다.사업기간(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢\n국가를당사자로하는계약에관한법률시행령｣\n제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한 국 산 업 인 력 공 단 이 사 장",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "3",
+      "attachmentKey": "c28534c32bca6ba3d90f92fa",
+      "fileName": "제안요청서.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01614363/000/files/3",
+      "originalFileUrl": "/api/notices/R26BK01614363/000/original-files/3",
+      "pdfUrl": "/api/notices/R26BK01614363/000/files/3",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/제안요청서.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/converted/제안요청서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01614363-000/converted/제안요청서.pdf",
+      "pageCount": 66,
+      "textLength": 16652,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI ISMP \n2026. 6.\nAI \n \nⅠ . 1\n1. 1\n2. 1\nⅡ . 2\n1. 2\n2. 7\nⅢ . 8\nⅣ . 9\n1. 9\n2. 9\n3. 11\nⅤ . 37\n1. 37\n2. 37\nⅥ . 42\n1. 42\n2. 43\n3. 44\n4. 46\n5. 46\n6. 50\n7. 50\n[ 1] \n[ 2] \n[ 3] \n[ 4] \n[ 1] \n[ 2] ( 3 )\n[ 3] \n[ 3-1] \n[ 4] \n[ 5] \n[ 6] ( )\n[ 7] \n[ 8] \n[ 9] \n[ 1] \n[ 2] \n[ 3] \n[ 4] \n[ 5] \n[ 6] \n[ 7] \n[ 8] \n[ 9] ( ) \nⅠ \n1 \n○ : AI (ISMP) \n○ : 120 (4 )\n○ : 299,482,000 (VAT )\n○ : / \n○ : / \n2 \n○ ( ) 10 , · , \n- AI AI , \n○ ( ) , \n- 24 AI · · \n○ AI AI , AI , AI, Agent, Graph RAG, VLM AI \n2 \n1 \n \n○ ( ) · · · ,AI \n○ \n- ( ) , , ( 24, Q-NET, HRD-Net 19 ) AI \n- ( · ) ( · · · ) , , , AI \n- ( · ) , AI \n- ( · ) ( · ), , , \n- ( ) · · AI \n ( )\n \n \n· 24 · , AI \n , (CDP) \nAI \n \nAI \n \n \n \n· · AI , \n , \nAI , UX,\n \n ,\nUX \n \n \n· ESCO( ), \nSkillsFuture, National Careers\nService \nSQF ,\n AI \nNCS·SQF \n \n \n \n· LinkedIn Skills Graph, Coursera\nCareer Academy, Workday Skills\nCloud \n , ,\n \n \n \n \n○ ( ) AI \n , \n○ \n- (AI ) · · ·CS 4 AI \n , · · \n- · CS Agent \nAI \n- (‘26.6.10.) ①AI Agent ②AI \nAgent ③AI GAP Agent ④AI Agent\n1) \n ( ) \n \n( ) NCS → · → NCS \n → SQF → \n→ \n2) \n ( ) \nNCS·SQF \n · · \n( ) [ AI ] → → →\nGAP → · · → \n \n( ) [ ] → SQF → \n ( ) → → \n( ) [ · ] ( ) → NCS \n → · \n( ) [ ] → ·SQF \n ( )→ \n ,\n \n ) “ 3 .” → AI \n → → → \n → \n- (AI ) AI \n , AI TO-BE . · \n · \n○ \n \n · (NCS·SQF , , \n ) , \n · , \n NCS·SQF \n · ( , , \n ) \n \n · AI ( , SW ) \n \n○ ( ) AI \n , , \n○ \n- ( ) AI · · \n , 24·Q-NET \n , (1~2 )· (3~5 )· (5 ) \n- ( ) AI \n 5 \n \n · AI , , \n · , NCS·SQF \nAI · LLM, RAG( ), MLOps, DB \n · , H/W·S/W \n · , , \n- (’26.6.10.) AI ①LLM ②Multi-LLM ③RAG ④Graph RAG ⑤VLM ⑥ DB ⑦AI Gateway ⑧AI Agent Frame \n- ( ) · , AI · \n \n · · \n· · \n · · \n· · · \n○ AI ①AI ②NCS-SQF ③ ④ (Embedding) ⑤ \n○ (AI ) ① AI ②Fabrix ③Clova Studio GOV ④ SaaS ⑤ LLM * : AI \n○ (AI ) GPU , APU , ( , , , , )\n* : AI \n \n○ ( ) AI ISMP , (RFP) \n○ \n- ( ) \n \n · \n · AI · \n · AI \n- ( (FP) ) , ·DB · ( ) \n- ( ) · · · . \n- ( (RFP) ) RFP \n \n· · · \n· ( · · )\n· (AI , )\n· ( · , )\n· ( , , )\n \n○ ( ) 24 AI · , \n○ \n- ( ) · · , , · \n \n· ( · · ·CI )\n· ( · · ) \n· 24 \n· \n- (AI ) AI , AI · \n \n· · \n· AI \n- ( ) · \n- (AI ) ①AI ② (XAI) ③AI ④ ⑤ ⑥AI \n AI (2026. 6. 10.( ), ) \n○ AI , , Agent ,Graph RAG, VLM , Multi-LLM AI AI \n \n AI Fabrix · Clova Studio GOV \nAgent · · Agent\nGraph RAG NCS · SQF \nVLM \nMulti-LLM LLM \nAI · RAG · \n○ : AI \n2 \n \n 2 · \n 60 · · \nAI 90 · · · ·CS AI \n 90 · \n 120 · · \n (RFP) 120 · \n 120 · \n* ( )\nⅢ \n□ \n○ ( AI ) NCS·SQF , · · · AI \n□ \n○ ( HR ) · · · HR HR NCS·SQF \n□ \n○ ( ) AI · · \n□ \n○ ( ) ’26 AI · \n○ ( ) AI · \n○ ( ) RFP· · AI \n○ · · · \n AI \n○ , HR , , \n \nⅣ \n1 \n ID \n 43\n (CSR) Consulting Requirement CSR-000 21\n (DAR) Data Requirement DAR-000 6\n (SER) Security Requirement SER-000 6\n (QUR) Quality Requirement QUR-000 1\n (COR) Constraint Requirement COR-000 2\n (PMR) Project Management\nRequirement PMR-000 7\n (PSR) Project Support\nRequirement PSR-000 2\n2 \n \n (CSR) CSR-00122\n · CSR-002\n , CSR-003\n CSR-004\n CSR-005\n CSR-006\n ( · ) CSR-007\n ( )CSR-008\n CSR-009\n CSR-010\n CSR-011\n CSR-012\n CSR-013\nAI SW SW CSR-014\n · CSR-015\n CSR-016\n CSR-017\n CSR-018\nAI , CSR-019\n CSR-020\n CSR-021\n AI CSR-022\n (DAR)\n DAR-001\n6\n DAR-002\n DAR-003\n DAR-004\n DAR-005\n DAR-006\n (SER)\n SER-001\n6\n SER-002\n SER-003\n SER-004\n SER-005\n SER-006\n (QUR) QUR-0011\n (COR)\n COR-0012 COR-002\n (PMR)\n PMR-001\n7\n PMR-002\n PMR-003\n PMR-004\n PMR-005\n PMR-006\n PMR-007\n (PSR)\n PSR-0012 PSR-002\n* , ( , )\n3 \n○ (Consulting Requirement: CSR)\n \n CSR-001\n \n \n \n \n \n ISMP \n \n \n○ ISMP \n○ (Phase), (Activity), (Task) \n○ NIPA( ) (ISMP)\n NIA( ) ISP-ISMP \n ( 9 ) , \n \n NIA( ) ISP-ISMP \n \n \n CSR-002\n · \n \n \n \n \n · \n \n \n○ \n- \n- \n○ \n- / , \n( , , , \n ‘ ’, \n )\n- \n○ \n- · SWOT \n- · (CSF) \n , · , \n \n \n CSR-003\n , \n \n \n \n \n , , \n \n \n○ \n○ (HW, DB, , , ) , \n \n○ \n○ \n○ ( ) ( ) \n○ \n \n , \n \n \n CSR-004\n \n \n \n \n \n , · · \n \n \n○ ( , , , ) \n \n○ \n- , , , , DB \n- ( )\n- DB \n- DB \n○ \n- ( , ) \n○ \n- HW, SW, NW \n○ \n- \n○ \n- ( , SSO, , ) \n \n , \n \n \n CSR-005\n \n \n \n \n \n \n \n \n○ , \n \n- ( / ) \n · \n○ , , , \n○ \n○ \n○ \n○ \n○ \n , , \n \n \n CSR-006\n \n \n \n \n \n \n \n \n○ AI 5 \n \n \n · AI , , \n · , NCS·SQF \n \nAI · LLM, RAG( ), MLOps, DB \n \n · , H/W·S/W \n \n · , , \n \n \n \n \n CSR-007\n ( · )\n \n \n \n \n \n \n \n○ \n- HW, SW, NW \n (Spec) \n- \n- HW HW \n , \n , Failover \n · HW \n○ \n- DB ( , , , , , ) \n- \n- \n○ \n- , , \n \n- \n○ \n- \n , , , \n- DB \n- \n- , - , PKI \n , SSL \n- , \n \n○ \n- \n- \n- , · \n \n \n \n \n CSR-008\n ( )\n \n \n \n \n · · \n \n \n○ \n- , , , \n \n※ · , \n○ \n- · · · \n , , , , , \n- \n○ \n- ,\n , , · , \n○ \n- , , , , \n \n- , , , \n \n○ · \n- HW, SW, NW · , ,\n \n \n \n \n CSR-009\n \n \n \n \n \n \n \n \n○ \n○ \n○ \n , \n \n \n CSR-010\n \n \n \n \n \n \n \n \n○ \n- , Naming Rule, \n , , \n※ SW \n○ \n- To-Be HW, SW, NW \n \n· : , Spec, , , , \n· , \n○ \n- To-Be ( ) \n- ( ) \n※ , , ,\n , (FP )\n- \n○ \n- To-Be \n- , \n○ \n- To-Be (DB ) \n ( , , ), \n○ \n- , , \n- , , , , \n \n○ \n- To-Be , \n , , , \n○ \n- To-Be \n \n( )\n \n \n \n \n \n \n( )\n○ \n- To-Be \n- ( , , ) \n \n- ,\n \n- (Active-X ) , \n ( CSR-007)\n- \n \n , (HW, SW, NW) ,\n , , ,\n , ,\n , ,\n , \n \n \n CSR-011\n \n \n \n \n \n \n \n \n○ · \n \n○ \n \n○ \n○ \n○ (AI SW, , UI ,\n )\n \n \n \n CSR-012\n \n \n \n \n \n \n \n \n○ \n- ( , HW, SW, NW, DB ) \n○ \n- , , , \n , , , S/W \n※ \n· SI , ( )\n- (ROI) \n○ \n- , ,, , PMO, , \n , \n- \n○ \n- (PMO, , , ,\n , / , , , , , ) \n , , \n , , \n \n \n CSR-013\n \n \n \n \n \n SW \n \n \n○ SW \n○ , (SW ) \n , ( , , , ) \n※ 16 2 \n○ SW \n※ (), SW (www.goodsoftware.go.kr) \n , (CC , )\n○ SW 2 \n \n○ SW SW \n \n SW , SW \n \n \n CSR-014\n AI SW SW \n \n \n \n \n SW \n \n \n○ AI AI SW \n○ SW SW \n※ SW SW \n○ SW \n- SW \n- \n SW \n \n \n CSR-015\n · \n \n \n \n \n \n \n \n○ SW \n○ SW (FP )\n○ \n○ (HW, SW, ) 3 \n○ SW \n \n- SW \n \n※ SW ( \n , )\n○ (ex. DB ) \n , \n \n \n \n CSR-016\n \n \n \n \n \n \n \n \n○ \n- SW , \n \n○ \n- , , \n- , , , \n- ( , , \n , )\n- SW \n- , \n○ , \n○ RFP , , \n○ PMO \n \n \n \n CSR-017\n \n \n \n \n \n \n \n \n○ · (DB ) \n ( , , ) \n- ( ) (DB\n ) \n- · \n- ( ) \n \n \n \n CSR-018\n \n \n \n \n \n \n \n \n○ \n- \n \n○ \n , \n \n \n CSR-019\n AI \n \n AI \n \n○ AI , AI TO-\nBE . · · \n○ \n- · \n- , AI, RPA \n○ AI \n○ AI \n○ \n○ \n \nPOC - 1 NCS → NCS \nPOC - 2 NCS → SQF \nPOC - 3 AI GAP \nPOC - 4 GAP < >\nPOC – 5 VLM \nPOC - 6 Agent \n○ ( ) ① TOP-1 = 1 / \n② TOP-3 = AI 3 \n③ Precision : \n④ Recall : \n⑤ : \n⑥ : \n⑦ : \n⑧ Hallucination : \n , AI , , \n \n \n CSR-020\n \n \n \n (AS-IS) , \n \n \n○ \n- ∙ \n / \n※ / ∙ \n \n (DevOps MSA, , CI/CD) \n ‧ \n , \n- \n \n \n ‧ , , \n , \n \n \n \n CSR-021\n \n \n \n UI/UX \n \n \n○ UI/UX \n○ UI/UX \n- UI/UX \n ‧ , , \n UI/UX* \n* ‘25.8.29. UI/UX \n , ActiveX , \n \n○ \n- , \n \n , , , , Life Cycle \n \n○ , · UI \n○ . \n , \n \n CSR-022\n AI \n \n \n AI \n \n \n○ AI ( AI \n(2026.6.10.( ) ) , , Agent \n , Graph RAG, VLM , Multi-LLM AI \n AI \n AI \n○ (Data Requirement: DAR)\n \n DAR-001\n \n \n \n \n \n \n \n \n○ * ** (DB) , \n · \n \n* ( ), ,\n , \n** , , , \n \n \n \n DAR-002\n \n \n \n \n \n \n \n \n○ (DB) ( ) ( \n ) (DB) \n ( ) \n \n \n \n DAR-003\n \n \n \n \n \n \n \n \n○ , \n \n○ , , · \n , \n \n \n \n DAR-004\n \n \n \n \n \n \n \n \n○ (DB) ( ) ( \n , ) , (DB) \n ( ) \n \n \n \n DAR-005\n \n \n \n \n \n \n \n \n○ (DB) \n \n- ( · · · ), ( · ), , \n , , \n ( , , , ) \n \n \n DAR-006\n \n \n \n \n \n \n \n \n○ (DB) ( , ) \n (DB) \n○ , \n \n \n \n○ (Security Requirement: SER)\n \n SER-001\n \n \n \n \n \n \n \n \n○ ‧ \n , \n , \n \n○ ( , , ) \n \n- , , , \n \n- , \n \n○ \n- , , ‧ \n- , \n○ PC \n- , \n ( ), , \n \n \n SER-002\n \n \n \n \n \n \n \n \n○ \n ( )\n○ \n ( \n1 )\n○ \n , , \n○ \n \n \n , ( , ), , \n \n \n SER-003\n \n \n \n \n \n \n \n \n○ , \n 76 1 \n[ ]\n- · IP \n- \n- · \n- · \n- \n- \n- · (IPS) · \n \n- 9 1 \n \n- 2 1 \n- 4 7 3 \n- \n○ “ ” \n , “ ” \n- \n○ \n 3 , ‧ \n \n○ \n , \n \n \n SER-004\n \n \n \n \n \n \n \n \n◦ 1 \n , \n◦ \n \n \n \n \n SER-005\n \n \n \n \n \n \n \n \n○ ‧ \n \n○ \n , \n○ ( ) \n ‧ ‧ \n○ \n- \n \n※ ( , , 9 )\n1. (ID) \n2. \n3. \n4. \n5. \n6. \n7. \n- \" \" ( \n ) ( ) ‧ \n- \n \n- , \n \n- \n \n○ \n- ( \n PC ) , PC \n \n- , P2P \n \n- \n ‧ , ‧ \n \n \n \n SER-006\n \n \n \n \n \n \n \n \n○ PC, , \n · \n- PC \n- \n○ PC, USB ·\n \n \n- \n○ ·PC PC \n PC \n○ PC (CMOS) , \n , (10 ) , , 9 \n \n PC \n \n○ (Quality Requirement : QUR)\n \n QUR-001\n \n \n \n \n \n \n \n \n○ \n \n○ ( , , , ) \n \n○ \n- · \n- \n , \n \n \n○ (Constraint Requirement : COR)\n \n COR-001\n \n \n \n \n \n \n \n \n○ \n \n \n○ , \n , \n \n○ \n , ‘ · ( \n 2025-55 )‘ \n○ ’ ( \n2025-46 )‘ , , , \n , , , \n .\n○ , \n .\n ( ), , \n \n \n COR-002\n \n \n \n \n \n \n \n \n○ ( , \n ) \n○ SW , \n 4 \n SW SW \nSW \n 59 , 54 , \n 32 ( ) \n○ , \n \n○ ( ) \n , , , , \n \n○ 3 , ,\n , , \n , \n \n \n \n○ (Project Management Requirement : PMR)\n \n PMR-001\n \n \n \n \n \n \n \n \n○ (PM) \n , ( ) \n○ , \n \n○ \n- \n- , \n \n- , \n○ (ISP, ISMP ) \n \n- , , \n- \nSW \n※ , , \n ( )\n , , \n \n \n PMR-002\n \n \n \n \n \n \n \n \n○ / , \n ( ) \n \n \n \n PMR-003\n \n \n \n \n \n \n \n \n○ \n \n○ , \n \n- 7 \n · \n- \n- , \n · , \n \n \n \n \n PMR-004\n \n \n \n \n \n \n \n \n○ \n \n○ \n○ , , , \n , \n \n , \n \n \n PMR-005\n \n \n \n \n \n \n \n \n◦ , \n , , \n \n \n \n \n PMR-006\n \n \n \n \n \n \n \n \n○ \n , , , \n○ \n* : 10 \n* : \n* : \n* ( , ) : \n* ( , , ) : \n○ · \n \n \n \n \n PMR-007\n \n \n \n \n \n ‧ \n \n \n○ , \n- : \n ( )\n- : \n \n※ , \n○ : \n \n* : 10 \n* : \n* : 14 \n※ \n / , / / , \n \n○ (Project Support Requirement : PSR)\n \n PSR-001\n \n \n \n \n \n \n \n \n○ \n \n○ \n \n○ 1 \n○ , \n○ \n , \n \n \n \n \n PSR-002\n \n \n \n \n \n \n \n \n○ ( ) ( , , , , \n ) .\n \n \nⅤ\n \n1 \n○ \n- , , \n , \n \n- , \n \n○ \n- , \n \n- , ( \n )\n○ \n- , \n2 \n○ \n- A4 (210X297mm) \n- , , \n \n- , \n \n○ \n- , \n , \n- . , , \n , , \n \n○ \n- “ ” , \n , \n \n- , \n \n- \n- H/W, S/W \n \n- , \n , \n ‘ ’ \n- ( ) 50 , 47 1 2 , 3 · , “ *” \n* [ 8] \n- \n- , \n○ ( )\n- \n· , , “ ” \n· , , , , \n- 100 ( 50 ) ( 20 \n ) \n- (hwp, ppt, pdf ) 300MB \n- \n○ \n- , \n- , , , , \n○ \n- 50 1 (V) ( ) ([ 1] )\n- 4 5 \n- 43 , 35 37 , 5 , 6 ([ 2] )\n- \n- , \n- , \n- \n- , . \n- . , \n- , . , - , \n \n- , \n , \n- \n· , \n· , \n \n* , ( )\n○ \n- 16 , \n \nⅥ \n1 \nⅠ . 1. 2. 3. 4. \nⅡ . 1. 2. 3. \nⅢ . 1. 2. 3. \nⅣ . 1. \nⅤ . 1. 2. 3. \nⅥ . 1. 2. \nⅦ . \n* , \n \n2 \n \nⅠ . \n1. \n \n , 3 ( , ) , . [ 1, 2, 3, 3-1 ]- 3 (BPR/ISP, ISMP ) \n2. ( ) .\n3. \n .\n- \n- \n4. \n (PM, PL, ) .[ 4 ]- \n※ , S/W, , ※ , \nⅡ . \n1. , , . .\n2. ( ) .\n3. , . , .\nⅢ . \n1. \n \n , , , , .\n2. \n , .\n3. .\nⅣ . \n1. \n , · .\nⅤ . \n1. , , , .\n2. (PM) , , .\n3. , , , .\nⅥ . \n1. , , , .\n※ \n2. , , .\nⅦ . \n1. .\n3 \n○ \n- 43 “ ” \n- 40 “ ” ○ ( )\n- 27 76 ( \n ) \n- 2 · , 2 “ · · ” \n- 58 53 17 ( 1468 1426)\n* SW \n- 20 , 48 ( \n ) , ( \n ‘ : ’ ) \n- 48 ( ) \n* 48 4 , \n- 12 ( ) , \n- \n- ( ) 12 , \n* 5 , 10% ( _ 9 5 )\n4 \n○ \n- : (90%), (10%)\n- : + \n- \n◇ \n◇ \n \n○ \n- \n 90 85% \n \n- \n○ \n- “ ”( ) \n○ \n- , , \n \n5 \n- “ ”, “ ” \n \n \n[ ]\n \n \n \n \n \n \n \n< : 90 >\n \n \n .\n25\n5\n ISP \n . 5\n \n . 5\n \n \n , \n , \n .\n10\n \n \n \n \nISP \n \n , .\n25\n15\n \n \n \n . \n .\n5\n \n . 5\n \n \n \n \n , , \n \n .\n10 10\n \n \n \n \n \n , ( ) , , \n . \n . 20\n10\n . \n . 10\n \n \n \n \n10\n5\n \n . 5\n* \n* 20 \n* \n \n \n \n100% 90% 80% 70% 60%\n15 15 13.5 12 10.5 9\n10 10 9 8 7 6\n5 5 4.5 4 3.5 3\n \n \n \n \n \n \n \n< : 5 >\n \n \n .\n< >\n \nAAA, AA+, AA0,\nAA-, A+, A0, A-,\nBBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0,\nAA-, A+, A0, A-,\nBBB+, BBB0\n 100%\nBBB-, BB+, BB0,\nBB- A3-, B+, B0BBB-, BB+, BB0,\nBB- 95%\nB+, B0, B- B- B+, B0, B- 90%\nCCC+ C CCC+ 70%\n* \n1. 2 8 3 \n 335 3 \n , \n , \n . , \n .\n2. \n , . \n , .\n3. 1 , \n \n . , \n \n .\n4. 7 \n . \n , \n . , ,\n ( \n , ) .( \n )\n5. \n , .\n( ) (A ×A )+(B ×B )…\n6. .\n5\n \n \n \n \n \n \n \n< : 5 >\n \n \n 5 .\n※ : (ISP) (ISMP) \n \n< >\n ( ) \n100% 100%\n70% 100% 90%\n40% 70% 80%\n40% 70%\n1. \n . \n , \n .\n2. “ ” 9 8 1 \n .\n3. , \n .\n4. “ ” 9 8 3 \n , \n , 5 .\n5. 3 3-1 \n .\n . , , \n \n . , \n , ( ) \n . \n \n . , , \n \n \n . \n .\n6. \n , .\n( ) {(A ×A )+(B ×B )…} \n7. \n 6 .\n8. , , . \n .\n . : \n . : . , ,\n .\n . : . , , \n .\n5\n6 \n○ \n- \n- ( )\n○ \n- 85% \n \n- 1 \n \n- \n , \n \n- \n- \n7 \n○ : \n○ : \n○ : \n○ : ( )\n○ \n◇ : (052-714-8178)\n 1 \n\n 2 \n 3 \n \n 26 , \n27 ( , , ) .\n※ ‘ ’ \n .\n1. \n . .\n . · \n .\n- \n- \n- \n- \n- \n2. \n2-1. \n . .\n . , ( ) \n .\n2-2. · \n . CCTV, .\n . PC, , \n .\n . .\n . PC .\n . USB .\n . PC (ID, ) .\n . .\n※ , (PC, ), , , DBMS, , \n , .\n . PC, · \n .\n2-3. · \n . ( ) . , \n .\n . (ID) .\n . .\n . ‘root’ , \n .\n . .\n . .\n . PM \n .\n . PC , \n .\n . AP( , ) , PC \n .\n . (WiFi, LTE ) .\n . PC (Driver ) .\n . PC .\n2-4. \n . , · \n .\n . , P2P , , \n .\n . , . ,\n .\n . , PC · \n .( PC )\n . · · .\n3. \n . PC S/W , \n .\n※ S/W http://www.itscc.kr/certifyProd_list.asp \n . \n .\n 4 \n \n① ( ‘ ’) [ 1] \n [ 2] \n , \n 3 \n .\n② , , , , \n [ 3] ‘ ’ \n , 76 \n .\n③ \n , \n .\n④ , \n , 1 .\n⑤ , ( ) \n .\n⑥ \n , .\n⑦ 26 1 \n ‘ ’ .\n⑧ ‘ ’ , \n ‘ ’ .\n[ 1] \n[ 2] \n[ 3] \n[ 4] \n[ 5] \n[ 6] \n[ 7] \n[ 8] \n[ 9] ( ) \n 1 \n \n \n \n1. . , \n . · \n . · 2. \n . . \n . \n∘ \n( )\n∘ · (PM)\n ( )\n∘ \n \n∘ \n \n \n1. \n . \n . · . · \n . 2. · \n . . \n . · \n3. . , USB \n . ·P2P \n . · \n . . PC \n . PC . \n . ( )\n . (H/W, S/W ) . ( ) \n \n∘ \n ( )\n∘ \n \n \n∘ \n \n \n \n \n1. · . · \n . · · \n 2. \n . · · . \n3. \n . · . \n4. . · \n . \n . PC (CD, USB ) . · “1111” \n . PC . \n∘ \n \n /\n \n∘ \n \n \n \n1. \n . , . · \n2. \n . . · \n3. . PC \n . \n∘ \n · \n \n∘ \n/ \n 2 \n \n A~D \n \nA B C D \n 1 1 2 3 \n \n- 76 \n - 5% \n 3% 2% 1% \n* : 2 3 \n , \n* 1 \n* C , D 2 , 3 ( ) , A, B \n \n 3 \n \n○ · IP \n○ \n○ · \n○ · \n○ ( \n )\n○ · \n○ \n○ 9 1 \n○ 2 1 \n○ 4 16 3 \n○ \n 4 \n ( )\n ( “ ” ) △△△ ( “ ” ) “ ” “ ” .\n 1 ( ) “ ” “ ” , “ ” “ ” .\n 2 ( ) , , ( ), ( ) .\n 3 ( ) “ ” ( AI ISMP ) . 1. AI ISMP \n 4 ( ) . : ~ \n 5 ( ) ① “ ” “ ” 3 . ② “ ” “ ” 3 “ ” . ,\n“ ” “ ” . ③ “ ” . ④ “ ” .\n 6 ( ) “ ” 29 , 30 ( ) .\n 7 ( ) “ ” 3 .\n 8 ( ) ① “ ” “ ” , “ ” . 1. 2. 3. 4. 5. 6. ② “ ” “ ” 1 “ ” 3 , . “ ” “ ” . ③ “ ” “ ” “ ” 1 “ ” “ ” .“ ” “ ” “ ” “ ” . 1. 32 2 (ISMS-P) 2. 1 , “ ” “ ” 31 7 ④ 3 “ ” “ ” “ ” , “ ” .\n 9 ( ) ① “ ” 26 4 “ ” , “ ” . “ ” “ ” “ ” . ② 1 , , “ ” “ ” . , “ ” 3 “ ” “ ” , “ ” . ③ “ ” “ ” .\n 10 ( ) “ ” , , .\n 11 ( ) ① “ ” 16 “ ” . ② 1 “ ” “ ” .\n 12 ( ) ① “ ” 3 “ ” “ ” 3 . ② 1 3 . 2 , “ ” “ ” 1 .\n20 . . .\n \n :\n ( ) :\n : ( )\n \n :\n ( ) :\n : ( )\n 5 \n \n ( ) \n .\n1. .\n2. \n .\n3. \n .\n4. \n .\n \n :\n :\n : ( )\n :\n :\n :\n : ( )\n :\n 6 \n ( )\n ( ) ( : . . . . . .) \n .\n1. , \n \n .\n2. , \n .\n3. \n .\n4. \n .\n \n \n ( )\n ( )\n 7 \n \n ( “ ” ) ○○○○( “ ” ) \n .\n 1 ( ) “ ” “ ” ○○○○○○○ \n .\n 2 ( ) “ ” ,\n○○○○○○○ , , , \n .\n .\n \n , \n 3 ( ) “ ” “ ” \n .\n 4 ( ) “ ” “ ” ○○○○○○○\n , .\n 5 ( ) “ ” “ ” ○○○○○○○ \n 3 .\n “ ” “ ” ○○○○○○○ 3 \n .\n “ ” “ ” ○○○○○○○ , \n .\n 6 ( ) “ ” “ ” \n .\n “ ” “ ” \n ( ) .\n “ ” “ ” , \n ( ) .\n 7 ( ) “ ” “ ” \n .\n 8 ( ) .\n 9 ( ) “ ” .\n 10 ( ) .\n“ ” “ ” 2 “ ”\n “ ” 1 .\n20 ○○ ○○ \n“ ” :\n :\n : \n“ ” :\n :\n : \n 8 \n[○] , [ ] \n 2026 ISMP \n 2026. 05.\n◇ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( ) ( )\n ( ) ( )\n ( ) ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n◇ \n / / \n \n \n , , . O ISMP - \n \n \n \n 2.2\n \n \n UI/UX \n \n - HTML 4.01/HTML 5, CSS 2.1 / CSS 3\n- XHTML 1.0\n- XML 1.0, XSL 1.0, XSLT 2.0\n- ECMAScript 14th\n \n- 1.0\n(KICS.KO-10.0307)\n- 2.0\n(KSX3253:2016)\n (KS X ISO/IEC 20000)/ ITIL v3, v4\n \nIPv4\nIPv6\n◇ \n \n / / \n \n , . O ISMP - \n \n \n \n- SOAP 1.2, WSDL 2.0, XML 1.0\n- RESTful\n \n- UML 2.X / BPMN 2.X\n- ebXML/BPEL/XPDL\n : XML 1.0, JSON\n : RESTful API, WSDL 2.0\n◇ \n \n / / \n \n IPv4 IPv6 . O ISMP - , \n . O\n \n \n : H.320~H.324, H.310\n : VoIP\n- H.323\n- SIP\n- Megaco(H.248)\n \n ( ) \n- POSIX.0\n- UNIX\n- Windows Server\n- Linux\n \n- android\n- IOS\n \n DBMS\n- RDBMS\n- ORDBMS\n- OODBMS\n- MMDBMS\n- TSDBMS\n ITIL v3, v4 / ISO20000\n : \n \n IaaS\n PaaS\n SaaS\n◇ \n / / \n \n . O\nISMP - \n , , , ,\n . O\n ( 2 6 ) , , \n .\nO\n , , .\nO ISMP - . O\n \n \n \n \n \n \n : HTML 4.01 / HTML 5\n \n- JSP 2.x\n- ASP.net\n- PHP\n- ( )\n \n \n- C\n- C++\n- Java\n- C#\n- ( )\n \n \n- XMI 2.0 / XMI 3.2\n- SOAP 1.2\n- API\n \n- EUC-KR\n- UTF-8( , UTF-8 )\n◇ \n \n / / \n \n \n . “ ”, “ ”, “ ” “ ” . O ISMP - \n . O ISMP - . O\n \n \n \n \n ( )\n ( )\n \n \n \n ( )\n- PKI \n- SSO ( CC )\n- \n- (DRM)( CC )\n- \n- \n- \n- DB ( CC )\n- (8 ) \n- \n CC ( CC )\n- ( ) \n- ( ) ( )\n- ( )\n- \n- DDos ( )\n- \n- \n- \n- ( )\n- \n- (2022.1 )\n- ( )\n- \n- \n- \n- DB \n- \n- ( )\n- ( )\n- \n- USB(2020.1.1 , )\n- (2021.1.1 , , )\n- (2021.1.1 )\n- CC \n \n- USB( )\n- ( , )\n- \n- \n- (L3 )\n- \n ( · ) \n- · ( )\n- \n \n- (CSAP) \n- \n \n \n \n- \n- \n- \n- \n- \n- \n- \n- \n- \n \n- \n- ( )\n- ( )\n- \n※ “ ” \n 9 ( ) \n■ [ 2 ]\n \n1. \n . \n \n ? \n , ? \n ( , ) ? \n \n ? \n ?\n* , , \n \n ?\n* , ( , ) ( , , ) \n \n \n ?\n* , , , ( , ) \n , ? \n[ 1] \n[ 2] ( 3 )\n[ 3] \n[ 3-1] \n[ 4] \n[ 5] \n[ 6] ( )\n[ 7] \n[ 8] \n 1 \n \n \n \n \n \n \n ( )\n \n 2 \n ( 3 )\n( : )\n M-2 M-1 M \n \n (A)\n (B)\n (C)\n \n \n \n \nH/W\nS/W\n \n \n \n \n (D)\n \n(D/A)\n \n(B+C)/A\n※ ( , ) \n 3 \n \n( : )\n \n \n※ \n( 3 )\n※ \n※ \n※ 3-1 ( 1 )\n 3-1 \n \n \n ( ) \n \n \n \n \n \n \n \n \nISP/BPR ( )\nPMO/ ( )\n ( )\n ( )\n ( )\n \n \n \n \n \n \n \n \n \n \n \n : ( ) ( : )\n : (FAX : )\n : : ( )\n※ ① .② .③ .\n 4 \n \n \n \n \n \n \n \n( ) \n※ “ ” ( ) ( )\n※ , ( 62 , 2020.12.23.) 13 ( ) ( ) ( )\n※ , , ※ ( : ) \n ( , ) \n \n \n \n \n \n \n( )\n \n \n \n \n \n \n(PM)\n \n \n \n \n \n \n \n \n \n \n \n※ (PM) 100%( ) \n 5 \n \n( : )\n \n \n \n※ (Excel) (A3 ) \n※ \n※ \n※ , “ ” \n 6 \n ( )\n 1 ( ) , \n · · · \n .1. :\n2. :\n3. :\n 2 ( ) , , .\n1. : ○○○2. :\n3. :\n 3 ( ) ① .\n1. ○○○ ( : )\n2. ○○○ ( : )\n② ○○○ .③ 3 , \n .\n 4 ( ) , . \n , 3 · \n .\n 5 ( ) 1 · \n .\n 6 ( ) \n . , \n . 7 ( ) \n .\n 8 ( ) 11 , \n .\n1. ○○○ ( ) : ○○ , ○○○, ○○○\n2. ○○○ : ○○ , ○○○, ○○○\n 9 ( ) ① .\n1. ○○○ : %2. ○○○ : %\n② 1 . , \n .\n1. 2. , , , , ( \n ), \n \n③ , .\n 10 ( ) 9 \n .\n 10 2( ) ① , , , \n .② , \n .\n③ 1 , , \n .\n④ 3 \n . , .\n 11 ( · ) · 3 .\n 12 ( ) ① \n . , 3 \n .\n1. 2. , , 10 2 \n < \n2012.4.2.>3. , , \n 76 1 6 \n② 1 .\n , , , \n .\n③ 2 9 .\n④ 10 .\n 13 ( ) \n . , \n .\n 14 ( ) ① \n .\n② .\n ○ \n . \n○○○ ( )\n○○○ ( )\n 7 \n \n 20 \n \n , . , .\n20 \n ( ) \n ( ) \n ( ) \n 8 \n ( 26 )\n※ [ ] √ .\n 14 \n \n \n \n \n \n [ ] [ ] \n \n \n \n \n ( ※ )\n \n ( ※ )\n \n ( ※ )\n \n \n \n ( ※ )\n 50 3 .\n \n ( )\n \n \n \n \n : \n210mm×297mm[ 80g/ ]\n 9 \n \n[ ]\n “ AI ISMP ”\n ,\n ( ) · · \n .\n \n .\n · · · · · , , \n , , .\n , , \n , \n .\n · , \n , .\n \n , .\n , , \n .\n2026. . .\n : OOO OOO ( )",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "AI ISMP \n2026. 6.\nAI \n \nⅠ . 1\n1. 1\n2. 1\nⅡ . 2\n1. 2\n2. 7\nⅢ . 8\nⅣ . 9\n1. 9\n2. 9\n3. 11\nⅤ . 37\n1. 37\n2. 37\nⅥ . 42\n1. 42\n2. 43\n3. 44\n4. 46\n5. 46\n6. 50\n7. 50\n[ 1] \n[ 2] \n[ 3] \n[ 4] \n[ 1] \n[ 2] ( 3 )\n[ 3] \n[ 3-1] \n[ 4] \n[ 5] \n[ 6] ( )\n[ 7] \n[ 8] \n[ 9] \n[ 1] \n[ 2] \n[ 3] \n[ 4] \n[ 5] \n[ 6] \n[ 7] \n[ 8] \n[ 9] ( ) \nⅠ \n1 \n○ : AI (ISMP) \n○ : 120 (4 )\n○ : 299,482,000 (VAT )...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "AI ISMP \n \n “ ” “ ” \n .\n 1 ( ) “ ” “ ” \n .\n 2 ( ) ① AI \nISMP \n .\n② “ ” “ ” “ \n ” . , “ ” “ ” \n .\n③ (AI ) AI \n ․ ․ .\n④ (AI POC) AI POC \n .\n⑤ (LLM RAG ) LLM RAG, Vector\nDB, Agent .\n ( ․ AI ) AI , AI , , (Hallucination)\n .\n ( AI ) AI , AI \n , AI .\n 3 ( ) , , , , , \n , , \n .\n 4 ( ) ① “ ” 10 \n ․ “ ” , . \n“ ” “ ” .\n1. \n2. ( )\n3. “ ” \n② “ ” “ ”\n , , \n “ ” .\n③ “ ” “ ” \n “ ” .\n④ “ ” \n“ ” “ ” \n “ ” .\n⑤ “ ” “ ” \n \n .\n 5 ( ) “ ” 3 \n , “ ” .\n 6 ( ) ① .\n② “ ” “ ” \n .\n 7 ( ) ① “ ” \n , , . \n“ ” \n .\n② “ ” ① “ ” \n “ ” .\n \n ◦ ( ), , \n※ \n \n◦ , , \n◦ , ( )\n※ ( )\n ◦ \n \n \n \n◦ 10 \n◦ (TO-BE) \n◦ , ISMP \n③ ① , ② “ ” “ ” \n “ ” .\n④ “ ” , 2 \n , \n(PDF,HWP,PPTX ) ( USB ) \n .\n 8 ( ) ① “ ” “ \n ” , \n “ ” .\n② “ ” 1 “ ” \n .\n③ “ ” \n , “ ” \n10 .\n④ .\n 9 ( ) ① “ ” “ ” \n .\n② “ ” “ ” \n .\n③ “ ” “ ” \n .\n 10 ( ) ① “ ” POC \n .\n② (S/W) “ ” .\n③ “ ” , \n “ ” .\n④ “ ” .\n 11 ( ) , , AI , \n , \n 12 ( ) ① “ ” “ ” \n , “ ” \n .\n② “ ” 1 “ \n ” 14 \n . , ․ \n 7 .\n③ “ ” 2 “ ” \n 7 .\n “ ” 2 \n .\n④ 3 \n .\n⑤ “ ” 2 3 \n . “ ” .\n⑥ “ ” 3 5 \n “ ” .\n 13 ( , , ) ① “ ” \n .\n② “ ” \n , .\n③ “ ” \n , “ ” “ \n ” .\n 14 ( ) ① “ ” “ ” \n , “ ” \n , .\n② 1 “ ” 21 1 “ \n ” S/W “ ” , “ \n ” “ ” .\n③ “ ” “ ” \n “ ” “ ” \n .\n 15 ( ) ① “ ” \n “ ” \n . “ ” “ ” .\n② 1 “ ” \n .\n③ “ ” \n , “ ” .\n 17 ( ) ( 12 ) \n “ ” \n .\n 18 ( ) “ ” \n “ ” .\n 19 ( ) ① “ ” “ ” \n .\n② “ ” , , , \n “ ” .\n 20 ( ) ① “ ” \n \n .\n② “ ” ,\n , 3 , \n .\n③ “ ” \n .\n 21 ( ) ① \n , , , , “ ” “ \n ” .\n② “ ” , \n ․ “ ” \n .\n 22 ( ) ① “ ” POC “ ”\n 1 \n 6 .\n② “ ” “ ”\n ( 1 ) , \n .\n③ “ ” 9 \n .\n④ “ ” “ ” \n “ ” “ ” \n “ ” .\n 23 ( ) ① \n “ ” “ ” .\n② 1 “ ” “ ” \n “ ” .",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01614363-000",
+    "sourceFile": "계약특수조건.hwp",
+    "generatedAt": "2026-07-20T12:34:33.047523",
+    "match": {
+      "noticeId": "R26BK01614363-000",
+      "bidNtceNo": "R26BK01614363",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01614363-000",
+      "projectName": "직무능력은행A I서비스도입및환경구축을위한전략수립(ISM P )사업나.예산금액(추정):299,482천원(VAT포함)다.사업기간(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢ 국가를당사자로하는계약에관한법률시행령｣ 제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한...",
+      "keywords": [
+        "직무능력은행A I서비스도입및환경구축을위한전략수립(ISM P )사업나.예산금액(추정):299,482천원(VAT포함)다.사업기간(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢ 국가를당사자로하는계약에관한법률시행령｣ 제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한...",
+        "R26BK01614363-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "직무능력은행A I서비스도입및환경구축을위한전략수립(ISM P )사업나.예산금액(추정):299,482천원(VAT포함)다.사업기간(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢ 국가를당사자로하는계약에관한법률시행령｣ 제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한...",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01614363-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "직무능력은행A I서비스도입및환경구축을위한전략수립(ISM P )사업나.예산금액(추정):299,482천원(VAT포함)다.사업기간(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢ 국가를당사자로하는계약에관한법률시행령｣ 제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한...",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢ 국가를당사자로하는계약에관한법률시행령｣ 제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한 국 산 업 인 력 공 단 이 사 장 [제안요청서.hwp] AI ISMP",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "직무능력은행A I서비스도입및환경구축을위한전략수립(ISM P )사업나.예산금액(추정):299,482천원(VAT포함)다.사업기간(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢ 국가를당사자로하는계약에관한법률시행령｣ 제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한...",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢ 국가를당사자로하는계약에관한법률시행령｣ 제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한 국 산 업 인 력 공 단 이 사 장 [제안요청서.hwp] AI ISMP",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "가.사업명:직무능력은행A I서비스도입및환경구축을위한전략수립(ISM P )사업나.예산금액(추정):299,482천원(VAT포함)다.사업기간(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢\n국가를당사자로하는계약에관한법률시행령｣\n제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한 국 산 업 인 력 공 단 이 사 장\n\n[제안요청서.hwp]\nAI ISMP \n2026. 6.\nAI \n \nⅠ . 1\n1. 1\n2. 1\nⅡ . 2\n1. 2\n2. 7\nⅢ . 8\nⅣ . 9\n1. 9\n2. 9\n3. 11\nⅤ . 37\n1. 37\n2. 37\nⅥ . 42\n1. 42\n2. 43\n3. 44\n4. 46\n5. 46\n6. 50\n7. 50\n[ 1] \n[ 2] \n[ 3] \n[ 4] \n[ 1] \n[ 2] ( 3 )\n[ 3] \n[ 3-1] \n[ 4] \n[ 5] \n[ 6] ( )\n[ 7] \n[ 8] \n[ 9] \n[ 1] \n[ 2] \n[ 3] \n[ 4] \n[ 5] \n[ 6] \n[ 7] \n[ 8] \n[ 9] ( ) \nⅠ \n1 \n○ : AI (ISMP) \n○ : 120 (4 )\n○ : 299,482,000 (VAT )...",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4 (210X297mm) -,, -, ○ -,, - .,,,, ○ - “ ”,, -, - - H/W, S/W -,, ‘ ’ - ( ) 50, 4712, 3 ·, “ *” * [ 8] - -, ○ ( ) - ·,, “ ” ·,,,, - 100 ( 50 ) ( 20 ) -",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "USB(2020.1.1, ) - (2021.1.1,, ) - (2021.1.1 ) - CC - USB( ) - (, ) - - - (L3 ) - ( · ) - · ( ) - - (CSAP) - - - - - - - - - - - - ( ) - ( ) - ※ “ ” 9 ( ) ■ [ 2 ] 1. . ?, ? (, ) ? ? ?",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "DAR-000",
+          "requirement": "DAR) Data Requirement 6",
+          "name": "DAR) Data Requirement 6",
+          "detail": "DAR) Data Requirement 6",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-000",
+          "requirement": "DAR) Data Requirement 6",
+          "name": "DAR) Data Requirement 6",
+          "detail": "DAR) Data Requirement 6",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-000",
+          "requirement": "QUR) Quality Requirement 1",
+          "name": "QUR) Quality Requirement 1",
+          "detail": "QUR) Quality Requirement 1",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-000",
+          "requirement": "QUR) Quality Requirement 1",
+          "name": "QUR) Quality Requirement 1",
+          "detail": "QUR) Quality Requirement 1",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-000",
+          "requirement": "Requirement 7",
+          "name": "Requirement 7",
+          "detail": "Requirement 7",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-000",
+          "requirement": "Requirement 2",
+          "name": "Requirement 2",
+          "detail": "(CSR) CSR-00122 · CSR-002 , CSR-003 CSR-004 CSR-005 CSR-006",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-001",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "CSR-016 CSR-017 CSR-018 AI , CSR-019 CSR-020 CSR-021 AI CSR-022",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-002",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "CSR-018 AI , CSR-019 CSR-020 CSR-021 AI CSR-022",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-003",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "AI , CSR-019 CSR-020 CSR-021 AI CSR-022",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-004",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "CSR-020 CSR-021 AI CSR-022",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-005",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "CSR-021 AI CSR-022",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-006",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "AI CSR-022",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "SER",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "SER",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "SER",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "SER",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-005",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "SER",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-006",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "SER",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-0011",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "(QUR)",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-0012",
+          "requirement": "COR",
+          "name": "COR",
+          "detail": "COR",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "(QUR) QUR-0011 (COR)",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "(QUR) QUR-0011 (COR)",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "(QUR) QUR-0011 (COR)",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-004",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "(QUR) QUR-0011 (COR)",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-005",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "(COR)",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-006",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "PMR",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-007",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "PMR",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-0012",
+          "requirement": "PSR",
+          "name": "PSR",
+          "detail": "* , ( , ) ○ (Consulting Requirement: CSR) CSR-001 ISMP ○ ISMP ○ (Phase), (Activity), (Task)",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": "○ (Quality Requirement : QUR",
+          "name": "○ (Quality Requirement : QUR",
+          "detail": "○ ○ ( , , , ) ○ - ·",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": "○ (Constraint Requirement : COR",
+          "name": "○ (Constraint Requirement : COR",
+          "detail": "○ ○ , , ○ , ‘ · ( 2025-55 )‘ ○ ’ (",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "○ ( , ○ SW , SW SW SW 59 , 54 ,",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": "○ (Project Support Requirement : PSR",
+          "name": "○ (Project Support Requirement : PSR",
+          "detail": "○ ○ ○ 1 ○ ,",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": "○ ( ) ( , , , , ) . Ⅴ ○ - , ,",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [
+        {
+          "title": "일정 리스크",
+          "detail": "긴급입찰 사유서.pdf]",
+          "severity": "확인"
+        }
+      ],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "직무능력은행A I서비스도입및환경구축을위한전략수립(ISM P )사업나.예산금액(추정):299,482천원(VAT포함)다.사업기간(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢ 국가를당사자로하는계약에관한법률시행령｣ 제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한...",
+        "agency": "",
+        "noticeNumber": "R26BK01614363-000",
+        "budget": "",
+        "period": "(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢ 국가를당사자로하는계약에관한법률시행령｣ 제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한 국 산 업 인 력 공 단 이 사 장 [제안요청서.hwp] AI ISMP",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: 직무능력은행A I서비스도입및환경구축을위한전략수립(ISM P )사업나.예산금액(추정):299,482천원(VAT포함)다.사업기간(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢ 국가를당사자로하는계약에관한법률시행령｣ 제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한...",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ") \n .\n 8 ( ) ① “ ” “ \n ” , \n “ ” .\n② “ ” 1 “ ” \n .\n③ “ ” \n , “ ” \n10 .\n④ .\n 9 ( ) ① “ ” “ ” \n .\n② “ ” “ ” \n .\n③ “ ” “ ”",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 2개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "90",
+          "score": 85.0,
+          "weight": 85.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "90 85점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "BBB0",
+          "score": 100.0,
+          "weight": 100.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "BBB0 100점"
+        }
+      ],
+      "totals": {
+        "score": 185.0,
+        "weight": 185.0,
+        "gradeA": 2,
+        "gradeB": 0,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01614363-000",
+    "generatedAt": "2026-07-20T12:36:07.284008",
+    "sourceAnalysisAt": "2026-07-20T12:34:33.047523",
+    "projectName": "직무능력은행A I서비스도입및환경구축을위한전략수립(ISM P )사업나.예산금액(추정):299,482천원(VAT포함)다.사업기간(추정):계약체결일로부터120일(4개월)라.사업내용 -직무능력은행AI서비스도입을위한전략수립컨설팅을통해AI서비스목표모델설계,세부실행계획,제안요청서등도출2.긴급입찰에부치는사유가.법적근거 ○｢ 국가를당사자로하는계약에관한법률시행령｣ 제35조제4항법 시행령 제35조 제4항 2호1의2. 국가의 재정정책상 예산의 조기집행을 위해 필요한 경우2. 다른 국가사업과 연계되어 일정조정을 위하여 불가피한 경우나.긴급입찰사유 ○AI서비스도입전략의선행완료필요에따른조속한착수불가피 -본ISMP결과물(RFP,아키텍처,기능점수산출내역)을기반으로발주되므로,ISMP를조기완료하지못하는경우,후속사업전체일정이지연 ○관련법령개정사항의적기반영을위한긴급추진 -AI서비스도입에따라수집·처리되는개인정보범위가확대되고있어,「개인정보보호법」등관련법령을준수하는절차·가이드라인을선제적으로수립하여야하므로조속한착수필요 한...",
+    "sourceFile": "제안요청서.hwp",
+    "requirementSourceFiles": [
+      "제안요청서.hwp",
+      "과업지시서.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "DAR-000",
+        "name": "6",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-000",
+        "name": "6",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-000",
+        "name": "1",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-000",
+        "name": "2",
+        "detail": "(PMR) Project Management",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-000",
+        "name": "7",
+        "detail": "(PSR) Project Support",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-000",
+        "name": "2",
+        "detail": "2 (CSR) CSR-00122 · CSR-002 , CSR-003 CSR-004 CSR-005",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-001",
+        "name": "6",
+        "detail": "· * ( ), , , ** , , ,",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-002",
+        "name": "DAR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-003",
+        "name": "DAR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-004",
+        "name": "DAR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-005",
+        "name": "DAR-005",
+        "detail": "( · · · ), ( · ), , , , ( , , , )",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-006",
+        "name": "(SER)",
+        "detail": "(DB) ○ , ○ (Security Requirement: SER)",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "6",
+        "detail": ", , ○ ( , , ) , , , ,",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "SER-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "SER-003",
+        "detail": "76 1 [ ] · IP · ·",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "SER-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-005",
+        "name": "SER-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-006",
+        "name": "SER-006",
+        "detail": "· PC ○ PC, USB · ○ ·PC PC PC",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-0011",
+        "name": "(COR)",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-0012",
+        "name": "(PMR)",
+        "detail": "COR-002 (PMR)",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "7",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "PMR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "PMR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-004",
+        "name": "PMR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-005",
+        "name": "PMR-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-006",
+        "name": "PMR-006",
+        "detail": ", , , ○ * : 10 * *",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-007",
+        "name": "(PSR)",
+        "detail": "○ , ( ) ※ , ○ * : 10",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-0012",
+        "name": "* , ( , )",
+        "detail": "PSR-002 * , ( , ) 3 ○ (Consulting Requirement: CSR) CSR-001 ISMP ○ ISMP",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "○",
+        "detail": "○ ( , , , ) ○ · , ○ (Constraint Requirement : COR)",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": "○",
+        "detail": "○ , , ○ , ‘ · ( 2025-55 )‘",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": "○ ( ,",
+        "detail": ") ○ SW , 4 SW SW SW",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "○",
+        "detail": "○ ○ 1 ○ , ○ ,",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": "○ ( ) ( , , , ,",
+        "detail": ") . Ⅴ 1 ○ , ,",
+        "source": "제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "90",
+        "score": 85.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 23,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "90 85점"
+      },
+      {
+        "scoreItem": "BBB0",
+        "score": 100.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 27,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "BBB0 100점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "DAR-000",
+              "DAR-001",
+              "DAR-002",
+              "DAR-003",
+              "DAR-004",
+              "DAR-005",
+              "DAR-006"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "SER-000",
+              "QUR-000",
+              "COR-000",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "SER-005",
+              "SER-006",
+              "QUR-0011",
+              "COR-0012",
+              "QUR-001",
+              "COR-001",
+              "COR-002"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-000",
+              "PMR-001",
+              "PMR-002",
+              "PMR-003",
+              "PMR-004",
+              "PMR-005",
+              "PMR-006",
+              "PMR-007"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-000",
+              "PSR-0012",
+              "PSR-001",
+              "PSR-002"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 33,
+      "mappedRequirements": 33,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

@@ -1,0 +1,1695 @@
+{
+  "bidNtceNo": "R26BK01609091",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-07-20T12:40:45.956732",
+  "status": "completed",
+  "source": {
+    "fileName": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01609091-000/제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+    "pageCount": 78,
+    "textLength": 12604,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+      "extension": ".hwp",
+      "size": 367104,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "e95ab71d2e4883dc0a501680",
+      "fileName": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01609091/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01609091/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01609091/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01609091-000/제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01609091-000/converted/제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01609091-000/converted/제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.pdf",
+      "pageCount": 78,
+      "textLength": 12604,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "KUSF AI \n \n2026. 06.\n\nI \n1. \n : KUSF AI \n* “ ” \n : 157,000,000 ( )\n* 180 , \n .\n : 180 \n : ( “KUSF”)\n : KUSF AI \n2. \n KUSF , , , 1,000 , \n . \nAI(Scene Understanding) · \n \n AI , , \n , · \n \n , , \n , AI \n (DX) , AI \n (R&D) \n3. ( ) \n \n AI \n (UI) \n \n4. ( )\n : \n : \n : \n : \n : \nⅡ \n1. \n · · \n \n* 2010. 6. , 2010. 7. \n · · \n · · \n · \n · · \n \n2. \n \n , \n / / \n \n \n \n- , \n \n \n \n \n \n \n \n \n / \n \n · \n \n \n KUSF U- \n KUSF \n3. (* 2026. 3 )\n \n1 36 71 106 \n2 37 72 107 \n3 38 73 108 \n4 39 74 109 \n5 40 75 110 \n6 41 76 111 \n7 42 77 112 \n8 43 78 113 \n9 44 79 114 \n10 45 80 115 \n11 46 81 116 \n12 47 82 117 \n13 48 83 118 \n14 49 84 119 \n15 50 85 120 \n16 51 86 121 \n17 52 87 122 \n18 53 88 123 \n19 54 89 124 \n20 55 90 125 \n21 56 91 126 \n22 57 92 127 \n23 58 93 128 \n24 59 94 129 \n25 60 95 130 \n26 61 96 131 \n27 62 97 132 \n28 63 98 133 \n29 64 99 134 \n30 65 100 135 \n31 66 101 136 \n32 67 102 137 \n33 68 103 138 \n34 69 104 \n35 70 105 \n 4 2·3 · \n ( ) 101(73.19%) 37(26.81%) 22(15.94%) 116(84.06%)\nⅢ \n1. \n \n- : , , , (4 )\n- : 20~30 ( 40~60 )\n- : , ( , , , , ), , ,\n \n- : ( ~ ) , , , \n(Confidence) , (1 → 2 → \n QA) \n AI \nAI \n (Scene Detection) - (Cut/Fade/Dissolve ) \n- · , , \n (Temporal Action\nDetection)\n- ( , , ) \n- CNN+LSTM, Video Transformer(Swin, Timesformer) \n (OCR) - \n (Fusion) - ( ) + ( , , ) Hybrid Fusion \n- Late Fusion ( ) Early Fusion ( ) \n (UI)\n- (AI )\n- AI ( , , ) \n \n \n- AI \n* , \n- \n2. \n : (KUSF)\n \n (KUSF)\nKUSF \n \nKUSF AI \n \n \n \n(KUSF)\n- , \n- \n- \n- \n- · , \n \n- KUSF AI \n- \n- \n3. \n \n \n1 ~ 1 \n- \n- 1 \n- \n2 1 ~ 2 \n \n- ( · · · ) \n- \n- \n3 2 ~ 4 AI \n \n- (SBD) \n- ( · · · ) \n- Temporal Action Detection \n- ( )\n4 4 ~ 5 \n- + \n- \n- · \n5 5 ~ 6 \n- · \n- UI/UX \n- \n6 6 - \n- \n- \n4. \n \n \n \n 90% / 10%\nⅣ \n1. \n \n / \n \n / \n \n , \n ( ) \n2. \n . \n \n \n(Detailed feature requirements)- . 16\n \n(Equipment Composition\nRequirement)\n– \n 1\n \n(Performance Requirement)\n– , , - , \n 4\n \n(System Interface Requirement)\n– \n , , \n \n3\n \n(Data Requirement)\n– , , \n 9\n \n(Test Requirement)\n– (BMT) \n , 5\n \n(Security Requirement)\n– , \n 4\n \n(Quality Requirement)\n– , \n . 6\n \n(Constraint Requirement)\n– , , - - - \n 5\n \n(Project Management\nRequirement)\n– \n , , 11\n \n(Project Support Requirement)\n– \n 7\n \n※ .\n . \n1) \n(1) \n DFR-001\n \n \n \n \n \n \n○ , , .\n○ .\n○ .\n○ .\n DFR-002\n \n \n \n \n · · · \n \n○ , , .\n○ , , .\n○ ( , ) .\n○ · .\n○ ( 10GB ) .\n DFR-003\n \n \n \n \n / \n \n○ ( , ) .\n○ .\n○ · .\n○ .\n DFR-004\n (SBD) \n \n \n \n \n \n○ .\n○ .\n○ · .\n○ .\n○ .\n DFR-005\n \n \n \n \n \n \n○ .\n○ · ( ) .\n○ .\n○ · .\n DFR-006\n (OCR)\n \n \n \n \n \n○ .\n○ .\n○ .\n○ · .\n○ .\n DFR-007\n ( · · )\n \n \n \n \n \n○ ( , , ) .\n○ ( , ) .\n○ .\n○ DB .\n○ .\n DFR-008\n \n \n \n \n + \n \n○ .\n○ .\n○ .\n○ ( , ) .\n DFR-009\n \n \n \n \n \n \n○ · .\n○ , , .\n○ .\n○ , , .\n○ .\n DFR-010\n \n \n \n \n \n \n○ , , , , .\n○ · · .\n○ .\n○ .\n○ · .\n DFR-011\n \n \n \n \n DB \n \n○ .\n○ , , .\n○ .\n○ .\n○ DB .\n DFR-012\n \n \n \n \n \n \n○ , , , , .\n○ , .\n○ .\n○ .\n○ .\n DFR-013\n (UI)\n \n \n \n · \n \n○ .\n○ · .\n○ , , .\n○ UI .\n○ .\n DFR-014\n (MLOps)\n \n \n \n \n \n○ , , .\n○ .\n○ .\n○ .\n○ .\n DFR-015\n \n \n \n \n AI \n \n○ .\n○ · .\n○ .\n○ .\n DFR-016\n (1 )\n \n \n \n \n \n○ 1 .\n○ .\n○ .\n○ .\n○ .\n2) (Equipment Composition Requirement)\n ECR-001\n SW \n \n \n \n SW \n \n \n○ SW \n \n○ OS \n \n3) (Performance Requirement)\n PER-001\n \n \n \n \n \n \n \n○ \n○ \n○ , \n PER-002\n DB \n \n \n \n DB \n \n \n○ DB DBMS Storage IO \n○ IO \n○ DBMS \n○ , , \n○ \n PER-003\n \n \n \n \n \n \n \n○ AI , , API \n○ \n○ CPU, , , I/O \n○ , \n○ \n PER-004\n AI \n \n \n \n \n \n \n○ AI , , API \n○ \n○ CPU, , , I/O \n○ , \n○ \n4) (System Interface Requirement)\n SIR-001\n UI \n UI \n \n \n UI \n \n \n○ \n○ \n○ , UI \n○ \n○ UI \n SIR-002\n UI \n UI \n \n \n \n \n \n○ \n○ , , \n \n○ UI , \n \n○ UI \n SIR-003\n \n \n \n \n \n \n \n○ \n \n○ PC OS \n \n○ \n※ Edge , , , \n \n5) (Data Requirement)\n DAR-001\n \n \n \n \n \n \n \n○ \n○ \n○ \n DAR-002\n \n \n \n \n \n \n \n○ \n- , , , \n○ \n- \n○ , \n \n○ \n DAR-003\n \n \n \n \n \n \n \n○ , \n \n○ , , , , \n \n○ \nKUSF \n○ , , \n○ \n○ , \n DAR-004\n \n \n \n \n \n \n \n○ \n○ \n○ \n \n○ \n○ DBMS DB \n○ , \n○ \n \n DAR-005\n \n \n \n \n \n \n \n○ , , \n- \n- \n- , \n○ \n○ , , , \n \n DAR-006\n \n \n \n \n \n \n \n○ , , \n○ \n○ , , AI \n○ AI , \n○ (4k, 1080P, 720P ) (MP4, MKV, AVI ) (H.264,\nH265) \n DAR-007\n \n \n \n \n \n \n \n○ \n○ \n DAR-008\n \n \n \n \n \n \n○ AI \n○ \n○ (Hash) \n○ (UUID) \n DAR-009\n \n \n \n \n KUSF \n \n○ 3 KUSF \n○ , , , 3 .\n○ , · · .\n○ , .\n6) (Test Requirement)\n TER-001\n \n \n \n \n \n \n \n○ \n○ , \n \n- , , , , , , \n \n○ \n○ , \n \n○ , , , , , \n \n○ · \n○ , \n○ \n○ ‘ ( · ) ’ \n○ \n○ \n , · \n \n○ / , \n \n TER-002\n \n \n \n \n \n \n \n○ , , , , , , \n \n○ , , , , \n○ : , \n \n○ : \n○ : \n○ : 2 \nH/W S/W \n○ : \n \n TER-003\n \n \n \n \n \n \n \n○ , , , ,\n , , \n○ \n TER-004\n \n \n \n \n \n \n \n○ , , , , , , \n \n○ \n○ \n TER-005\n \n \n \n \n \n \n \n○ , , , , , , \n \n○ \n \n- , · \n- , \n- \n- \n- \n○ ( ) \n \n○ , , \n7) (Security Requirement)\n SER-001\n - \n \n \n \n \n \n \n○ , , , \n \n○ \n○ ․ \n○ \n \n○ 3 KUSF \n \n SER-002\n - \n \n \n \n \n \n \n○ \n○ , KUSF , KUSF \n \n○ KUSF \n \n○ , \n \n○ \n○ ( \n )\n○ \n \n○ ( ) CC GS \n○ ‘ ’ 76 1 18 \n \n. 2 : 3 \n. 1 : 1 \n< >\n① KUSF ․ IP \n② \n③ \n④ \n⑤ \n⑥ \n⑦ ․IPS \n⑧ ․ \n⑨ ‘ ’ 9 1 \n⑩ ‘ ’ 2 2 (2011.9.30 ‘ ’ 2\n 1 )\n ‘ ’ \n \n KUSF \n※ \n SER-003\n \n \n \n \n \n \n \n○ 1 , 1 \n \n SER-004\n \n \n \n \n \n \n \n○ : \n \n○ \n \n○ \n8) (Quality Requirement)\n QUR-001\n \n \n \n \n \n \n \n○ “ ”( 2008-47 ) \n○ , / · \n · · \n QUR-002\n \n \n \n \n \n \n \n○ , , \n○ \n○ SQL Script · \n○ \n (DB )\n QUR-003\n \n \n \n \n \n \n \n○ , \n baseline \n○ ( ) \n \n○ 1 , ( )\n○ , , \n \n○ \n QUR-004\n ( )\n \n \n \n \n \n \n○ Peak \n Open\n○ \n , \n QUR-005\n \n \n \n \n \n \n \n○ ( \n ) \n○ \n○ , \n \n○ · / \n○ \n QUR-006\n \n \n \n \n \n \n \n○ [ , ] \n \n○ : \n○ : \n○ , \n \n○ \n \n○ \n○ \n○ · \n9) (Constraint Requirement)\n COR-001\n , \n \n \n \n , \n \n \n○ DB DB ( ) \n○ , , , \n , \n○ \n- ( 2017-26 )\n- 2.1 ( )\n○ , , , KUSF \n \n○ \n- ( 2019-47 )\n- ( 2017.01 )\n- ( 2019-11 )\n- ( 2019.1 )\n- ( 2018.4 )\n○ \n- ( 2018 )\n- ( 2019.11 )\n- ( )\n○ \n- · ( 2017-7 )\n COR-002\n \n \n \n \n \n \n \n○ , \n○ , AI , , \n COR-003\n \n \n \n \n \n \n \n○ \n○ AI , \n○ ( ), \n COR-004\n \n \n \n \n \n \n \n○ , \n○ \n○ \n COR-005\n \n \n \n \n \n \n \n○ \n \n○ \n \n○ , \n \n○ \n○ , “ ” 56 \n , \n \n○ KUSF 3 · \n10) (Project Management Requirement)\n PMR-001\n \n \n \n \n \n \n \n○ 10 , , , , \n · \n○ \n○ , , \n \n○ ( / ) \n○ / / / / \n- ( ) \n \n PMR-002\n \n \n \n \n \n \n \n○ \n , \n○ \n○ , , , \n \n PMR-003\n \n \n \n \n \n \n \n○ KUSF \n- , LAN KUSF \n○ \n PMR-004\n \n \n \n \n \n \n \n○ \n○ \n \n○ \n○ KUSF \n○ \n○ WBS , \n \n○ \n○ KUSF \n PMR-005\n \n \n \n \n \n \n \n○ , , , PM,\nPL , KUSF \n○ ( ) \n , \n○ ( ) , \n \n○ (PM) , PM \n , 3 PM \n○ (H/W, S/W ) ( \n ) (M/M ) 50% \n○ \n○ KUSF , \n \n○ 1 \n / KUSF \n○ 4 \n- . , 4 \n \n- (SW ), \n( ( \n2020-91 , 2020. 12. 25. ))\n○ \n※ \n- : 5 \n- : 3 \n- : 1 ( )\n PMR-006\n \n \n \n \n \n \n \n○ 51 14 , \n \n○ \n○ 7 \n○ , \n○ \n- , , , \n \n- \n PMR-007\n \n \n \n \n \n \n \n○ · 43 \n / \n \n○ \n \n○ \n○ KUSF , \n PMR-008\n \n \n \n \n \n \n ○ \n PMR-009\n \n \n \n \n \n \n \n○ ( / ) \n○ , ․ , , , \n○ KUSF \n○ 1 \n○ KUSF , , , \n , \n○ KUSF \n○ , KUSF \n \n PMR-010\n \n \n \n \n \n \n \n○ , , , \n○ / \n○ \n○ , \n○ (QA) \n PMR-011\n \n \n \n \n \n \n \n○ , , \n○ \n○ / / \n \n11) (Project Support Requirement)\n PSR-001\n \n \n \n \n \n \n \n○ , \n \n○ , HW, SW, \n○ KUSF \n \n PSR-002\n \n \n \n \n \n \n \n○ \n○ , , , , ,\n \n○ ( , S/W) , \n \n○ \n○ · ( \n ) KUSF · ( \n , ) \n PSR-003\n \n \n \n \n \n \n \n○ KUSF \n○ ( , , ) , , , , \n \n○ , , \n○ , KUSF ( ,\n , )\n○ KUSF On-Site \n○ \n○ ( )\n○ \n○ \n○ KUSF \n○ KUSF \n \n○ KUSF \n○ KUSF , , , \n \n PSR-004\n \n \n \n \n \n \n \n○ 1 \n○ \n○ , KUSF \n○ , , ( / ) , HW \n SW \n○ , , KUSF \n \n○ HW, SW , , \n \n○ 3 , \n \n○ KUSF \n \n○ H/W, S/W , \n 12 , S/W H/W , , , \n \n \n○ , \n○ \n KUSF \n○ ( , ) KUSF \n PSR-005\n \n \n \n \n \n \n \n○ \n○ \n○ \n○ \n○ · \n○ SW , , SW , \n , , , \n \n○ \n \n○ , , / \n○ / FAQ \n○ KUSF \n PSR-006\n \n \n \n \n \n \n \n○ \n○ , \n \n○ , \n , \n○ \n \n○ , \n○ , ‧ ‧ \n PSR-007\n \n \n \n \n \n \n \n○ KUSF \n , KUSF \n○ \n \n○ H/W, S/W, DB KUSF\n \n . \n1. \n KUSF \n KUSF , KUSF 3 \n , KUSF · \n , , \n · \n \n , \n \n , KUSF \n \n KUSF , \n , \n \n \n , \n KUSF \n , KUSF \n , \n \n \n KUSF , KUSF \n 3 , KUSF · \n \n , \n · \n2. \n \n- · \n- \n \n \n- \n \nⅤ \n1. \n- , \n \n- , \n \n2. ( )\n- \n- ( ) 30 \n- , \n \n- , \n- \n- “ ” . , , , \n , \n \n- , \n \n- , \n \n- , \n \n3. \n※ , · \n \nⅠ . \n1. \n , 3 ( , ) \n , . [ 2- ]\n- 3 \n2. ( ) .\n3. \n \n .\n- \n- , ( ) \n- \n4. \n \n (PM, PL, ) \n . [ 2- ]\n- , '3. ' \n , ( \n )\n- , , , , , \n , (M/M), 3 ( , ) \n \n※ , S/W, , \n \nⅡ . \n1. \n , , \n \n .\n2. ( \n ) .\n3. \n , \n . ( / ),\nPrototype .\n4. \n \n \n .\n※ \n5. \n \n , .\n , .\nⅢ . \n1. \n \n , , , \n , , ,\n2. - .\n- \n .\n※ .\n3. , ,\n .\n4. \n . \n , \n .\n5. \n \n , \n . \n .\n6. .\n7. , .\nⅣ . \n1. , \n .\n2. · .\n3. \n \n · \n .\n4. \n- , \n .\n- ( , , ,\n , ) , , .\n5. \n .\nⅤ . \n1. \n , , , \n .\n※ , \n2. , , \n .\n3. , , , \n .\nⅥ . \n1. , , , .\n※ \n2. , , \n .\n3. , , , , \n .\n4. , , , \n .\n5. , , \n .\n6. , , \n .\n7. / .\nⅦ . \n1. \n , \n . , \n ( ) .\nⅧ . \n1. .\n※ \n \n \n ( \n \n \n )\n \n4. \n . \n- (S/W ) \n \n- \n ( ) \n◦ 51 ( ), 14 ( \n ), ( ) \n- ․ ( ) 16 \n \n- 19 \n※ 100%, 20% \n \n◦ ․ \n“ ” .\n◦ , \n .\n※ 51 14 , ( \n ) .\n◦ \n- \n . \n- \n◦ \n◦ 43 ( ) 43 2( )\n- \n◦ \n ( , : 1468) \n \n◦ 9 10 \n ( : , : 8111159901) \n※ \n◦ 2 2 \n < · > \n- \n◦ 20 , \n ( ) \n , 48 4 \n14 \n- \n◦ 12 ( \n ) 14 ( ) \n◦ 5 , 10% \n . \n- \n \n \n 90% / 10%\n* (10%) \n- / , PT \n * \n- , , , \n \n- (PM) , PPT (PDF \n ) .\n※ (PM) \n ( : ) ( , ) \n- (30 - ) 15 15 \n \n* , , KUSF \n \n* KUSF , 3 \n- 85% * \n* (90 ) 76.5 \n- \n- \n \n . \n \n \n(20)\n \n . 5\n \n \n . 7\n ,\n . 4\n \n \n \n . 2\n \n \n ,\n .2\n \n(30)\n \n \n .\n , \n .\n5\n . 10\n \n \n . \n .\n4\n \n \n ,\n . 5\n \n \n .\n .5\n \n , , \n .1\n \n(20) \n ,\n .\n .\n8\n \n , \n , \n .\n5\n \n \n \n : \n .\n : \n .\n7\n \n(10)\n \n \n , ( ) , , \n .\n .\n4\n . \n . 4\n ,\n . 2\n \n(10)\n \n , \n 21 (SP ) \n . \n SP .\n2\n \n \n . 1\n , , \n . 1\n \n , , , \n . 2\n , , \n . 1\n \n \n \n .\n2\n / \n . 1\n \n.\n※“ \n \n . \n- : \n- ( )\n◦ ( ) ,\nKUSF .\n◦ ( ) .\n◦ .\n(1) 1 \n(2) 1 \n(3) 1 ( )\n- : KUSF (02-2135-0812)\n- : KUSF (02-2135-3589)\n . : \n . \n- KUSF \n \n- , \n \n- , \n \n- \n- \n , \n- , \n \n※ , S/W, , \n ( )\n- , , \n \n- \n5. \n . \n- \n .\n- , , , , \n‘ ’ , \n 76 \n .\n- \n , .\n- .\n . \n \n \n(A )\n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n❍ \n❍ \n \n❍ \n \n❍ \n \n \n(B )\n1. \n . \n . \n . ․ \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P , \n . · \n . \n . PC \n . PC \n . \n . ( )\n❍ \n \n❍ \n \n❍ \n \n \n(C )\n1. \n . \n . \n2. \n . \n . \n3. \n❍ \n \n❍ \n/ \n❍ \n \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n \n(D )\n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n❍ \n \n❍ / \n . \n- \n \n \nA ( ) B ( ) C ( ) D ( )\n 1 1 2 3 \n \n \n \n10% 2% 1% 0.5% \n- , \n※ 1 \n- \n- \n- , KUSF \n \n[ ]\n \n -1 \n -2 / \n -3 3 \n -4 \n -5 \n -6 \n -7 \n -8 \n -9 \n -10 \n -1 \n \n \n \n \n \n \n \n -2 \n ( 3 )\n[ : ]\n M-2 M-1 M \n \n \n \n \n \n \n \n -3 \n 3 \n \n( ) \n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n※ , .\n※ .\n※ .\n※ ( , , ) .\n※ .\n※ .\n※ , , \n※ \n \n -4 \n■ [ 17 ]\n \n \n \n \n \n \n \n ( : )\n \n / \n1 . . . ~ . . .\n2 . . . ~ . . .\n3 . . . ~ . . .\n4 . . . ~ . . .\n5 . . . ~ . . .\n6 . . . ~ . . .\n 13 1 .\n \n \n \n :\n : ( )\n \n \n1. \" \" .\n2. \" \" .\n210mm×297mm[ 80g/ ]\n -5 \n■ [ 18 ]\n \n \n \n \n \n( )\n \n ( : )\n \n \n1 . . . ~ . . .\n2 . . . ~ . . .\n3 . . . ~ . . .\n4 . . . ~ . . .\n 13 1 .\n \n \n \n :\n : ( )\n \n \n1. \" \" .\n2. \" \" ( ) .\n3. .\n210mm×297mm[ 80g/ ]\n -6 \n■ [ 21 ]\n [ ] [ ] \n※ (www.swit.or.kr) .\n※ [ ] √ .\n( )\n 10 \n \n \n \n \n \n( \n )\n \n \n \n \n \n \n \n \n \n \n (A)\n . . . . . . \n \n \n (B) ([ B/A]%)\n . . . . . . \n \n ( ※ )\n \n \n (C) ([ C/B] %)\n . . . . . . \n \n ( ※ )\n 51 5 14 1 .\n \n ( )\n \n \n1. 1 \n2. ( ) 1 \n \n3. \n \n210mm×297mm( 80g/ )\n( )\n \n .\n \n \n \n \n( ) ▶ \n▼\n \n▼\n ◀ \n210mm×297mm( 80g/ )\n -7 \n \n \n \n \n \n \n \n \n \n \n \n \n \n①SW \n \n② \n(MM)\n③MM\n \n \n④ \n( ②x③ ) ⑤ \nMM\n \n \n \n \n \n \n \n \n( ) \n( ) \n : \n① SW : SW × \n③ SW : + + \n⑤ : ∑ ÷∑(SW × )\n※ : · ( ) 19 \n -8 \n \n1. \n \n \n \n ( ) ( )\n \n( (A) : ) (B) \n \n \n \n \n \n , , % \n(B/A) %\n※ 1) (%) = ( (B) / (A)) × 100\n2) : ( ) \n3) : ( ) \n2. \n \n1. ( )\n2. \n \n(40 )\n . ①\n . ②\n \n3. \n(60 )\n . ①\n . ②\n \n4. \n① ( )\n② ( )\n③ ( )\n \n \n -9 \n KUSF AI \n 2026 6 9 \n□ \n \n \no \no \no \no \no \no \no \no \no \no \no \no \no \n \no ( )\no ( )\no · ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no IP ( )\no ( )\no (G-ISMS) ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\n( )\no · ( )\no ( )\n□ \n \n / / \n \n \n \n \n \n \n , , \n · \nO\n \n \no \n- HTML 4.01/HTML 5, CSS 2.1 O\n- XHTML 1.0 O\n- XML 1.0, XSL 1.0 O\n- ECMAScript 3rd O\n- 2.1 O\no \n- 1.0 (KICS.KO-10.0307) O\n (KS X ISO/IEC 20000)/ ITIL v3 O\n \n \nIPv4 O\nIPv6 O\n□ \n \n / / \n \n \n \n \n \no , \n · \n \nO\n \n \no \n- SOAP 1.2, WSDL 2.0, XML 1.0 O\n- UDDI v3 O\n- RESTful O\no \n- UML 2.0/BPMN 1.0 O\n- ebXML/BPEL 2.0/ XPDL 2.0 O\n o : XML 1.0 O\n o : UDDI v3, WSDL 2.0 O\n□ \n \n / / \n \n \n \n \n \n \n \n IPv4 IPv6 \n O\n , \n O\n \n \no : H.320~H.324, H.310 O\no : VoIP\n- H.323 O\n- SIP O\n- Megaco(H.248) O\n \n \no : POSIX O\no \n- android O\n- IOS O\n- 7 O\no \n- Java O\n- Objective C O\n \no DBMS\n- RDBMS O\n- ORDBMS O\n- OODBMS O\n- MMDBMS O\n o ITIL v3 / ISO20000 O\n \no : UML2.0 O\no : O\n□ \n \n / / \n \n \n \n \n \n \n \no O\no , , , \n O\no \n \n “ ” \n \nO\no \n O\n \n \no : HTML 4.01 O\no - JSP 2.1 O\n- ASP O\n- PHP O\n \no \n- J2EE 5, J2SE 5.0, Java Servlet 2.5 O\no - XML 1.0, XSL 1.1 O\n- RDF O\n- AJAX O\n \no :\n- XMI 2.0 O\n- SOAP 1.2 O\no \n- EUC-KR O\n- UTF-8( , UTF-8 ) O\n□ \n \n / / \n \n \n \n \n \n \no \n “ ”,“ \n ”,“ ” “ ” \nO\no \n O\n \n \n \no ( )\n- O\n \n \no ( )\n- PKI O\n- SSO O\n- ․ O\n- (DRM) O\n- O\n- O\n- O\n- DB O\no CC ( CC IT )\n- O\n- O\n- O\n- O\n- O\n- O\n- DDos O\n- VOIP O\n- O\n- O\n- O\n- O\n- O\n- \n- PC O\n- PC O\n- O\n- O\n- O\n- O\n- DB O\n- O\n- O\n- USB O\n- O\n -10 \n \n KUSF AI \n \n \n① (FP) \nSW \nFP \n 180 \n② \n( , ,\n )\nKUSF AI 180 \n 180 \n③ , 180 \n④ -\n \n⑤ 180 \n \n \n \n180 \n 10 3 \n .\n2026 7 8",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "KUSF AI \n \n2026. 06.\n\nI \n1. \n : KUSF AI \n* “ ” \n : 157,000,000 ( )\n* 180 , \n .\n : 180 \n : ( “KUSF”)\n : KUSF AI \n2. \n KUSF , , , 1,000 , \n . \nAI(Scene Understanding) · \n \n AI , , \n , · \n \n , , \n , AI \n (DX) , AI \n (R&D) \n3. ( ) \n \n AI \n (UI) \n \n4. ( )\n : \n : \n : \n : \n : \nⅡ \n1. \n · · \n \n* 2010. 6. , 2010. 7. \n · · \n · · \n · \n · · \n \n2. \n \n , \n / / \n \n \n \n- ,...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "KUSF AI \n \n2026. 06.\n\nI \n1. \n : KUSF AI \n* “ ” \n : 157,000,000 ( )\n* 180 , \n .\n : 180 \n : ( “KUSF”)\n : KUSF AI \n2. \n KUSF , , , 1,000 , \n . \nAI(Scene Understanding) · \n \n AI , , \n , · \n \n , , \n , AI \n (DX) , AI \n (R&D) \n3. ( ) \n \n AI \n (UI) \n \n4. ( )\n : \n : \n : \n : \n : \nⅡ \n1. \n · · \n \n* 2010. 6. , 2010. 7. \n · · \n · · \n · \n · · \n \n2. \n \n , \n / / \n \n \n \n- , \n \n \n \n \n \n \n \n \n / \n \n · \n \n \n KUSF U- \n KUSF \n3. (* 2026. 3 )\n \n1 36 71 106 \n2 37 72 107 \n3 38 73 108 \n4 39 74 109 \n5 40 75 110 \n6 41 76 111 \n7 42 77 112 \n8 43 78 113 \n9 44 79 114 \n10 45 80 115 \n11 46 81 116 \n12 47 82 117 \n13 48 83 118 \n14 49 84 119 \n15 50 85 120 \n16 51 86 121 \n17 52 87 122 \n18 53 88 123 \n19 54 89 124 \n20 55 90 125 \n21 56 91 126 \n22 57 92 127 \n23 58 93 128 \n24 59 94 129 \n25 60 95 130 \n26 61 96 131 \n27 62 97 132 \n28 63 98 133 \n29 64 99 134 \n30 65 100 135 \n31 66 101 136 \n32 67 102 137 \n33 68 103 138 \n34 69 104 \n35 70 105 \n 4 2·3 · \n ( ) 101(73.19%) 37(26.81%) 22(15.94%) 116(84.06%)\nⅢ \n1. \n \n- : , , , (4 )\n- : 20~30 ( 40~60 )\n- : , ( , , , , ), , ,\n \n- : ( ~ ) , , , \n(Confidence) , (1 → 2 → \n QA) \n AI \nAI \n (Scene Detection) - (Cut/Fade/Dissolve ) \n- · , , \n (Temporal Action\nDetection)\n- ( , , ) \n- CNN+LSTM, Video Transformer(Swin, Timesformer) \n (OCR) - \n (Fusion) - ( ) + ( , , ) Hybrid Fusion \n- Late Fusion ( ) Early Fusion ( ) \n (UI)\n- (AI )\n- AI ( , , ) \n \n \n- AI \n* , \n- \n2. \n : (KUSF)\n \n (KUSF)\nKUSF \n \nKUSF AI \n \n \n \n(KUSF)\n- , \n- \n- \n- \n- · , \n \n- KUSF AI \n- \n- \n3. \n \n \n1 ~ 1 \n- \n- 1 \n- \n2 1 ~ 2 \n \n- ( · · · ) \n- \n- \n3 2 ~ 4 AI \n \n- (SBD) \n- ( · · · ) \n- Temporal Action Detection \n- ( )\n4 4 ~ 5 \n- + \n- \n- · \n5 5 ~ 6 \n- · \n- UI/UX \n- \n6 6 - \n- \n- \n4. \n \n \n \n 90% / 10%\nⅣ \n1. \n \n / \n \n / \n \n , \n ( ) \n2. \n . \n \n \n(Detailed feature requirements)- . 16\n \n(Equipment Composition\nRequirement)\n– \n 1\n \n(Performance Requirement)\n– , , - , \n 4\n \n(System Interface Requirement)\n– \n , , \n \n3\n \n(Data Requirement)\n– , , \n 9\n \n(Test Requirement)\n– (BMT) \n , 5\n \n(Security Requirement)\n– , \n 4\n \n(Quality Requirement)\n– , \n . 6\n \n(Constraint Requirement)\n– , , - - - \n 5\n \n(Project Management\nRequirement)\n– \n , , 11\n \n(Project Support Requirement)\n– \n 7\n \n※ .\n . \n1) \n(1) \n DFR-001\n \n \n \n \n \n \n○ , , .\n○ .\n○ .\n○ .\n DFR-002\n \n \n \n \n · · · \n \n○ , , .\n○ , , .\n○ ( , ) .\n○ · .\n○ ( 10GB ) .\n DFR-003\n \n \n \n \n / \n \n○ ( , ) .\n○ .\n○ · .\n○ .\n DFR-004\n (SBD) \n \n \n \n \n \n○ .\n○ .\n○ · .\n○ .\n○ .\n DFR-005\n \n \n \n \n \n \n○ .\n○ · ( ) .\n○ .\n○ · .\n DFR-006\n (OCR)\n \n \n \n \n \n○ .\n○ .\n○ .\n○ · .\n○ .\n DFR-007\n ( · · )\n \n \n \n \n \n○ ( , , ) .\n○ ( , ) .\n○ .\n○ DB .\n○ .\n DFR-008\n \n \n \n \n + \n \n○ .\n○ .\n○ .\n○ ( , ) .\n DFR-009\n \n \n \n \n \n \n○ · .\n○ , , .\n○ .\n○ , , .\n○ .\n DFR-010\n \n \n \n \n \n \n○ , , , , .\n○ · · .\n○ .\n○ .\n○ · .\n DFR-011\n \n \n \n \n DB \n \n○ .\n○ , , .\n○ .\n○ .\n○ DB .\n DFR-012\n \n \n \n \n \n \n○ , , , , .\n○ , .\n○ .\n○ .\n○ .\n DFR-013\n (UI)\n \n \n \n · \n \n○ .\n○ · .\n○ , , .\n○ UI .\n○ .\n DFR-014\n (MLOps)\n \n \n \n \n \n○ , , .\n○ .\n○ .\n○ .\n○ .\n DFR-015\n \n \n \n \n AI \n \n○ .\n○ · .\n○ .\n○ .\n DFR-016\n (1 )\n \n \n \n \n \n○ 1 .\n○ .\n○ .\n○ .\n○ .\n2) (Equipment Composition Requirement)\n ECR-001\n SW \n \n \n \n SW \n \n \n○ SW \n \n○ OS \n \n3) (Performance Requirement)\n PER-001\n \n \n \n \n \n \n \n○ \n○ \n○ , \n PER-002\n DB \n \n \n \n DB \n \n \n○ DB DBMS Storage IO \n○ IO \n○ DBMS \n○ , , \n○ \n PER-003\n \n \n \n \n \n \n \n○ AI , , API \n○ \n○ CPU, , , I/O \n○ , \n○ \n PER-004\n AI \n \n \n \n \n \n \n○ AI , , API \n○ \n○ CPU, , , I/O \n○ , \n○ \n4) (System Interface Requirement)\n SIR-001\n UI \n UI \n \n \n UI \n \n \n○ \n○ \n○ , UI \n○ \n○ UI \n SIR-002\n UI \n UI \n \n \n \n \n \n○ \n○ , , \n \n○ UI , \n \n○ UI \n SIR-003\n \n \n \n \n \n \n \n○ \n \n○ PC OS \n \n○ \n※ Edge , , , \n \n5) (Data Requirement)\n DAR-001\n \n \n \n \n \n \n \n○ \n○ \n○ \n DAR-002\n \n \n \n \n \n \n \n○ \n- , , , \n○ \n- \n○ , \n \n○ \n DAR-003\n \n \n \n \n \n \n \n○ , \n \n○ , , , , \n \n○ \nKUSF \n○ , , \n○ \n○ , \n DAR-004\n \n \n \n \n \n \n \n○ \n○ \n○ \n \n○ \n○ DBMS DB \n○ , \n○ \n \n DAR-005\n \n \n \n \n \n \n \n○ , , \n- \n- \n- , \n○ \n○ , , , \n \n DAR-006\n \n \n \n \n \n \n \n○ , , \n○ \n○ , , AI \n○ AI , \n○ (4k, 1080P, 720P ) (MP4, MKV, AVI ) (H.264,\nH265) \n DAR-007\n \n \n \n \n \n \n \n○ \n○ \n DAR-008\n \n \n \n \n \n \n○ AI \n○ \n○ (Hash) \n○ (UUID) \n DAR-009\n \n \n \n \n KUSF \n \n○ 3 KUSF \n○ , , , 3 .\n○ , · · .\n○ , .\n6) (Test Requirement)\n TER-001\n \n \n \n \n \n \n \n○ \n○ , \n \n- , , , , , , \n \n○ \n○ , \n \n○ , , , , , \n \n○ · \n○ , \n○ \n○ ‘ ( · ) ’ \n○ \n○ \n , · \n \n○ / , \n \n TER-002\n \n \n \n \n \n \n \n○ , , , , , , \n \n○ , , , , \n○ : , \n \n○ : \n○ : \n○ : 2 \nH/W S/W \n○ : \n \n TER-003\n \n \n \n \n \n \n \n○ , , , ,\n , , \n○ \n TER-004\n \n \n \n \n \n \n \n○ , , , , , , \n \n○ \n○ \n TER-005\n \n \n \n \n \n \n \n○ , , , , , , \n \n○ \n \n- , · \n- , \n- \n- \n- \n○ ( ) \n \n○ , , \n7) (Security Requirement)\n SER-001\n - \n \n \n \n \n \n \n○ , , , \n \n○ \n○ ․ \n○ \n \n○ 3 KUSF \n \n SER-002\n - \n \n \n \n \n \n \n○ \n○ , KUSF , KUSF \n \n○ KUSF \n \n○ , \n \n○ \n○ ( \n )\n○ \n \n○ ( ) CC GS \n○ ‘ ’ 76 1 18 \n \n. 2 : 3 \n. 1 : 1 \n< >\n① KUSF ․ IP \n② \n③ \n④ \n⑤ \n⑥ \n⑦ ․IPS \n⑧ ․ \n⑨ ‘ ’ 9 1 \n⑩ ‘ ’ 2 2 (2011.9.30 ‘ ’ 2\n 1 )\n ‘ ’ \n \n KUSF \n※ \n SER-003\n \n \n \n \n \n \n \n○ 1 , 1 \n \n SER-004\n \n \n \n \n \n \n \n○ : \n \n○ \n \n○ \n8) (Quality Requirement)\n QUR-001\n \n \n \n \n \n \n \n○ “ ”( 2008-47 ) \n○ , / · \n · · \n QUR-002\n \n \n \n \n \n \n \n○ , , \n○ \n○ SQL Script · \n○ \n (DB )\n QUR-003\n \n \n \n \n \n \n \n○ , \n baseline \n○ ( ) \n \n○ 1 , ( )\n○ , , \n \n○ \n QUR-004\n ( )\n \n \n \n \n \n \n○ Peak \n Open\n○ \n , \n QUR-005\n \n \n \n \n \n \n \n○ ( \n ) \n○ \n○ , \n \n○ · / \n○ \n QUR-006\n \n \n \n \n \n \n \n○ [ , ] \n \n○ : \n○ : \n○ , \n \n○ \n \n○ \n○ \n○ · \n9) (Constraint Requirement)\n COR-001\n , \n \n \n \n , \n \n \n○ DB DB ( ) \n○ , , , \n , \n○ \n- ( 2017-26 )\n- 2.1 ( )\n○ , , , KUSF \n \n○ \n- ( 2019-47 )\n- ( 2017.01 )\n- ( 2019-11 )\n- ( 2019.1 )\n- ( 2018.4 )\n○ \n- ( 2018 )\n- ( 2019.11 )\n- ( )\n○ \n- · ( 2017-7 )\n COR-002\n \n \n \n \n \n \n \n○ , \n○ , AI , , \n COR-003\n \n \n \n \n \n \n \n○ \n○ AI , \n○ ( ), \n COR-004\n \n \n \n \n \n \n \n○ , \n○ \n○ \n COR-005\n \n \n \n \n \n \n \n○ \n \n○ \n \n○ , \n \n○ \n○ , “ ” 56 \n , \n \n○ KUSF 3 · \n10) (Project Management Requirement)\n PMR-001\n \n \n \n \n \n \n \n○ 10 , , , , \n · \n○ \n○ , , \n \n○ ( / ) \n○ / / / / \n- ( ) \n \n PMR-002\n \n \n \n \n \n \n \n○ \n , \n○ \n○ , , , \n \n PMR-003\n \n \n \n \n \n \n \n○ KUSF \n- , LAN KUSF \n○ \n PMR-004\n \n \n \n \n \n \n \n○ \n○ \n \n○ \n○ KUSF \n○ \n○ WBS , \n \n○ \n○ KUSF \n PMR-005\n \n \n \n \n \n \n \n○ , , , PM,\nPL , KUSF \n○ ( ) \n , \n○ ( ) , \n \n○ (PM) , PM \n , 3 PM \n○ (H/W, S/W ) ( \n ) (M/M ) 50% \n○ \n○ KUSF , \n \n○ 1 \n / KUSF \n○ 4 \n- . , 4 \n \n- (SW ), \n( ( \n2020-91 , 2020. 12. 25. ))\n○ \n※ \n- : 5 \n- : 3 \n- : 1 ( )\n PMR-006\n \n \n \n \n \n \n \n○ 51 14 , \n \n○ \n○ 7 \n○ , \n○ \n- , , , \n \n- \n PMR-007\n \n \n \n \n \n \n \n○ · 43 \n / \n \n○ \n \n○ \n○ KUSF , \n PMR-008\n \n \n \n \n \n \n ○ \n PMR-009\n \n \n \n \n \n \n \n○ ( / ) \n○ , ․ , , , \n○ KUSF \n○ 1 \n○ KUSF , , , \n , \n○ KUSF \n○ , KUSF \n \n PMR-010\n \n \n \n \n \n \n \n○ , , , \n○ / \n○ \n○ , \n○ (QA) \n PMR-011\n \n \n \n \n \n \n \n○ , , \n○ \n○ / / \n \n11) (Project Support Requirement)\n PSR-001\n \n \n \n \n \n \n \n○ , \n \n○ , HW, SW, \n○ KUSF \n \n PSR-002\n \n \n \n \n \n \n \n○ \n○ , , , , ,\n \n○ ( , S/W) , \n \n○ \n○ · ( \n ) KUSF · ( \n , ) \n PSR-003\n \n \n \n \n \n \n \n○ KUSF \n○ ( , , ) , , , , \n \n○ , , \n○ , KUSF ( ,\n , )\n○ KUSF On-Site \n○ \n○ ( )\n○ \n○ \n○ KUSF \n○ KUSF \n \n○ KUSF \n○ KUSF , , , \n \n PSR-004\n \n \n \n \n \n \n \n○ 1 \n○ \n○ , KUSF \n○ , , ( / ) , HW \n SW \n○ , , KUSF \n \n○ HW, SW , , \n \n○ 3 , \n \n○ KUSF \n \n○ H/W, S/W , \n 12 , S/W H/W , , , \n \n \n○ , \n○ \n KUSF \n○ ( , ) KUSF \n PSR-005\n \n \n \n \n \n \n \n○ \n○ \n○ \n○ \n○ · \n○ SW , , SW , \n , , , \n \n○ \n \n○ , , / \n○ / FAQ \n○ KUSF \n PSR-006\n \n \n \n \n \n \n \n○ \n○ , \n \n○ , \n , \n○ \n \n○ , \n○ , ‧ ‧ \n PSR-007\n \n \n \n \n \n \n \n○ KUSF \n , KUSF \n○ \n \n○ H/W, S/W, DB KUSF\n \n . \n1. \n KUSF \n KUSF , KUSF 3 \n , KUSF · \n , , \n · \n \n , \n \n , KUSF \n \n KUSF , \n , \n \n \n , \n KUSF \n , KUSF \n , \n \n \n KUSF , KUSF \n 3 , KUSF · \n \n , \n · \n2. \n \n- · \n- \n \n \n- \n \nⅤ \n1. \n- , \n \n- , \n \n2. ( )\n- \n- ( ) 30 \n- , \n \n- , \n- \n- “ ” . , , , \n , \n \n- , \n \n- , \n \n- , \n \n3. \n※ , · \n \nⅠ . \n1. \n , 3 ( , ) \n , . [ 2- ]\n- 3 \n2. ( ) .\n3. \n \n .\n- \n- , ( ) \n- \n4. \n \n (PM, PL, ) \n . [ 2- ]\n- , '3. ' \n , ( \n )\n- , , , , , \n , (M/M), 3 ( , ) \n \n※ , S/W, , \n \nⅡ . \n1. \n , , \n \n .\n2. ( \n ) .\n3. \n , \n . ( / ),\nPrototype .\n4. \n \n \n .\n※ \n5. \n \n , .\n , .\nⅢ . \n1. \n \n , , , \n , , ,\n2. - .\n- \n .\n※ .\n3. , ,\n .\n4. \n . \n , \n .\n5. \n \n , \n . \n .\n6. .\n7. , .\nⅣ . \n1. , \n .\n2. · .\n3. \n \n · \n .\n4. \n- , \n .\n- ( , , ,\n , ) , , .\n5. \n .\nⅤ . \n1. \n , , , \n .\n※ , \n2. , , \n .\n3. , , , \n .\nⅥ . \n1. , , , .\n※ \n2. , , \n .\n3. , , , , \n .\n4. , , , \n .\n5. , , \n .\n6. , , \n .\n7. / .\nⅦ . \n1. \n , \n . , \n ( ) .\nⅧ . \n1. .\n※ \n \n \n ( \n \n \n )\n \n4. \n . \n- (S/W ) \n \n- \n ( ) \n◦ 51 ( ), 14 ( \n ), ( ) \n- ․ ( ) 16 \n \n- 19 \n※ 100%, 20% \n \n◦ ․ \n“ ” .\n◦ , \n .\n※ 51 14 , ( \n ) .\n◦ \n- \n . \n- \n◦ \n◦ 43 ( ) 43 2( )\n- \n◦ \n ( , : 1468) \n \n◦ 9 10 \n ( : , : 8111159901) \n※ \n◦ 2 2 \n < · > \n- \n◦ 20 , \n ( ) \n , 48 4 \n14 \n- \n◦ 12 ( \n ) 14 ( ) \n◦ 5 , 10% \n . \n- \n \n \n 90% / 10%\n* (10%) \n- / , PT \n * \n- , , , \n \n- (PM) , PPT (PDF \n ) .\n※ (PM) \n ( : ) ( , ) \n- (30 - ) 15 15 \n \n* , , KUSF \n \n* KUSF , 3 \n- 85% * \n* (90 ) 76.5 \n- \n- \n \n . \n \n \n(20)\n \n . 5\n \n \n . 7\n ,\n . 4\n \n \n \n . 2\n \n \n ,\n .2\n \n(30)\n \n \n .\n , \n .\n5\n . 10\n \n \n . \n .\n4\n \n \n ,\n . 5\n \n \n .\n .5\n \n , , \n .1\n \n(20) \n ,\n .\n .\n8\n \n , \n , \n .\n5\n \n \n \n : \n .\n : \n .\n7\n \n(10)\n \n \n , ( ) , , \n .\n .\n4\n . \n . 4\n ,\n . 2\n \n(10)\n \n , \n 21 (SP ) \n . \n SP .\n2\n \n \n . 1\n , , \n . 1\n \n , , , \n . 2\n , , \n . 1\n \n \n \n .\n2\n / \n . 1\n \n.\n※“ \n \n . \n- : \n- ( )\n◦ ( ) ,\nKUSF .\n◦ ( ) .\n◦ .\n(1) 1 \n(2) 1 \n(3) 1 ( )\n- : KUSF (02-2135-0812)\n- : KUSF (02-2135-3589)\n . : \n . \n- KUSF \n \n- , \n \n- , \n \n- \n- \n , \n- , \n \n※ , S/W, , \n ( )\n- , , \n \n- \n5. \n . \n- \n .\n- , , , , \n‘ ’ , \n 76 \n .\n- \n , .\n- .\n . \n \n \n(A )\n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n❍ \n❍ \n \n❍ \n \n❍ \n \n \n(B )\n1. \n . \n . \n . ․ \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P , \n . · \n . \n . PC \n . PC \n . \n . ( )\n❍ \n \n❍ \n \n❍ \n \n \n(C )\n1. \n . \n . \n2. \n . \n . \n3. \n❍ \n \n❍ \n/ \n❍ \n \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n \n(D )\n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n❍ \n \n❍ / \n . \n- \n \n \nA ( ) B ( ) C ( ) D ( )\n 1 1 2 3 \n \n \n \n10% 2% 1% 0.5% \n- , \n※ 1 \n- \n- \n- , KUSF \n \n[ ]\n \n -1 \n -2 / \n -3 3 \n -4 \n -5 \n -6 \n -7 \n -8 \n -9 \n -10 \n -1 \n \n \n \n \n \n \n \n -2 \n ( 3 )\n[ : ]\n M-2 M-1 M \n \n \n \n \n \n \n \n -3 \n 3 \n \n( ) \n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n※ , .\n※ .\n※ .\n※ ( , , ) .\n※ .\n※ .\n※ , , \n※ \n \n -4 \n■ [ 17 ]\n \n \n \n \n \n \n \n ( : )\n \n / \n1 . . . ~ . . .\n2 . . . ~ . . .\n3 . . . ~ . . .\n4 . . . ~ . . .\n5 . . . ~ . . .\n6 . . . ~ . . .\n 13 1 .\n \n \n \n :\n : ( )\n \n \n1. \" \" .\n2. \" \" .\n210mm×297mm[ 80g/ ]\n -5 \n■ [ 18 ]\n \n \n \n \n \n( )\n \n ( : )\n \n \n1 . . . ~ . . .\n2 . . . ~ . . .\n3 . . . ~ . . .\n4 . . . ~ . . .\n 13 1 .\n \n \n \n :\n : ( )\n \n \n1. \" \" .\n2. \" \" ( ) .\n3. .\n210mm×297mm[ 80g/ ]\n -6 \n■ [ 21 ]\n [ ] [ ] \n※ (www.swit.or.kr) .\n※ [ ] √ .\n( )\n 10 \n \n \n \n \n \n( \n )\n \n \n \n \n \n \n \n \n \n \n (A)\n . . . . . . \n \n \n (B) ([ B/A]%)\n . . . . . . \n \n ( ※ )\n \n \n (C) ([ C/B] %)\n . . . . . . \n \n ( ※ )\n 51 5 14 1 .\n \n ( )\n \n \n1. 1 \n2. ( ) 1 \n \n3. \n \n210mm×297mm( 80g/ )\n( )\n \n .\n \n \n \n \n( ) ▶ \n▼\n \n▼\n ◀ \n210mm×297mm( 80g/ )\n -7 \n \n \n \n \n \n \n \n \n \n \n \n \n \n①SW \n \n② \n(MM)\n③MM\n \n \n④ \n( ②x③ ) ⑤ \nMM\n \n \n \n \n \n \n \n \n( ) \n( ) \n : \n① SW : SW × \n③ SW : + + \n⑤ : ∑ ÷∑(SW × )\n※ : · ( ) 19 \n -8 \n \n1. \n \n \n \n ( ) ( )\n \n( (A) : ) (B) \n \n \n \n \n \n , , % \n(B/A) %\n※ 1) (%) = ( (B) / (A)) × 100\n2) : ( ) \n3) : ( ) \n2. \n \n1. ( )\n2. \n \n(40 )\n . ①\n . ②\n \n3. \n(60 )\n . ①\n . ②\n \n4. \n① ( )\n② ( )\n③ ( )\n \n \n -9 \n KUSF AI \n 2026 6 9 \n□ \n \n \no \no \no \no \no \no \no \no \no \no \no \no \no \n \no ( )\no ( )\no · ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no IP ( )\no ( )\no (G-ISMS) ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\no ( )\n( )\no · ( )\no ( )\n□ \n \n / / \n \n \n \n \n \n \n , , \n · \nO\n \n \no \n- HTML 4.01/HTML 5, CSS 2.1 O\n- XHTML 1.0 O\n- XML 1.0, XSL 1.0 O\n- ECMAScript 3rd O\n- 2.1 O\no \n- 1.0 (KICS.KO-10.0307) O\n (KS X ISO/IEC 20000)/ ITIL v3 O\n \n \nIPv4 O\nIPv6 O\n□ \n \n / / \n \n \n \n \n \no , \n · \n \nO\n \n \no \n- SOAP 1.2, WSDL 2.0, XML 1.0 O\n- UDDI v3 O\n- RESTful O\no \n- UML 2.0/BPMN 1.0 O\n- ebXML/BPEL 2.0/ XPDL 2.0 O\n o : XML 1.0 O\n o : UDDI v3, WSDL 2.0 O\n□ \n \n / / \n \n \n \n \n \n \n \n IPv4 IPv6 \n O\n , \n O\n \n \no : H.320~H.324, H.310 O\no : VoIP\n- H.323 O\n- SIP O\n- Megaco(H.248) O\n \n \no : POSIX O\no \n- android O\n- IOS O\n- 7 O\no \n- Java O\n- Objective C O\n \no DBMS\n- RDBMS O\n- ORDBMS O\n- OODBMS O\n- MMDBMS O\n o ITIL v3 / ISO20000 O\n \no : UML2.0 O\no : O\n□ \n \n / / \n \n \n \n \n \n \n \no O\no , , , \n O\no \n \n “ ” \n \nO\no \n O\n \n \no : HTML 4.01 O\no - JSP 2.1 O\n- ASP O\n- PHP O\n \no \n- J2EE 5, J2SE 5.0, Java Servlet 2.5 O\no - XML 1.0, XSL 1.1 O\n- RDF O\n- AJAX O\n \no :\n- XMI 2.0 O\n- SOAP 1.2 O\no \n- EUC-KR O\n- UTF-8( , UTF-8 ) O\n□ \n \n / / \n \n \n \n \n \n \no \n “ ”,“ \n ”,“ ” “ ” \nO\no \n O\n \n \n \no ( )\n- O\n \n \no ( )\n- PKI O\n- SSO O\n- ․ O\n- (DRM) O\n- O\n- O\n- O\n- DB O\no CC ( CC IT )\n- O\n- O\n- O\n- O\n- O\n- O\n- DDos O\n- VOIP O\n- O\n- O\n- O\n- O\n- O\n- \n- PC O\n- PC O\n- O\n- O\n- O\n- O\n- DB O\n- O\n- O\n- USB O\n- O\n -10 \n \n KUSF AI \n \n \n① (FP) \nSW \nFP \n 180 \n② \n( , ,\n )\nKUSF AI 180 \n 180 \n③ , 180 \n④ -\n \n⑤ 180 \n \n \n \n180 \n 10 3 \n .\n2026 7 8",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01609091-000",
+    "sourceFile": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+    "generatedAt": "2026-07-20T12:39:50.412639",
+    "match": {
+      "noticeId": "R26BK01609091-000",
+      "bidNtceNo": "R26BK01609091",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01609091-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01609091-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01609091-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "ECR-001",
+          "requirement": "Equipment Composition Requirement",
+          "name": "Equipment Composition Requirement",
+          "detail": "SW SW ○ SW",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-001",
+          "requirement": "Performance Requirement",
+          "name": "Performance Requirement",
+          "detail": "○",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-002",
+          "requirement": "○ ,",
+          "name": "○ ,",
+          "detail": "DB DB ○ DB DBMS Storage IO ○ IO ○ DBMS",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-003",
+          "requirement": "○",
+          "name": "○",
+          "detail": "AI , , API ○ CPU, , , I/O",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-004",
+          "requirement": "○",
+          "name": "○",
+          "detail": "AI ○ AI , , API ○ CPU, , , I/O ○ , 4) (System Interface Requirement)",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-001",
+          "requirement": "Data Requirement",
+          "name": "Data Requirement",
+          "detail": "○",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-002",
+          "requirement": "○",
+          "name": "○",
+          "detail": "- , , ,",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-003",
+          "requirement": "○",
+          "name": "○",
+          "detail": ", ○ , , , , KUSF ○ , ,",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-004",
+          "requirement": "○ ,",
+          "name": "○ ,",
+          "detail": "○ ○ ○ ○ ○ DBMS DB",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-005",
+          "requirement": "○",
+          "name": "○",
+          "detail": ", , - ,",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-006",
+          "requirement": "○ , , ,",
+          "name": "○ , , ,",
+          "detail": "○ , , ○ ○ , , AI ○ AI ,",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-007",
+          "requirement": "H265",
+          "name": "H265",
+          "detail": "○ , , , ○ , , ○ ○ , , AI ○ AI , ○ (4k, 1080P, 720P ) (MP4, MKV, AVI ) (H.264,",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-008",
+          "requirement": "○",
+          "name": "○",
+          "detail": "AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-009",
+          "requirement": "○ (UUID",
+          "name": "○ (UUID",
+          "detail": "KUSF ○ 3 KUSF ○ , , , 3 . ○ , · · .",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-001",
+          "requirement": "Test Requirement",
+          "name": "Test Requirement",
+          "detail": "○ ○ , - , , , , , , ○ ○ , ○ , , , , , ○ ·",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-002",
+          "requirement": "○ / ,",
+          "name": "○ / ,",
+          "detail": "○ , , , , , , ○ , , , , ○ : , ○ : ○ : ○ : 2",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-003",
+          "requirement": "○",
+          "name": "○",
+          "detail": ", , , ,",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-004",
+          "requirement": "○",
+          "name": "○",
+          "detail": ", , , , , ,",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-005",
+          "requirement": "○",
+          "name": "○",
+          "detail": ", , , , , , - , · - ,",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "Security Requirement",
+          "name": "Security Requirement",
+          "detail": "○ , , , ○ ○ ․",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": "○ 3 KUSF",
+          "name": "○ 3 KUSF",
+          "detail": "○ ○ , KUSF , KUSF ○ KUSF ○ , ○ ○ (",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "※",
+          "name": "※",
+          "detail": "⑦ ․IPS ⑧ ․ ⑨ ‘ ’ 9 1 ⑩ ‘ ’ 2 2 (2011.9.30 ‘ ’ 2 ‘ ’ KUSF",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": "○ 1 , 1",
+          "name": "○ 1 , 1",
+          "detail": "○ : ○",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": "Quality Requirement",
+          "name": "Quality Requirement",
+          "detail": "○ “ ”( 2008-47 )",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": "○ , /",
+          "name": "○ , /",
+          "detail": "○ , , ○ ○ SQL Script ·",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-003",
+          "requirement": "DB",
+          "name": "DB",
+          "detail": "○ , baseline ○ ( ) ○ 1 , ( )",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-004",
+          "requirement": "○",
+          "name": "○",
+          "detail": "Peak Open",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-005",
+          "requirement": ",",
+          "name": ",",
+          "detail": "○ ( ○ ○ ,",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-006",
+          "requirement": "○",
+          "name": "○",
+          "detail": "[ , ] ○ ,",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": "Constraint Requirement",
+          "name": "Constraint Requirement",
+          "detail": ", , ○ DB DB ( ) ○ , , , , ○ - ( 2017-26 )",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": "○",
+          "name": "○",
+          "detail": "- ( 2019.1 ) - ( 2018.4 ) - ( 2018 ) - ( 2019.11 ) - · ( 2017-7 )",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-003",
+          "requirement": "○ , AI , ,",
+          "name": "○ , AI , ,",
+          "detail": "○",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-004",
+          "requirement": "○ ( ),",
+          "name": "○ ( ),",
+          "detail": "○ ,",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-005",
+          "requirement": "○",
+          "name": "○",
+          "detail": ", ○ , “ ” 56 ,",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": "Project Management Requirement",
+          "name": "Project Management Requirement",
+          "detail": "○ 10 , , , , · ○ ○ , , ○ ( / )",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "○ / / / /",
+          "name": "○ / / / /",
+          "detail": "○ ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "○ , , ,",
+          "name": "○ , , ,",
+          "detail": "○ KUSF",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-004",
+          "requirement": "○",
+          "name": "○",
+          "detail": "KUSF ○ WBS ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-005",
+          "requirement": "○ KUSF",
+          "name": "○ KUSF",
+          "detail": "○ , , , PM, PL , KUSF ○ ( ) , ○ ( ) , ○ (PM) , PM , 3 PM",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-006",
+          "requirement": "○ 51 14 ,",
+          "name": "○ 51 14 ,",
+          "detail": "○ ○ 7 ○ , ○",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-007",
+          "requirement": ", , ,",
+          "name": ", , ,",
+          "detail": "○ · 43 / ○",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-008",
+          "requirement": "○ KUSF ,",
+          "name": "○ KUSF ,",
+          "detail": "- , , , ○ · 43 / ○ ○",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-009",
+          "requirement": "○",
+          "name": "○",
+          "detail": "( / ) ○ , ․ , , , ○ KUSF ○ 1 ○ KUSF , , , ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-010",
+          "requirement": "○ , KUSF",
+          "name": "○ , KUSF",
+          "detail": "○ , , , ○ / ○",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-011",
+          "requirement": "○ (QA",
+          "name": "○ (QA",
+          "detail": "○ , , ○",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": "Project Support Requirement",
+          "name": "Project Support Requirement",
+          "detail": "○ ,",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": "○ KUSF",
+          "name": "○ KUSF",
+          "detail": "○ ○ , , , , , ○ ( , S/W) , ○ ○ · (",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-003",
+          "requirement": ",",
+          "name": ",",
+          "detail": "○ KUSF ○ ( , , ) , , , , ○ , , ○ , KUSF ( , ○ KUSF On-Site ○",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-004",
+          "requirement": "○ KUSF , , ,",
+          "name": "○ KUSF , , ,",
+          "detail": "○ 1 ○ ○ , KUSF ○ , , ( / ) , HW SW ○ , , KUSF ○ HW, SW , ,",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-005",
+          "requirement": "○ ( , ) KUSF",
+          "name": "○ ( , ) KUSF",
+          "detail": "○ ○ ○ ○ ○ · ○ SW , , SW , , , ,",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-006",
+          "requirement": "○ KUSF",
+          "name": "○ KUSF",
+          "detail": "○ ○ , ○ , , ○",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-007",
+          "requirement": "○ , ‧ ‧",
+          "name": "○ , ‧ ‧",
+          "detail": "○ KUSF , KUSF ○ ○ H/W, S/W, DB KUSF . KUSF",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01609091-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "전자파일 제출 매체, 원본/사본 구분 확인",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 7개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "101",
+          "score": 73.19,
+          "weight": 73.19,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "101 73.19점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "37",
+          "score": 26.81,
+          "weight": 26.81,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "37 26.81점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "22",
+          "score": 15.94,
+          "weight": 15.94,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "22 15.94점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "116",
+          "score": 84.06,
+          "weight": 84.06,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "116 84.06점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "/",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "/ 10점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "/",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "/ 10점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "1 1 2 3",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "1 1 2 3 10점"
+        }
+      ],
+      "totals": {
+        "score": 230.0,
+        "weight": 230.0,
+        "gradeA": 4,
+        "gradeB": 3,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01609091-000",
+    "generatedAt": "2026-07-20T12:40:45.956709",
+    "sourceAnalysisAt": "2026-07-20T12:39:50.412639",
+    "projectName": "",
+    "sourceFile": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+    "requirementSourceFiles": [
+      "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "ECR-001",
+        "name": "SW",
+        "detail": "SW ○ SW ○ OS 3) (Performance Requirement)",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-001",
+        "name": "○",
+        "detail": "○ ○ ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-002",
+        "name": "DB",
+        "detail": "DB ○ DB DBMS Storage IO ○ IO ○ DBMS ○ , ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-003",
+        "name": "○ AI , , API",
+        "detail": "○ ○ CPU, , , I/O ○ , ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-004",
+        "name": "AI",
+        "detail": "○ AI , , API ○ ○ CPU, , , I/O ○ , ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-001",
+        "name": "UI",
+        "detail": "UI UI ○ ○ ○ , UI",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-002",
+        "name": "UI",
+        "detail": "UI ○ ○ , , ○ UI , ○ UI",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-003",
+        "name": "○",
+        "detail": "○ PC OS ○ ※ Edge , , , 5) (Data Requirement)",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-001",
+        "name": "○",
+        "detail": "○ ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-002",
+        "name": "○",
+        "detail": ", , , ○ ○ , ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-003",
+        "name": "○ ,",
+        "detail": "○ , , , , ○ KUSF ○ , , ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-004",
+        "name": "○",
+        "detail": "○ ○ ○ ○ DBMS DB ○ ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-005",
+        "name": "○ , ,",
+        "detail": ", ○ ○ , , ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-006",
+        "name": "○ , ,",
+        "detail": "○ ○ , , AI ○ AI , ○ (4k, 1080P, 720P ) (MP4, MKV, AVI ) (H.264, H265)",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-007",
+        "name": "○",
+        "detail": "○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-008",
+        "name": "○ AI",
+        "detail": "○ ○ (Hash) ○ (UUID)",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-009",
+        "name": "KUSF",
+        "detail": "○ 3 KUSF ○ , , , 3 . ○ , · · . ○ , . 6) (Test Requirement)",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-001",
+        "name": "○",
+        "detail": "○ , , , , , , , ○ ○ , ○ , , , , ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-002",
+        "name": "○ , , , , , ,",
+        "detail": "○ , , , , ○ : , ○ ○ ○ : 2",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-003",
+        "name": "○ , , , ,",
+        "detail": ", , ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-004",
+        "name": "○ , , , , , ,",
+        "detail": "○ ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-005",
+        "name": "○ , , , , , ,",
+        "detail": "○ , · , ○ ( ) ○ , ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "○ , , ,",
+        "detail": "○ ○ ․ ○ ○ 3 KUSF",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "○",
+        "detail": "○ , KUSF , KUSF ○ KUSF ○ , ○ ○ (",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "○ 1 , 1",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "○",
+        "detail": "○ ○ 8) (Quality Requirement)",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "○ “ ”( 2008-47 )",
+        "detail": "○ , / · · ·",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": "○ , ,",
+        "detail": "○ ○ SQL Script · ○ (DB )",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-003",
+        "name": "○ ,",
+        "detail": "baseline ○ ( ) ○ 1 , ( ) ○ , , ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-004",
+        "name": "( )",
+        "detail": "○ Peak Open ○ ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-005",
+        "name": "○ (",
+        "detail": ") ○ ○ , ○ · / ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-006",
+        "name": "○ [ , ]",
+        "detail": "○ ○ ○ , ○ ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": ",",
+        "detail": ", ○ DB DB ( ) ○ , , , , ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": "○ ,",
+        "detail": "○ , AI , ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-003",
+        "name": "○",
+        "detail": "○ AI , ○ ( ),",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-004",
+        "name": "○ ,",
+        "detail": "○ ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-005",
+        "name": "○",
+        "detail": "○ ○ , ○ ○ , “ ” 56 ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "○ 10 , , , ,",
+        "detail": "· ○ ○ , , ○ ( / ) ○ / / / /",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "○",
+        "detail": ", ○ ○ , , ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "○ KUSF",
+        "detail": ", LAN KUSF ○",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-004",
+        "name": "○",
+        "detail": "○ ○ ○ KUSF ○ ○ WBS ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-005",
+        "name": "○ , , , PM,",
+        "detail": "PL , KUSF ○ ( ) , ○ ( ) , ○ (PM) , PM",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-006",
+        "name": "○ 51 14 ,",
+        "detail": "○ ○ 7 ○ , ○ , , ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-007",
+        "name": "○",
+        "detail": "· 43 / ○ ○ ○ KUSF ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-008",
+        "name": "○",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-009",
+        "name": "○ ( / )",
+        "detail": "○ , ․ , , , ○ KUSF ○ 1 ○ KUSF , , , ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-010",
+        "name": "○ , , ,",
+        "detail": "○ / ○ ○ , ○ (QA)",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-011",
+        "name": "○ , ,",
+        "detail": "○ ○ / / 11) (Project Support Requirement)",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "○ ,",
+        "detail": "○ , HW, SW, ○ KUSF",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": "○",
+        "detail": "○ , , , , , ○ ( , S/W) , ○ ○ · ( ) KUSF · (",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-003",
+        "name": "○ KUSF",
+        "detail": "○ ( , , ) , , , , ○ , , ○ , KUSF ( , , ) ○ KUSF On-Site",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-004",
+        "name": "○ 1",
+        "detail": "○ ○ , KUSF ○ , , ( / ) , HW SW ○ , , KUSF",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-005",
+        "name": "○",
+        "detail": "○ ○ ○ ○ · ○ SW , , SW ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-006",
+        "name": "○",
+        "detail": "○ , ○ , , ○ ○ ,",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-007",
+        "name": "○ KUSF",
+        "detail": ", KUSF ○ ○ H/W, S/W, DB KUSF . 1.",
+        "source": "제안요청서(KUSF 영상 AI 아카이빙 시스템 고도화 구축) 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "101",
+        "score": 73.19,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 16,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "101 73.19점"
+      },
+      {
+        "scoreItem": "37",
+        "score": 26.81,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 6,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "37 26.81점"
+      },
+      {
+        "scoreItem": "22",
+        "score": 15.94,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 3,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "22 15.94점"
+      },
+      {
+        "scoreItem": "116",
+        "score": 84.06,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 18,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "116 84.06점"
+      },
+      {
+        "scoreItem": "/",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 2,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "/ 10점"
+      },
+      {
+        "scoreItem": "/",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 2,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "/ 10점"
+      },
+      {
+        "scoreItem": "1 1 2 3",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 2,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "1 1 2 3 10점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [
+              "ECR-001"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "PER-001",
+              "PER-002",
+              "PER-003",
+              "PER-004",
+              "TER-001",
+              "TER-002",
+              "TER-003",
+              "TER-004",
+              "TER-005",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "QUR-001",
+              "QUR-002",
+              "QUR-003",
+              "QUR-004",
+              "QUR-005",
+              "QUR-006",
+              "COR-001",
+              "COR-002",
+              "COR-003",
+              "COR-004",
+              "COR-005"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "SIR-001",
+              "SIR-002",
+              "SIR-003",
+              "DAR-001",
+              "DAR-002",
+              "DAR-003",
+              "DAR-004",
+              "DAR-005",
+              "DAR-006",
+              "DAR-007",
+              "DAR-008",
+              "DAR-009"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-001",
+              "PMR-002",
+              "PMR-003",
+              "PMR-004",
+              "PMR-005",
+              "PMR-006",
+              "PMR-007",
+              "PMR-008",
+              "PMR-009",
+              "PMR-010",
+              "PMR-011"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-001",
+              "PSR-002",
+              "PSR-003",
+              "PSR-004",
+              "PSR-005",
+              "PSR-006",
+              "PSR-007"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 55,
+      "mappedRequirements": 55,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

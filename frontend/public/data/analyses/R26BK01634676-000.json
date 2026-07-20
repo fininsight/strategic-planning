@@ -1,0 +1,1592 @@
+{
+  "bidNtceNo": "R26BK01634676",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-07-20T12:39:10.558308",
+  "status": "completed",
+  "source": {
+    "fileName": "(붙임2) 제안요청서(최종).hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01634676-000/(붙임2) 제안요청서(최종).hwp",
+    "pageCount": 67,
+    "textLength": 10619,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "(붙임2) 제안요청서(최종).hwp",
+      "extension": ".hwp",
+      "size": 821760,
+      "kindCode": ""
+    },
+    {
+      "fileName": "예산산출내역서.hwpx",
+      "extension": ".hwpx",
+      "size": 54955,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "696582f62f450bca400a8d5b",
+      "fileName": "(붙임2) 제안요청서(최종).hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01634676/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01634676/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01634676/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01634676-000/(붙임2) 제안요청서(최종).hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01634676-000/converted/(붙임2) 제안요청서(최종).pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01634676-000/converted/(붙임2) 제안요청서(최종).pdf",
+      "pageCount": 67,
+      "textLength": 10619,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "(AIEP) \n \n \n \n2026. 6.\n \n TEL FAX\n \n 032-880-0730\n032-880-0748 032-880-0735\n \nⅠ . ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 1\nⅡ . •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 2\nⅢ . •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 5\nⅣ . •••••••••••••••••••••••••••••••••••••••••••••••••••••••• 39\nⅤ . ••••••••••••••••••••••••••••••••••••••••••••••••••••• 49\n※ ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 51\n※ •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 52\nⅠ \n1. \n . : (AIEP) \n \n . : 30 (SaaS )\n . : ( ) 30 ( ) 12 \n . : ( 162,000,000 , VAT )\n . : ( )\n2. \n . ( ) potal.icedu.kr \n . ( ) / \n . ( ) \n3. \n . \n . \n . UX/UI ( , , / ) \nⅡ \n1. \n▪ · Microsoft 365, Google\nWorkspace, NAVER \n▪ (AIEP)( AIEP) \n \n▪ (AIEP, ) \n2. \n▪ · , , , · · \n \n▪ \n▪ · · \n▪ \n▪ / , ·FAQ·1:1 \n3. \n▪ HTTPS , \n▪ · (IP) \n▪ , \n▪ 2 · 3 \n4. \n▪ 3 ( )\n▪ \n▪ 24 365 , 99.9% SLA \n▪ (2 )· (24 ) \n5. \n▪ SNS· · · \n▪ · · \n▪ ·FAQ \n▪ 30 , \n6. \n▪ · · \n▪ · · · \n \n▪ \n▪ 2 \n▪ · · · \n7. \n▪ Microsoft 365, Google Workspace \n \n▪ AIEP ( ) , \n▪ \n▪ SAML 2.0 / OAuth 2.0 \n8. \n▪ , \n▪ \n▪ · \nⅢ \n1. \n . \n \nSaaS (SIR)\nSIR-001 SaaS \nSIR-002 SaaS \nSIR-003 SaaS \n (SFR)\nSFR-001 · \nSFR-002 AIEP \nSFR-003 \nSFR-004 \nSFR-005 AIEP \nSFR-006 \n (PER) PER-001 \nPER-002 \n (SIR)\nSIR-001 UI \nSIR-002 \nSIR-003 \n (DAR)\nDAR-001 \nDAR-002 \nDAR-003 \nDAR-004 \nDAR-005 \nDAR-006 \nDAR-007 \nDAR-008 \n (TER)\nTER-001 \nTER-002 \nTER-003 \nTER-004 \nTER-005 \n (SER)\nSER-001 \nSER-002 \nSER-003 \nSER-004 · \nSER-005 \nSER-006 \nSER-007 \nSER-008 \n (QUR)\nQUR-001 \nQUR-002 \nQUR-003 \nQUR-004 \n (COR)\nCOR-001 \nCOR-002 \nCOR-003 , , \nCOR-004 SaaS \nCOR-005 \nCOR-006 SW \n (PMR) PMR-001 \nPMR-002 \nPMR-003 \nPMR-004 \nPMR-005 \nPMR-006 · \n (PSR)\nPSR-001 \nPSR-002 , , \nPSR-003 SaaS SLA\nPSR-004 Help Desk \n□ \n . SaaS \n SaaS SIR-001\n SaaS \n SaaS \n \n SaaS , SaaS , , , SLA , , , \n , \n SaaS SIR-002\n SaaS \n SaaS \n \n SaaS ( , , ) , , (Multi-AZ) , , · \n , \n SaaS SIR-003\n SaaS \n SaaS \n \n SaaS (HTTPS) , (Managed DB) , , SaaS · · , · , \n SaaS , \n . \n SFR-001\n · \n · \n \n · · · · AIEP (Microsoft 365, Google Workspace,naver ) , , , , \n , , \n SFR-002\n AIEP \n AIEP \n \n AIEP · AIEP · · · AIEP · , AIEP , , AIEP \n , , \n SFR-003\n \n \n \n · · · , , , · · , , 14 Microsoft 365, Google Workspace, naver ( ) , · (FAQ) (Q&A) ( · · ) , / \n , , , UI/UX ,\n SFR-004\n \n \n \n AIEP , ( / / · / / / ) ( , · ) (AIEP, ), , \n , 2 : · · , NEIS , , , : CRUD, · · , , · FAQ Q&A : , CRUD, · · · API : / API · · , , ( · , , · ) : , , · · , , , \n , , , UI/UX , \n SFR-005\n AIEP \n AIEP \n \n (SAML 2.0 OAuth 2.0) Microsoft 365,Google Workspace, naver · , ( ) ( ) ( ) AIEP ( ) ( · ) ( ) ( ) , , ( ) (SSO) ‘CC ’ \n , , , UI/UX , \n SFR-006\n \n \n \n AIEP (IP ) :· ( , , ) 2 · · · 3 , (HTTPS) · \n \n . \n PER-001\n \n \n \n , , , , \n \n PER-002\n \n \n \n 3 · , · 10 \n \n . \n SIR-001\n UI \n UI \n \n , , , , 3 UI·UX ·             ( )·          2.1( )· UI/UX (‘ UI/UX ’)\n \n SIR-002\n \n \n \n , , , , \n \n SIR-003\n \n \n \n AIEP, Microsoft 365, Google Workspace, naver , \n \n . \n DAR-001\n \n \n \n SaaS ( , , ) (NEIS ), , \n \n DAR-002\n \n \n , , \n ( )\n DAR-003\n \n \n \n , , , , , , FAQ/Q&A \n , \n \n DAR-004\n \n \n \n · · \n \n , \n \n , \n \n DAR-005\n \n \n \n ( , , ) , \n , · \n , , \n , \n \n DAR-006\n \n \n \n \n , , \n , , \n ( , , ) , \n \n DAR-007\n \n \n \n AIEP, Microsoft 365, Google Workspace \n ( , , , ) \n · \n , \n \n DAR-008\n \n \n \n \n ( \n , , , ) \n ( , , , )\n . \n TER-001\n \n \n \n , , \n \n · · \n · \n \n , \n \n 100% \n , \n TER-002\n \n \n \n , , · \n \n TER-003\n \n \n \n AIEP , Microsoft 365·Google Workspace·NAVER ,\nFAQ/Q&A, \n , \n \n \n TER-004\n \n \n \n ( 3 ) \n \n \n \n TER-005\n \n \n \n \n \n · \n \n . \n SER-001\n \n \n \n \n , \n ( · · ) \n ( , , ) \n , (KISA) ' (CSAP)' \n , \n \n SER-002\n \n \n \n 10 \n \n 14 \n \n ‘ ’ ( 7 )\n , , \n SER-003\n \n \n \n \n \n \n \n , \n ( ) \n , ( PC) \n ( , ) \n , \n ‘ ’ \n ( ) ( ) · \n \n SER-004\n · \n · \n \n , 1 \n \n , \n \n OS \n \n USB, \n ( ) , \n ( ) \n \n \n \n SER-005\n \n \n \n (IAM,VPN ) \n \n \n (Azure) IP (MAC ) \n (Azure Portal ) · 2 (2FA/MFA) \n ( , ) \n (Subnet/NSG ) \n \n SER-006\n \n \n \n , , AIEP \n \n ( ) \n \n \n \n \n SER-007\n \n \n \n \n·     ( )·     ( )·       ( )·     ( )·     ( )· · ( )· ( ) SaaS \n , \n ( ) \n SER-008\n \n \n \n \n·   ( )·     ( )·           ( )·       ( ) ( , , ) , \n 14 \n , \n \n . \n QUR-001\n \n \n \n \n \n \n , SLA \n \n QUR-002\n \n \n \n 24 365 \n \n \n \n QUR-003\n \n \n \n , , \n \n \n FAQ \n \n \n QUR-004\n \n \n \n , \n (Windows, macOS, iOS, Android ) \n \n \n . \n COR-001\n \n \n \n           ·           ( )·   ( )·     ( )·     ( )·       ( )·       ( )·         ( )·     ( )·             ( ) ·          2.1( )· UI/UX (‘ UI/UX ’)   \n·     ( )·     ( )·       ( )·     ( )·     ( )\n   ·   ( )·     ( )·           ( )·       ( )\n \n COR-002\n \n \n \n \n , \n \n · \n \n \n COR-003\n , , \n , \n \n \n W3C (HTML5, CSS3 ) \n 3 , \n \n \n COR-004\n SaaS \n SaaS \n \n SaaS ( , ) \n , \n \n COR-005\n \n \n SaaS , \n \n COR-006\n SW \n SW \n \n 46 SW · \n Microsoft Education Parter, Google for Education 1-Tier \n \n . \n PMR-001\n \n \n \n , , \n , \n \n \n PMR-002\n \n \n \n \n ( )\n 30 1 \n \n \n PMR-003\n \n \n , , \n \n \n PMR-004\n \n \n , \n \n \n PMR-005\n \n \n \n \n \n PMR-006\n · \n · \n · \n \n . \n PSR-001\n \n \n \n , , ( · ) \n · \n \n \n PSR-002\n , , \n , , \n \n SaaS · · · · · \n , SLA \n , \n , , \n PSR-003\n SaaS SLA\n SaaS SLA\n \n SaaS , (SLA) 99.9% \n , , SLA ( , RTO/RPO) \n SaaS (SLA) \n SaaS \n PSR-004\n Help Desk \n \n \n Help Desk , \n· · · ( : 10 ~ 5 )· \n \n2. \n . : \n3. \n . 14 \n○ 1 \n○ 1 \n○ 1 \n○ 1 \n○ 1 \n○ 1 \n○ 1 \n . 20 1 : \n . \n \n[ ]\n \n- A4 \n \n[ ]\n API \n 30 \n \n[ ]\n ( )\n \n 30 \n \n[ ]\n , \n , ,\nUI/UX \n · · · \n UI \n ( / ), \n , , , ,\n , \n SaaS , , \n \n ( ) \n \n4. \n . , \n \n . , , \n \n . , , \n \n . 10 , \n , \n . \n \n . \n . , \n ( )\n . , \n \n . 14 , \n , \n . \n . 1 ( \n ) ( ) \n5. \n . (PM) · , \n \n . \n . , \n \n . \n , \n · \n . , \n ( , , ) , \n , \n ( ) . \n SW , \n 4 SW \n SW SW \n 59 , 54 , \n 32 ( ) \n . · \n \n . \n . , \n \n . \n \n \n . \n \n . , ( “ ” ) \n \n . \n○ 4 5 · \n , , \n \n○ 4 9 4 5 \n · · , · \n \n○ · \n \n . 50 \n \n○ 50 , 47 1 2 , 3 \n · , \n ( · 13 \n ) \n . 43 , 35 37 , \n 5 , 6 \n \n○ 1 “ \n ” \nⅣ \n• \n . : ( )\n . : (90 ) (10 )\n . : , .\n2. \n . : \n . : \n \n \n \n \n (90) / (10)\n \n 48 \n . \n 13 14 \n , \n 31 92 ( \n ) \n 48 9 \n ( [ 1468]) \n 2 · \n · · ( : ) \n “ ” \n ( [ 8111159901]) \n \n ) 48 ( ) \n \n ) 48 4 \n \n ) 20 , \n ( ) \n , 48 4 \n 31 \n 2 · \n 2 \n < · · > < \n > .\n . : ( , )\n 13 \n 14 \n , ( \n ) \n 5 , 5% \n [ ( 6 )]\n \n3. \n . \n ( 44 1 6\n ‘ ’)\n ( )\n · ( )\n . \n : ( )\n \n (90 ) : , \n (10 ) : \n \n (90 ) 85% \n 85% , “ ” \n 2 \n \n \n \n \n \n . \n \n ( ) \n \n \n \n \n . \n \n- , \n- ( )\n : , \n : \n \n : \n- \n· : (90%), (10%)\n· = + \n- \n· : ( ․ ) \n· : ( , ) , \n· \n \n \n- \n- \n \n- \n , .\n- \n- \n- \n . \n : \n : “ ” \n . : \n . \n , \n \n ( ) 16 ( \n ) , \n \n4. \n \n \n \n(20 )\n · 6\n20\n · 6\n · 6\n · 2\n \n \n(70 )\n \n· 4\n70\n· 3\n· 3\n \n· 4\n· 3\n· \n 3\n \n \n· \n 10\n· 10\n·UI/UX 10\n \n \n · , , 10\n · , , 10\n (10)· 10 10\n 100\n . \n (6 ) : ( )\n< >\n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0 6.0\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB- 5.7\nB+, B0, B- B- B+, B0, B- 5.4\nCCC+ C CCC+ 4.2\n* \n[ ]\n1. 2 8 3 \n 335 3 , \n , \n . , \n .\n2. , \n . , \n .\n3. 1 , \n . , \n \n .\n4. 7 \n . \n , . , \n , ( , \n ) .( )\n5. , \n .\n( ) (A ×A )+(B ×B )…\n6. .\n (6 ) ( )\n \n 3 \n \nA. 100% 6.0\nB. 70% ~100% 5.4\nC. 40% ~70% 4.8\nD. 40% 4.2\n 3 ( ) . , 7\n 7 \n : . ( , ) - Microsoft, google, naver \n - \n[ ]\n1. \n .\n2. 9 8 1 .\n3. , .\n4. , 5 .\n5. 15 16 \n .\n . , , \n . , , ( \n ) \n . \n . , , \n \n \n . \n .\n6. , \n .\n( ) {(A ×A )+(B ×B )…} \n (6 ) ( )\n \n \n \n8 6.0\n5 ~7 5.7\n2 ~4 5.4\n2 4.2\n[ ]\n1. ( ) .\n (2 ) ( )\n \n \n \n \n① ▪ \n △ 2.0\n② \n▪ 2\n \n \n△ 2.0\n[ ]\n1. ~ , .\n2. , .\n3. \n( ) .\n4. ( \n ) .\n5. .\n6. 2 \n . , 2017 5 1 .\n . ( )\n \n \n \n \n· 4\n· 3\n· 3\n \n· 4\n· 3\n· \n 3\n \n· SaaS \n 10\n· 10\n·UI/UX 10\n \n \n · , , 10\n · , , 10\n 70\n . : 10 \n○ ( 5 ) \nⅤ \n1. \n . , , \n . , \n . , \n \n . , , \n \n . \n \n . , , \n \n . \n2. \n . , \n . 100 , A4 , A4 \n \n , \n . \n \n . \n . , \n . , \n \n . “ ” . , , ,\n , \n \n . , \n \n . , \n , \n \" \" \n . , \n \n , \n \n . \n \n[ ]\n \n1. ( ) [ 1 ]\n2. [ 2 ]\n3. ( 3 ) [ 3 ]\n4. 3 [ 4 ]\n5. [ 5 ]\n6. [ 6 ]\n7. [ 7 ]\n8. ( ) [ 8 ]\n9. [ 9 ]\n10. [ 10 ]\n11. [ 11 ]\n12. [ 12 ]\n13. [ 13 ]\n[ 1 ]\n (A4, )\n7 \n AI \n2026 \n 22font ↲\n7 \n2026. . ← 20font \n4\n ← 20font \n[ 2 ]\n \n1. \n \n \n \n \n \n(2025 )\n / /\n \n \n2. \n \n , , \n ( )\n[ 3 ]\n ( 3 )\n( : )\n M-2 M-1 M \n \n \n \n \n \n \n \n \n \n \n \n○○ \n○○ \n○○ \n○○ \n○○ \n○○ \n \n \n \n \n ) \n[ 4 ]\n 3 \n :\n \n( ) \n )\n1. , .\n2. \n3. \n4. ( ) , , “ \n ” .\n5. , \n[ 5 ]\n \n \n( ) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n )\n1. “ ” \n2. : \n3. \n4. , , , , \n[ 6 ]\n \n , \n \n \n \n 20XX. . .\n~ 20XX. . . % \n \n \n( . . ~ . ) \n ( \n ) ( )\n , 13 ( ) \n ( ) ( \n )\n , , \n \n ( , ) ( , )\n \n[ 7 ]\n ( )\n AI 2026 \n .\n1. 2026 \n .\n2. \n .\n3. \n .\n4. \n .\n \n :\n( ) :\n : ( )\n :\n( ) :\n : ( )\n ( )\n AI 2026 \n .\n1. \n .\n2. \n \n .\n3. .\n . 4 1 2 5 ( )\n . 99 ( ) 127 ( )\n \n :\n( ) :\n : ( )\n :\n( ) :\n : ( )\n ( )\n 2026 , \n .\n1. ( ) ( )\n2. ( ) \n3. ( ) \n4. ( ) \n .\n \n ( ) \n :\n :\n : ( )\n AI \n ( )\nOOO ( \" \" ) OO ( \" \" ) ∼ 2026 \n \n .\n1. ( ) \n · .\n1) \n2) \n3) \n4) 3 \n5) \n6) \n2. .\n3. \n .\n4. · .\n \n \n : ( )\n AI \n[ 8 ]\n ( )\n 1 ( ) , \n ․ ․ \n .\n1. :\n2. :\n3. :\n 2 ( ) , , .\n1. : \n2. :\n3. :\n 3 ( ) .\n1. ( : )\n2. ( : )\n .\n 3 , \n .\n 4 ( ) , . ,\n 3 ․ \n .\n 5 ( ) 1 ․ \n .\n 6 ( ) .\n , \n .\n 7 ( ) \n .\n 8 ( ) 11 , \n .\n1. ( ) : , , \n2. : , , \n 9 ( ) .\n1. : %\n2. : %\n 1 . , \n .\n1. \n2. , , , , ( \n ), \n \n , .\n 10 ( ) 9 \n .\n 10 2( ) , , \n .\n , \n .\n 1 , \n , \n .\n 3 \n . , \n .\n 11 ( ․ ) ․ 3 .\n 12 ( ) \n . , 3 \n .\n1. \n2. , , 10 2 \n \n3. , , \n76 1 6 \n 1 .\n , , , \n \n .\n 2 9 \n .\n 10 .\n 13 ( ) \n . , \n .\n 14 ( ) \n .\n .\n \n .\n2025 \n( ) 0000 OOO ( )\n( ) 0000 OOO ( )\n( ) 0000 OOO ( )\n[ 9 ]\n \n \n \n , \n , \n \n .\n2026 \n \n \n \n ( )\n \n \n \n ( )\n \n \n \n ( )\n AI \n[ 10 ]\n \n AI 2026 \n \n , \n , .\n2026 \n : ( )\n AI \n[ 11 ]\n \n1. \n \n .\n2. , , , , \n , \n 76 .\n3. \n , \n .\n4. \n , .\n5. , \n , , .\n . \n . \n . \n . ( ) \n . ( ) \n . · ( ) \n . ( ) \n . · ( ) \n6. , , · \n , , , \n , \n .\n7. \n .\n8. \n · , , , , \n , , · \n .\n9. 8 , , \n , \n , \n .\n10. · \n , , \n · .\n11. \n , \n .\n 12 \n ( )\n AI ( “ ” ) △△△ ( “ ” ) “ ” \n 2026 “ ” \n .\n 1 ( ) “ ” “ ” , “ ” “ \n ” .\n 2 ( ) , , \n ( ), ( \n ) .\n 3 ( ) “ ” ( ) \n .\n1. : , , , \n2. : , , , , , ( ), E-Mail, / \n /CI ( )\n 4 ( ) .\n : \n 5 ( ) “ ” “ ” 3\n .\n “ ” “ ” 3 \n“ ” . , “ ” \n “ ” .\n “ ” .\n “ ” .\n 6 ( ) “ ” 29 , 30 \n ( ) · \n .\n 7 ( ) “ ” \n 3 .\n 8 ( · ) “ ” “ ” \n , “ ” .\n1. \n2. \n3. \n4. ․ \n5. \n6. \n “ ” “ ” 1 “ ” 3 \n , . “ ” “ ”\n .\n “ ” “ ” \n “ ” [ ] \n“ ” “ ” . “ ” “ ” \n“ ” “ ” .\n1. 32 2 (ISMS-P) \n \n2. ‘ ’ \n3. 1 , 2 , “ ” “ ” 31 7 \n \n 3 “ ” “ ” \n ” “ , ” “ .\n 9 ( ) ” “ 26 3 \n · · · ” “ ,\n” “ . ” “ ” “ ” “ \n .\n 1 , \n , “ ” “ ” . ,\n“ ” 3 “ ” \n “ ” , “ ” \n .\n “ ” “ ” .\n 10 ( ) “ ” , · , \n .\n 11 ( ) “ ” \n 16 “ ” .\n 1 “ ” “ ” .\n 12 ( ) “ ” “ ” , “ ” \n “ ” “ ” , \n“ ” “ ” , 3 \n , “ ” .\n 1 , 3 “ ” \n “ ” “ ” .\n 2 , “ ” “ ” 1 \n .\n20 . . .\n \n : 277 74-10( )\n ( ) : AI \n : ( )\n \n :\n ( ) :\n : ( )\n 13 \n ( 26 )\n※ [ ] √ .\n 14 \n \n \n \n \n \n [ ] [ ] \n \n \n \n \n ( ※ )\n \n ( ※ )\n \n ( ※ )\n \n \n \n ( ※ )\n 50 3 .\n \n ( )\n \n \n \n \n : \n210mm×297mm[ 80g/ ]",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "(AIEP) \n \n \n \n2026. 6.\n \n TEL FAX\n \n 032-880-0730\n032-880-0748 032-880-0735\n \nⅠ . ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 1\nⅡ . •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 2\nⅢ . •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 5\nⅣ . •••••••••••••••••••••••••••••••••••••••••••••••••••••••• 39\nⅤ...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "8d1106ec31dfd9c88d86623b",
+      "fileName": "예산산출내역서.hwpx",
+      "extension": ".hwpx",
+      "docType": "첨부서류",
+      "viewerType": "rhwp",
+      "fileUrl": "/api/notices/R26BK01634676/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01634676/000/original-files/1",
+      "pdfUrl": "",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01634676-000/예산산출내역서.hwpx",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01634676-000/예산산출내역서.hwpx",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01634676-000/예산산출내역서.hwpx",
+      "pageCount": 0,
+      "textLength": 471,
+      "extractionMethod": "extract_document_text",
+      "extractionError": "",
+      "viewerError": "PDF 변환에 실패해 HWP/HWPX 전용 뷰어로 표시합니다. (HWPX HTML 변환 실패: Command '['/opt/hostedtoolcache/Python/3.11.15/x64/bin/hwp5html', '--output', '/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01634676-000/converted/예산산출내역서.html', '/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01634676-000/예산산출내역서.hwpx']' returned non-zero exit status 1.)",
+      "documentText": "2026년 인천 교육 통합 포털 임차 및 계정 관리 예산 산출내역\n품명\n내용\n수량\n단가(원)\n부가세(원)\n금액(원)\n비고\n인천 교육 통합 포털\n- 포털 사이트 구축\n표준 API 연동 개발\nUX/UI 설계\n학생\n30만명\n, 교직원\n3만명\n계정 통합 관리\n인공지능 맞춤형 교수학습 플랫폼(AIEP) 계정 연동 관리\n통합 포털 관련 Help Desk 운영\n사용자별 맞춤형 UX/UI\n1\n118,181,818\n11,818,182\n130,000,000\n학생 및 교원\n전체 제공\n인천 교육\n통합 포털\n클라우드\n인프라 제공\n- Virtual Machine\n- Azure SQL DB\n- Application Gateway\n- Cloudflare\n1\n29,090,909\n2,909,091\n32,000,000\n합 계 (VAT포함)\n8\n=SUM(?2:?3)??%g,;;162,000,000\n=SUM(?2:?3)\n%g,\n162,000,000\n162,000,000",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "2026년 인천 교육 통합 포털 임차 및 계정 관리 예산 산출내역\n품명\n내용\n수량\n단가(원)\n부가세(원)\n금액(원)\n비고\n인천 교육 통합 포털\n- 포털 사이트 구축\n표준 API 연동 개발\nUX/UI 설계\n학생\n30만명\n, 교직원\n3만명\n계정 통합 관리\n인공지능 맞춤형 교수학습 플랫폼(AIEP) 계정 연동 관리\n통합 포털 관련 Help Desk 운영\n사용자별 맞춤형 UX/UI\n1\n118,181,818\n11,818,182\n130,000,000\n학생 및 교원\n전체 제공\n인천 교육\n통합 포털\n클라우드\n인프라 제공\n- Virtual Machine\n- Azure SQL DB\n- Application Gateway\n- Cloudflare\n1\n29,0...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "(AIEP) \n \n \n \n2026. 6.\n \n TEL FAX\n \n 032-880-0730\n032-880-0748 032-880-0735\n \nⅠ . ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 1\nⅡ . •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 2\nⅢ . •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 5\nⅣ . •••••••••••••••••••••••••••••••••••••••••••••••••••••••• 39\nⅤ . ••••••••••••••••••••••••••••••••••••••••••••••••••••• 49\n※ ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 51\n※ •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 52\nⅠ \n1. \n . : (AIEP) \n \n . : 30 (SaaS )\n . : ( ) 30 ( ) 12 \n . : ( 162,000,000 , VAT )\n . : ( )\n2. \n . ( ) potal.icedu.kr \n . ( ) / \n . ( ) \n3. \n . \n . \n . UX/UI ( , , / ) \nⅡ \n1. \n▪ · Microsoft 365, Google\nWorkspace, NAVER \n▪ (AIEP)( AIEP) \n \n▪ (AIEP, ) \n2. \n▪ · , , , · · \n \n▪ \n▪ · · \n▪ \n▪ / , ·FAQ·1:1 \n3. \n▪ HTTPS , \n▪ · (IP) \n▪ , \n▪ 2 · 3 \n4. \n▪ 3 ( )\n▪ \n▪ 24 365 , 99.9% SLA \n▪ (2 )· (24 ) \n5. \n▪ SNS· · · \n▪ · · \n▪ ·FAQ \n▪ 30 , \n6. \n▪ · · \n▪ · · · \n \n▪ \n▪ 2 \n▪ · · · \n7. \n▪ Microsoft 365, Google Workspace \n \n▪ AIEP ( ) , \n▪ \n▪ SAML 2.0 / OAuth 2.0 \n8. \n▪ , \n▪ \n▪ · \nⅢ \n1. \n . \n \nSaaS (SIR)\nSIR-001 SaaS \nSIR-002 SaaS \nSIR-003 SaaS \n (SFR)\nSFR-001 · \nSFR-002 AIEP \nSFR-003 \nSFR-004 \nSFR-005 AIEP \nSFR-006 \n (PER) PER-001 \nPER-002 \n (SIR)\nSIR-001 UI \nSIR-002 \nSIR-003 \n (DAR)\nDAR-001 \nDAR-002 \nDAR-003 \nDAR-004 \nDAR-005 \nDAR-006 \nDAR-007 \nDAR-008 \n (TER)\nTER-001 \nTER-002 \nTER-003 \nTER-004 \nTER-005 \n (SER)\nSER-001 \nSER-002 \nSER-003 \nSER-004 · \nSER-005 \nSER-006 \nSER-007 \nSER-008 \n (QUR)\nQUR-001 \nQUR-002 \nQUR-003 \nQUR-004 \n (COR)\nCOR-001 \nCOR-002 \nCOR-003 , , \nCOR-004 SaaS \nCOR-005 \nCOR-006 SW \n (PMR) PMR-001 \nPMR-002 \nPMR-003 \nPMR-004 \nPMR-005 \nPMR-006 · \n (PSR)\nPSR-001 \nPSR-002 , , \nPSR-003 SaaS SLA\nPSR-004 Help Desk \n□ \n . SaaS \n SaaS SIR-001\n SaaS \n SaaS \n \n SaaS , SaaS , , , SLA , , , \n , \n SaaS SIR-002\n SaaS \n SaaS \n \n SaaS ( , , ) , , (Multi-AZ) , , · \n , \n SaaS SIR-003\n SaaS \n SaaS \n \n SaaS (HTTPS) , (Managed DB) , , SaaS · · , · , \n SaaS , \n . \n SFR-001\n · \n · \n \n · · · · AIEP (Microsoft 365, Google Workspace,naver ) , , , , \n , , \n SFR-002\n AIEP \n AIEP \n \n AIEP · AIEP · · · AIEP · , AIEP , , AIEP \n , , \n SFR-003\n \n \n \n · · · , , , · · , , 14 Microsoft 365, Google Workspace, naver ( ) , · (FAQ) (Q&A) ( · · ) , / \n , , , UI/UX ,\n SFR-004\n \n \n \n AIEP , ( / / · / / / ) ( , · ) (AIEP, ), , \n , 2 : · · , NEIS , , , : CRUD, · · , , · FAQ Q&A : , CRUD, · · · API : / API · · , , ( · , , · ) : , , · · , , , \n , , , UI/UX , \n SFR-005\n AIEP \n AIEP \n \n (SAML 2.0 OAuth 2.0) Microsoft 365,Google Workspace, naver · , ( ) ( ) ( ) AIEP ( ) ( · ) ( ) ( ) , , ( ) (SSO) ‘CC ’ \n , , , UI/UX , \n SFR-006\n \n \n \n AIEP (IP ) :· ( , , ) 2 · · · 3 , (HTTPS) · \n \n . \n PER-001\n \n \n \n , , , , \n \n PER-002\n \n \n \n 3 · , · 10 \n \n . \n SIR-001\n UI \n UI \n \n , , , , 3 UI·UX ·             ( )·          2.1( )· UI/UX (‘ UI/UX ’)\n \n SIR-002\n \n \n \n , , , , \n \n SIR-003\n \n \n \n AIEP, Microsoft 365, Google Workspace, naver , \n \n . \n DAR-001\n \n \n \n SaaS ( , , ) (NEIS ), , \n \n DAR-002\n \n \n , , \n ( )\n DAR-003\n \n \n \n , , , , , , FAQ/Q&A \n , \n \n DAR-004\n \n \n \n · · \n \n , \n \n , \n \n DAR-005\n \n \n \n ( , , ) , \n , · \n , , \n , \n \n DAR-006\n \n \n \n \n , , \n , , \n ( , , ) , \n \n DAR-007\n \n \n \n AIEP, Microsoft 365, Google Workspace \n ( , , , ) \n · \n , \n \n DAR-008\n \n \n \n \n ( \n , , , ) \n ( , , , )\n . \n TER-001\n \n \n \n , , \n \n · · \n · \n \n , \n \n 100% \n , \n TER-002\n \n \n \n , , · \n \n TER-003\n \n \n \n AIEP , Microsoft 365·Google Workspace·NAVER ,\nFAQ/Q&A, \n , \n \n \n TER-004\n \n \n \n ( 3 ) \n \n \n \n TER-005\n \n \n \n \n \n · \n \n . \n SER-001\n \n \n \n \n , \n ( · · ) \n ( , , ) \n , (KISA) ' (CSAP)' \n , \n \n SER-002\n \n \n \n 10 \n \n 14 \n \n ‘ ’ ( 7 )\n , , \n SER-003\n \n \n \n \n \n \n \n , \n ( ) \n , ( PC) \n ( , ) \n , \n ‘ ’ \n ( ) ( ) · \n \n SER-004\n · \n · \n \n , 1 \n \n , \n \n OS \n \n USB, \n ( ) , \n ( ) \n \n \n \n SER-005\n \n \n \n (IAM,VPN ) \n \n \n (Azure) IP (MAC ) \n (Azure Portal ) · 2 (2FA/MFA) \n ( , ) \n (Subnet/NSG ) \n \n SER-006\n \n \n \n , , AIEP \n \n ( ) \n \n \n \n \n SER-007\n \n \n \n \n·     ( )·     ( )·       ( )·     ( )·     ( )· · ( )· ( ) SaaS \n , \n ( ) \n SER-008\n \n \n \n \n·   ( )·     ( )·           ( )·       ( ) ( , , ) , \n 14 \n , \n \n . \n QUR-001\n \n \n \n \n \n \n , SLA \n \n QUR-002\n \n \n \n 24 365 \n \n \n \n QUR-003\n \n \n \n , , \n \n \n FAQ \n \n \n QUR-004\n \n \n \n , \n (Windows, macOS, iOS, Android ) \n \n \n . \n COR-001\n \n \n \n           ·           ( )·   ( )·     ( )·     ( )·       ( )·       ( )·         ( )·     ( )·             ( ) ·          2.1( )· UI/UX (‘ UI/UX ’)   \n·     ( )·     ( )·       ( )·     ( )·     ( )\n   ·   ( )·     ( )·           ( )·       ( )\n \n COR-002\n \n \n \n \n , \n \n · \n \n \n COR-003\n , , \n , \n \n \n W3C (HTML5, CSS3 ) \n 3 , \n \n \n COR-004\n SaaS \n SaaS \n \n SaaS ( , ) \n , \n \n COR-005\n \n \n SaaS , \n \n COR-006\n SW \n SW \n \n 46 SW · \n Microsoft Education Parter, Google for Education 1-Tier \n \n . \n PMR-001\n \n \n \n , , \n , \n \n \n PMR-002\n \n \n \n \n ( )\n 30 1 \n \n \n PMR-003\n \n \n , , \n \n \n PMR-004\n \n \n , \n \n \n PMR-005\n \n \n \n \n \n PMR-006\n · \n · \n · \n \n . \n PSR-001\n \n \n \n , , ( · ) \n · \n \n \n PSR-002\n , , \n , , \n \n SaaS · · · · · \n , SLA \n , \n , , \n PSR-003\n SaaS SLA\n SaaS SLA\n \n SaaS , (SLA) 99.9% \n , , SLA ( , RTO/RPO) \n SaaS (SLA) \n SaaS \n PSR-004\n Help Desk \n \n \n Help Desk , \n· · · ( : 10 ~ 5 )· \n \n2. \n . : \n3. \n . 14 \n○ 1 \n○ 1 \n○ 1 \n○ 1 \n○ 1 \n○ 1 \n○ 1 \n . 20 1 : \n . \n \n[ ]\n \n- A4 \n \n[ ]\n API \n 30 \n \n[ ]\n ( )\n \n 30 \n \n[ ]\n , \n , ,\nUI/UX \n · · · \n UI \n ( / ), \n , , , ,\n , \n SaaS , , \n \n ( ) \n \n4. \n . , \n \n . , , \n \n . , , \n \n . 10 , \n , \n . \n \n . \n . , \n ( )\n . , \n \n . 14 , \n , \n . \n . 1 ( \n ) ( ) \n5. \n . (PM) · , \n \n . \n . , \n \n . \n , \n · \n . , \n ( , , ) , \n , \n ( ) . \n SW , \n 4 SW \n SW SW \n 59 , 54 , \n 32 ( ) \n . · \n \n . \n . , \n \n . \n \n \n . \n \n . , ( “ ” ) \n \n . \n○ 4 5 · \n , , \n \n○ 4 9 4 5 \n · · , · \n \n○ · \n \n . 50 \n \n○ 50 , 47 1 2 , 3 \n · , \n ( · 13 \n ) \n . 43 , 35 37 , \n 5 , 6 \n \n○ 1 “ \n ” \nⅣ \n• \n . : ( )\n . : (90 ) (10 )\n . : , .\n2. \n . : \n . : \n \n \n \n \n (90) / (10)\n \n 48 \n . \n 13 14 \n , \n 31 92 ( \n ) \n 48 9 \n ( [ 1468]) \n 2 · \n · · ( : ) \n “ ” \n ( [ 8111159901]) \n \n ) 48 ( ) \n \n ) 48 4 \n \n ) 20 , \n ( ) \n , 48 4 \n 31 \n 2 · \n 2 \n < · · > < \n > .\n . : ( , )\n 13 \n 14 \n , ( \n ) \n 5 , 5% \n [ ( 6 )]\n \n3. \n . \n ( 44 1 6\n ‘ ’)\n ( )\n · ( )\n . \n : ( )\n \n (90 ) : , \n (10 ) : \n \n (90 ) 85% \n 85% , “ ” \n 2 \n \n \n \n \n \n . \n \n ( ) \n \n \n \n \n . \n \n- , \n- ( )\n : , \n : \n \n : \n- \n· : (90%), (10%)\n· = + \n- \n· : ( ․ ) \n· : ( , ) , \n· \n \n \n- \n- \n \n- \n , .\n- \n- \n- \n . \n : \n : “ ” \n . : \n . \n , \n \n ( ) 16 ( \n ) , \n \n4. \n \n \n \n(20 )\n · 6\n20\n · 6\n · 6\n · 2\n \n \n(70 )\n \n· 4\n70\n· 3\n· 3\n \n· 4\n· 3\n· \n 3\n \n \n· \n 10\n· 10\n·UI/UX 10\n \n \n · , , 10\n · , , 10\n (10)· 10 10\n 100\n . \n (6 ) : ( )\n< >\n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0 6.0\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB- 5.7\nB+, B0, B- B- B+, B0, B- 5.4\nCCC+ C CCC+ 4.2\n* \n[ ]\n1. 2 8 3 \n 335 3 , \n , \n . , \n .\n2. , \n . , \n .\n3. 1 , \n . , \n \n .\n4. 7 \n . \n , . , \n , ( , \n ) .( )\n5. , \n .\n( ) (A ×A )+(B ×B )…\n6. .\n (6 ) ( )\n \n 3 \n \nA. 100% 6.0\nB. 70% ~100% 5.4\nC. 40% ~70% 4.8\nD. 40% 4.2\n 3 ( ) . , 7\n 7 \n : . ( , ) - Microsoft, google, naver \n - \n[ ]\n1. \n .\n2. 9 8 1 .\n3. , .\n4. , 5 .\n5. 15 16 \n .\n . , , \n . , , ( \n ) \n . \n . , , \n \n \n . \n .\n6. , \n .\n( ) {(A ×A )+(B ×B )…} \n (6 ) ( )\n \n \n \n8 6.0\n5 ~7 5.7\n2 ~4 5.4\n2 4.2\n[ ]\n1. ( ) .\n (2 ) ( )\n \n \n \n \n① ▪ \n △ 2.0\n② \n▪ 2\n \n \n△ 2.0\n[ ]\n1. ~ , .\n2. , .\n3. \n( ) .\n4. ( \n ) .\n5. .\n6. 2 \n . , 2017 5 1 .\n . ( )\n \n \n \n \n· 4\n· 3\n· 3\n \n· 4\n· 3\n· \n 3\n \n· SaaS \n 10\n· 10\n·UI/UX 10\n \n \n · , , 10\n · , , 10\n 70\n . : 10 \n○ ( 5 ) \nⅤ \n1. \n . , , \n . , \n . , \n \n . , , \n \n . \n \n . , , \n \n . \n2. \n . , \n . 100 , A4 , A4 \n \n , \n . \n \n . \n . , \n . , \n \n . “ ” . , , ,\n , \n \n . , \n \n . , \n , \n \" \" \n . , \n \n , \n \n . \n \n[ ]\n \n1. ( ) [ 1 ]\n2. [ 2 ]\n3. ( 3 ) [ 3 ]\n4. 3 [ 4 ]\n5. [ 5 ]\n6. [ 6 ]\n7. [ 7 ]\n8. ( ) [ 8 ]\n9. [ 9 ]\n10. [ 10 ]\n11. [ 11 ]\n12. [ 12 ]\n13. [ 13 ]\n[ 1 ]\n (A4, )\n7 \n AI \n2026 \n 22font ↲\n7 \n2026. . ← 20font \n4\n ← 20font \n[ 2 ]\n \n1. \n \n \n \n \n \n(2025 )\n / /\n \n \n2. \n \n , , \n ( )\n[ 3 ]\n ( 3 )\n( : )\n M-2 M-1 M \n \n \n \n \n \n \n \n \n \n \n \n○○ \n○○ \n○○ \n○○ \n○○ \n○○ \n \n \n \n \n ) \n[ 4 ]\n 3 \n :\n \n( ) \n )\n1. , .\n2. \n3. \n4. ( ) , , “ \n ” .\n5. , \n[ 5 ]\n \n \n( ) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n )\n1. “ ” \n2. : \n3. \n4. , , , , \n[ 6 ]\n \n , \n \n \n \n 20XX. . .\n~ 20XX. . . % \n \n \n( . . ~ . ) \n ( \n ) ( )\n , 13 ( ) \n ( ) ( \n )\n , , \n \n ( , ) ( , )\n \n[ 7 ]\n ( )\n AI 2026 \n .\n1. 2026 \n .\n2. \n .\n3. \n .\n4. \n .\n \n :\n( ) :\n : ( )\n :\n( ) :\n : ( )\n ( )\n AI 2026 \n .\n1. \n .\n2. \n \n .\n3. .\n . 4 1 2 5 ( )\n . 99 ( ) 127 ( )\n \n :\n( ) :\n : ( )\n :\n( ) :\n : ( )\n ( )\n 2026 , \n .\n1. ( ) ( )\n2. ( ) \n3. ( ) \n4. ( ) \n .\n \n ( ) \n :\n :\n : ( )\n AI \n ( )\nOOO ( \" \" ) OO ( \" \" ) ∼ 2026 \n \n .\n1. ( ) \n · .\n1) \n2) \n3) \n4) 3 \n5) \n6) \n2. .\n3. \n .\n4. · .\n \n \n : ( )\n AI \n[ 8 ]\n ( )\n 1 ( ) , \n ․ ․ \n .\n1. :\n2. :\n3. :\n 2 ( ) , , .\n1. : \n2. :\n3. :\n 3 ( ) .\n1. ( : )\n2. ( : )\n .\n 3 , \n .\n 4 ( ) , . ,\n 3 ․ \n .\n 5 ( ) 1 ․ \n .\n 6 ( ) .\n , \n .\n 7 ( ) \n .\n 8 ( ) 11 , \n .\n1. ( ) : , , \n2. : , , \n 9 ( ) .\n1. : %\n2. : %\n 1 . , \n .\n1. \n2. , , , , ( \n ), \n \n , .\n 10 ( ) 9 \n .\n 10 2( ) , , \n .\n , \n .\n 1 , \n , \n .\n 3 \n . , \n .\n 11 ( ․ ) ․ 3 .\n 12 ( ) \n . , 3 \n .\n1. \n2. , , 10 2 \n \n3. , , \n76 1 6 \n 1 .\n , , , \n \n .\n 2 9 \n .\n 10 .\n 13 ( ) \n . , \n .\n 14 ( ) \n .\n .\n \n .\n2025 \n( ) 0000 OOO ( )\n( ) 0000 OOO ( )\n( ) 0000 OOO ( )\n[ 9 ]\n \n \n \n , \n , \n \n .\n2026 \n \n \n \n ( )\n \n \n \n ( )\n \n \n \n ( )\n AI \n[ 10 ]\n \n AI 2026 \n \n , \n , .\n2026 \n : ( )\n AI \n[ 11 ]\n \n1. \n \n .\n2. , , , , \n , \n 76 .\n3. \n , \n .\n4. \n , .\n5. , \n , , .\n . \n . \n . \n . ( ) \n . ( ) \n . · ( ) \n . ( ) \n . · ( ) \n6. , , · \n , , , \n , \n .\n7. \n .\n8. \n · , , , , \n , , · \n .\n9. 8 , , \n , \n , \n .\n10. · \n , , \n · .\n11. \n , \n .\n 12 \n ( )\n AI ( “ ” ) △△△ ( “ ” ) “ ” \n 2026 “ ” \n .\n 1 ( ) “ ” “ ” , “ ” “ \n ” .\n 2 ( ) , , \n ( ), ( \n ) .\n 3 ( ) “ ” ( ) \n .\n1. : , , , \n2. : , , , , , ( ), E-Mail, / \n /CI ( )\n 4 ( ) .\n : \n 5 ( ) “ ” “ ” 3\n .\n “ ” “ ” 3 \n“ ” . , “ ” \n “ ” .\n “ ” .\n “ ” .\n 6 ( ) “ ” 29 , 30 \n ( ) · \n .\n 7 ( ) “ ” \n 3 .\n 8 ( · ) “ ” “ ” \n , “ ” .\n1. \n2. \n3. \n4. ․ \n5. \n6. \n “ ” “ ” 1 “ ” 3 \n , . “ ” “ ”\n .\n “ ” “ ” \n “ ” [ ] \n“ ” “ ” . “ ” “ ” \n“ ” “ ” .\n1. 32 2 (ISMS-P) \n \n2. ‘ ’ \n3. 1 , 2 , “ ” “ ” 31 7 \n \n 3 “ ” “ ” \n ” “ , ” “ .\n 9 ( ) ” “ 26 3 \n · · · ” “ ,\n” “ . ” “ ” “ ” “ \n .\n 1 , \n , “ ” “ ” . ,\n“ ” 3 “ ” \n “ ” , “ ” \n .\n “ ” “ ” .\n 10 ( ) “ ” , · , \n .\n 11 ( ) “ ” \n 16 “ ” .\n 1 “ ” “ ” .\n 12 ( ) “ ” “ ” , “ ” \n “ ” “ ” , \n“ ” “ ” , 3 \n , “ ” .\n 1 , 3 “ ” \n “ ” “ ” .\n 2 , “ ” “ ” 1 \n .\n20 . . .\n \n : 277 74-10( )\n ( ) : AI \n : ( )\n \n :\n ( ) :\n : ( )\n 13 \n ( 26 )\n※ [ ] √ .\n 14 \n \n \n \n \n \n [ ] [ ] \n \n \n \n \n ( ※ )\n \n ( ※ )\n \n ( ※ )\n \n \n \n ( ※ )\n 50 3 .\n \n ( )\n \n \n \n \n : \n210mm×297mm[ 80g/ ]",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01634676-000",
+    "sourceFile": "(붙임2) 제안요청서(최종).hwp",
+    "generatedAt": "2026-07-20T12:38:31.946667",
+    "match": {
+      "noticeId": "R26BK01634676-000",
+      "bidNtceNo": "R26BK01634676",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01634676-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01634676-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01634676-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4 [ ] API 30 [ ] ( ) 30 [ ],,, UI/UX · · · UI ( / ),,,,,, SaaS,, ( ) 4. ., .,, .,, . 10,, . . ., ( ) ., . 14,, . . 1 ( ) ( )",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "SFR-001",
+          "requirement": "SFR",
+          "name": "SFR",
+          "detail": "·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-002",
+          "requirement": "AIEP",
+          "name": "AIEP",
+          "detail": "AIEP",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-003",
+          "requirement": "AIEP",
+          "name": "AIEP",
+          "detail": ". SaaS (SIR) SIR-001 SaaS SIR-002 SaaS SIR-003 SaaS (SFR) SFR-001 ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-004",
+          "requirement": "AIEP",
+          "name": "AIEP",
+          "detail": "SaaS (SIR) SIR-001 SaaS SIR-002 SaaS SIR-003 SaaS (SFR) SFR-001 ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-005",
+          "requirement": "AIEP",
+          "name": "AIEP",
+          "detail": "AIEP",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-006",
+          "requirement": "AIEP",
+          "name": "AIEP",
+          "detail": "SIR-002 SaaS SIR-003 SaaS (SFR) SFR-001 ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-001",
+          "requirement": "PER",
+          "name": "PER",
+          "detail": "SIR-003 SaaS (SFR) SFR-001 · SFR-002 AIEP SFR-005 AIEP",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-002",
+          "requirement": "PER",
+          "name": "PER",
+          "detail": "(SIR) SIR-001 UI SIR-002",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-001",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "(PER) PER-001 (SIR) SIR-001 UI SIR-002 SIR-003",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-002",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "(PER) PER-001 (SIR) SIR-001 UI SIR-002 SIR-003",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-003",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "(SIR) SIR-001 UI SIR-002 SIR-003",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-004",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "(SIR) SIR-001 UI SIR-002 SIR-003",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-005",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "SIR-001 UI SIR-002 SIR-003",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-006",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "SIR-002 SIR-003",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-007",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "SIR-003",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-008",
+          "requirement": "DAR",
+          "name": "DAR",
+          "detail": "DAR",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-001",
+          "requirement": "TER",
+          "name": "TER",
+          "detail": "TER",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-002",
+          "requirement": "TER",
+          "name": "TER",
+          "detail": "TER",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-003",
+          "requirement": "TER",
+          "name": "TER",
+          "detail": "TER",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-004",
+          "requirement": "TER",
+          "name": "TER",
+          "detail": "TER",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-005",
+          "requirement": "TER",
+          "name": "TER",
+          "detail": "TER",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "(TER)",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "(TER)",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "SER",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-005",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "-004 ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-006",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "-004 ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-007",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "-004 ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-008",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "-004 ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": "QUR",
+          "name": "QUR",
+          "detail": "SER-004 ·",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": "QUR",
+          "name": "QUR",
+          "detail": "SER-004 ·",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-003",
+          "requirement": "QUR",
+          "name": "QUR",
+          "detail": "SER-004 ·",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-004",
+          "requirement": "QUR",
+          "name": "QUR",
+          "detail": "QUR",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": "COR",
+          "name": "COR",
+          "detail": "(QUR)",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": "COR",
+          "name": "COR",
+          "detail": "(QUR)",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-003",
+          "requirement": "COR",
+          "name": "COR",
+          "detail": ", ,",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-004",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "SaaS",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-005",
+          "requirement": "SaaS",
+          "name": "SaaS",
+          "detail": "(COR) COR-003 , ,",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-006",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "(COR) COR-003 , , COR-004 SaaS (PMR)",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "(COR) COR-003 , , COR-004 SaaS COR-006 SW",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "COR-003 , , COR-004 SaaS COR-006 SW",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-004",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "COR-003 , , COR-004 SaaS COR-006 SW",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-005",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "COR-003 , , COR-004 SaaS COR-006 SW",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-006",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "·",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": "PSR",
+          "name": "PSR",
+          "detail": "COR-006 SW (PMR) PMR-001 PMR-006 ·",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": "PSR",
+          "name": "PSR",
+          "detail": ", ,",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-003",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "SaaS SLA",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-004",
+          "requirement": "SaaS SLA",
+          "name": "SaaS SLA",
+          "detail": "Help Desk □ . SaaS SaaS SIR-001 SaaS SaaS SaaS , SaaS , , , SLA , , , ,",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01634676-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ", \n ( ) , \n ( ) \n \n \n \n SER-005\n \n \n \n (IAM,VPN ) \n \n \n (Azure) IP (MAC ) \n (Azure Portal ) · 2 (",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 1개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "·",
+          "score": 90.0,
+          "weight": 90.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "· 90점"
+        }
+      ],
+      "totals": {
+        "score": 90.0,
+        "weight": 90.0,
+        "gradeA": 1,
+        "gradeB": 0,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01634676-000",
+    "generatedAt": "2026-07-20T12:39:10.558285",
+    "sourceAnalysisAt": "2026-07-20T12:38:31.946667",
+    "projectName": "",
+    "sourceFile": "(붙임2) 제안요청서(최종).hwp",
+    "requirementSourceFiles": [
+      "(붙임2) 제안요청서(최종).hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "SIR-001",
+        "name": "SaaS",
+        "detail": "UI , , , , 3 UI·UX · ( )· 2.1( )· UI/UX (‘ UI/UX ’)",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-002",
+        "name": "SaaS",
+        "detail": "SaaS SaaS ( , , ) , , (Multi-AZ) , , · ,",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-003",
+        "name": "SaaS",
+        "detail": "SaaS SaaS (HTTPS) , (Managed DB) , , SaaS · · , · , SaaS , .",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-001",
+        "name": "·",
+        "detail": "· · · · · AIEP (Microsoft 365, Google Workspace,naver ) , , , , , ,",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-002",
+        "name": "AIEP",
+        "detail": "AIEP AIEP · AIEP · · · AIEP · , AIEP , , AIEP , ,",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-003",
+        "name": "SFR-003",
+        "detail": "· · · , , , · · , , 14 Microsoft 365, Google Workspace, naver ( ) , · (FAQ) (Q&A) ( · · ) , / , , , UI/UX ,",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-004",
+        "name": "SFR-004",
+        "detail": "· / / / ) ( , · ) (AIEP, ), , , 2 : · · , NEIS , , , : CRUD, · · , , · FAQ Q&A : , CRUD, · · · API : / API · · , , ( · , , · ) : , , · · , , , , , , UI/UX ,",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-005",
+        "name": "AIEP",
+        "detail": "AIEP (SAML 2.0 OAuth 2.0) Microsoft 365,Google Workspace, naver · , ( ) ( ) ( ) AIEP ( ) ( · ) ( ) ( ) , , ( ) (SSO) ‘CC ’ , , , UI/UX ,",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-006",
+        "name": "SFR-006",
+        "detail": "· ( , , ) 2 · · · 3 , (HTTPS) · .",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-001",
+        "name": "PER-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-002",
+        "name": "(SIR)",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-001",
+        "name": "DAR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-002",
+        "name": "DAR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-003",
+        "name": "DAR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-004",
+        "name": "DAR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-005",
+        "name": "DAR-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-006",
+        "name": "DAR-006",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-007",
+        "name": "DAR-007",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-008",
+        "name": "(TER)",
+        "detail": ", , , ) ( , , , ) .",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-001",
+        "name": "TER-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-002",
+        "name": "TER-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-003",
+        "name": "TER-003",
+        "detail": "·Google Workspace·NAVER , FAQ/Q&A, ,",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-004",
+        "name": "TER-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-005",
+        "name": "(SER)",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "SER-001",
+        "detail": "( · · ) ( , , ) , (KISA) ' (CSAP)' ,",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "SER-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "SER-003",
+        "detail": "( ) , ( PC) ( , ) , ‘ ’",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "·",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-005",
+        "name": "SER-005",
+        "detail": "(Azure) IP (MAC ) (Azure Portal ) · 2 (2FA/MFA) ( , ) (Subnet/NSG )",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-006",
+        "name": "SER-006",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-007",
+        "name": "SER-007",
+        "detail": "· ( )· ( )· ( )· ( )· ( )· · ( )· ( ) SaaS , ( )",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-008",
+        "name": "(QUR)",
+        "detail": "· ( )· ( )· ( )· ( ) ( , , ) , 14 , .",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "QUR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": "QUR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-003",
+        "name": "QUR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-004",
+        "name": "(COR)",
+        "detail": "(Windows, macOS, iOS, Android ) .",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": "COR-001",
+        "detail": "· ( )· ( )· ( )· ( )· ( )· ( )· ( )· ( )· ( ) · 2.1( )· UI/UX (‘ UI/UX ’) · ( )· ( )· ( )· ( )· ( ) · ( )· ( )· ( )· ( )",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": "COR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-003",
+        "name": ", ,",
+        "detail": ", W3C (HTML5, CSS3 ) 3 ,",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-004",
+        "name": "SaaS",
+        "detail": "SaaS SaaS ( , ) ,",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-005",
+        "name": "COR-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-006",
+        "name": "SW",
+        "detail": "SW 46 SW · Microsoft Education Parter, Google for Education 1-Tier .",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "PMR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "PMR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "PMR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-004",
+        "name": "PMR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-005",
+        "name": "PMR-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-006",
+        "name": "·",
+        "detail": "(PSR)",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "PSR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": ", ,",
+        "detail": ", , SaaS · · · · · , SLA , , ,",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-003",
+        "name": "SaaS SLA",
+        "detail": "SaaS SLA SaaS , (SLA) 99.9% , , SLA ( , RTO/RPO) SaaS (SLA) SaaS",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-004",
+        "name": "Help Desk",
+        "detail": "Help Desk , · · · ( : 10 ~ 5 )· 2. . 3.",
+        "source": "(붙임2) 제안요청서(최종).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "·",
+        "score": 90.0,
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 50,
+        "mappedRequirementCodes": [
+          "SIR-001",
+          "SIR-002",
+          "SIR-003",
+          "SFR-001",
+          "SFR-002",
+          "SFR-003",
+          "SFR-004",
+          "SFR-005",
+          "SFR-006",
+          "DAR-001",
+          "DAR-002",
+          "DAR-003",
+          "DAR-004",
+          "DAR-005",
+          "DAR-006",
+          "DAR-007",
+          "DAR-008"
+        ],
+        "source": "배점표",
+        "detail": "· 90점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "SIR-001",
+              "SIR-002",
+              "SIR-003",
+              "SFR-001",
+              "SFR-002",
+              "SFR-003",
+              "SFR-004",
+              "SFR-005",
+              "SFR-006",
+              "DAR-001",
+              "DAR-002",
+              "DAR-003",
+              "DAR-004",
+              "DAR-005",
+              "DAR-006",
+              "DAR-007",
+              "DAR-008"
+            ],
+            "recommendedPages": 50
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "PER-001",
+              "PER-002",
+              "TER-001",
+              "TER-002",
+              "TER-003",
+              "TER-004",
+              "TER-005",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "SER-005",
+              "SER-006",
+              "SER-007",
+              "SER-008",
+              "QUR-001",
+              "QUR-002",
+              "QUR-003",
+              "QUR-004",
+              "COR-001",
+              "COR-002",
+              "COR-003",
+              "COR-004",
+              "COR-005",
+              "COR-006"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-001",
+              "PMR-002",
+              "PMR-003",
+              "PMR-004",
+              "PMR-005",
+              "PMR-006"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-001",
+              "PSR-002",
+              "PSR-003",
+              "PSR-004"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 52,
+      "mappedRequirements": 52,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}
