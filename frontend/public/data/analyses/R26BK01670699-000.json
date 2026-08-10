@@ -1,0 +1,645 @@
+{
+  "bidNtceNo": "R26BK01670699",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-08-10T11:15:46.587481",
+  "status": "completed",
+  "source": {
+    "fileName": "과업지시서 및 제안요청서_차세대해양기후예측시스템개발.hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01670699-000/과업지시서 및 제안요청서_차세대해양기후예측시스템개발.hwp",
+    "pageCount": 34,
+    "textLength": 4018,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "과업지시서 및 제안요청서_차세대해양기후예측시스템개발.hwp",
+      "extension": ".hwp",
+      "size": 269312,
+      "kindCode": ""
+    },
+    {
+      "fileName": "입찰공고문_차세대 해양극지 기후예측시스템 구축을 위한 해양-빙권 결함모델 고도화 및 인공지능 기반 예측기술 활용방안 마 련 연구.pdf",
+      "extension": ".pdf",
+      "size": 5556696,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "c095a61736a058bdc1d79d3d",
+      "fileName": "과업지시서 및 제안요청서_차세대해양기후예측시스템개발.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01670699/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01670699/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01670699/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01670699-000/과업지시서 및 제안요청서_차세대해양기후예측시스템개발.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01670699-000/converted/과업지시서 및 제안요청서_차세대해양기후예측시스템개발.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01670699-000/converted/과업지시서 및 제안요청서_차세대해양기후예측시스템개발.pdf",
+      "pageCount": 34,
+      "textLength": 4018,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "[ · – \n \n ]\n2026. 07.\n1. \n : · – \n \n : ~ 2026.12.15\n : 170 (VAT )\n : Pytorch ML\nSurrogate 1 - \n2. \n ( ) · – \n \n (KIOST) · \n , – \n \n · , , \n , – \n \n – \n , , \n , \n – \n , \n · \n , \n \n (surrogate model) \n , – , · , \n · \n \n ( ) · · \n \n – , \n , , \n – ,\n \n , , \n \n (surrogate model) , \n · \n – \n , · · \n \n · \n \n3. \n \n MOM6 \n MOM6 (Surrogate Model) \n \n \n – \n – , , , \n \n ( , , ) \n \n , , \n \n \n - \n \n4. : ~ 2026.12.15.\n5. : 170,000,000 ( )\n6. : ( ) ( )\n \n7. \n → ( ) → → → \n→ → \n ( )\n \n2026.07. \n2026.07. \n2026.08. \n2026.10 \n2026.11. \n2026.12. \n※ \n※ \nⅡ ( )\n▣ : · – \n \n (Surrogate Model) \n GFDL NeverWorld2 \n \n MOM6 Python (Surrogate\nModel) \n · , ·\n \n – \n – , , \n \n ( · , , ) \n \n · \n · \n · · \n \n · \n \n - \n \n Pacific Decadal Oscillation, North Pacific Gyre Oscillation \n \nⅢ \n1. : ‘ ’ \n2. \n : ( ) ( )\n※ 40 (2026.01.02.) \" ” \n \n 80 85%(68 ) \n※ 85% ( \n )\n , , \n \n- \n .\n : \n3. : ‘ ’ \n4. \n \n , / \n · .\n , \n .\n \n , , .\n , \n .\n , \n .\n \n , \n .\n \n ․ ․ \n . , \n .\n \n , .\n \n .\n .\n \n , .\n .\n , , \n .\n \n , .\n ․ \n , .\n \n .\n5. \n \n- 85% \n \n- \n \n- \n- 2 \n , \n \n- \n- \n \n- , \n \n- , \n \n- \n \n- , , , \n \n- \n- \n- , ( ) \n \n- \n \n- ‘ \n ’( ) \n6. \n 14 , \n \n , \n \n , , \n , , \n \n \n \n \n \n 76 ( ) 1 18 \n \nⅤ \n1. \n : \n : e- ( )\n : 1 , 1 \n※ \n \n \n \n 1 \n 1 2 \n 1 3 \n 1 - 4 \n 1 5 \n ( ) 1 6 \n 7 \n 1 8 \n 1 9 \n 1 10 \n 1 ( , ) 11 \n 1 ( 11 ) -\n · 1 12 \n 1 13 \n 1 14 \n : ( (80%), (20%))\n : (7 ~ )\n : \n※ \n \n \n- : (051-664-9143)\n- , : (051-664-3050)\n2. \n \n : [ 5] \n , \n \n \n \n \n \n \n , \n \n \n 3 , \n \n “ ”, “ ”, “ ”, “ ”,\n“ ” \n \n , \n , \n .\n , , , \n , ,\n , \n .\n- \n , , ․ \n .\n .\n- , \n .\n \n .\n \n , , ‧ .\n4. \n \n , .\nⅥ \n1. \n . \n : 80 ( , )\n \n- : (80%), (20%)\n- = + \n ( - )\n \n \n \n \n \n(60)\n1. \n- \n , , \n .\n- \n .\n20\n2. \n , \n- , \n , , .\n- \n .\n- \n .\n30\n3. \n , \n- \n , . 10\n \n(20)\n4. \n - 20\n \n< > \n \n \n \n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0\n 100%\n(20 )\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB- 95%\n(19 )\nB+, B0, B- B- B+, B0, B- 90%\n(18 )\nCCC+ C CCC+ 70%\n(14 )\n* \n* ([ 2075 , 2023.01.01) 9 [ \n8] \n[ ]\n1. 2 8 3 335\n 3 , \n , . , \n .\n2. , \n . , \n .\n3. 1 , \n . , \n \n .\n4. 7 \n . \n , . , , \n ( , \n ) .( )\n5. , \n .\n( ) (A ×A )+(B ×B )…\n6. .\n : 20 ( )\n : 7 ( )\n \n< > \n 1) \n ) 100 80 \n․\n* : , 100 70 \n 100 70 \n* : \n* , \n \n ) 100 80 \n․\n* : , 100 60 \n 100 70 \n* : , 100 70 \n 30% \n* SW 100 80 30% \n \n* , \n \n ) \n ) 3 \n \n . 2) \n ) 23 3 \n , \n .\n ) . , · · \n .\n1. \n2. 26 1 5 ( 3 \n , )\n3. 3 2 ( 3 \n , )\n ) 7 6 .\n 3) \n ) : ( ) 100 60 100 80 \n \n( ) \n ) : · , \n \n . ( )\n : ( )\n : \n \n “ ” ( \n ) . 5 \n ( ), · · · · · \n \n , \n \n[ 1] \n“ · – \n ”\n( 15, 90%, 160%, )\n \n2026. XX.\n ( )\n )\n1. mm .\n2. , .\n[ 2] \n \n \n ( )\n( )\n \n E-mail\n \n \n · \n \n \n(2023 ~2025 )\n \n \n(2025 )\n \n \n( )\n \n \n( )\n \n[ 3] \n \n \n \n( ) \n \n \n( )\n \n \n \n \n \n( ) \n( %)\n( %)\n( %)\n( %)\n( %)\n( %)\n( %)\n( %)\n( %)\n( %)\n( %)\n (100%)\n[ 4] ( )\n \n \n ( ) \n \n \n \n \n \n \n \n \n( ) \n \n \n \n2024 \n : ( )\n :\n : :\n :\n \n※ \n※ \n※ ( ) \n[ 5] \n \n · – \n \n \n( )\n \n1. \n2. \n3. \n4. \n5. \n6. \n7. \n8. \n9. \n10. \n1. \n◎ : \n2. \n◎ : \n3. \n◎ : \n4. \n . \n◎ : \n5. \n . \n◎ : \n . \n- \n- \n \n- (' ' )\n \n( 3 ) M/M\n※ : 1 ( , , \n6. \n◎ \n- , , \n7. \n◎ \n- , \n- \n8. \n M M+1 M+n 1 2 3 4 1 2 3 4 1 2 3 4\n◎ : (task) \n- , \n- , , , \n9. \n◎ : , , \n10. \n◎ : \n ( : , , )\n[ 6] \n \n .\n \n \n \n \n \n \n \n \n . . .\n \n \n \n \n : %\n : ( )\n :\n \n \n \n \n \n .\n \n .\n \n ( ) ( ) ( \n ) .\n 1. 1 \n2. 1 \n3. \n2025. . .\n \n \n[ 7] \n \n AI \n( ) \n .\n \n :\n :\n :\n ( ) 1 . .\n2026. . .\n :\n :\n ( ) : ( )\n :\n \n[ 8] \n \n ( ) · – \n \n 3 , \n .\n2026. . .\n ( ) :\n :\n :\n : ( )\n \n[ 9] \n \n :\n :\n · – \n , .\n○ , \n .\n○ , , \n .\n \n : ( )\n \n[ 10] \n \n : · – \n \n · – \n \n , \n , \n .\n , \n \n \n .\n2026 ○○ ○○ \n : ○○○○○○\n : ○○○\n : ○ ○ ○ ( )\n \n[ 11] \n \n○ : · – \n \n , .\n․ :\n․ :\n․ :\n․ :\n \n․ :\n․ :\n․ : ( )\n \n[ 12] · \n · \n ( ) · 15 \n . · .\n□ · \n · “ · – \n ” , , \n · , , , , , · · \n · · .\n · . , \n . .\n · \n \n · .\n( □ □)\n2026 \n : : ( )\n : :\n[ 13] \n \n□ :\n□ :\n1. ( 2 ) (□\n , □ ) .\n (□) (√) , \n \n2. , ( , ) \n \n .\n \n :\n : ( )\n \n[ 14] ( ) \n ( )\n \nOECD \n , “ · \n – ” \n . \n1. , , \n .\n○ \n 2 \n○ \n 1 \n \n○ \n \n .\n2. , ․ ․ \n .\n○ , \n , \n 2 \n○ \n , \n1 .\n3. , , \n , \n ․ .\n4. ․ , \n , \n .\n , \n , , \n ․ \n .\n \n : ○○○○○ \n : ○ ○ ○ ( )",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "[ · – \n \n ]\n2026. 07.\n1. \n : · – \n \n : ~ 2026.12.15\n : 170 (VAT )\n : Pytorch ML\nSurrogate 1 - \n2. \n ( ) · – \n \n (KIOST) · \n , – \n \n · , , \n , – \n \n – \n , , \n , \n – \n , \n · \n , \n \n (surrogate model) \n , – , · , \n · \n \n ( ) · · \n \n – , \n , , \n – ,\n \n , , \n \n (surrogate model) , \n · \n – \n , · · \n \n · \n \n3. \n \n MOM6 \n MOM6 (Surrogate Model) \n \n \n – \n – , , ,...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "382b87ae2c34cffb9a48123e",
+      "fileName": "입찰공고문_차세대 해양극지 기후예측시스템 구축을 위한 해양-빙권 결함모델 고도화 및 인공지능 기반 예측기술 활용방안 마 련 연구.pdf",
+      "extension": ".pdf",
+      "docType": "입찰공고문",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01670699/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01670699/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01670699/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01670699-000/입찰공고문_차세대 해양극지 기후예측시스템 구축을 위한 해양-빙권 결함모델 고도화 및 인공지능 기반 예측기술 활용방안 마 련 연구.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01670699-000/입찰공고문_차세대 해양극지 기후예측시스템 구축을 위한 해양-빙권 결함모델 고도화 및 인공지능 기반 예측기술 활용방안 마 련 연구.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01670699-000/입찰공고문_차세대 해양극지 기후예측시스템 구축을 위한 해양-빙권 결함모델 고도화 및 인공지능 기반 예측기술 활용방안 마 련 연구.pdf",
+      "pageCount": 9,
+      "textLength": 2042,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "- 1 - \n주소 부산광역시 영도구 해양로 한국해양과학기술원 행정동 구매자산실 : (49111) 385 \n홈페이지 : http://www.kiost.ac.kr \n조달물자 용역 입찰공고 재공고( ) ( ) \n ㆍ : 26-366 \n : ㆍ\n ㆍ : 2026. 08. 18. ( ) 10:00 \n ㆍ : \n \n . \n . \nº) , : ( 1588-0800) ºl \n, , : º) ( 051-664-9143) ºl \nº) , : ( 051-664-3050) ºl \n\n- 2 - \n, ( ) , \n.\n- - \n 1. ( ) \n 2. ( ) \n 3. ( ) \n 4. ( ) ˙F ( ) \n 5. ( ) ( ) \n 6. ( ) ( ) \n 7. ( ) ( ) \n 8. ( ) ( ) \n 9. ( ) \n10. ( ) \n11. ß‡ \n< > \n˙FÆ§ Æ¤ (http://www.law.go.kr)/ \n / \n˙FÆ§ Æ¤ (www.pps.go.kr)/ / ( , \n ) ( )/ \n ß˚ \n▶\n▶\n- 3 - \n.\n 2026. 08. 06. \n \n< ( ) >\nÆ Æ \n. ß‡\n, \n.\nÆ Æ \n, ( ) ß‡ ß‡ \n, ß‡\nß‡ , ß‡\n . \n 1. ß‡ ( ) \n( ) , ˙F 授受 \nÆ Æ \n.\n 2. \nÆ Æ\n.\n 3. ß‡\n.\n 4. 4 2 1 2 Æ Æ \n.( \n) \n - : 100 5 \n - : 100 10 \n- 4 - \n \n1. \n . : \n . : 2026.12.15. \n . : 170,000,000 ( ) \n . : \n . : ( ) / \n \n . . \n( ) . \n2. \n . Æ Æ 12 ( ) \n14 ( ) . \n . 76 ( Æ Æ \n- 5 - \n) . \n . [ : 1169] .\n . ææ 2 2 æò \n, ˙F Æ Æ \n˙F (\n) . \n ß˚ \n ß˚Æ Æ 33 1 ˙F \n 2 3 1 2 ß˚ \n˙F . \nº. ß§ ß¤ ß‡ ß‡ \n(http://www.smpp.go.kr) . \n º) ß‡ ß‡ \n.\n - ß‡ ß‡ \n - ß‡ ß‡ \n - ß‡ ß‡ \n - ß‡ ß‡ \n \n . , , , ˙F \n, \n.\n . Æ 27 5 Æ 12 3\nß§ ß¤ 2 \n. 12 3 \n . \n , ㆍ . , \n \n. \n . 7\n, 2 1 16 \n- 6 - \n( ) . \n3. \n . : 2026. 08. 13.( ) 10:00 ~ 2026. 08. 18.( ) 10:00 \n . : \n ß˚ \n, \n.\n . (PDF ) \n 1) \n1 , 1 \n ß˚ \n ß˚ \n 2) ( 1 PDF ) \n - 1 \n - 1 \n - 1 \n - 1 \n - 1 \n - 1 \n - 1 \n - 1 \n - 1 \n - ˙F 1 \n - 1 \n - 1 \n - ˙F 1 \n ß˚ \" ß‹ ( ) . \n PDF . ß˚ \n( ) \n . , \n. \n . ß« ß‹ , \n(1588-0800) \n- 7 - \n.\n . ( ) > > / \n( / \n) . \n < > \n \n* , \n , \n . \n* \n( ) ( \n ) , \n . , ( , ) \n . \n* ( ) PDF \n, 300MB . \n* 5 ( ) 6 Æ Æ \n . \n . . \n4. \n . . \n.\n . ˙F ( \n) 2 \n2\n.\n . \n38 . \n5. \n . 39 44 \n.\n . ( , \n) , \n, \n.\n6. \n . , . \n7. \n(80%) / (20%) \n . Æ Æ \n80 , \n85% . \n . \" \" . \n8. ˙FÆ Æ \n . 4 5 ˙F Æ Æ \n, , \n .\n . 4 9 4 Æ Æ \n5 ˙F ˙F , \n˙F . \n . ˙F \n.\n9. \n . 14 ( \n) 76 \n- 9 - \n. \n . 7Æ Æ 2 2 \n. \n . \n, \nß« ß‹ ß« ß« \n.\n . , , \n, , , \n.\n . \n24 \n, . \n . \n.\n . , \n(051-664-3791) . \n . . \n . (http://www.g2b.go.kr), \n(http://www.kiost.ac.kr) ( ) , \n.\n . \n - : ( 051-664-9143) ºm \n( 051-664-3050) ºl \n - : ( 1588-0800) ºm \n.\n2026. 08. 06.",
+      "analysis": {
+        "docType": "입찰공고문",
+        "summary": "- 1 - \n주소 부산광역시 영도구 해양로 한국해양과학기술원 행정동 구매자산실 : (49111) 385 \n홈페이지 : http://www.kiost.ac.kr \n조달물자 용역 입찰공고 재공고( ) ( ) \n ㆍ : 26-366 \n : ㆍ\n ㆍ : 2026. 08. 18. ( ) 10:00 \n ㆍ : \n \n . \n . \nº) , : ( 1588-0800) ºl \n, , : º) ( 051-664-9143) ºl \nº) , : ( 051-664-3050) ºl \n\n- 2 - \n, ( ) , \n.\n- - \n 1. ( ) \n 2. ( ) \n 3. ( ) \n 4. ( ) ˙F ( ) \n 5. ( ) ( ) \n 6. ( ) ( ) \n 7. ( )...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "[ · – \n \n ]\n2026. 07.\n1. \n : · – \n \n : ~ 2026.12.15\n : 170 (VAT )\n : Pytorch ML\nSurrogate 1 - \n2. \n ( ) · – \n \n (KIOST) · \n , – \n \n · , , \n , – \n \n – \n , , \n , \n – \n , \n · \n , \n \n (surrogate model) \n , – , · , \n · \n \n ( ) · · \n \n – , \n , , \n – ,\n \n , , \n \n (surrogate model) , \n · \n – \n , · · \n \n · \n \n3. \n \n MOM6 \n MOM6 (Surrogate Model) \n \n \n – \n – , , , \n \n ( , , ) \n \n , , \n \n \n - \n \n4. : ~ 2026.12.15.\n5. : 170,000,000 ( )\n6. : ( ) ( )\n \n7. \n → ( ) → → → \n→ → \n ( )\n \n2026.07. \n2026.07. \n2026.08. \n2026.10 \n2026.11. \n2026.12. \n※ \n※ \nⅡ ( )\n▣ : · – \n \n (Surrogate Model) \n GFDL NeverWorld2 \n \n MOM6 Python (Surrogate\nModel) \n · , ·\n \n – \n – , , \n \n ( · , , ) \n \n · \n · \n · · \n \n · \n \n - \n \n Pacific Decadal Oscillation, North Pacific Gyre Oscillation \n \nⅢ \n1. : ‘ ’ \n2. \n : ( ) ( )\n※ 40 (2026.01.02.) \" ” \n \n 80 85%(68 ) \n※ 85% ( \n )\n , , \n \n- \n .\n : \n3. : ‘ ’ \n4. \n \n , / \n · .\n , \n .\n \n , , .\n , \n .\n , \n .\n \n , \n .\n \n ․ ․ \n . , \n .\n \n , .\n \n .\n .\n \n , .\n .\n , , \n .\n \n , .\n ․ \n , .\n \n .\n5. \n \n- 85% \n \n- \n \n- \n- 2 \n , \n \n- \n- \n \n- , \n \n- , \n \n- \n \n- , , , \n \n- \n- \n- , ( ) \n \n- \n \n- ‘ \n ’( ) \n6. \n 14 , \n \n , \n \n , , \n , , \n \n \n \n \n \n 76 ( ) 1 18 \n \nⅤ \n1. \n : \n : e- ( )\n : 1 , 1 \n※ \n \n \n \n 1 \n 1 2 \n 1 3 \n 1 - 4 \n 1 5 \n ( ) 1 6 \n 7 \n 1 8 \n 1 9 \n 1 10 \n 1 ( , ) 11 \n 1 ( 11 ) -\n · 1 12 \n 1 13 \n 1 14 \n : ( (80%), (20%))\n : (7 ~ )\n : \n※ \n \n \n- : (051-664-9143)\n- , : (051-664-3050)\n2. \n \n : [ 5] \n , \n \n \n \n \n \n \n , \n \n \n 3 , \n \n “ ”, “ ”, “ ”, “ ”,\n“ ” \n \n , \n , \n .\n , , , \n , ,\n , \n .\n- \n , , ․ \n .\n .\n- , \n .\n \n .\n \n , , ‧ .\n4. \n \n , .\nⅥ \n1. \n . \n : 80 ( , )\n \n- : (80%), (20%)\n- = + \n ( - )\n \n \n \n \n \n(60)\n1. \n- \n , , \n .\n- \n .\n20\n2. \n , \n- , \n , , .\n- \n .\n- \n .\n30\n3. \n , \n- \n , . 10\n \n(20)\n4. \n - 20\n \n< > \n \n \n \n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0\n 100%\n(20 )\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB- 95%\n(19 )\nB+, B0, B- B- B+, B0, B- 90%\n(18 )\nCCC+ C CCC+ 70%\n(14 )\n* \n* ([ 2075 , 2023.01.01) 9 [ \n8] \n[ ]\n1. 2 8 3 335\n 3 , \n , . , \n .\n2. , \n . , \n .\n3. 1 , \n . , \n \n .\n4. 7 \n . \n , . , , \n ( , \n ) .( )\n5. , \n .\n( ) (A ×A )+(B ×B )…\n6. .\n : 20 ( )\n : 7 ( )\n \n< > \n 1) \n ) 100 80 \n․\n* : , 100 70 \n 100 70 \n* : \n* , \n \n ) 100 80 \n․\n* : , 100 60 \n 100 70 \n* : , 100 70 \n 30% \n* SW 100 80 30% \n \n* , \n \n ) \n ) 3 \n \n . 2) \n ) 23 3 \n , \n .\n ) . , · · \n .\n1. \n2. 26 1 5 ( 3 \n , )\n3. 3 2 ( 3 \n , )\n ) 7 6 .\n 3) \n ) : ( ) 100 60 100 80 \n \n( ) \n ) : · , \n \n . ( )\n : ( )\n : \n \n “ ” ( \n ) . 5 \n ( ), · · · · · \n \n , \n \n[ 1] \n“ · – \n ”\n( 15, 90%, 160%, )\n \n2026. XX.\n ( )\n )\n1. mm .\n2. , .\n[ 2] \n \n \n ( )\n( )\n \n E-mail\n \n \n · \n \n \n(2023 ~2025 )\n \n \n(2025 )\n \n \n( )\n \n \n( )\n \n[ 3] \n \n \n \n( ) \n \n \n( )\n \n \n \n \n \n( ) \n( %)\n( %)\n( %)\n( %)\n( %)\n( %)\n( %)\n( %)\n( %)\n( %)\n( %)\n (100%)\n[ 4] ( )\n \n \n ( ) \n \n \n \n \n \n \n \n \n( ) \n \n \n \n2024 \n : ( )\n :\n : :\n :\n \n※ \n※ \n※ ( ) \n[ 5] \n \n · – \n \n \n( )\n \n1. \n2. \n3. \n4. \n5. \n6. \n7. \n8. \n9. \n10. \n1. \n◎ : \n2. \n◎ : \n3. \n◎ : \n4. \n . \n◎ : \n5. \n . \n◎ : \n . \n- \n- \n \n- (' ' )\n \n( 3 ) M/M\n※ : 1 ( , , \n6. \n◎ \n- , , \n7. \n◎ \n- , \n- \n8. \n M M+1 M+n 1 2 3 4 1 2 3 4 1 2 3 4\n◎ : (task) \n- , \n- , , , \n9. \n◎ : , , \n10. \n◎ : \n ( : , , )\n[ 6] \n \n .\n \n \n \n \n \n \n \n \n . . .\n \n \n \n \n : %\n : ( )\n :\n \n \n \n \n \n .\n \n .\n \n ( ) ( ) ( \n ) .\n 1. 1 \n2. 1 \n3. \n2025. . .\n \n \n[ 7] \n \n AI \n( ) \n .\n \n :\n :\n :\n ( ) 1 . .\n2026. . .\n :\n :\n ( ) : ( )\n :\n \n[ 8] \n \n ( ) · – \n \n 3 , \n .\n2026. . .\n ( ) :\n :\n :\n : ( )\n \n[ 9] \n \n :\n :\n · – \n , .\n○ , \n .\n○ , , \n .\n \n : ( )\n \n[ 10] \n \n : · – \n \n · – \n \n , \n , \n .\n , \n \n \n .\n2026 ○○ ○○ \n : ○○○○○○\n : ○○○\n : ○ ○ ○ ( )\n \n[ 11] \n \n○ : · – \n \n , .\n․ :\n․ :\n․ :\n․ :\n \n․ :\n․ :\n․ : ( )\n \n[ 12] · \n · \n ( ) · 15 \n . · .\n□ · \n · “ · – \n ” , , \n · , , , , , · · \n · · .\n · . , \n . .\n · \n \n · .\n( □ □)\n2026 \n : : ( )\n : :\n[ 13] \n \n□ :\n□ :\n1. ( 2 ) (□\n , □ ) .\n (□) (√) , \n \n2. , ( , ) \n \n .\n \n :\n : ( )\n \n[ 14] ( ) \n ( )\n \nOECD \n , “ · \n – ” \n . \n1. , , \n .\n○ \n 2 \n○ \n 1 \n \n○ \n \n .\n2. , ․ ․ \n .\n○ , \n , \n 2 \n○ \n , \n1 .\n3. , , \n , \n ․ .\n4. ․ , \n , \n .\n , \n , , \n ․ \n .\n \n : ○○○○○ \n : ○ ○ ○ ( )",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01670699-000",
+    "sourceFile": "과업지시서 및 제안요청서_차세대해양기후예측시스템개발.hwp",
+    "generatedAt": "2026-08-10T11:15:16.909198",
+    "match": {
+      "noticeId": "R26BK01670699-000",
+      "bidNtceNo": "R26BK01670699",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01670699-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01670699-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "용역 공고",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01670699-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "",
+          "requirement": "공고문 확인",
+          "name": "공고문 확인",
+          "detail": "입찰 참가 요건 원문 확인 필요",
+          "type": "확인",
+          "category": "입찰 참가 자격",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01670699-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 6개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "80",
+          "score": 85.0,
+          "weight": 85.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "80 85점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "· 1 12 \n 1 13 \n 1 14",
+          "score": 80.0,
+          "weight": 80.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "· 1 12 \n 1 13 \n 1 14 80점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "BBB0",
+          "score": 100.0,
+          "weight": 100.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "BBB0 100점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "100 70",
+          "score": 30.0,
+          "weight": 30.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "100 70 30점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "SW 100 80",
+          "score": 30.0,
+          "weight": 30.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "SW 100 80 30점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "/",
+          "score": 20.0,
+          "weight": 20.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "/ 20점"
+        }
+      ],
+      "totals": {
+        "score": 345.0,
+        "weight": 345.0,
+        "gradeA": 6,
+        "gradeB": 0,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01670699-000",
+    "generatedAt": "2026-08-10T11:15:46.587463",
+    "sourceAnalysisAt": "2026-08-10T11:15:16.909198",
+    "projectName": "",
+    "sourceFile": "과업지시서 및 제안요청서_차세대해양기후예측시스템개발.hwp",
+    "requirementSourceFiles": [
+      "과업지시서 및 제안요청서_차세대해양기후예측시스템개발.hwp"
+    ],
+    "extractionWarnings": [
+      "RFP 원문에서 요구사항 코드를 찾지 못해 기존 분석 요약을 보조 자료로 사용했습니다."
+    ],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "코드 미확인-001",
+        "name": "공고문 확인",
+        "detail": "입찰 참가 요건 원문 확인 필요",
+        "source": "proposalSheets.noticeInfo.requirements",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "80",
+        "score": 85.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 12,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "80 85점"
+      },
+      {
+        "scoreItem": "· 1 12 1 13 1 14",
+        "score": 80.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 12,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "· 1 12 1 13 1 14 80점"
+      },
+      {
+        "scoreItem": "BBB0",
+        "score": 100.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 14,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "BBB0 100점"
+      },
+      {
+        "scoreItem": "100 70",
+        "score": 30.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 4,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "100 70 30점"
+      },
+      {
+        "scoreItem": "SW 100 80",
+        "score": 30.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 4,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "SW 100 80 30점"
+      },
+      {
+        "scoreItem": "/",
+        "score": 20.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 3,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "/ 20점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 사업 이해 및 추진 방향",
+            "section": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+            "requirementCodes": [
+              "코드 미확인-001"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 1,
+      "mappedRequirements": 1,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": false,
+      "message": "RFP 원문에서 요구사항 코드를 찾지 못해 기존 분석 요약을 보조 자료로 사용했습니다."
+    }
+  }
+}
