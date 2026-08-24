@@ -1,0 +1,628 @@
+{
+  "bidNtceNo": "R26BK01688072",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-08-24T10:49:50.991773",
+  "status": "completed",
+  "source": {
+    "fileName": "과업지시서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01688072-000/과업지시서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.hwp",
+    "pageCount": 13,
+    "textLength": 3138,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "과업지시서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.hwp",
+      "extension": ".hwp",
+      "size": 101888,
+      "kindCode": ""
+    },
+    {
+      "fileName": "긴급입찰사유서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.pdf",
+      "extension": ".pdf",
+      "size": 453216,
+      "kindCode": ""
+    },
+    {
+      "fileName": "제안요청서(과학교육서비스)_반영완료.hwp",
+      "extension": ".hwp",
+      "size": 80384,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "15a8d93811064994362f6590",
+      "fileName": "과업지시서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.hwp",
+      "extension": ".hwp",
+      "docType": "과업지시서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01688072/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01688072/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01688072/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01688072-000/과업지시서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01688072-000/converted/과업지시서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01688072-000/converted/과업지시서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.pdf",
+      "pageCount": 13,
+      "textLength": 3138,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "- 2026 2 · AI -\n2026. 6.\n \nAI \n \nⅠ . 1\nⅡ . 4\nⅢ . 13\n1. 13\n2. 15\nⅠ \n \n : 2026 2 · AI \n : ~ 2026. 12. 18.\n : 122,000,000 ( , VAT )\n \n AI · \nAI· \n · \n \n \n \n❍ AWS Skill Builder, , \n \n \n AI AI \n \n❍ AWS , , API \n \n , , , \n \n AWS , TA , \n · \n \n : [ ] 2026 2 · AI \n : 2026. 9. ~ 2026. 11. ( 8 , 135 )\n※ 2026 2 (2026. 9. ~ (8 ))\n : \n : AI 30 \n※ , \n \n Track A: AI Track B: AI \n AI \n 8 \n 2026 2 (9~11 )\n 15 15 \n ( ), \n \n 135 ( 90 , 45 ),\n 3 / 1 ( 8 ) 5 \n※ , · \n . , ‘ AI ’, ‘ AI ’ 90 , 45 \n 135 \n AI (AI )(3 ) AI (AI )(3 )\n AI (EKS )\n AWS HealthLake, SageMaker, Bedrock EKS, ECR, Kiro, FastAPI\n ( )\n AI AI \n AI \n 2026 2 ‘ AI (AI )’, ‘ \n AI (AI )’ 135 ( 90 , \n45 ) ( 30%+ 70%) \n \n- , 45 ( ) \n \n❍ AWS Skill Builder , , \n \n- AWS Cloud Foundations, AI/ML Essentials, , ·AI,\n ·K8s , AWS Cloud Practitioner AI Practitioner \n \n❍ AWS , AI ,\nAPI \n AI HealthLake, SageMaker, Bedrock \n , AI EKS, ECR, FastAPI, Kiro \n \n (PBL) · \n ( · ) , ,\n , , \n AWS , LMS \n· · \n ( ) , , \n , GitHub , , , \n \nⅡ \n \n❍ : 2026 2 · AI \n❍ : ~ 2026. 12. 18.\n❍ \n- , AI \n ( AI , AI ) \nAWS \n \n❍ \n1. \n . \n1) AWS AI· , · \n , \n \n2) AWS Skill Builder , \n , \n3) AI HealthLake, SageMaker, Bedrock \n , AI EKS, ECR, FastAPI, Kiro \n \n※ , · \n . \n1) AWS Cloud Foundations, AI/ML Essentials, AI· \n \n2) Track A AI ·AI, HealthLake ,\nSageMaker Bedrock \n3) Track B AI ·K8s , EKS·Auto Scaling,\nFastAPI·Kiro·EKS \n4) GitHub , , \n \n . \n1) \n2) \n3) , , , , \n \n2. \n . 2026 2 135 ( 30%, \n70%)\n※ ‘ AI ’ ‘ AI (AI )(3 )’, ‘ AI ’ ‘ AI (AI )(3 )’ \n \n . 90 , 45 , \n \n※ \n- , , ( ) \n \n . AWS · \n1) AWS AI· \n2) \n3) \n4) ( ) · \n \n . AWS : AWS , AI \n , API \n1) AI HealthLake, SageMaker, Bedrock · AI \n \n2) AI EKS, ECR, FastAPI, Kiro \n \n3) · · \n \n . AWS Skill Builder \n1) AWS Skill Builder \n \n2) AWS Cloud Practitioner AI Practitioner \n · \n3) \n . : , , \n LMS \n1) · , \n \n2) LMS , \n . : ( ) \n , · \n \n . , \n1) 5 AI AI \n2) · \n \n3) , , , \n . \n- · \n3. \n . GitHub , , ·\n \n . 80% , ( ) \n \n . \n4. \n . \n \n . , \n . , \n \n5. \n . AWS \n . ( ), \n \n . \n6. \n . \n1) AI 5 ( 10 ) (AI· \n AWS · )\n2) \n3) AI, , AWS \n . \n1) AWS , AI , API \n \n2) AI · \n3) HealthLake, SageMaker, Bedrock, EKS, ECR, FastAPI, Kiro \n \n . / \n1) AWS , , · \n2) \n3) , , ( ) \n \n . \n1) \n2) · \n3) , , , \n \n \n \n- : [ ] 2026 2 · AI \n- : 2026. 9. ~ 2026. 11. ( 8 , 135 )\n※ 2026 2 (2026. 9. ~ (8 ))\n- : \n- : ( ), ※ 90 , 45 \n- : AI 30 \n※ , \n- : ‘ AI (AI )’ , 3 \n \n \n \n(90H,\nAWS Skill\nBuilder)\n \n \n- AWS Cloud Foundations\n- AI/ML Essentials\n- \n \n 90H\n \n- Track A: ·AI\n- Track B: ·K8s \n - AWS Cloud Practitioner AI Practitioner\n \n(45H)\n(W1) - AI· + \n \n \n8H\n(W2) - · + 8H\n(W3) \n( \n )\n- Track A( AI): HealthLake· \n8H\n- Track B( AI): EKS·Auto Scaling \n(W4) \n( \n )\n- Track A( AI): SageMaker \n8H\n- Track B( AI): FastAPI·Kiro·EKS \n(W5) \n( )\n- + ( , , 1\n 2 )\n \n 13H\n135H\n※ \n \n- (30%) + (70%) + + + \n- (PBL): AI AI · \n \n- , ·\n \n- AWS ,\n \n- LMS , , \n \n- : , \n- : GitHub , , \n · \n \n- : 80% , , ( \n ) \n- , , \n \n- \n \n- , (GitHub , ),\n , , \n \n \n \n- · \n- , ․ , · \n- \n \n , \n · \n \n , AI \n \nⅢ \n1 \n \n , AI \n \n , \n \n \n❍ 10 . ( , )\n- , \n \n \n \n AI \n \n \n \n1) \n2) AI \n \n3) \n \n , \n · \n ( , ) \n \n- ,\n \n , \n \n \n ( , ) \n , \n \n ‘ ’ \n \n · \n \n , \n , ,\nAI \n \n \n \n \n2 \n \n \n , \n \n , AI \n \n , , \n AI \n \n- ( ) \n· \n· ( , )",
+      "analysis": {
+        "docType": "과업지시서",
+        "summary": "- 2026 2 · AI -\n2026. 6.\n \nAI \n \nⅠ . 1\nⅡ . 4\nⅢ . 13\n1. 13\n2. 15\nⅠ \n \n : 2026 2 · AI \n : ~ 2026. 12. 18.\n : 122,000,000 ( , VAT )\n \n AI · \nAI· \n · \n \n \n \n❍ AWS Skill Builder, , \n \n \n AI AI \n \n❍ AWS , , API \n \n , , , \n \n AWS , TA , \n · \n \n : [ ] 2026 2 · AI \n : 2026. 9. ~ 2026. 11. ( 8 , 135 )\n※ 2026 2 (2026. 9. ~ (8 ))\n : \n : AI 30 \n※ , \n \n Track A: AI Track...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "d1f5b210e693d5246f0eed43",
+      "fileName": "긴급입찰사유서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01688072/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01688072/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01688072/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01688072-000/긴급입찰사유서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01688072-000/긴급입찰사유서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01688072-000/긴급입찰사유서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.pdf",
+      "pageCount": 1,
+      "textLength": 0,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "첨부서류 파일입니다. 텍스트 추출 가능 여부를 확인한 뒤 세부 내용을 검토해야 합니다.",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "2",
+      "attachmentKey": "1a1e330fda2b1698b0a9f4a9",
+      "fileName": "제안요청서(과학교육서비스)_반영완료.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01688072/000/files/2",
+      "originalFileUrl": "/api/notices/R26BK01688072/000/original-files/2",
+      "pdfUrl": "/api/notices/R26BK01688072/000/files/2",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01688072-000/제안요청서(과학교육서비스)_반영완료.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01688072-000/converted/제안요청서(과학교육서비스)_반영완료.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01688072-000/converted/제안요청서(과학교육서비스)_반영완료.pdf",
+      "pageCount": 23,
+      "textLength": 4714,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "2026 2 · AI \n \n2026. 6.\n AI \n 033-250-8771\n 033-250-8773\n 033-250-8939\n \nⅠ . 1\nⅡ . 4\nⅢ . 13\n1. 13\n2. 15\nⅣ . 16\nⅤ . 19\n 1. 21\n 2. 24\nⅠ \n \n : 2026 2 · AI \n : ~ 2026. 12. 18.\n : 122,000,000 ( , VAT )\n- 43 \n : , \n \n AI · \nAI· \n · \n \n \n \n❍ AWS Skill Builder, , \n \n \n AI AI \n \n❍ AWS , , API \n \n , , , \n \n AWS , TA , \n · \n \n : [ ] 2026 2 · AI \n : 2026. 10. ~ 2026. 11. ( 8 , 135 )\n※ 2026 2 (2026. 9. ~ 2026. 12.(8 ))\n : \n : AI 30 \n※ , \n \n Track A: AI Track B: AI \n AI \n 2026 2 (10~11 )\n 15 15 \n ( ), \n \n 135 ( 90 , 45 ),\n 3 / 1 ( 8 ) 5 \n※ , · \n . , ‘ AI ’, ‘ AI ’ 90 , 45 \n 135 \n AI (AI )(3 ) AI (AI )(3 )\n AI (EKS )\n AWS HealthLake, SageMaker, Bedrock EKS, ECR, Kiro, FastAPI\n ( )\n AI AI \n AI \n 2026 2 ‘ AI (AI )’, ‘ \n AI (AI )’ 135 ( 90 , \n45 ) ( 30%+ 70%) \n \n- , 45 ( ) \n \n❍ AWS Skill Builder , , \n \n- AWS Cloud Foundations, AI/ML Essentials, , ·AI,\n ·K8s , AWS Cloud Practitioner AI Practitioner \n \n❍ AWS , AI ,\nAPI \n AI HealthLake, SageMaker, Bedrock \n , AI EKS, ECR, FastAPI, Kiro \n \n (PBL) · \n ( · ) , ,\n , , \n AWS , · TA , LMS \n · · \n ( ) , , \n , GitHub , , , \n \n \n AI \n 033-250-8773 rkduddl2718@kangwon.ac.kr\nⅡ \n \n❍ : 2026 2 · AI \n❍ : ~ 2026. 12. 18.\n❍ \n- , AI \n ( AI , AI ) \nAWS \n \n❍ \n1. \n . \n1) AWS AI· , · \n , \n \n2) AWS Skill Builder , \n , \n3) AI HealthLake, SageMaker, Bedrock \n , AI EKS, ECR, FastAPI, Kiro \n \n※ , · \n . \n1) AWS Cloud Foundations, AI/ML Essentials, AI· \n \n2) Track A AI ·AI, HealthLake ,\nSageMaker Bedrock \n3) Track B AI ·K8s , EKS·Auto Scaling,\nFastAPI·Kiro·EKS \n4) GitHub , , \n \n . \n1) \n2) \n3) , , , , \n \n2. \n . 2026 2 135 ( 30%, \n70%)\n- ‘ AI ’ ‘ AI (AI )(3 )’, ‘ AI \n ’ ‘ AI (AI )(3 )’ \n . 90 , 45 , \n \n※ \n- , , ( ) \n \n . AWS · \n1) AWS AI· \n2) \n3) \n4) ( ) · \n \n . AWS : AWS , AI \n , API \n1) AI HealthLake, SageMaker, Bedrock · AI \n \n2) AI EKS, ECR, FastAPI, Kiro \n \n3) · · \n \n . AWS Skill Builder \n1) AWS Skill Builder \n \n2) AWS Cloud Practitioner AI Practitioner \n · \n3) \n . : , , \n LMS \n1) · , \n \n2) LMS , \n . : ( ) \n , · \n \n . , \n1) 5 AI AI \n2) · \n \n3) , , , \n . \n- · \n3. \n . GitHub , , ·\n \n . 80% , ( ) \n \n . \n4. \n . \n .\n . , \n . , \n .\n5. \n . AWS \n . ( ), \n \n . \n6. \n . \n1) AI 5 ( 10 ) (AI· \n AWS · )\n2) \n3) AI, , AWS \n . \n1) AWS , AI , API \n \n2) AI · \n3) HealthLake, SageMaker, Bedrock, EKS, ECR, FastAPI, Kiro \n \n . / \n1) AWS , , · \n2) \n3) , , ( ) \n \n . \n1) \n2) · \n3) , , , \n \n \n \n- : [ ] 2026 2 · AI \n- : 2026. 10. ~ 2026. 11. ( 8 , 135 )\n※ 2026 2 (2026. 9. ~ 2026. 12.(8 ))\n- : \n- : ( ), ※ 90 , 45 \n- : AI 30 \n※ , \n \n- (30%) + (70%) + + + \n- (PBL): AI AI · \n \n※ · \n- , ·\n \n- AWS ,\n \n- LMS , , \n \n- : , \n- : GitHub , , \n · \n \n- : 80% , , ( \n ) \n- , , \n \n- \n \n- , (GitHub , , \n ), , , \n \n \n \n \n \n- AWS Cloud Foundations\n- AI/ML Essentials\n \n \n90H\n(90H,\nAWS Skill\nBuilder)\n- \n \n- Track A: ·AI\n- Track B: ·K8s \n - AWS Cloud Practitioner AI Practitioner\n \n(45H)\n(W1) - AI· + \n \n \n8H\n(W2) - · + 8H\n(W3) \n( \n )\n- Track A( AI): HealthLake· \n8H\n- Track B( AI): EKS·Auto Scaling \n(W4) \n( \n )\n- Track A( AI): SageMaker \n8H\n- Track B( AI): FastAPI·Kiro·EKS \n(W5) \n( )\n- + ( , , 1\n 2 )\n \n 13H\n135H\n※ \n \n \n- · \n- , , , \n- ·\n \n / \n※ , , \n , , \n · \n \n , AI \n \n \n \n \n , , , \n · \nⅢ \n1 \n \n , AI \n \n , \n \n \n❍ 10 . ( , )\n- , \n \n \n \n AI \n \n \n \n1) \n2) AI \n \n3) \n \n , \n · \n ( , ) \n \n- ,\n \n , \n \n \n ( , ) \n , \n \n ‘ ’ \n \n · \n \n , \n , ,\nAI \n \n \n \n \n2 \n \n \n , \n \n , AI \n \n , , \n AI \n \n- ( ) \n· \n· ( , )\nⅣ \n \n : \n : ( ) , \n- : 43 \n \n- ( ) ( : 9999) \n \n- 2 \n 2 \n ( \n )\n- 12 ( ) \n 14 ( ) \n \n- 76 ( )\n \n- , \n \n : \n = (90%)+ (10%)\n1. - (90 )\n . : AI \n . : ( ) 14 \n . : \n1) \n2) , \n( )\n3) (PT) \n . : \n . , 2 \n . ( )\n . : (90 ) 85%(76.5 ) \n \n2. (10 )\n- \n \n❍ \n- \n \n- 2 , \n \n- \n \n❍ \n- \n❍ \n- ( ) , \n \n- ( ) , , , \n , \n- ( ) \n \n❍ \n- , \n \n \n❍ ( ) 50 \n \n❍ ( ) 50 , 47 1\n 2 , 3 · \n , * \n , \n \n* 13 \n❍ ( ) SW \n 1 \nⅤ \n \n❍ \n \n 1 - \n※ \n 1 \n- ( )\n- \n- , ( )\n❍ \n- : PDF , A4 30 ( )\n- : A4(210mm x 296mm)\n- : PDF [ \n ( )]\n❍ \n- , AI \n \n- , \n [ ]\n \n \n ( ) , \n , \n \n \n ( \n 10 13 ) \n 1 \n \n (90 ) + (10 )\n : AI \n- \n \n (10) - ( ) 10\n \n (80)\n \n (30)\n- , , 15\n- 15\n \n \n (25)\n- ( , ) 15\n- 10\n \n (25)\n- \n( , \n )\n10\n- \n(AWS )\n5\n- 10\n \n \n \n(10)\n- \n \n10\n 100\n◦ : \n \n◦ , \n \n \n◦ : 10 \n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0 100%\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB- 95%\nB+, B0, B- B- B+, B0, B- 90%\nCCC+ C CCC+ 70%\n* \n1. 2 8 3 \n 335 3 \n , \n , \n . , \n .\n2. \n , \n . , .\n3. 1 , \n \n . , \n \n .\n4. 7 \n . \n ,\n . , \n , ( \n , \n ) .( )\n5. \n .\n 2 \n : \n \n- 2026 2 · AI -\n2026. .\n \n \n※ ( )\n- , \n- \n \nⅠ . \n1. \n2. \n3. \n4. \n- \n , , , , , \n \nⅡ . \n1. \n2. \n3. · \n- \n- ( ) \n- ( ) \nⅢ . \n1. \n2. \n3. \n4. \n- \n- \n( )\n- \n- , \n- ( \n , )\nⅣ . - \n- \nⅠ . \n1 \n \n2 \n \n3 \n \n4 \n \nⅡ . \n1 \n \n2 \n \n3 · \n \nⅢ . \n1 \n \n2 \n \n2026. 7. ~ 2026. 12.\n \n1 2 3 4 5 6 7 8 ...\n \n \n \n \n \n \n \n \n3 \n \n4 \n \nⅣ .",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "2026 2 · AI \n \n2026. 6.\n AI \n 033-250-8771\n 033-250-8773\n 033-250-8939\n \nⅠ . 1\nⅡ . 4\nⅢ . 13\n1. 13\n2. 15\nⅣ . 16\nⅤ . 19\n 1. 21\n 2. 24\nⅠ \n \n : 2026 2 · AI \n : ~ 2026. 12. 18.\n : 122,000,000 ( , VAT )\n- 43 \n : , \n \n AI · \nAI· \n · \n \n \n \n❍ AWS Skill Builder, , \n \n \n AI AI \n \n❍ AWS , , API \n \n , , , \n \n AWS , TA , \n · \n \n : [ ] 2026 2 · AI \n : 2026. 10. ~ 2026. 11...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "- 2026 2 · AI -\n2026. 6.\n \nAI \n \nⅠ . 1\nⅡ . 4\nⅢ . 13\n1. 13\n2. 15\nⅠ \n \n : 2026 2 · AI \n : ~ 2026. 12. 18.\n : 122,000,000 ( , VAT )\n \n AI · \nAI· \n · \n \n \n \n❍ AWS Skill Builder, , \n \n \n AI AI \n \n❍ AWS , , API \n \n , , , \n \n AWS , TA , \n · \n \n : [ ] 2026 2 · AI \n : 2026. 9. ~ 2026. 11. ( 8 , 135 )\n※ 2026 2 (2026. 9. ~ (8 ))\n : \n : AI 30 \n※ , \n \n Track A: AI Track B: AI \n AI \n 8 \n 2026 2 (9~11 )\n 15 15 \n ( ), \n \n 135 ( 90 , 45 ),\n 3 / 1 ( 8 ) 5 \n※ , · \n . , ‘ AI ’, ‘ AI ’ 90 , 45 \n 135 \n AI (AI )(3 ) AI (AI )(3 )\n AI (EKS )\n AWS HealthLake, SageMaker, Bedrock EKS, ECR, Kiro, FastAPI\n ( )\n AI AI \n AI \n 2026 2 ‘ AI (AI )’, ‘ \n AI (AI )’ 135 ( 90 , \n45 ) ( 30%+ 70%) \n \n- , 45 ( ) \n \n❍ AWS Skill Builder , , \n \n- AWS Cloud Foundations, AI/ML Essentials, , ·AI,\n ·K8s , AWS Cloud Practitioner AI Practitioner \n \n❍ AWS , AI ,\nAPI \n AI HealthLake, SageMaker, Bedrock \n , AI EKS, ECR, FastAPI, Kiro \n \n (PBL) · \n ( · ) , ,\n , , \n AWS , LMS \n· · \n ( ) , , \n , GitHub , , , \n \nⅡ \n \n❍ : 2026 2 · AI \n❍ : ~ 2026. 12. 18.\n❍ \n- , AI \n ( AI , AI ) \nAWS \n \n❍ \n1. \n . \n1) AWS AI· , · \n , \n \n2) AWS Skill Builder , \n , \n3) AI HealthLake, SageMaker, Bedrock \n , AI EKS, ECR, FastAPI, Kiro \n \n※ , · \n . \n1) AWS Cloud Foundations, AI/ML Essentials, AI· \n \n2) Track A AI ·AI, HealthLake ,\nSageMaker Bedrock \n3) Track B AI ·K8s , EKS·Auto Scaling,\nFastAPI·Kiro·EKS \n4) GitHub , , \n \n . \n1) \n2) \n3) , , , , \n \n2. \n . 2026 2 135 ( 30%, \n70%)\n※ ‘ AI ’ ‘ AI (AI )(3 )’, ‘ AI ’ ‘ AI (AI )(3 )’ \n \n . 90 , 45 , \n \n※ \n- , , ( ) \n \n . AWS · \n1) AWS AI· \n2) \n3) \n4) ( ) · \n \n . AWS : AWS , AI \n , API \n1) AI HealthLake, SageMaker, Bedrock · AI \n \n2) AI EKS, ECR, FastAPI, Kiro \n \n3) · · \n \n . AWS Skill Builder \n1) AWS Skill Builder \n \n2) AWS Cloud Practitioner AI Practitioner \n · \n3) \n . : , , \n LMS \n1) · , \n \n2) LMS , \n . : ( ) \n , · \n \n . , \n1) 5 AI AI \n2) · \n \n3) , , , \n . \n- · \n3. \n . GitHub , , ·\n \n . 80% , ( ) \n \n . \n4. \n . \n \n . , \n . , \n \n5. \n . AWS \n . ( ), \n \n . \n6. \n . \n1) AI 5 ( 10 ) (AI· \n AWS · )\n2) \n3) AI, , AWS \n . \n1) AWS , AI , API \n \n2) AI · \n3) HealthLake, SageMaker, Bedrock, EKS, ECR, FastAPI, Kiro \n \n . / \n1) AWS , , · \n2) \n3) , , ( ) \n \n . \n1) \n2) · \n3) , , , \n \n \n \n- : [ ] 2026 2 · AI \n- : 2026. 9. ~ 2026. 11. ( 8 , 135 )\n※ 2026 2 (2026. 9. ~ (8 ))\n- : \n- : ( ), ※ 90 , 45 \n- : AI 30 \n※ , \n- : ‘ AI (AI )’ , 3 \n \n \n \n(90H,\nAWS Skill\nBuilder)\n \n \n- AWS Cloud Foundations\n- AI/ML Essentials\n- \n \n 90H\n \n- Track A: ·AI\n- Track B: ·K8s \n - AWS Cloud Practitioner AI Practitioner\n \n(45H)\n(W1) - AI· + \n \n \n8H\n(W2) - · + 8H\n(W3) \n( \n )\n- Track A( AI): HealthLake· \n8H\n- Track B( AI): EKS·Auto Scaling \n(W4) \n( \n )\n- Track A( AI): SageMaker \n8H\n- Track B( AI): FastAPI·Kiro·EKS \n(W5) \n( )\n- + ( , , 1\n 2 )\n \n 13H\n135H\n※ \n \n- (30%) + (70%) + + + \n- (PBL): AI AI · \n \n- , ·\n \n- AWS ,\n \n- LMS , , \n \n- : , \n- : GitHub , , \n · \n \n- : 80% , , ( \n ) \n- , , \n \n- \n \n- , (GitHub , ),\n , , \n \n \n \n- · \n- , ․ , · \n- \n \n , \n · \n \n , AI \n \nⅢ \n1 \n \n , AI \n \n , \n \n \n❍ 10 . ( , )\n- , \n \n \n \n AI \n \n \n \n1) \n2) AI \n \n3) \n \n , \n · \n ( , ) \n \n- ,\n \n , \n \n \n ( , ) \n , \n \n ‘ ’ \n \n · \n \n , \n , ,\nAI \n \n \n \n \n2 \n \n \n , \n \n , AI \n \n , , \n AI \n \n- ( ) \n· \n· ( , )",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01688072-000",
+    "sourceFile": "과업지시서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.hwp",
+    "generatedAt": "2026-08-24T10:49:40.554541",
+    "match": {
+      "noticeId": "R26BK01688072-000",
+      "bidNtceNo": "R26BK01688072",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01688072-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01688072-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "용역 공고",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01688072-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A430 ( ) - : A4(210mm x 296mm) - : PDF [ ( )] ❍ -, AI -, [ ] ( ),, ( 1013 ) 1 (90 ) + (10 ) : AI - (10) - ( ) 10 (80) (30) -,, 15 - 15 (25) - (, ) 15 - 10 (25) - (",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "",
+          "requirement": "공고문 확인",
+          "name": "공고문 확인",
+          "detail": "입찰 참가 요건 원문 확인 필요",
+          "type": "확인",
+          "category": "입찰 참가 자격",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01688072-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 3개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "2026 2 135",
+          "score": 30.0,
+          "weight": 30.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "2026 2 135 30점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "2026 2 135",
+          "score": 30.0,
+          "weight": 30.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "2026 2 135 30점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "BBB0",
+          "score": 100.0,
+          "weight": 100.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "BBB0 100점"
+        }
+      ],
+      "totals": {
+        "score": 160.0,
+        "weight": 160.0,
+        "gradeA": 3,
+        "gradeB": 0,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01688072-000",
+    "generatedAt": "2026-08-24T10:49:50.991752",
+    "sourceAnalysisAt": "2026-08-24T10:49:40.554541",
+    "projectName": "",
+    "sourceFile": "과업지시서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.hwp",
+    "requirementSourceFiles": [
+      "과업지시서_2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역.hwp",
+      "제안요청서(과학교육서비스)_반영완료.hwp"
+    ],
+    "extractionWarnings": [
+      "RFP 원문에서 요구사항 코드를 찾지 못해 기존 분석 요약을 보조 자료로 사용했습니다."
+    ],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "코드 미확인-001",
+        "name": "공고문 확인",
+        "detail": "입찰 참가 요건 원문 확인 필요",
+        "source": "proposalSheets.noticeInfo.requirements",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "2026 2 135",
+        "score": 30.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 9,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "2026 2 135 30점"
+      },
+      {
+        "scoreItem": "2026 2 135",
+        "score": 30.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 9,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "2026 2 135 30점"
+      },
+      {
+        "scoreItem": "BBB0",
+        "score": 100.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 31,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "BBB0 100점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 사업 이해 및 추진 방향",
+            "section": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+            "requirementCodes": [
+              "코드 미확인-001"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 1,
+      "mappedRequirements": 1,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": false,
+      "message": "RFP 원문에서 요구사항 코드를 찾지 못해 기존 분석 요약을 보조 자료로 사용했습니다."
+    }
+  }
+}

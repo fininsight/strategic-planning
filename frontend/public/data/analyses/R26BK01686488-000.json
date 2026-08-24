@@ -1,0 +1,2418 @@
+{
+  "bidNtceNo": "R26BK01686488",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-08-24T10:32:45.786640",
+  "status": "completed",
+  "source": {
+    "fileName": "가격조사서(견적서 포함).pdf",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01686488-000/가격조사서(견적서 포함).pdf",
+    "pageCount": 7,
+    "textLength": 5569,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "가격조사서(견적서 포함).pdf",
+      "extension": ".pdf",
+      "size": 531740,
+      "kindCode": ""
+    },
+    {
+      "fileName": "공공 소프트웨어사업 사전협의 및 법제도 준수 여부 검토결과.pdf",
+      "extension": ".pdf",
+      "size": 889960,
+      "kindCode": ""
+    },
+    {
+      "fileName": "제안요청서_AI 정보화사업.hwp",
+      "extension": ".hwp",
+      "size": 1940480,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "11337817b67225186c8b4d20",
+      "fileName": "가격조사서(견적서 포함).pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01686488/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01686488/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01686488/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01686488-000/가격조사서(견적서 포함).pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01686488-000/가격조사서(견적서 포함).pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01686488-000/가격조사서(견적서 포함).pdf",
+      "pageCount": 7,
+      "textLength": 5569,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "가 격 조 사 서\n(입찰·계약명 : 공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업 )\n□ 편성예산: 231,000,000원(부가가치세 포함)\n ※ 12-7-5. 승강기 안전관리 AI 전환 정책의 체계적 기획 / 시스템구축\n□ 설계금액: 231,000,000원(부가가치세 포함)\n□ 가격조사\n(부가세포함, 단위 : 원)\n구분\n시장에서 조사된 가격 설계금액\n㈜온피아 elcn 디앤피플래닛\n금액 209,868,124 232,972,871 235,090,806 231,000,000원\n※ 공공기관 모범거래모델\n ○ 저가계약 관행 개선으로 평균가격 이상으로 금액 설계\n□ 참고사항\n ○ 상기 조사내역은 용역조건을 충분히 이해한 업체에서 작성된 견적서에 근거하여 작성함\n2026. 7. 22.\n 작 성 자 고객지원실 과장 박 건\n 검 토 자 재무관리실 대리 이종민\n○ 개발원가 산정 (단위 : 원)\n규모 연계복잡성 성능 운영환경 보안성\n1.2800 0.94 1.00 1.060 1.06\n○ 직접경비 (단위 : 원)\n○ 보정계수 산정\n○ FP 집계\n구분 ILF EIF EI EO EQ\n기능수 22 2 8 0 7\n기능점수 165.0 10.8 32.0 0.0 27.3\n비중 70% 5% 14% 0% 12%\n운영환경 호환성 1. 운영환경 호환성에 대한 요구사항이 없다. 1.06\n100%\n보안성 요구수준 1. 암호화, 웹취약점 점검, 시큐어코딩, 개인정보보호 등 1가지 보안 요구사항이\n포함되어 있다. 1.06\n계\n39\n235.1\n연계복잡성 2. 1~2개의 타 기관 연계 0.94\n성능 요구수준 2. 응답성능에 대한 요구사항이 있으나 특별한 조치가 필요하지는 않다. 1.00\n합 계 0\nSW규모 = 0.4057 x (log e(235.1) - 7.1978)^2 + 0.8878\n (단, 500FP 미만 1.28, 3,000FP 초과 1.153 적용) 1.2800\n합계(보정 후 개발원가) 192,539,563\n보정계수 구분 복잡도 및 난이도 수준 보정계수\n소프트웨어 개발비(부가세 별도) 192,539,563\n구분 산출내역 금액\n235.1 605,784 192,539,563\n\"공단 AI시스템(엘리아) 구축 및 AI 민원 상담사 고도화 용역\" 소프트웨어 개발비 산정\n총기능점수 기능점수당 단가\n보정계수\n개발원가\n데이터 및\n트랜잭션\n기능\nFP 산출\n①어플리케이션명 ②세부 업무명 ③단위프로세스명 단위프로세스 설명 ④FP유형 ⑤가중치\n생성형 AI 플랫폼 AI 모델 버전 관리 ILF 7.5 \n생성형 AI 플랫폼 AI 구성요소 관리 기능 ILF 7.5 \n생성형 AI 플랫폼 문서업로드 ILF 7.5 \n생성형 AI 플랫폼 데이터전처리 ILF 7.5 \n생성형 AI 플랫폼 벡터데이터베이스 ILF 7.5 \n자연어 기반 데이터베이스 기능 자연어 질의 변환 ILF 7.5 \n자연어 기반 데이터베이스 기능 데이터 처리 EQ 3.9 \n자연어 기반 데이터베이스 기능 콘텍스트 인식 EQ 3.9 \n자연어 기반 데이터베이스 기능 결과 시각화 EQ 3.9 \n사용자 대화 이력 및 검색 로그 관리 기 사용자별 대화 이력 저장/조회 EI 4.0 \n사용자 대화 이력 및 검색 로그 관리 기 상세 검색 로그 EQ 3.9 \n사용자 대화 이력 및 검색 로그 관리 기 대시보드 및 통계 EQ 3.9 \n음성인식 기능 실시간 음성데이터 수집 ILF 7.5 \n음성인식 기능 음성데이터 채널별 분배 ILF 7.5 \n음성인식 기능 연동(콜인프라) EIF 5.4 \n음성인식 기능 변환결과 화면 기능 EQ 3.9 \n음성인식 기능 학습 기능 ILF 7.5 \n상담 요약 기능 상담 내용 요약 기능 EIF 5.4 \n상담 요약 기능 요약 내용 수정 기능 EI 4.0 \n상담 어시스트 파일 등록 기능 EI 4.0 \n상담 어시스트 지식 항복별 테그 기능 EQ 3.9 \n상담 어시스트 추천 지식 조회 기능 ILF 7.5 \n상담 어시스트 자동 추천 기능 ILF 7.5 \n상담 어시스트 문서 업로드 EI 4.0 \n상담 어시스트 자동 파싱 기능 ILF 7.5 \n상담 어시스트 자연어 질의 기능 ILF 7.5 \n상담 어시스트 문서 하이라이트 기능 ILF 7.5 \n지능형 검색 대화형 인터페이스 ILF 7.5 \n지능형 검색 원문조회 기능 EI 4.0 \n지능형 검색 검색 기능 EI 4.0 \n지능형 검색 가이드 기능 ILF 7.5 \n민원 응대 챗봇 지식베이스 ILF 7.5 \n민원 응대 챗봇 대화 세션 / 이력 ILF 7.5 \n민원 응대 챗봇 미응답/피드백 로그 ILF 7.5 \n민원 응대 챗봇 사용자 질의 입력/전송 EI 4.0 \n민원 응대 보이스봇 지식베이스 ILF 7.5 \n민원 응대 보이스봇 대화 세션 / 이력 ILF 7.5 \n민원 응대 보이스봇 미응답/피드백 로그 ILF 7.5 \n민원 응대 보이스봇 사용자 질의 입력/전송 EI 4.0 \n기능명\nFP 산출을 위한 기능 요구사항 정리표(공통, 기능점수 산정)\n[ 25년 8월 1일 품목 조견 적용 | www.onpia.co.kr ]\n견적일 2026년 7월 21일 화요일 견적 번호 224 - 71 - A\n유효기간 견적일로부터 4주 견적 발행처\n고객명 한국승강기안전공단\n수신인 박건 과장님 귀하 견적 담당자\n A (1) 소프트웨어 라이선스 소계\n B (2) 인프라 및 상담장비 소계\n C (3) 커스터마이징 또는 추가 개발 소계\n 견적금액 (1)+(2)+(3) 1회성 구축 비용 (부가세 포함)\n단위 단가 수량 공급금액 비고\n A. 소프트웨어 라이선스(SDCC, Software Define Contact Center) License\n- - N/A, (해당없음, 공란) - - - - -\n (1) 소프트웨어 라이선스 소계 ₩0\n B. 필수 H/W 및 인프라 구성(상담장비)\n- - N/A, (해당없음, 공란) - - - - -\n (2) 인프라 및 상담장비 소계 ₩0\n C. 커스터마이징 또는 추가 개발\n기능 기능점수(FP)_FP산정참조 식 ₩605,784 235.1 ₩192,539,563 보정계수 반영\n이윤(개발비용의 9%) 식 ₩17,328,561 1 ₩17,328,561\n (3) 커스터마이징 또는 추가 개발 소계 ₩209,868,124\n D. 보증 기간 또는 기술지원 서비스 플랜 구독 (별도 서비스플랜 구독에 의하며 본 견적금액에 포함되지 않습니다)\nWRT-1Y 무상하자보수\n: Warranty service 년(Year) ₩0 1 ₩0 개통 후 1년\n₩0\nAI 시스템 구축 및\nAI 민원 상담사 고\n도화 사업\n [구축, On-premise]\n ※ 상담장비 및 인프라는 각 제조사 보증 정책을 상속하며 부품의 교체 또는 무상 수리는 최초 1년에 한합니다.\n품목\n(일금 이억삼천팔십오만사천구백삼십육원정)\n₩0\n₩0\n (4) 보증 연장 또는 기술지원(유지보수) 서비스 플랜 구독 소계\n ※ 고객(또는 최종사용자)의 과실, 기타 천재지변에 의해 발생한 상담장비 및 인프라에 대한 부품의 교체 또는 수리는 고객사 실비 정산에 의합니다.\n ※ 1년을 초과하여 발생한 상담장비 및 인프라에 대한 부품의 교체 또는 수리는 고객사 실비 정산에 의합니다.\n : 010-2655-7640, youngsung@onpia.co.kr\nTEL : 1588-9310 | FAX : 02-6330-2077 | 108-81-26598\n : 010-6320-9832, pg0066@koelsa.or.kr\n김영성 차장\nONPIA - 2026 - W30 - \n[구축] 공단 AI시스템 구축 및 AI 민원 상담사 고도화\n㈜온피아, ONPIA Co., Ltd.\n₩209,868,124\n₩230,854,936\nPAGE : 1 / 2\n- 이어서 계속 -\n ※ 본 견적은 상세 업무협의 및 고객사 환경, 추가 연동, 기능 요구에 따라 금액의 증감이 발생할 수 있습니다.\n ※ 번들 애플리케이션의 커스터마이징(또는 추가개발)은 별도 협의에 의하며 2일 이상의 개발 공수에 대해 추가비용이 발생합니다.\n ※ 서버 및 주요 구성품은 해당 제조사의 제품보증에 관한 약관을 승계합니다.\n ※ 하드디스크(HDD) 고장에 따른 기술지원은 교체 또는 수리에 한하며 저장된 데이터의 보증을 의미하지 않습니다.\n ※ 본 견적은 전산실 구축 및 전기, 네트워크 설비 및 선로 등의 공사 및 시공에 관한 사항이 포함되어 있지 않습니다.\n ※ 본 견적은 수신처 '한국승강기안전공단'에 한하여 유효합니다.\n ※ 납품일: 주문 또는 계약 체결 후 최대 2개월 또는 별도 협의\n ※ 무상하자보수 및 품질보증(Warranty): 설치 또는 개통일로부터 1년\n ※ 견적 조건 및 참고 사항\nPAGE : 2 / 2\n수 신 : 한국승강기안전공단 사업자등록번호 : 214-88-15527\n주소 : 서울시 서초구 서초대로 396 강남빌딩 15층 1501호\n건 명 : 공단 AI시스템 구축 및 AI 민원 상담사 고도화 대표이사 : 송 덕 수\n아래와 같이 견적합니다.\n발 행 일 자 : 2026-07-20 TEL : 070-7549-0101 (대표), FAX : 0505-990-7538 \n납 기 일 자 : 발주 후 4개월 이내 담 당 자 : 정진욱 차장\n연 락 처 : 010-6814-2839\n이 메 일 : boganjung@gmail.com\nNO 품 명 수량 단가 공급가액 비고\n1 AI 플랫폼 도입 개발 개발 기능점수 산정(FP 기준) 235.1 605,784 192,539,563 \n이윤 회사이윤(10%) 1 19,253,956 19,253,956 \n211,793,519 부가세별도구축 비용\n※ 견적 유효기간은 견적 후 2주 이내임.\n※ 견적에 포함된 기본 사항 외에 추가 개발이 필요한 경우 별도 협의 후 재견적함.\n견 적 서\n규 격\n* Main System (필수)\n납 품 장 소 : 귀사 지정 장소\n구 축 금 액 : ₩232,972,871원 (부가세포함)\n\n회사명 :\n사업자번호 :\n주소 :\n대표이사 :\nMobile : 010-2675-6844\nMail :\nItem Description Q' Unit Price Price (Won) Note\n기능점수(보정계수 반영) 235 605,784 192,539,563 \n개발사이윤(11%) 1 21,179,352 21,179,352 \n213,718,915\n21,371,891\n235,090,806\n발주 내용 : \n개발 기간 : 발 주 자 : (직인)\n견적 금액 : 발주일자 :\n 공단 AI시스템 구축 및 AI 민원 상담사 고도화\n\\235,090,806원 (일금 이억삼천오백구만팔백육 원 / VAT포함)\n계약일로부터 4개월\n2026년 7월 20일\nProduct\nFP적용\n1\n이윤\n2. 본 견적은 ' 공단 AI시스템 구축 및 AI 민원 상담사 고도화'에 한하여 유효 합니다.\n3. 최종 협의 후 구성에 따라 견적은 변동 될 수 있습니다.\n발주서\n위 견적 내용을 확인 하였으며 아래 내용과 같이 발주합니다.\n합 계\n부 가 세\n총 계\n[참고]\n1. 개발 기간 : 계약일로부터 4개월\nQuotation\n수 신 : 한국승강기안전공단\n담 당 자 : 박건 과장님 디앤피플래닛\n견적발행번호 : DNP-260710 108-81-26598\n 공단 AI시스템 구축 및 AI 민원 상담사 고도화 견적이 아래와 같습니다.\n견 적 금 액 : \\235,090,806원 (일금 이억삼천오백구만팔백육 원 / VAT포함)\nblackfacekin@naver.com\n견 적 일 자 : 2026년 7월 20일 부산광역시 연제구 안연로8번길 39, 2층\n견적유효기간 : 견적일로부터 2주이내\n하자보증기간 : 검수 후 1년\n이병학 (직인)",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "가 격 조 사 서\n(입찰·계약명 : 공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업 )\n□ 편성예산: 231,000,000원(부가가치세 포함)\n ※ 12-7-5. 승강기 안전관리 AI 전환 정책의 체계적 기획 / 시스템구축\n□ 설계금액: 231,000,000원(부가가치세 포함)\n□ 가격조사\n(부가세포함, 단위 : 원)\n구분\n시장에서 조사된 가격 설계금액\n㈜온피아 elcn 디앤피플래닛\n금액 209,868,124 232,972,871 235,090,806 231,000,000원\n※ 공공기관 모범거래모델\n ○ 저가계약 관행 개선으로 평균가격 이상으로 금액 설계\n□ 참고사항\n ○ 상기 조사내역은 용역조건을 충분히 이해한 업체에서 작성된...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "7df9892065a6465dbb7e3210",
+      "fileName": "공공 소프트웨어사업 사전협의 및 법제도 준수 여부 검토결과.pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01686488/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01686488/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01686488/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01686488-000/공공 소프트웨어사업 사전협의 및 법제도 준수 여부 검토결과.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01686488-000/공공 소프트웨어사업 사전협의 및 법제도 준수 여부 검토결과.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01686488-000/공공 소프트웨어사업 사전협의 및 법제도 준수 여부 검토결과.pdf",
+      "pageCount": 8,
+      "textLength": 7985,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "관련1. \n가 .「전자정부법 제 조 및 같은법 시행령 제 조 제 조67 82 , 83」 \n나 .「전자정부 성과관리 지침 제 장 사전협의2 ( )」 \n다 고객지원실 . -1326(2026.07.01.) 소프트웨어 영향평가 및 제안요청서 검토 요청공단(「 \n시스템 구축 및 민원 상담사 고도화 사업AI AI 」\n본 사업은 온프레미스 기반 자체 생성형 플랫폼 구축을 주요 과업으로 제시하고 2. AI \n있으나 세부 요구사항상 상용 도입 또는 외부 솔루션 활용을 전제로 해석될 수 , S/W \n있는 내용이 다수 포함되어 있어 사업의 성격과 과업 범위를 명확히 재정의할 필요가, \n있음을 안내드립니다.\n 제안요청서 검토 의견○ \n승강기 안전과 산업진흥을 선도하는 안전 전문기관\n청렴으로 출발 안전으로 도착! !\n한국승강기안전공단\n수신자 고객지원실장\n경유( ) \n제목 공공 소프트웨어사업 사전협의 및 법제도 준수 여부 검토결과 회신\n번호 구분 상세 내용\n1 자체 생성형 플랫폼 AI \n구축 범위 명확화 필요\n자체 생성형 플랫폼 구축은 운영관리 체계 모델 관리 AI LLM · , \n등 기관 내부 환경에 맞는 운영 시스템을 구축하는 방향으로AI \n정의되어야 하나 현 요구사항은 공개모델 적용 오픈소스 플랫폼, , \n설치구성 등으로 제안사별 해석 차이가 발생할 수 있음· . \n이에 개발 범위 공개모델 활용 범위 플랫폼 설치구성 범위 , , ·\n등을 명확히 구분할 필요가 있음.\n2\n상용 도입 또는 외부 S/W \n솔루션 활용범위 재검토 필요\n기능 개발과 관련하여 일부 요구사항은 상용 도입 또는 S/W \n외부 솔루션 활용을 유도하는 형태로 해석될 수 있음. \n신규 개발사업의 경우 특정 상용 제품 도입을 직접 요구하는S/W \n방식은 지양되어야 하며 상용 또는 외부 솔루션 활용을 , S/W \n허용할 경우에도 라이선스 유지관리 책임 기술지원 데이터 보안, , , , \n벤더 종속성 방지 방안 등을 명확히 제시할 필요가 있음.\n3. 또한 사전협의 자체검토를 진행하여 비대상 처리를 완료하였으며 법제도 준수 여부, , \n검토결과와 영향평가 결과서를 붙임과 같이 회신하오니 업무에 참고하여 주시기 바랍니다. \n사업기간 변경시 소프트웨어사업 영향평가 결과서 재검토 필요* \n 자체 검토결과 ○ \n번호 구분 검토사항\n1 웹사이트 관련 과업이 있을 경우전자정부 웹사이트 품질관리 지침 및 -1. , ⑥ 」 \n장애인고령자 등의 정보 접근 및 이용편의 증진을 위한 고시를 준수하였는가· ?「 」\n장애인고령자 고시 ·\n추가 필요\n2\n데이터 표준화 및 상위표준 준수-1. ⑩\n데이터 표준 코드 용어 단어 도메인 등 데이터 표준화 사항 반영 여부 , , , ‧\n공통표준 및 기관표준 적용 준수 여부‧\n데이터표준준수 사항\n추가 필요\n3 전문위원회를 통해 산정한 적정 사업기간 종합 산정서를 첨부하였는가‘ ’ ?⑬ 적정 사업기간 산정 \n위원회 결과 등록 필요\n붙임 사전협의 자체검토결과서공단 시스템 구축 및 민원 상담사 고도화 사업1. ( AI AI )부 1 .\n공공 소프트웨어사업 관련 법령준수 여부 사전 검토결과 부2. 1 .\n소프트웨어사업 영향평가 결과서 부 끝3. 1 . . \n \n디지털지원실장\n사원\n 차장\n 실장 07/06\n협조자\n시행 디지털지원실-1340 ( 2026. 7. 6. )접수 고객지원실-1389 ( 2026. 7. 7. )\n우52851경상남도 진주시 소호로 충무공동102( ) / http://www.koelsa.or.kr\n전화055-751-0973전송/ 02-6499-1291 / hhj3998@koelsa.or.kr /비공개(7)\n- 1 -\n사전협의 자체검토결과서\n□ 신청사업 정보\n사업명 공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업\n신청기관(부서) 한국승강기안전공단(디지털지원실)\n상위기관(부서) 행정안전부\n□ 과업 기본 정보\n대국민 서비스 유무 ☑ 유 □ 무\n자원도입(HW/SW) 과업 \n유무 □ 유 ☑ 무\n모바일 앱 서비스 유무 □ 유 ☑ 무\n클라우드(IaaS) 이용 유무 \n(공공/민간클라우드 전환포함) □ 유 ☑ 무\n□ 대내외 지적사항 및 조치 내역 \n지적사항 조치 내역\n없음\n ※ 중복·연계 등과 관련한 지능정보사회 실행계획, 국회, 감사원 등 지적사항 및 조치 내역\n□ 예비검토 의견 반영 \n예비검토 \n의견유무 행정안전부 예비검토의견\n기관의 반영계획 \n회신 반영결과\n없음\n ※ 전자정부 성과관리 지침 제6조(사전협의를 위한 사업목적 등의 예비검토) 내용 기재\n□ 분야별 검토결과 \n검토분야 구 분 검토결과 주요 내용\n\n유사·중복 \n및 \n연계·통합\n① 기관 내 또는 타 기관의 유사시스템\n(사업)과 중복 여부를 확인하였는가?\n * 「전자정부 성과관리 업무매뉴얼」 참고\n☑ 예\n□ 해당없음\n② 기관 내 또는 타 기관의 유사시스템\n(사업)과 연계‧통합 가능성을 검토하\n였는가?\n * 「전자정부 성과관리 업무매뉴얼」 참고\n☑ 예\n□ 해당없음\n ‧ 검색/검토 내역을 [붙임5]에 작성\n- 2 -\n검토분야 구 분 검토결과 주요 내용\n③-1 타 기관 시스템과 연계 시, 행정정보 \n공동이용 센터를 통한 연계를 검토\n하였는가? \n *「행정정보 공동이용 지침」 참고\n□ 예\n☑ 해당없음\n ‧ 검색/검토 내역을 [붙임5]에 작성\n③-2 연계대상 정보시스템, 정보 및 방\n법에 대해 명확히 기술하였는가?\n□ 예\n☑ 해당없음\n ‧ 검색/검토 내역을 [붙임5]에 작성\n④ 행정안전부에서 구축하는 「범정부 \n데이터 분석시스템*」의 분석자원 활\n용 여부를 검토하였는가?\n * 중앙·지자체·공공기관이 빅데이터 분석시스템을 \n별도 구축하지 않고 고성능 분석자원을 공동 \n활용할 수 있는 시스템(’22년부터 단계적 구축)\n□ 예\n☑ 해당없음\n· 자체 시스템 도입 사업\n⑤ 「공공데이터 관리지침」에 따라 민간\n서비스 와의 중복·유사 여부를 검토\n하였는가?\n□ 예\n☑ 해당없음\n\n웹사이트\n·\n모바일\n⑥ 웹사이트 관련 과업이 있을 경우, 「전자정부 웹사이트 품질관리 지침」에 따른 품질기준 \n및 「행정기관 및 공공기관 정보시스템 구축·운영 지침」 제14조의2에 따른 총량을 준수\n하여 사업계획을 수립하였는가?\n ※ ‘[참고1] 웹사이트 총량관리 관련 Q&A’를 참고하여 총량준수 관련 내용 작성\n⑥-1 웹사이트 관련 과업이 있을 경우, \n「전자정부 웹사이트 품질관리 지침」 \n및 「장애인·고령자 등의 정보 접근 및 \n이용편의 증진을 위한 고시」를 준\n수하였는가?\n☑ 예\n□ 해당없음\n< RPF 요구사항번호>\n준수항목 요구사항 번호 \n◯1 표준 지침 준수 COR-01\n◯2 UI/UX공통가이드 SFR-02\n◯3 장애인·고령자고시 내용 추가 필요\n⑥-2 신규 웹사이트 개설 과업이 있고, \n「행정기관 및 공공기관 정보시스\n템 구축·운영 지침」 제14조의2에 \n따라 웹사이트 총량이 증가하지 \n않도록 하였는가? \n□예\n☑해당없음\n· 내부시스템 구축 사업으로 해당없음\n· 기존 minwon.koelsa.or.kr 동일하게 이용\n⑥-3 웹사이트의 이용자가 대국민인가? ☑ 예\n□ 해당없음\n· 24시간 중단 없는 민원 서비스 제공\n⑥-4 대국민 웹사이트에서 민간서비스를 그대\n로 적용하여 제공하는 경우, 서비스 장\n애에 대비하여, 제공하는 민간서비스를 \n다중화하는 등 조치를 하고 있는가?\n□ 예\n☑ 해당없음\n⑦ 모바일 서비스(앱 및 웹)는 「모바일 전자정부 서비스 관리 지침」을 준수하여 사업계획\n을 수립하였는가?\n⑦-1 대국민 모바일 앱(공공앱) 개발 필\n요성을 지침 제18조 제2항에 근거하\n여 검토하였는가?\n□ 예\n☑ 해당없음\n- 3 -\n검토분야 구 분 검토결과 주요 내용\n⑦-2 「모바일 전자정부 서비스 관리 지\n침」을 준수하였는가?\n□ 예\n☑ 해당없음\n⑦-3 대국민 모바일 앱에서 민간서비스를 그\n대로 제공하는 경우, 서비스 장애에 대비\n하여, 제공하는 민간서비스를 다중화하는 \n등 조치를 하고 있는가?\n□ 예\n☑ 해당없음\n\n디지털 \n서비스 \n개방\n⑧-1 ISP, 신규구축·고도화·운영유지관리 \n사업 등 과업내 대민서비스가 포함\n된 경우 개방 가능 여부에 대해 검\n토하였는가?\n□ 예\n☑ 해당없음\n⑧-2 ‘⑧-1’에서 개방대상이 과업내 포함\n된 경우 행정안전부와 사전에 협의\n하고 개발대상 API는 표준을 준수\n하였는가?\n * 「민간서비스 활용을 통한 전자적 대민\n서비스 제공 등에 관한 규정」 및 「디지털\n서비스개방 표준 API 명세서」 참고\n□ 예\n☑ 해당없음\n\n정보자원 \n통합 및\n클라우드\n⑨-1 「행정기관 및 공공기관의 클라우드컴퓨팅서비스 이용 기준 및 안전성 확보 등에 관한 \n고시」를 준수하여 사업계획을 수립하였는가?\n ※ 클라우드컴퓨팅서비스: 클라우드컴퓨팅을 활용하여 상용(商用)으로 타인에게 정보통신자원을 제공\n하는 서비스(클라우드컴퓨팅법 제2조3항)\n⑨-1-1. 정보자원의 신규 도입, 노후 교체 \n시 클라우드컴퓨팅서비스 이용을 우선 \n검토하였는가?\n ※ 사업계획서 등에 부서장 등의 승인을 \n받은 검토 결과 포함 여부\n□ 예\n☑ 해당없음\n· 기보유한 서버를 활용하여 사업 실시\n⑨-1-2. 클라우드컴퓨팅서비스를 이용하는 \n사업인 경우, 보안인증(CSAP)을 받은 \n클라우드컴퓨팅서비스를 이용하는가?\n□ 예\n☑ 해당없음\n⑨-1-3. 클라우드컴퓨팅서비스를 이용하는 \n사업인 경우 이용기준 고시 제7조에 따라 \n적정하게 검토(국정원 보안지침 준수, \n보안인증제품 고려 또는 국정원 협의 \n등)하였는가?\n□ 예\n☑ 해당없음\n⑨-2 「행정기관 및 공공기관 정보자원 통합기준」를 준수하여 사업계획을 수립하였는가?\n⑨-2-1. 정보자원 통합 구축·관리 대상인가? □ 예\n☑ 해당없음\n⑨-2-2. 정보자원을 통합구축·관리하는 방안을 \n고시 제4조에 근거하여 마련하였는가?\n□ 예\n☑ 해당없음\n\nDB\n⑩ 「공공데이터법」 및 「데이터기반행정법」에 따라 데이터 표준‧품질 관리 및 개방 계획을 \n검토하여 사업계획을 수립하고 해당 과업내용을 제안요청서에 반영하였는가? \n ※ ‘[참고2] 데이터 품질분야 세부 점검 내용(p.10)’을 참조하여 아래 점검사항을 확인하여 작성\n⑩-1 데이터 표준화 및 상위표준 준수\n ‧ 데이터 표준 코드, 용어, 단어, 도메인 \n등 데이터 표준화 사항 반영 여부\n☑ 예\n□ 해당없음\n준수항목 요구사항 번호 \n◯1 데이터표준준수 추가필요\n◯2 데이터표준관리 DAR-01\n- 4 -\n검토분야 구 분 검토결과 주요 내용\n ‧ 공통표준 및 기관표준 적용 준수 여부\n⑩-2 데이터 표준 관리\n ‧ 데이터 표준 관리방안 반영 여부\n ‧ 데이터 표준 변경이력 관리방안 반영 여부\n☑ 예\n□ 해당없음\n준수항목 요구사항 번호 \n데이터표준관리 DAR-01\n⑩-3 데이터 구조 설계\n ‧ 데이터 구조 설계(모델링) 시 준수해야 \n할 기준 및 규칙, 고려사항 등 반영 여부\n ‧ 데이터 구조(논리·물리) 설계를 위한 \n주제영역, 개념모델, 논리모델 관련 \n사항 반영 여부\n☑ 예\n□ 해당없음\n준수항목 요구사항 번호 \n데이터구조설계 DAR-03\n⑩-4 데이터 구조 검증\n ‧ 업무 요구사항의 모델 반영과 데이터 \n구조 정규화 수행 및 검증 계획 반영 여부\n ‧ 데이터 모델링 과정 및 구조 적정성 \n검증 등에 대한 활동 사항 반영 여부\n☑ 예\n□ 해당없음\n준수항목 요구사항 번호 \n데이터구조검증 DAR-04\n⑩-5 데이터 구조 관리방안\n ‧ 데이터 구조 관리방안 반영 여부\n ‧ 데이터 구조 변경이력 관리방안 반영 여부\n☑ 예\n□ 해당없음\n준수항목 요구사항 번호 \n데이터구조관리 DAR-05\n⑩-6 데이터 값 검증\n ‧ 데이터(연계데이터 포함) 값 검증 계획 \n반영 여부\n ‧ 데이터 값 검증 수행 및 검증 결과에 \n따른 개선활동 반영 여부\n☑ 예\n□ 해당없음\n준수항목 요구사항 번호 \n데이터구조관리 DAR-05\n⑩-7 이관 데이터 값 검증\n ‧ 데이터 이관 계획(일정 및 수행방법론 \n등) 반영 여부\n ‧ 이관 데이터 값 검증 수행 및 검증 \n결과에 따른 개선활동 반영 여부\n☑ 예\n□ 해당없음\n준수항목 요구사항 번호 \n연 계 데 이 터 관 리 체 계 수 립DAR-08\n⑩-8 데이터 품질 관리체계\n ‧ 데이터 품질관리를 위한 정책, 절차, \n조직(담당자) 관련 사항 반영 여부\n ‧ 데이터 품질관리를 위한 필수산출물 \n등 관련 사항 반영 여부\n☑ 예\n□해당없음\n준수항목 요구사항 번호 \n데이터관리체계 수립 DAR-07\n⑩-9 데이터 개방 및 메타데이터 관리체계\n ‧ 개방 예정 데이터 목록 등 기관의 공\n공데이터 개방계획과 본 사업의 연관성 \n관련사항 반영 여부\n ‧ 공공데이터베이스의 메타데이터 등록, \n관리 및 현행화 관련사항 반영 여부\n□ 예\n☑ 해당없음\n\n사전협의\n제도준수\n⑪ 범정부EA포털(사전협의시스템)에 사전\n협의 신청내역을 등록하고 자체검토\n결과를 입력하였는가?\n□ 예\n☑ 해당없음\n· 정부예산 미사용 사업\n\n요구사항 \n상세화\n⑫ 「소프트웨어사업 계약 및 관리감독에 \n관한 지침」의 ‘SW사업 상세 요구사\n항 세부내용 작성표’ 등을 참조하여 \n요구사항을 상세하게 작성하였는가?\n☑ 예\n□ 해당없음\n\n적정 \n사업기간 \n산정\n⑬ 전문위원회를 통해 산정한 ‘적정 사업\n기간 종합 산정서’를 첨부하였는가?\n□ 예\n□ 해당없음\n· 적정 사업기간 산정 위원회 개최 필요\n순번 법령준수 권고 주요항목 준수여부* 개선의견 개선권고 관련 법적 근거 및 참고자료 가이드 페이지\n1 과업심의위원회 △ 과업심의위원회 및 개발사업 적정 사업기간 산정\n위원회 개최 필요\n・SW 진흥법 제50조\n・SW 진흥법 시행령 제45조·제46조·제47조\n・공공SW사업 과업심의 가이드(정보통신산업진흥원)\n9~13p\n2 상용SW 직접구매 및\nSW품질성능 평가시험(BMT) 해당없음 -\n・SW 진흥법 제54조·제55조\n・SW사업 계약 및 관리감독에 관한 지침 제7조·제8조 14~20p\n3 중소 SW사업자의 사업 참여지원 O -\n・SW 진흥법 제48조 등 관련법령\n・중소 SW사업자의 사업 참여 지원에 관한 지침 21~24p\n4 하도급 제한 O -\n・SW 진흥법 제51조\n・SW 진흥법 시행규칙 제14조 25~26p\n5 SW사업 작업장소(원격개발) O -\n・SW 진흥법 제49조제3항\n・SW사업 계약 및 관리감독에 관한 지침 제14조\n・행정기관 및 공공기관 정보시스템 구축・운영지침 제41조\n27~29p\n6 SW사업 산출물 활용 보장 O -\n・국유재산법 제65조의12\n・SW진흥법 제59조\n・SW사업 계약 및 관리감독에 관한 지침 제32조\n30~32p\n7 개발SW의 공동활용 사전명시 O - ・(계약예규) 용역계약일반조건 제56조 33p\n8 하자담보 책임기간 및 범위 O -\n・SW 진흥법 제60조\n・(계약예규) 용역계약일반조건 제58조 34~36p\n9 특정규격 명시 금지 O - ・(계약예규)정부입찰・계약집행기준 제5조제4항제5호 37~38p\n10 협상에 의한 계약 방식 적용\n(또는 경쟁적 대화에 의한 계약방식) O -\n・SW 진흥법 제49조제1항\n・SW 진흥법 시행령 제44조제1항 39~41p\n11 기술능력 평가비중(90%) 도입 O - ・행정기관 및 공공기관 정보시스템 구축・운영지침 제18조 42p\n12 SW기술성 평가기준 적용 O -\n・SW 진흥법 제49조제2항\n・SW 기술성 평가기준 지침 등 관련법령 43~46p\n13 SW사업 제안서 보상 O -\n・SW 진흥법 제52조\n・SW사업 계약 및 관리감독에 관한 지침 제16조·제17조 47~48p\n14 요구사항 상세화 O -\n・SW 진흥법 제44조\n・SW사업 계약 및 관리감독에 관한 지침 제11조제1항 49~54p\n15 SW사업 적정 사업기간 산정 △ ・사업기간 산정위원회 개최 결과 표기 필요\n・SW 진흥법 제45조\n・SW사업 계약 및 관리감독에 관한 지침 제10조 55~57p\n16 투입인력 요구 및 관리 금지 O - ・SW사업 계약 및 관리감독에 관한 지침 제11조제3항·제18조제3항 58p\n17 SW사업 영향평가 O ・SW사업 영향평가 실시 후 실시여부 명시 및\n 영향평가 결과서 첨부\n・SW 진흥법 제43조\n・SW 진흥법 시행령 제35조·제36조·제37조\n・SW사업 영향평가 가이드라인(정보통신산업진흥원)\n59~61p\n18 SW사업정보 제출 O - ・SW 진흥법 제46조제3항 62p\n□ 사업명 : 공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업\n□ 사업금액 : 210백만원(부가세 포함)\n□ 담당부서 : 교육기획실\n* (O : 준수, X : 미준수로 인한 개선필요, △ : 사업담당자 확인 필요)\n공공 소프트웨어사업 관련 법령준수 여부 사전 검토결과\n고객지원실 / 박건 / 2026-07-20 14:07:41",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "관련1. \n가 .「전자정부법 제 조 및 같은법 시행령 제 조 제 조67 82 , 83」 \n나 .「전자정부 성과관리 지침 제 장 사전협의2 ( )」 \n다 고객지원실 . -1326(2026.07.01.) 소프트웨어 영향평가 및 제안요청서 검토 요청공단(「 \n시스템 구축 및 민원 상담사 고도화 사업AI AI 」\n본 사업은 온프레미스 기반 자체 생성형 플랫폼 구축을 주요 과업으로 제시하고 2. AI \n있으나 세부 요구사항상 상용 도입 또는 외부 솔루션 활용을 전제로 해석될 수 , S/W \n있는 내용이 다수 포함되어 있어 사업의 성격과 과업 범위를 명확히 재정의할 필요가, \n있음을 안내드립니다.\n 제안요청서 검토 의견○ \n승강기 안전과 산업진흥을...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "적용 O -\n・SW 진흥법 제49조제2항\n・SW 기술성 평가기준 지침 등 관련법령 43~46p\n13 SW사업 제안서 보상 O -\n・SW 진흥법 제52조\n・SW사업"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "2",
+      "attachmentKey": "2294ef1f2bfa1ba973780c1b",
+      "fileName": "제안요청서_AI 정보화사업.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01686488/000/files/2",
+      "originalFileUrl": "/api/notices/R26BK01686488/000/original-files/2",
+      "pdfUrl": "/api/notices/R26BK01686488/000/files/2",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01686488-000/제안요청서_AI 정보화사업.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01686488-000/converted/제안요청서_AI 정보화사업.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01686488-000/converted/제안요청서_AI 정보화사업.pdf",
+      "pageCount": 138,
+      "textLength": 17634,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "( ) \n (RFP)\n AI ( ) \nAI \n \n2026. 7.\n \n \n \n \n \n TEL: 055-751-0971 FAX : 02-6499-\n1291 TEL: 055-751-0881\n \nⅠ . 1\n1. 1\n2. 2\n3. 2\n4. 2\nⅡ . 3\n1. 3\n2. 4\n3. 4\nⅢ . 6\n1. 6\n2. 7\n3. 7\nⅣ . 8\n1. 8\n2. 8\n3. 9\n4. 12\nⅤ . 70\n1. 70\n2. 70\n3. 71\n4. 72\nⅥ . 74\n1. 74\n2. 75\n3. 76\n4. 80\n5. 80\n6. 81\nⅦ . 82\n 1 83\n 2 90\n 3 99\n 4 104\n 5 114\n 6 115\n 7 116\n 8 117\n 9 118\nⅠ. \n \n \n- , · \n AI \n- , \n \n \n- AI , \n \n- · \n \n \n- 24 ,\n \n- AI \n \n \n AI : AI 24\n ( ) \n : AI \n \n : AI · \n zero \n \n (AI ) AI · \n \n ( ) · \nAI \n ( ) \n \n \n : AI \n , · \n : , \n \n : \n , \nⅡ. \n \n \n \n · \n- IPCC , · \n , , . \n , \n \n \n- , , \n \n \n- · · \n , · · \n \n · \n \n- · · \n , \n DB \n \n \n- (IPCC ) \n \n- ( ) , , \n \n- ( /ERP) \n \n[ ]\n※ ( 2025-1 , 2025. 1. 2., ) \n . , \n \n \n AI \n- ( ) \n- ( ) AI 24 \n \n- ( ) \n \n- ( ) AI · \n \n AI \n \n- ( ) · · ,\n · \n \n- ( ) , , · \nAI ( ) , \n \n \n- ( ) , \n \n- ( ) , \n \n AI · \n- ( ) * \n , · \n AI \n- ( ) ‘ ’ \n , \n \nⅢ. \n< >\n◇ AI \n◇ AI Zero \n◇ \n \n \n- ( ) (IPCC) · \n AI \n- ( AI ) LLM \n AI \n- ( ) AI \n \n \n- ( ) , , \n AI \n- ( ) \n UX \n \n- ( ) VOC \n \n- ( ) 24 UI/UX \nUI/UX \n \n- ( ) \n \n \n \n \n AI , \n \n \n( , )\n \n \n \n \n \n - , \n - , , \n \nAI ,\n \n- , \n * - , \n - , , , \n* , , , , , , \n \n M( ) M+1 M+3 M+4\n \n \n \n \n \n ( , , ) \n※ , \nⅣ. \n \n : AI ( ) AI \n / : 120 / 210 (VAT )\n : ( )\n \n AI ( ) \n- ( ) 24 AI \n , \n- ( ) \n (DB) , DB \n- ( · ) , \n AI \n- ( ) · , \n \n- ( ) , · \n \n \n \n ID \n \nEquipment Composition Requirement\nECR-000 1\n \nSecurity Functional Requirements\nSFR-000 15\n \nPerformance Requirement\nPER-000 14\n \nSystem Interface Requirement)\nSIR-000 3\n \nTest Requirementt\nTER-000 3\n \nQuality Requirement\nQUR-000 4\n \nProject Support Requirement\nPSR-000 5\n \nData Quality Requirement\nDAR-000 10\n \nProject Management Requirement\nPMR-000 7\n \nSecurity Requirement\nSER-000 8\n \nConstraint Requirement\nCOR-000 11\n \n \n \n \n ECR-01 AI \n \nSFR-01 AI \nSFR-02 \nSFR-03 \nSFR-04 AI (LLM, Large Language Model) \nSFR-05 , RAG, \nSFR-06 · \nSFR-07 \nSFR-08 \nSFR-09 · \nSFR-10 \nSFR-11 24 \nSFR-12 \nSFR-13 \nSFR-14 · \nSFR-15 QA \n PER-01 \nPER-02 \nPER-03 \nPER-04 AI \nPER-05 \nPER-06 \nPER-07 \nPER-08 \nPER-09 STT \nPER-10 \nPER-11 \nPER-12 \nPER-13 \nPER-14 \n \nSIR-01 \nSIR-02 \nSIR-03 AI \n \nTER-01 \nTER-02 \nTER-03 \n \nQUR-01 \nQUR-02 \nQUR-03 \nQUR-04 \n \n \nPSR-01 \nPSR-02 \nPSR-03 \nPSR-04 \nPSR-05 \n DAR-01 \nDAR-02 \nDAR-03 \nDAR-04 \nDAR-05 \nDAR-06 \nDAR-07 \nDAR-08 \nDAR-09 \nDAR-10 \n \n \nPMR-01 \nPMR-02 \nPMR-03 \nPMR-04 \nPMR-05 \nPMR-06 \nPMR-07 \n \nSER-01 \nSER-02 \nSER-03 ( ) \nSER-04 \nSER-05 ( )\nSER-06 AI · \nSER-07 AI · \nSER-08 AI \n COR-01 \nCOR-02 \nCOR-03 \nCOR-04 SW \nCOR-05 SW \nCOR-06 \nCOR-07 \nCOR-08 \nCOR-09 SW \nCOR-10 \nCOR-11 \n \n \n \n ECR-01\n AI \n \n \n \n GPU(NVIDIA A100) \n , LLM\n LLMOps \n · .\n \n (NVIDIA A100 GPU ) H/W , \n (OS), AI \n .\n A100 GPU (Docker,\nKubernetes ) .\n GPU · \n , GPU ( : Multi-Instance GPU\n ) .\n AI A100 \n .\n (LLM) , GPU (VRAM) \n .\n AI ( LLM, Text-to-SQL \n ) .\n AI , (Zero-\ndowntime) GPU .\n / \n \n \n (SFR)\n \n SFR-01\n AI \n \n \n \nAI , , , \nAI ‧ \n \n AI \n- AI \n- ‧RAG‧ AI \n- AI (API, ,DB, ) \n- / AI \n , \n- \nHWP/HWPX, PDF, PPTX, TXT, CSV, XLSX, DOCX \n \n- \n . ( ) \n \n- , , \n \n- / , OCR, \n \n- \n RAG(Retrieval-Augmented Generation) \n- \n- \n , LLM \n (Embed) \n- (JavaScript \n ) , \n \n \n \n \n \n SFR-02\n \n \n \n (Text-to-SQL) \n \n : \n ( ) , \n SQL .\n : \n(Join), (Group by), (Order by) \n .\n : ( , ,\n ) AI , DB \n (DML ) \n .\n : , , ( : \n , ) AI (Dictionary) \n (Few-shot) .\n : SQL ( , , ) \n (Table) (Chart) \n .\n \n \n \n \n SFR-03\n \n \n \n \n \n (Chat History) :\n- AI ( ) \n , \n UI/UX .\n- [ ID, , ,\nAI ] .\n Text-to-SQL RAG :\n- AI \n .\n- Text-to-SQL: , AI \n [SQL ] [DB ] \n .\n- RAG: AI \n(Vector DB) [ ( , )]\n [ (Score)] .\n :\n- \n .\n- , ( \n ), AI ( / \n ) .\n :\n- \n ( ) \n .\n- ( : 6\n 1 ) , \n .\n \n \n \n \n \n SFR-04\n AI (LLM, Large Language Model) \n \n \n AI (LLM, Large Language Model) \n \n AI \n \n LLM \n AI , \n \n \n , \n \n \n \n SFR-05\n , RAG, \n \n \n , RAG, \n \n DB \n · , DB \n , · · \n ( , ) \n RAG \n \n RAG , \n \n , RAG \n API \n , \n \n \n \n SFR-06\n · \n \n \n · \n \n (Rx, Tx) : \n \n : \n \n : \n \n \n \n \n , \n , , , \n \n , , ( \n ) \n \n \n \n , RAG(Retrieval-Augmented\nGeneration) \n \n SW \n , , , \n \n , \n \n \n \n SFR-07\n \n \n \n \n \n \n \n \n \n \n SW \n , , , \n \n , \n \n \n \n SFR-08\n \n \n \n \n \n ( , FAQ, , ) \n \n (PPT, HWP, PDF, XLS ) \n \n , , \n STT \n \n \n KMS( : , , , \n ) \n Vector DB \n (LLM, sLLM ) , \n \n \n \n \n SW \n , , , \n \n , \n \n \n \n SFR-09\n · \n \n \n AI \n \n \n- , \n AI · \n- , \n \n- ( , ) , \n \n- ( ) \n \n- , , \n \n , \n \n \n \n SFR-10\n \n \n \n \n \n \n- \n \n- PC \n- , AI \n \n- , \n \n- ( ) \n · \n- ( , , ) ,\nAI \n- , , \n- \n \n- AI \n \n AI , , , \n \n , \n \n \n \n SFR-11\n 24 \n \n \n 24 \n \n 24 \n- \n- , , , AI \n \n- ( ) \n \n- , \n \n- ( ) \n- AI \n \n- , FAQ \n , \n \n \n \n SFR-12\n \n \n \n \n \n 24 \n- , , , AI \n \n- ( ) \n- , \n \n \n- , FAQ \n , \n \n \n \n SFR-13\n \n \n \n \n \n AI \n- \n- , , \n- , \n- AI \n \n AI \n- AI · \n \n- , , \n- FAQ \n \n , \n \n \n \n SFR-14\n · \n \n \n · \n \n · \n- , AI\n \n- , \n \n- ( , ) , \n \n- ( ) \n · \n- · AI \n \n \n \n- · \n \n- \n AI , , , \n \n , \n \n \n \n SFR-15\n QA \n \n \n QA \n \n QA \n QA \n QA \n QA \n QA , , \n QA QA \n \n AI \n , \n \n \n (PER)\n \n PER-01\n \n \n \n \n \n \n- , ,\n \n- \n- , ( )\n- \n- ( , \n ) , \n \n \n / , , \n / / , / \n \n \n \n PER-02\n \n \n \n \n AI \n \n \n \n- AI 8 \n- ‧ ‧ 15 \n .\n- API , \n .\n , \n \n \n \n PER-03\n \n \n \n \n \n .\n \n \n- 50 .\n- \n .\n- .\n- API , \n .\n , \n \n \n \n PER-04\n AI \n \n \n .\n \n AI \n- , , , .\n- ( / ) .\n- .\n , \n \n \n \n PER-05\n \n \n \n \nGPU \n .\n \n \n- \n .\n- \n .\n- \n .\n , \n \n \n \n PER-06\n \n \n \n \nAI , \n .\n \n \n- , \n .\n- , , \n .\n- ‧ \n .\n , \n \n \n \n PER-07\n \n \n \n \n \n \n , , \n \n , \n \n ( ) ,\n \n \n , \n \n \n \n PER-08\n \n \n \n \n \n ( \n ) \n CPU , CPU (24 ) \n \n , (24 ) \n \n · \n , \n \n \n \n PER-09\n STT( ) \n \n \n STT( ) \n \n 90% \n , \n \n · \n \n \n , \n \n \n \n PER-10\n \n \n \n \n \n - 3 5 \n , 3 6 10 \n \n 5 ( 10 ) \n \n · \n , (HW SW ) \n \n , \n \n \n \n PER-11\n \n \n \n \n \n LLM \n \n ( ) \n LLM AI \n · \n , (HW SW ) \n \n , \n \n \n \n PER-12\n \n \n \n \n \n \n \n AI \n \n , \n \n \n \n PER-13\n \n \n \n \n \n 24 365 \n \n \n \n \n , \n \n \n \n PER-14\n \n \n \n \n \n \n AI \n \n \n \n \n , \n \n \n (SIR)\n \n SIR-01\n \n \n \n \n \n · · API \n : , CTI, IVR, , AP, KMS \n \n \n , \n \n \n \n \n \n SIR-02\n \n \n \n \n \n \n , , , , \n \n \n ( / ) \n \n \n \n \n \n \n SIR-03\n AI \n \n \n AI \n \n \n UI/UX \n- ChatGPT \n \n UI \n \n \n · \n , (WCAG)\n2.2 , , \n \n \n \n \n (TER)\n \n TER-01\n \n \n \n \n \n , , , , \n \n , , , \n \n- ( , )\n- ( , , , , \n )\n- ( , )\n- \n / \n \n \n \n TER-02\n \n \n \n \n \n \n \n- , \n- \n- \n- \n- , \n- \n \n / \n \n \n \n TER-03\n \n \n \n \n \n , , , ,\n , \n / \n , \n / , / \n \n \n , \n \n \n \n \n \n \n (QUR)\n \n OUR-01\n \n \n \n \n \no , \n \no 24 \n \n \n \n \n OUR-02\n \n \n \n \n \n , \n \no ( ) \n \n \n \n \n \n OUR-03\n \n \n \n \n \n ,\n \n \n \n \n \n OUR-04\n \n \n \n \n \n \n- , \n- , , \n- , \n \n \n \n (PSR)\n \n PSR-01\n \n \n \n \n \n \n \n \n \n , ( , \n ), , , \n \n \n \n \n \n \n \n PSR-02\n \n \n \n \n \n , \n , \n , , , , , \n \n \n \n , , , \n \n \n \n \n \n PSR-03\n \n \n \n \n \n , , \n \n \n \n \n \n PSR-04\n \n \n \n \n \n \n , , , \n \n \n \n \n \n PSR-05\n \n \n \n \n \n ,\n , \n 12 , \n 12 , ,\n , .\n , ( , ) \n \n H/W, S/W , , \n 24 \n , S/W \n \n \n \n 3 \n \n , \n \n \n (DAR)\n \n DAR-01\n \n \n \n \n \n (DB ) ( \n , ) \n \n , , , \n · \n ( , )\n \n \n \n DAR-02\n \n \n \n \n \n ‘ ’ \n \n \n \n \n \n · DB · \n ( , )\n \n \n \n DAR-03\n \n \n \n \n \n \n ( ) \n , \n , , , DB \n · · \n , , DB \n \n , , DB Object \n , , , \n \n / \n \n \n \n DAR-04\n \n \n \n \n \n · · · .\n , , , \n \n \n ( \n ) : \n , , \n ( , )\n \n \n \n DAR-05\n \n \n \n \n \n , \n \n \n DB \n \n \n \n \n \n \n DAR-06\n \n \n \n \n \n ( ) \n ( ) \n \n \n \n \n \n \n DAR-07\n \n \n \n \n \n , , \n \n \n ( , ) \n ( · · · ) , , \n ( · ) , , \n \n , , \n ※ \n \n \n / \n \n \n \n DAR-08\n \n \n \n \n \n \n \n \n \n \n , \n \n / \n \n \n \n DAR-09\n \n \n \n (Vector DB) \n \n : , , (PDF,\nHWPX, DOCX ) , \n ( , ) .\n (Chunking) \n- AI ( \n ) .\n / \n- (Vector) \n , · \n .\n / \n \n \n \n DAR-10\n \n \n \n AI \n \n / : AI , \n , , \n ( ) .\n : \n RAG (Knowledge base) \n .\n \n- \n(Prompt Injection) .\n / \n \n \n (PMR)\n \n PMR-01\n \n \n \n \n \n , [ 4] \n , \n \n \n- \n \n- , , , ,\n \n \n , \n \n \n \n , , \n \n \n PMR-02\n \n \n \n \n ‘ ’ \n , 76 \n \n \n① · IP \n② \n③ \n④ \n⑤ \n⑥ \n⑦ IPS · \n⑧ “ ” 9 1 \n \n⑨ 2 1 \n⑩ 4 , 16 3 \n \n , \n \n- [ 1] \n- [ 2] \n- [ 3] \n- \n , , , \n , \n \n , ( ) \n \n \n \n , , \n \n \n PMR-03\n \n \n \n \n \n \n- [ 2] [ 2 ] ( ) \n- [ 2] [ 3 ] ( ) \n \n \n- , , \n \n , \n , \n \n- [ 2] [ 4 ] ( ) \n , ( ), \n \n \n , , \n \n \n PMR-04\n \n \n \n \n \n \n \n ( \n ) \n- , , , ,\n \n- ( ) \n , \n \n ( ) PC \n \n- , \n \n- , P2P \n \n- \n \n , \n . , \n ( , ) \n- , , 9 \n , \n , PC \n \n- , \n \n · AI , DB, AI \n · \n ( ), ( )\n \n , , \n , AI \n \n PMR-05\n \n \n \n \n \n \n \n- CCTV, \n , \n 2 , \n , , , \n 1 \n , \n \n \n \n \n , , \n \n \n PMR-06\n \n \n \n \n \n PC, USB . ,\n \n \n- PC \n- \n- \n- , , , , \n \n \n- USB , \n \n- \n \n , , \n ( ) , , , \n \n \n- PC CMOS, , ( , \n , 9 )\n- 1 PC \n , , \n \n \n , , \n \n \n PMR-07\n \n \n \n \n \n PC( ) \n , \n \n- PC , \n , P2P, , \n \n- PC \n , \n . , \n \n- \n- (Wibo, HSDPA, Wi-Fi ) , \nPC (driver )\n , \n \n \n , , \n \n (SER)\n \n SER-01\n \n \n \n \n \n \n \n- 5 , \n , \n- \n- , \n- DB \n- ,\n \n- \n- \n , \n \n \n \n , , \n \n \n SER-02\n \n \n \n \n \n \n- \n- ( , , 9 )\n \n- \n- ( )\n- , \n- \n- , \n (SSH )\n \n- \n- \n \n \n \n , \n \n SER-03\n ( ) \n \n \n \n \n 50 \n \n 51 , \n , \n \n , \n \n \n , , \n \n \n SER-04\n \n \n \n \n \n ( \n , ) 1 \n- : \n- : \n , \n- \n- : \n- : OWAR 10 , 8 , \n 21 \n , AI · \n · \n \n \n \n , , \n , AI \n \n \n SER-05\n ( )\n \n \n \n \n \n- \n- \n \n- 3 \n \n , \n- , , , \n \n ( )\n \n 26 1 \n \n SER-06\n AI · \n \n \n AI ( ·RAG ) \n \n · · , · \n RAG · \n AI ( · · ) , · \n \n DB· , \n \n AI · \n AI \n \n AI (2026.1.19) ①~⑤\n \n SER-07\n AI · \n \n \n -AI · \n \n ( ) · · · ( )\n · \n ( ) , , \n ( ) , , \n · \n \n ⑦\n \n SER-08\n AI \n \n \n · AI \n \n · · DB· \n \n · \n \n \n (COR)\n \n COR-01\n \n \n \n \n \n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n UI/UX ( )\n ( )\n \n \n \n \n COR-02\n \n \n \n \n \n \n(irm.go.kr) \n , \n , \n , ( , , ) \n \n \n \n , , \n \n , ,\n \n 54 , 68 \n \n COR-03\n \n \n \n \n \n< >\n SW ( , , \n ) , \n \n SW \n , \n SW , \n ( , \n )\n< >\n \n , \n , \n , \n \n< >\n \n \n \n ( , , \n , ), ( , , \n ), ( , , , \n USB , ) \n \n \n \n , SW , SW \n , \n \n COR-04\n SW \n \n \n SW \n \n< >\n \n , \n , \n ( , , ) \n , \n \n<SW >\n SW , \n 4 \n SW . , \n- ( ) SW , \n , \n \n- ( ) SW 3 \n \n- ( ) SW \n \n76 2 3 \n<SW >\n 3 ,\n .\n1. \n2. ( , , , , )\n 57 \n \n \n \n \n \n COR-05\n SW \n \n \n SW \n \n ( ) 56 \n( ) \n \n \n \n \n COR-06\n \n \n \n \n \n [ 4] \n , \n \n \n \n \n COR-07\n \n \n \n \n \n \n CBD SW \n※ \n \n \n \n \n COR-08\n \n \n \n \n \n \n \n , ,\n \n \n \n \n \n COR-09\n SW \n \n \n SW \n \n 46 , \n SW (SW ) \n \n< SW >\n \nSW \n( SW , HW, SW \n ) 1 \n \nSW \n( , )\n SW SW \n(www.spir.kr) SW \n \n SW \n \n SW \n \n \n \n 46 \n \n COR-10\n \n \n \n \n \n 50 \n (√) ( ) \n 50 , 47 1 2 , \n3 ,\n * , \n \n* 13 \n \n \n \n \n \n \n COR-11\n \n \n \n \n \n \n- \n \n \n‣ · \n‣ , \n‣ \n‣ , · · \n‣ \n \n- , \n , \n \n \n , \nⅤ. \n \n , , \n ※ , \n \n , \n \n ( )\n , \n \n \n , \n \n A4 (pdf) \n- 100 \n- (pdf) , 300MB \n A4 , A4 \n \n , \n \n , \n \n \n※ , “ ”, “ ”, “ ” \n , \n \n \n \n \nⅠ . \n1. \n2. \nⅡ . \n1. \n2. \n3. \n4. \n5. \nⅢ . \n1. \n2. \n3. \n4. \n5. \nⅣ . \n1. \n2. \n3. \nⅤ . \n1. \n2. \n3. \nⅥ . \n1. \n2. \n3. \n4. \n5. \n6. \n7. \nⅦ . \n \n \nⅠ . \n1. \n \n• , 3 ( , ) \n . [ 1 ]\n2. \n \n• .\n- (PM) \n- \nⅡ . \n1. • , , \n . .\n2. • ( ) \n .\n3. \n• , \n . ( / ), \n .\n4. \n \n• \n .\n5. \n• , .\n• , .\nⅢ . \n1. \n \n• , , , ,\nGS , \n ( , ).\n2. • \n .\n3. • , , \n .\n4. \n \n• · , , \n .\n5. \n \n• , .\n6. • .\nⅣ . \n1. • , , \n .\n2. • · .\n3. \n \n• \n .\n• , \n .\nⅤ . \n1. \n• , , , \n . , \n .\n※ , \n2. • , , , .\n3. • .\n4. · • , , · \n .\nⅥ . \n1. \n• , , .\n※ 21 (SP ) \n \n2. • , , \n .\n3. • , , , , \n .\n4. • , , , .\n5. • , , , .\n6. • , , \n .\n7. • / .\nⅦ . \n • \nⅥ. \n \n \n- : ( )\n- 49 1 , 44 1 \n \n- 43 43 2 \n \n- “ ” \n \n \n- 12 14 \n , \n- 27 76 ( \n ) \n- 17 ( \n [ 1468])\n \n- 48 4 \n \n- 20 , 48 2 \n ( ) \n ( \n )\n- “ ” \n ( [ 8111159901]) \n \n \n- ( ) , \n 5 , 10% \n \n- ( ) 9 ( ) 8\n \n※ , \n \n \n \n- : (90%), (10%)\n- = + \n \n- \n- “ ” \n- \n 90 , 85% \n \n- \n \n- 4 5 \n 3 \n \n- , , \n \n \n \n- , \n 90 , 85% \n \n※ : \n※ \n‧ \n‧ ( ) ( ) \n \n \n- 1 \n \n- \n- \n \n ( )\n \n \n \n< : 90 >\n \n \n1. \n \n• \n .\n6\n(20)\n2. \n• \n . 5\n3. \n• ( , \n , ) , , \n .\n5\n4. \n \n• \n .\n4\n \n(18)\n5. \n \n• , \n .\n8\n6. \n \n• \n \n .\n5\n7. \n \n \n• : \n \n .\n• : \n · · · \n .\n5\n \n(15)\n8. • . 5\n9. \n \n• \n . , \n .\n5\n10. \n• , ( ), ,\n , , \n \n .\n5\n \n \n(20)\n11. • \n \n .\n5\n12. \n• ( , , ) \n . , \n \n .\n5\n13. \n \n• \n , \n .\n5\n14. \n \n• , · \n \n .\n5\n \n \n(17)\n15. \n• · , \n .\n5\n16. \n• , , ,\n , . 4\n17. • , , \n .\n5\n18. \n \n• , \n \n .\n3\n< : 10 >\n • .\n< >\n \n \n \n \n \n \nAAA, AA+,\nAA0, AA-\nA+, A0, A-,\nBBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+,\nAA0, AA-,\nA+, A0, A-,\nBBB+, BBB0\n \n100%\nBBB-, BB+,\nBB0, BB-\nA3-, B+, B0\nBBB-, BB+,\nBB0, BB-\n“ 95%\nB+, B0, B- B- B+, B0, B- “ 90%\nCCC+ C CCC+ “ 70%\n※ ( ) ( \n ) \n \n- ( ): 10 \n \n \n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0 100%\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB- 95%\nB+, B0, B- B- B+, B0, B- 90%\nCCC+ C CCC+ 70%\n* \n[ ]\n1. 2 8 3 \n 335 3 \n , \n , . , \n .\n2. ,\n . , \n .\n3. 1 , \n . \n , \n \n .\n4. 7 \n . \n , \n . , , \n ( , \n ) .( )\n5. , \n .\n( ) (A ×A )+(B ×B )…\n6. .\n \n : \n : \n ( ): \n※ \n : \n(055-751-0881, pg0066@koelsa.or.kr)\n \n , \n \n , \n \n ( \n )\n , \n \n※ , \n , , \n , , \n , \n \n , \n \n 12 14 , \n 12 \n \n \n \n , \n \n \n 16 , 17 \n \nⅦ. \n SW \n 43 , 35 37 , \n 5 , 6 “ \n ” ( 5)\n \n 10 “ \n ” ( 6)\n \n (FP) \n \n \n ( ) 58 2 3 , \n . ,\n 58 2 . , \n58 3 \n \n ( \n ) 1 \n \n \n \n SW ( SW ) \n 1 \n \n① \n[ 1] ․ \n , [ 2] .\n② , , , , \n [ 3] ‘ ’ [ 4] ‘ ’ \n ( ) , \n 76 .\n③ \n , \n .\n④ 30 , \n ( ) .\n⑤ \n , \n .\n[ 1] \n[ 2] \n[ 3] \n[ 4] \n 1 \n \n \n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n• \n( )\n• \n \n• \n \n• \n \n \n1. \n . \n . \n . ․ \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . P2P \n \n . \n . \n . PC \n . PC \n . \n . ( )\n• \n \n• \n \n• \n \n \n \n1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n• \n \n• \n / \n• \n \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n• \n \n• / \n \n 2 \n① A~D \n \n \nA B C D \n 1 1 2 3 \n \n 500 300 100 \n※ [ 1] \n② , .\n※ 1 \n③ .\n 3 \n \n1. IP \n2. \n3. \n4. \n5. \n6. \n7. (IPS) \n \n8. 9 1 \n \n9. 2 1 \n10. 4 16 3 \n11. \n 4 \n \n \n- , \n .\n \n- , \n .\n \n- , \n 1 .\n \n \n- ( “ ” ) .\n※ \n (DB , IP , )\n※ ( \n , , )\n※ \n \n- , / \n .\n- , \n .\n \n \n- \n , [ 1] \n .\n \n- PC, , , \n .( , )\n※ : PMS, PC PC \n※ : ( )\n- USB , USB \n .\n- \n .\n \n ,\n .\n , .\n .\n※ \n .\n※ .\n 2 \n \n1. [ 1 ] \n2. [ 2 ] ( )\n3. [ 3 ] ( )\n4. [ 4 ] ( )\n5. [ 5 ] \n[ 1 ] \n \n \n \n \n \n \n ( )\n○ \n[ 2 ] ( )\n ( )\n 0000 00 00 .\n1. \n .\n2. \n .\n3. \n .\n4. \n .\n0000 00 00 \n :\n( ) :\n : ( )\n :\n :\n( ) :\n : ( )\n :\n[ 3 ] ( )\n ( )\n 0000 00 00 ( ) ( , , , ) \n .\n- ( ) \n .\n- \n .\n- .\n . 35 ( ) 76 ( )\n \n \n ( )\n \n ( )\n[ 4 ] ( )\n ( )\n , \n .\n- ( ) ( ) \n , \n .\n- ( ) \n , \n .\n- ( ) \n .\n \n ( ) \n :\n :\n : ( )\n \n[ 5 ] \n 1 ( ) , \n ․ \n .\n1. :\n2. :\n3. :\n 2 ( ) , , .\n1. : \n2. :\n3. :\n 3 ( ) .\n1. ( : )\n2. ( : )\n .\n 3 , \n .\n 4 ( ) , . \n , 3 \n .\n 5 ( ) 1 \n .\n 6 ( ) \n . , \n . < 2014.1.10.>\n 7 ( ) \n .\n 8 ( ) 11 , \n .\n1. ( ) : , , \n2. : , , \n 9 ( ) .\n1. : %\n2. : %\n 1 . , \n .\n1. \n2. , , , , ( \n ), \n \n \n , .\n 10 ( ) 9 \n .\n 10 2( ) , , , \n .\n , \n .\n 1 , \n , \n .\n 3 \n . , \n . [ 2012.4.2.]\n 11 ( ․ ) ․ 3 .\n 12 ( ) \n . , 3 \n .\n1. \n2. , , 10 2 \n \n< 2012.4.2.>\n3. , , \n 76 1 6 \n 1 \n . , , , \n \n . < 2010.9.8.>\n 2 9\n .\n 10 .\n 13 ( ) \n . , \n . < 2014.1.10.>\n 14 ( ) \n .\n .\n \n .\n \n ( )\n ( )\n 3 \n \n※ : , , ( 346 )\n ( 29 )\n · · · \n .\n \n ( 4 ) o ※ , \n ( 5 ) o ․ ․ 3 \n ( 7 ) o ․ \n ․\n ( 6 )\no ․ \n※ : (Firewall), (IDS) \n \n( 7 )\no : ( , , , ), , \n , , \no \n \n ․ \n \n ,\n \n ,\n \n \n , (DMZ) : \n② : \n( ※ )\n* 1 \n ( )\no : , \no : 3 , \n 12 \n ( 8 )\no 1 , , 5 , \n 2 · \no 1 \n ( 9 ) o ( S/W ) ※ 1 \n \n( 10 )\no \n o ․ \n \n① ( 26 )\n- 3 \n .\n1. \n2. \n3. \n4. · \n※ \n5. \n6. \n※ < 5> \n② ( 26 )\n- ‧ \n• , , \n• · \n※ ( )\n- *( , 1 )\n* , , \n- ‧ *( , 2 )\n* , , ‧ \n- \n- \n \n 5 \n 26 1 \n , \n .\n \n .\n ( )\nOOO( “ ” ) △△△ ( “ ” ) “ ” “ ” \n .\n 1 ( ) “ ” “ ” , “ ” “ \n ” .\n 2 ( ) , , \n ( ), ( ) \n .\n 3 ( ) “ ” ( ) \n .\n1. ( )\n2. ( )\n 4 ( ) . : 20 ~\n20 \n 5 ( ) “ ” “ ” 3 \n .\n “ ” “ ” 3 \n“ ” . , “ ” \n “ ” .\n “ ” .\n “ ” .\n 6 ( ) “ ” 29 , 30 \n ( ) \n .\n 7 ( ) “ ” \n 3 .\n 8 ( ) “ ” “ ” \n , “ ” .\n1. \n2. \n3. \n4. \n5. \n6. \n “ ” “ ” 1 “ ” 3 \n , . “ ” “ ” \n .\n “ ” “ ” \n “ ” [ ] “ \n ” “ ” . “ ” “ ” “ \n ” “ ” .\n1. 32 2 (ISMS-P) \n2. 1 , “ ” “ ” 31 7 \n \n 3 “ ” “ ” \n “ ” , “ ” .\n 9 ( ) “ ” 26 4 \n “ ” ,\n“ ” . “ ” “ ” “ ” \n .\n 1 , \n , “ ” “ ” . , “ \n ” 3 “ ” \n “ ” , “ ” .\n “ ” “ ” .\n 10 ( ) “ ” , , \n .\n 11 ( ) “ ” \n 16 “ ” .\n 1 “ ” “ ” .\n 12 ( ) “ ” 3 “ \n ” “ ” 3 .\n 1 3 \n .\n 2 , “ ” “ ” 1 \n .\n20 . .\n( )\n○○ ○○ ○○ ○○ \n ( )\n( )\n○○ ○○ ○○ ○○ ( )0000\n : ( )\n 4 \n[ ] , [ ] \n \n \n□ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( \n )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( ) ( )\n ( ) ( )\n ( ) ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( \n )\n ( )\n□ \n \n / \n / \n \n \n \n \n \n \n \n \n \n \n , , \n .\n \n \n \n 2.2\n \n \n \n UI/UX \n \n \n \n- HTML 4.01/HTML 5, CSS 2.1 / CSS 3\n- XHTML 1.0\n- XML 1.0, XSL 1.0, XSLT 2.0\n- ECMAScript 14th\n \n- 1.0\n(KICS.KO-10.0307)\n- 2.0\n(KSX3253:2016)\n \n (KS X ISO/IEC 20000)/ ITIL v3, v4\n \n \nIPv4\nIPv6\n□ \n \n / \n / \n \n \n \n \n \n \n \n \n \n ,\n \n .\n \n \n \n- SOAP 1.2, WSDL 2.0, XML 1.0\n- RESTful\n \n- UML 2.X / BPMN 2.X\n- ebXML/BPEL/XPDL\n : XML 1.0, JSON\n : RESTful API, WSDL 2.0\n□ \n \n / \n / \n \n \n \n \n \n \n \n \n \n IPv4 IPv6 \n .\n , \n \n .\n \n \n : H.320~H.324,\nH.310\n : VoIP\n- H.323\n- SIP\n- Megaco(H.248)\n \n \n ( ) \n- POSIX.0\n- UNIX\n- Windows Server\n- Linux\n \n- android\n- IOS\n \n \n DBMS\n- RDBMS\n- ORDBMS\n- OODBMS\n- MMDBMS\n- TSDBMS\n ITIL v3, v4 / ISO20000\n \n : \n \n \n IaaS\n PaaS\n SaaS\n□ \n \n / \n / \n \n \n \n \n \n \n \n \n \n .\n , , , \n , .\n ( 2 6 \n ) , \n \n , .\n \n , \n , \n \n .\n \n \n .\n \n \n \n \n \n \n : HTML 4.01 / HTML 5\n \n- JSP 2.x\n- ASP.net\n- PHP\n- ( )\n \n \n- C\n- C++\n- Java\n- C#\n- ( )\n \n \n- XMI 2.0 / XMI 3.2\n- SOAP 1.2\n- API\n \n- EUC-KR\n- UTF-8( , UTF-8 )\n□ \n \n / \n / \n \n \n \n \n \n \n \n \n \n \n . “ \n ”, “ ”, “ ” “ \n ” .\n \n .\n \n \n .\n \n \n \n \n ( )\n ( )\n \n \n \n \n \n \n ( )\n- PKI \n- SSO ( CC )\n- \n- (DRM)( CC \n )\n- \n- \n- \n- DB ( CC )\n- (8 ) \n \n- \n CC ( CC )\n- ( ) \n- ( ) ( )\n- ( )\n- \n- DDos ( )\n- \n- \n- \n- ( )\n- \n- (2022.1 )\n- ( )\n- \n- \n- \n- DB \n- \n- ( \n )\n- ( )\n- \n- USB(2020.1.1 , \n )\n- (2021.1.1 , \n , \n )\n- (2021.1.1 )\n- CC \n \n- USB( )\n- ( , \n )\n- \n- \n- (L3 )\n- \n ( · ) \n- · ( \n )\n- \n \n- (CSAP) \n- \n \n \n \n \n \n- \n- \n- \n- \n- \n- \n- \n- \n- \n \n- \n- ( )\n- ( )\n- \n※ “ ” \n 5 \n\n 6 \n 7 \n\n AI ( ) AI \n 2026. 7. 3.\n \n \n(* ‘O’ )\n \n \n \n1. ○\n2. SW W \n (BMT) ○\n3. SW ○\n4. ○\n5. SW ( ) ○\n6. SW ○\n7. SW ○\n8. ○\n9. ○\n \n(NVIDIA A100) \n \n \n10. \n( ) ○\n11. (90%) ○\n12. SW ○\n13. SW ○\n14. ○\n15. SW ○\n16. ○\n17. SW ○\n18. SW ○\n※ SW \n 8 \n ( 26 )\n※ [ ] √ .\n 14 \n \n \n \n \n \n \n[ ] [ ] \n \n \n \n \n \n( ※ )\n \n \n( ※ )\n \n \n( ※ )\n \n \n \n ( ※ )\n 50 3 .\n \n ( )\n \n \n \n \n \n \n : \n210mm×297mm[ 80g/ ]\n 9 \n \n□ \n1. \n‣ · \n‣ \n2. \n‣ \n( )\n‣ · \n3. ‣ \n4. ‣ \n□ \n5. \n‣ \n‣ \n6. ‣ ( )\n7. \n‣ \n( )\n8. ‣ \n9. \n‣ \n‣ \n□ \n10. \n‣ · , , \n \n11. \n‣ · \n \n12. \n‣ , \n‣ ( , )\n□ \n13. ‣ 3",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "( ) \n (RFP)\n AI ( ) \nAI \n \n2026. 7.\n \n \n \n \n \n TEL: 055-751-0971 FAX : 02-6499-\n1291 TEL: 055-751-0881\n \nⅠ . 1\n1. 1\n2. 2\n3. 2\n4. 2\nⅡ . 3\n1. 3\n2. 4\n3. 4\nⅢ . 6\n1. 6\n2. 7\n3. 7\nⅣ . 8\n1. 8\n2. 8\n3. 9\n4. 12\nⅤ . 70\n1. 70\n2. 70\n3. 71\n4. 72\nⅥ . 74\n1. 74\n2. 75\n3. 76\n4. 80\n5. 80\n6. 81\nⅦ . 82\n 1 83\n 2 90\n 3 99\n 4 104\n 5 114\n 6 115\n 7 116\n 8 117\n 9 118\nⅠ. \n \n \n- , · \n AI...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "가 격 조 사 서\n(입찰·계약명 : 공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업 )\n□ 편성예산: 231,000,000원(부가가치세 포함)\n ※ 12-7-5. 승강기 안전관리 AI 전환 정책의 체계적 기획 / 시스템구축\n□ 설계금액: 231,000,000원(부가가치세 포함)\n□ 가격조사\n(부가세포함, 단위 : 원)\n구분\n시장에서 조사된 가격 설계금액\n㈜온피아 elcn 디앤피플래닛\n금액 209,868,124 232,972,871 235,090,806 231,000,000원\n※ 공공기관 모범거래모델\n ○ 저가계약 관행 개선으로 평균가격 이상으로 금액 설계\n□ 참고사항\n ○ 상기 조사내역은 용역조건을 충분히 이해한 업체에서 작성된 견적서에 근거하여 작성함\n2026. 7. 22.\n 작 성 자 고객지원실 과장 박 건\n 검 토 자 재무관리실 대리 이종민\n○ 개발원가 산정 (단위 : 원)\n규모 연계복잡성 성능 운영환경 보안성\n1.2800 0.94 1.00 1.060 1.06\n○ 직접경비 (단위 : 원)\n○ 보정계수 산정\n○ FP 집계\n구분 ILF EIF EI EO EQ\n기능수 22 2 8 0 7\n기능점수 165.0 10.8 32.0 0.0 27.3\n비중 70% 5% 14% 0% 12%\n운영환경 호환성 1. 운영환경 호환성에 대한 요구사항이 없다. 1.06\n100%\n보안성 요구수준 1. 암호화, 웹취약점 점검, 시큐어코딩, 개인정보보호 등 1가지 보안 요구사항이\n포함되어 있다. 1.06\n계\n39\n235.1\n연계복잡성 2. 1~2개의 타 기관 연계 0.94\n성능 요구수준 2. 응답성능에 대한 요구사항이 있으나 특별한 조치가 필요하지는 않다. 1.00\n합 계 0\nSW규모 = 0.4057 x (log e(235.1) - 7.1978)^2 + 0.8878\n (단, 500FP 미만 1.28, 3,000FP 초과 1.153 적용) 1.2800\n합계(보정 후 개발원가) 192,539,563\n보정계수 구분 복잡도 및 난이도 수준 보정계수\n소프트웨어 개발비(부가세 별도) 192,539,563\n구분 산출내역 금액\n235.1 605,784 192,539,563\n\"공단 AI시스템(엘리아) 구축 및 AI 민원 상담사 고도화 용역\" 소프트웨어 개발비 산정\n총기능점수 기능점수당 단가\n보정계수\n개발원가\n데이터 및\n트랜잭션\n기능\nFP 산출\n①어플리케이션명 ②세부 업무명 ③단위프로세스명 단위프로세스 설명 ④FP유형 ⑤가중치\n생성형 AI 플랫폼 AI 모델 버전 관리 ILF 7.5 \n생성형 AI 플랫폼 AI 구성요소 관리 기능 ILF 7.5 \n생성형 AI 플랫폼 문서업로드 ILF 7.5 \n생성형 AI 플랫폼 데이터전처리 ILF 7.5 \n생성형 AI 플랫폼 벡터데이터베이스 ILF 7.5 \n자연어 기반 데이터베이스 기능 자연어 질의 변환 ILF 7.5 \n자연어 기반 데이터베이스 기능 데이터 처리 EQ 3.9 \n자연어 기반 데이터베이스 기능 콘텍스트 인식 EQ 3.9 \n자연어 기반 데이터베이스 기능 결과 시각화 EQ 3.9 \n사용자 대화 이력 및 검색 로그 관리 기 사용자별 대화 이력 저장/조회 EI 4.0 \n사용자 대화 이력 및 검색 로그 관리 기 상세 검색 로그 EQ 3.9 \n사용자 대화 이력 및 검색 로그 관리 기 대시보드 및 통계 EQ 3.9 \n음성인식 기능 실시간 음성데이터 수집 ILF 7.5 \n음성인식 기능 음성데이터 채널별 분배 ILF 7.5 \n음성인식 기능 연동(콜인프라) EIF 5.4 \n음성인식 기능 변환결과 화면 기능 EQ 3.9 \n음성인식 기능 학습 기능 ILF 7.5 \n상담 요약 기능 상담 내용 요약 기능 EIF 5.4 \n상담 요약 기능 요약 내용 수정 기능 EI 4.0 \n상담 어시스트 파일 등록 기능 EI 4.0 \n상담 어시스트 지식 항복별 테그 기능 EQ 3.9 \n상담 어시스트 추천 지식 조회 기능 ILF 7.5 \n상담 어시스트 자동 추천 기능 ILF 7.5 \n상담 어시스트 문서 업로드 EI 4.0 \n상담 어시스트 자동 파싱 기능 ILF 7.5 \n상담 어시스트 자연어 질의 기능 ILF 7.5 \n상담 어시스트 문서 하이라이트 기능 ILF 7.5 \n지능형 검색 대화형 인터페이스 ILF 7.5 \n지능형 검색 원문조회 기능 EI 4.0 \n지능형 검색 검색 기능 EI 4.0 \n지능형 검색 가이드 기능 ILF 7.5 \n민원 응대 챗봇 지식베이스 ILF 7.5 \n민원 응대 챗봇 대화 세션 / 이력 ILF 7.5 \n민원 응대 챗봇 미응답/피드백 로그 ILF 7.5 \n민원 응대 챗봇 사용자 질의 입력/전송 EI 4.0 \n민원 응대 보이스봇 지식베이스 ILF 7.5 \n민원 응대 보이스봇 대화 세션 / 이력 ILF 7.5 \n민원 응대 보이스봇 미응답/피드백 로그 ILF 7.5 \n민원 응대 보이스봇 사용자 질의 입력/전송 EI 4.0 \n기능명\nFP 산출을 위한 기능 요구사항 정리표(공통, 기능점수 산정)\n[ 25년 8월 1일 품목 조견 적용 | www.onpia.co.kr ]\n견적일 2026년 7월 21일 화요일 견적 번호 224 - 71 - A\n유효기간 견적일로부터 4주 견적 발행처\n고객명 한국승강기안전공단\n수신인 박건 과장님 귀하 견적 담당자\n A (1) 소프트웨어 라이선스 소계\n B (2) 인프라 및 상담장비 소계\n C (3) 커스터마이징 또는 추가 개발 소계\n 견적금액 (1)+(2)+(3) 1회성 구축 비용 (부가세 포함)\n단위 단가 수량 공급금액 비고\n A. 소프트웨어 라이선스(SDCC, Software Define Contact Center) License\n- - N/A, (해당없음, 공란) - - - - -\n (1) 소프트웨어 라이선스 소계 ₩0\n B. 필수 H/W 및 인프라 구성(상담장비)\n- - N/A, (해당없음, 공란) - - - - -\n (2) 인프라 및 상담장비 소계 ₩0\n C. 커스터마이징 또는 추가 개발\n기능 기능점수(FP)_FP산정참조 식 ₩605,784 235.1 ₩192,539,563 보정계수 반영\n이윤(개발비용의 9%) 식 ₩17,328,561 1 ₩17,328,561\n (3) 커스터마이징 또는 추가 개발 소계 ₩209,868,124\n D. 보증 기간 또는 기술지원 서비스 플랜 구독 (별도 서비스플랜 구독에 의하며 본 견적금액에 포함되지 않습니다)\nWRT-1Y 무상하자보수\n: Warranty service 년(Year) ₩0 1 ₩0 개통 후 1년\n₩0\nAI 시스템 구축 및\nAI 민원 상담사 고\n도화 사업\n [구축, On-premise]\n ※ 상담장비 및 인프라는 각 제조사 보증 정책을 상속하며 부품의 교체 또는 무상 수리는 최초 1년에 한합니다.\n품목\n(일금 이억삼천팔십오만사천구백삼십육원정)\n₩0\n₩0\n (4) 보증 연장 또는 기술지원(유지보수) 서비스 플랜 구독 소계\n ※ 고객(또는 최종사용자)의 과실, 기타 천재지변에 의해 발생한 상담장비 및 인프라에 대한 부품의 교체 또는 수리는 고객사 실비 정산에 의합니다.\n ※ 1년을 초과하여 발생한 상담장비 및 인프라에 대한 부품의 교체 또는 수리는 고객사 실비 정산에 의합니다.\n : 010-2655-7640, youngsung@onpia.co.kr\nTEL : 1588-9310 | FAX : 02-6330-2077 | 108-81-26598\n : 010-6320-9832, pg0066@koelsa.or.kr\n김영성 차장\nONPIA - 2026 - W30 - \n[구축] 공단 AI시스템 구축 및 AI 민원 상담사 고도화\n㈜온피아, ONPIA Co., Ltd.\n₩209,868,124\n₩230,854,936\nPAGE : 1 / 2\n- 이어서 계속 -\n ※ 본 견적은 상세 업무협의 및 고객사 환경, 추가 연동, 기능 요구에 따라 금액의 증감이 발생할 수 있습니다.\n ※ 번들 애플리케이션의 커스터마이징(또는 추가개발)은 별도 협의에 의하며 2일 이상의 개발 공수에 대해 추가비용이 발생합니다.\n ※ 서버 및 주요 구성품은 해당 제조사의 제품보증에 관한 약관을 승계합니다.\n ※ 하드디스크(HDD) 고장에 따른 기술지원은 교체 또는 수리에 한하며 저장된 데이터의 보증을 의미하지 않습니다.\n ※ 본 견적은 전산실 구축 및 전기, 네트워크 설비 및 선로 등의 공사 및 시공에 관한 사항이 포함되어 있지 않습니다.\n ※ 본 견적은 수신처 '한국승강기안전공단'에 한하여 유효합니다.\n ※ 납품일: 주문 또는 계약 체결 후 최대 2개월 또는 별도 협의\n ※ 무상하자보수 및 품질보증(Warranty): 설치 또는 개통일로부터 1년\n ※ 견적 조건 및 참고 사항\nPAGE : 2 / 2\n수 신 : 한국승강기안전공단 사업자등록번호 : 214-88-15527\n주소 : 서울시 서초구 서초대로 396 강남빌딩 15층 1501호\n건 명 : 공단 AI시스템 구축 및 AI 민원 상담사 고도화 대표이사 : 송 덕 수\n아래와 같이 견적합니다.\n발 행 일 자 : 2026-07-20 TEL : 070-7549-0101 (대표), FAX : 0505-990-7538 \n납 기 일 자 : 발주 후 4개월 이내 담 당 자 : 정진욱 차장\n연 락 처 : 010-6814-2839\n이 메 일 : boganjung@gmail.com\nNO 품 명 수량 단가 공급가액 비고\n1 AI 플랫폼 도입 개발 개발 기능점수 산정(FP 기준) 235.1 605,784 192,539,563 \n이윤 회사이윤(10%) 1 19,253,956 19,253,956 \n211,793,519 부가세별도구축 비용\n※ 견적 유효기간은 견적 후 2주 이내임.\n※ 견적에 포함된 기본 사항 외에 추가 개발이 필요한 경우 별도 협의 후 재견적함.\n견 적 서\n규 격\n* Main System (필수)\n납 품 장 소 : 귀사 지정 장소\n구 축 금 액 : ₩232,972,871원 (부가세포함)\n\n회사명 :\n사업자번호 :\n주소 :\n대표이사 :\nMobile : 010-2675-6844\nMail :\nItem Description Q' Unit Price Price (Won) Note\n기능점수(보정계수 반영) 235 605,784 192,539,563 \n개발사이윤(11%) 1 21,179,352 21,179,352 \n213,718,915\n21,371,891\n235,090,806\n발주 내용 : \n개발 기간 : 발 주 자 : (직인)\n견적 금액 : 발주일자 :\n 공단 AI시스템 구축 및 AI 민원 상담사 고도화\n\\235,090,806원 (일금 이억삼천오백구만팔백육 원 / VAT포함)\n계약일로부터 4개월\n2026년 7월 20일\nProduct\nFP적용\n1\n이윤\n2. 본 견적은 ' 공단 AI시스템 구축 및 AI 민원 상담사 고도화'에 한하여 유효 합니다.\n3. 최종 협의 후 구성에 따라 견적은 변동 될 수 있습니다.\n발주서\n위 견적 내용을 확인 하였으며 아래 내용과 같이 발주합니다.\n합 계\n부 가 세\n총 계\n[참고]\n1. 개발 기간 : 계약일로부터 4개월\nQuotation\n수 신 : 한국승강기안전공단\n담 당 자 : 박건 과장님 디앤피플래닛\n견적발행번호 : DNP-260710 108-81-26598\n 공단 AI시스템 구축 및 AI 민원 상담사 고도화 견적이 아래와 같습니다.\n견 적 금 액 : \\235,090,806원 (일금 이억삼천오백구만팔백육 원 / VAT포함)\nblackfacekin@naver.com\n견 적 일 자 : 2026년 7월 20일 부산광역시 연제구 안연로8번길 39, 2층\n견적유효기간 : 견적일로부터 2주이내\n하자보증기간 : 검수 후 1년\n이병학 (직인)",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01686488-000",
+    "sourceFile": "가격조사서(견적서 포함).pdf",
+    "generatedAt": "2026-08-24T10:31:34.889932",
+    "match": {
+      "noticeId": "R26BK01686488-000",
+      "bidNtceNo": "R26BK01686488",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01686488-000",
+      "projectName": "공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업 신청기관(부서) 한국승강기안전공단(디지털지원실) 상위기관(부서) 행정안전부 □ 과업 기본 정보 대국민 서비스 유무 ☑ 유 □ 무 자원도입(HW/SW) 과업 유무 □ 유 ☑ 무 모바일 앱 서비스 유무 □ 유 ☑ 무 클라우드(IaaS) 이용 유무 (공공/민간클라우드 전환포함) □ 유 ☑ 무 □ 대내외 지적사항 및 조치 내역 지적사항 조치 내역 없음 ※ 중복·연계 등과 관련한 지능정보사회 실행계획, 국회, 감사원 등 지적사항 및 조치 내역 □ 예비검토 의견 반영 예비검토 의견유무 행정안전부 예비검토의견 기관의 반영계획 회신 반영결과 없음 ※ 전자정부 성과관리 지침 제6조(사전협의를 위한 사업목적 등의 예비검토) 내용 기재 □ 분야별 검토결과 검토분야 구 분 검토결과 주요 내용  유사·중복 및 연계·통합 ① 기관 내 또는 타 기관의 유사시스템 (사업)과 중복 여부를 확인하였는가? * 「전자정부 성과관리 업무매뉴얼」 참고 ☑ 예 □ 해...",
+      "keywords": [
+        "공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업 신청기관(부서) 한국승강기안전공단(디지털지원실) 상위기관(부서) 행정안전부 □ 과업 기본 정보 대국민 서비스 유무 ☑ 유 □ 무 자원도입(HW/SW) 과업 유무 □ 유 ☑ 무 모바일 앱 서비스 유무 □ 유 ☑ 무 클라우드(IaaS) 이용 유무 (공공/민간클라우드 전환포함) □ 유 ☑ 무 □ 대내외 지적사항 및 조치 내역 지적사항 조치 내역 없음 ※ 중복·연계 등과 관련한 지능정보사회 실행계획, 국회, 감사원 등 지적사항 및 조치 내역 □ 예비검토 의견 반영 예비검토 의견유무 행정안전부 예비검토의견 기관의 반영계획 회신 반영결과 없음 ※ 전자정부 성과관리 지침 제6조(사전협의를 위한 사업목적 등의 예비검토) 내용 기재 □ 분야별 검토결과 검토분야 구 분 검토결과 주요 내용  유사·중복 및 연계·통합 ① 기관 내 또는 타 기관의 유사시스템 (사업)과 중복 여부를 확인하였는가? * 「전자정부 성과관리 업무매뉴얼」 참고 ☑ 예 □ 해...",
+        "R26BK01686488-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "용역 공고",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업 신청기관(부서) 한국승강기안전공단(디지털지원실) 상위기관(부서) 행정안전부 □ 과업 기본 정보 대국민 서비스 유무 ☑ 유 □ 무 자원도입(HW/SW) 과업 유무 □ 유 ☑ 무 모바일 앱 서비스 유무 □ 유 ☑ 무 클라우드(IaaS) 이용 유무 (공공/민간클라우드 전환포함) □ 유 ☑ 무 □ 대내외 지적사항 및 조치 내역 지적사항 조치 내역 없음 ※ 중복·연계 등과 관련한 지능정보사회 실행계획, 국회, 감사원 등 지적사항 및 조치 내역 □ 예비검토 의견 반영 예비검토 의견유무 행정안전부 예비검토의견 기관의 반영계획 회신 반영결과 없음 ※ 전자정부 성과관리 지침 제6조(사전협의를 위한 사업목적 등의 예비검토) 내용 기재 □ 분야별 검토결과 검토분야 구 분 검토결과 주요 내용  유사·중복 및 연계·통합 ① 기관 내 또는 타 기관의 유사시스템 (사업)과 중복 여부를 확인하였는가? * 「전자정부 성과관리 업무매뉴얼」 참고 ☑ 예 □ 해...",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01686488-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업 신청기관(부서) 한국승강기안전공단(디지털지원실) 상위기관(부서) 행정안전부 □ 과업 기본 정보 대국민 서비스 유무 ☑ 유 □ 무 자원도입(HW/SW) 과업 유무 □ 유 ☑ 무 모바일 앱 서비스 유무 □ 유 ☑ 무 클라우드(IaaS) 이용 유무 (공공/민간클라우드 전환포함) □ 유 ☑ 무 □ 대내외 지적사항 및 조치 내역 지적사항 조치 내역 없음 ※ 중복·연계 등과 관련한 지능정보사회 실행계획, 국회, 감사원 등 지적사항 및 조치 내역 □ 예비검토 의견 반영 예비검토 의견유무 행정안전부 예비검토의견 기관의 반영계획 회신 반영결과 없음 ※ 전자정부 성과관리 지침 제6조(사전협의를 위한 사업목적 등의 예비검토) 내용 기재 □ 분야별 검토결과 검토분야 구 분 검토결과 주요 내용  유사·중복 및 연계·통합 ① 기관 내 또는 타 기관의 유사시스템 (사업)과 중복 여부를 확인하였는가? * 「전자정부 성과관리 업무매뉴얼」 참고 ☑ 예 □ 해...",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "기술능력 평가비중(90%) 도입 O - ・행정기관 및 공공기관 정보시스템 구축・운영지침 제18조 42p 12 SW기술성 평가기준 적용 O - ・SW 진흥법 제49조제2항 ・SW 기술성 평가기준 지침 등 관련법령 43~46p 13 SW사업 제안서 보상 O - ・SW 진흥법 제52조 ・SW사업 계약 및 관리감독에 관한 지침 제16조·제17조 47~48p 14 요구사항 상세화 O - ・SW 진흥법 제44조 ・SW사업 계약 및 관리감독에 관한 지침 제11조제1항 49~54p 15 SW사업 적정 사업기간 산정 △ ・사업기간 산정위원회 개최 결과 표기 필요 ・SW 진흥법 제45조 ・SW사업 계약 및 관리감독에 관한 지침 제10조 55~57p 16 투입인력 요구 및 관리 금지 O - ・SW사업 계약 및 관리감독에 관한 지침 제11조제3항·제18조제3항 58p 17 SW사업 영향평가 O ・SW사업 영향평가 실시 후 실시여부 명시 및 영향평가 결과서 첨부 ・SW 진흥법 제43조 ・SW 진흥법 시행...",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "변경시 소프트웨어사업 영향평가 결과서 재검토 필요* 자체 검토결과 ○ 번호 구분 검토사항 1 웹사이트 관련 과업이 있을 경우전자정부 웹사이트 품질관리 지침 및 -1., ⑥ 」 장애인고령자 등의 정보 접근 및 이용편의 증진을 위한 고시를 준수하였는가· ?「 」 장애인고령자 고시 · 추가 필요 2 데이터 표준화 및 상위표준 준수-1. ⑩ 데이터 표준 코드 용어 단어 도메인 등 데이터 표준화 사항 반영 여부,,, ‧ 공통표준 및 기관표준 적용 준수 여부‧ 데이터표준준수 사항 추가 필요 3 전문위원회를 통해 산정한 적정 사업기간 종합 산정서를 첨부하였는가‘ ’ ?⑬ 적정 사업기간 산정 위원회 결과 등록 필요 붙임 사전협의 자체검토결과서공단 시스템 구축 및 민원 상담사 고도화 사업1. ( AI AI )부 1 . 공공 소프트웨어사업 관련 법령준수 여부 사전 검토결과 부2. 1 . 소프트웨어사업 영향평가 결과서 부 끝3. 1 . . 디지털지원실장 사원 차장 실장 07/06 협조자 시행 디지털지원...",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업 신청기관(부서) 한국승강기안전공단(디지털지원실) 상위기관(부서) 행정안전부 □ 과업 기본 정보 대국민 서비스 유무 ☑ 유 □ 무 자원도입(HW/SW) 과업 유무 □ 유 ☑ 무 모바일 앱 서비스 유무 □ 유 ☑ 무 클라우드(IaaS) 이용 유무 (공공/민간클라우드 전환포함) □ 유 ☑ 무 □ 대내외 지적사항 및 조치 내역 지적사항 조치 내역 없음 ※ 중복·연계 등과 관련한 지능정보사회 실행계획, 국회, 감사원 등 지적사항 및 조치 내역 □ 예비검토 의견 반영 예비검토 의견유무 행정안전부 예비검토의견 기관의 반영계획 회신 반영결과 없음 ※ 전자정부 성과관리 지침 제6조(사전협의를 위한 사업목적 등의 예비검토) 내용 기재 □ 분야별 검토결과 검토분야 구 분 검토결과 주요 내용  유사·중복 및 연계·통합 ① 기관 내 또는 타 기관의 유사시스템 (사업)과 중복 여부를 확인하였는가? * 「전자정부 성과관리 업무매뉴얼」 참고 ☑ 예 □ 해...",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "변경시 소프트웨어사업 영향평가 결과서 재검토 필요* 자체 검토결과 ○ 번호 구분 검토사항 1 웹사이트 관련 과업이 있을 경우전자정부 웹사이트 품질관리 지침 및 -1., ⑥ 」 장애인고령자 등의 정보 접근 및 이용편의 증진을 위한 고시를 준수하였는가· ?「 」 장애인고령자 고시 · 추가 필요 2 데이터 표준화 및 상위표준 준수-1. ⑩ 데이터 표준 코드 용어 단어 도메인 등 데이터 표준화 사항 반영 여부,,, ‧ 공통표준 및 기관표준 적용 준수 여부‧ 데이터표준준수 사항 추가 필요 3 전문위원회를 통해 산정한 적정 사업기간 종합 산정서를 첨부하였는가‘ ’ ?⑬ 적정 사업기간 산정 위원회 결과 등록 필요 붙임 사전협의 자체검토결과서공단 시스템 구축 및 민원 상담사 고도화 사업1. ( AI AI )부 1 . 공공 소프트웨어사업 관련 법령준수 여부 사전 검토결과 부2. 1 . 소프트웨어사업 영향평가 결과서 부 끝3. 1 . . 디지털지원실장 사원 차장 실장 07/06 협조자 시행 디지털지원...",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "를 명확히 재정의할 필요가, \n있음을 안내드립니다.\n 제안요청서 검토 의견○ \n승강기 안전과 산업진흥을 선도하는 안전 전문기관\n청렴으로 출발 안전으로 도착! !\n한국승강기안전공단\n수신자 고객지원실장\n경유( ) \n제목 공공 소프트웨어사업 사전협의 및 법제도 준수 여부 검토결과 회신\n번호 구분 상세 내용\n1 자체 생성형 플랫폼 AI \n구축 범위 명확화 필요\n자체 생성형 플랫폼 구축은 운영관리 체계 모델 관리 AI LLM · , \n등 기관 내부 환경에 맞는 운영 시스템을 구축하는 방향으로AI \n정의되어야 하나 현 요구사항은 공개모델 적용 오픈소스 플랫폼, , \n설치구성 등으로 제안사별 해석 차이가 발생할 수 있음· . \n이에 개발 범위 공개모델 활용 범위 플랫폼 설치구성 범위 , , ·\n등을 명확히 구분할 필요가 있음.\n2\n상용 도입 또는 외부 S/W \n솔루션 활용범위 재검토 필요\n기능 개발과 관련하여 일부 요구사항은 상용 도입 또는 S/W \n외부 솔루션 활용을 유도하는 형태로 해석될 수 있음. \n신규 개발사업의 경우 특정 상용 제품 도입을 직접 요구하는S/W \n방식은 지양되어야 하며 상용 또는 외부 솔루션 활용을 , S/W \n허용할 경우에도 라이선스 유지관리 책임 기술지원 데이터 보안, , , , \n벤더 종속성 방지 방안 등을 명확히 제시할 필요가 있음.",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "협상에 의한 계약",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "기술능력 평가비중(90%) 도입 O - ・행정기관 및 공공기관 정보시스템 구축・운영지침 제18조 42p\n12 SW기술성 평가기준 적용 O -\n・SW 진흥법 제49조제2항\n・SW 기술성 평가기준 지침 등 관련법령 43~46p\n13 SW사업 제안서 보상 O -\n・SW 진흥법 제52조\n・SW사업 계약 및 관리감독에 관한 지침 제16조·제17조 47~48p\n14 요구사항 상세화 O -\n・SW 진흥법 제44조\n・SW사업 계약 및 관리감독에 관한 지침 제11조제1항 49~54p\n15 SW사업 적정 사업기간 산정 △ ・사업기간 산정위원회 개최 결과 표기 필요\n・SW 진흥법 제45조\n・SW사업 계약 및 관리감독에 관한 지침 제10조 55~57p\n16 투입인력 요구 및 관리 금지 O - ・SW사업 계약 및 관리감독에 관한 지침 제11조제3항·제18조제3항 58p\n17 SW사업 영향평가 O ・SW사업 영향평가 실시 후 실시여부 명시 및\n 영향평가 결과서 첨부\n・SW 진흥법 제43조\n・SW 진흥법 시행령 제35조·제36조·제37조\n・SW사업 영향평가 가이드라인(정보통신산업진흥원)\n59~61p\n18 SW사업정보 제출 O - ・SW 진흥법 제46조제3항 62p\n□ 사업명 : 공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업\n□ 사업금액 : 210백만원(부가세 포함)\n□ 담당부서 : 교육기획실\n* (O : 준수, X : 미준수로 인한 개선필요, △ :...",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4 (pdf) - 100 - (pdf), 300MB A4, A4,, ※, “ ”, “ ”, “ ”, Ⅰ . 1. 2. Ⅱ . 1. 2. 3. 4. 5. Ⅲ . 1. 2. 3. 4. 5. Ⅳ . 1. 2. 3. Ⅴ . 1. 2. 3. Ⅵ . 1. 2. 3. 4. 5. 6. 7. Ⅶ",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "USB ., - PC - - -,,,, - USB, -,, ( ),,, - PC CMOS,, (,, 9 ) - 1 PC,,,, PMR-07 PC( ), - PC,, P2P,, - PC, ., - - (Wibo, HSDPA, Wi-F",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "질의 변환 ILF 7.5 자연어 기반 데이터베이스 기능 데이터 처리 EQ 3.9 자연어 기반 데이터베이스 기능 콘텍스트 인식 EQ 3.9 자연어 기반 데이터베이스 기능 결과 시각화 EQ 3.9 사용자 대화 이력 및 검색 로그 관리 기 사용자별 대화 이력 저장/조회 EI 4.0 사용자 대화 이력 및 검색 로그 관리 기 상세 검색 로그 EQ 3.9 사용자 대화 이력 및 검색 로그 관리 기",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "COR-01",
+          "requirement": "◯1 표준 지침 준수",
+          "name": "◯1 표준 지침 준수",
+          "detail": "「전자정부 웹사이트 품질관리 지침」 및 「장애인·고령자 등의 정보 접근 및 이용편의 증진을 위한 고시」를 준 수하였는가? ☑ 예 □ 해당없음 < RPF 요구사항번호> 준수항목 요구사항 번호",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-02",
+          "requirement": "◯1 표준 지침 준수",
+          "name": "◯1 표준 지침 준수",
+          "detail": "◯3 장애인·고령자고시 내용 추가 필요 ⑥-2 신규 웹사이트 개설 과업이 있고, 「행정기관 및 공공기관 정보시스 템 구축·운영 지침」 제14조의2에 따라 웹사이트 총량이 증가하지 않도록 하였는가? □예",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-01",
+          "requirement": "◯2 데이터표준관리",
+          "name": "◯2 데이터표준관리",
+          "detail": "- 4 - 검토분야 구 분 검토결과 주요 내용 ‧ 공통표준 및 기관표준 적용 준수 여부 ⑩-2 데이터 표준 관리 ‧ 데이터 표준 관리방안 반영 여부 ‧ 데이터 표준 변경이력 관리방안 반영 여부 ☑ 예",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-03",
+          "requirement": "데이터구조설계",
+          "name": "데이터구조설계",
+          "detail": "⑩-4 데이터 구조 검증 ‧ 업무 요구사항의 모델 반영과 데이터 구조 정규화 수행 및 검증 계획 반영 여부 ‧ 데이터 모델링 과정 및 구조 적정성 검증 등에 대한 활동 사항 반영 여부 ☑ 예",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-04",
+          "requirement": "데이터구조검증",
+          "name": "데이터구조검증",
+          "detail": "⑩-5 데이터 구조 관리방안 ‧ 데이터 구조 관리방안 반영 여부 ‧ 데이터 구조 변경이력 관리방안 반영 여부 ☑ 예",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-05",
+          "requirement": "데이터구조관리",
+          "name": "데이터구조관리",
+          "detail": "⑩-6 데이터 값 검증 ‧ 데이터(연계데이터 포함) 값 검증 계획 반영 여부 ‧ 데이터 값 검증 수행 및 검증 결과에 따른 개선활동 반영 여부 ☑ 예",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-07",
+          "requirement": "데이터관리체계 수립",
+          "name": "데이터관리체계 수립",
+          "detail": "⑩-9 데이터 개방 및 메타데이터 관리체계 ‧ 개방 예정 데이터 목록 등 기관의 공 공데이터 개방계획과 본 사업의 연관성 관련사항 반영 여부 ‧ 공공데이터베이스의 메타데이터 등록, 관리 및 현행화 관련사항 반영 여부 □ 예",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-000",
+          "requirement": "Equipment Composition Requirement",
+          "name": "Equipment Composition Requirement",
+          "detail": "Equipment Composition Requirement",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-000",
+          "requirement": "Security Functional Requirements",
+          "name": "Security Functional Requirements",
+          "detail": "Security Functional Requirements",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-000",
+          "requirement": "Performance Requirement",
+          "name": "Performance Requirement",
+          "detail": "System Interface Requirement)",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-000",
+          "requirement": "Test Requirementt",
+          "name": "Test Requirementt",
+          "detail": "Test Requirementt",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-000",
+          "requirement": "Quality Requirement",
+          "name": "Quality Requirement",
+          "detail": "Quality Requirement",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-000",
+          "requirement": "Project Support Requirement",
+          "name": "Project Support Requirement",
+          "detail": "Project Support Requirement",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-000",
+          "requirement": "Data Quality Requirement",
+          "name": "Data Quality Requirement",
+          "detail": "Data Quality Requirement",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-000",
+          "requirement": "Project Management Requirement",
+          "name": "Project Management Requirement",
+          "detail": "Project Management Requirement",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-000",
+          "requirement": "Security Requirement",
+          "name": "Security Requirement",
+          "detail": "Security Requirement",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-000",
+          "requirement": "Constraint Requirement",
+          "name": "Constraint Requirement",
+          "detail": "Constraint Requirement",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-01",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-01",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-03",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "PMR-000 7 Security Requirement SER-000 8 Constraint Requirement COR-000 11",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-04",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "(LLM, Large Language Model)",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-05",
+          "requirement": ", RAG,",
+          "name": ", RAG,",
+          "detail": ", RAG,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-06",
+          "requirement": ", RAG,",
+          "name": ", RAG,",
+          "detail": "·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-07",
+          "requirement": ", RAG,",
+          "name": ", RAG,",
+          "detail": "COR-000 11 ECR-01 AI SFR-01 AI SFR-04 AI (LLM, Large Language Model) SFR-06 ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-08",
+          "requirement": ", RAG,",
+          "name": ", RAG,",
+          "detail": "ECR-01 AI SFR-01 AI SFR-04 AI (LLM, Large Language Model) SFR-06 ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-09",
+          "requirement": ", RAG,",
+          "name": ", RAG,",
+          "detail": "·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-10",
+          "requirement": ", RAG,",
+          "name": ", RAG,",
+          "detail": "SFR-04 AI (LLM, Large Language Model) SFR-06 · SFR-09 ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-11",
+          "requirement": ", RAG,",
+          "name": ", RAG,",
+          "detail": ", RAG,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-12",
+          "requirement": ", RAG,",
+          "name": ", RAG,",
+          "detail": "SFR-04 AI (LLM, Large Language Model) SFR-06 · SFR-09 · SFR-11 24",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-13",
+          "requirement": ", RAG,",
+          "name": ", RAG,",
+          "detail": "SFR-06 · SFR-09 · SFR-11 24",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-14",
+          "requirement": "SFR-14",
+          "name": "SFR-14",
+          "detail": "·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-15",
+          "requirement": "QA",
+          "name": "QA",
+          "detail": "QA",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-01",
+          "requirement": "QA",
+          "name": "QA",
+          "detail": "SFR-09 · SFR-11 24 SFR-14 ·",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-02",
+          "requirement": "QA",
+          "name": "QA",
+          "detail": "SFR-09 · SFR-11 24 SFR-14 ·",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-03",
+          "requirement": "QA",
+          "name": "QA",
+          "detail": "SFR-11 24 SFR-14 ·",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-04",
+          "requirement": "QA",
+          "name": "QA",
+          "detail": "AI",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-05",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-14 · SFR-15 QA",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-06",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-14 · SFR-15 QA",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-07",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-14 · SFR-15 QA",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-08",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-15 QA",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-09",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "STT",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-10",
+          "requirement": "STT",
+          "name": "STT",
+          "detail": "PER-04 AI",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-11",
+          "requirement": "STT",
+          "name": "STT",
+          "detail": "PER-04 AI",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-12",
+          "requirement": "STT",
+          "name": "STT",
+          "detail": "PER-04 AI",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-13",
+          "requirement": "STT",
+          "name": "STT",
+          "detail": "STT",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-14",
+          "requirement": "STT",
+          "name": "STT",
+          "detail": "SIR-01",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-01",
+          "requirement": "SIR-03 AI",
+          "name": "SIR-03 AI",
+          "detail": "SIR-01 SIR-02",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-02",
+          "requirement": "SIR-03 AI",
+          "name": "SIR-03 AI",
+          "detail": "SIR-01 SIR-02",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-03",
+          "requirement": "SIR-03 AI",
+          "name": "SIR-03 AI",
+          "detail": "SIR-01 SIR-02",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-01",
+          "requirement": "SIR-03 AI",
+          "name": "SIR-03 AI",
+          "detail": "SIR-01 SIR-02",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-02",
+          "requirement": "SIR-03 AI",
+          "name": "SIR-03 AI",
+          "detail": "SIR-01 SIR-02",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-03",
+          "requirement": "SIR-03 AI",
+          "name": "SIR-03 AI",
+          "detail": "SIR-01 SIR-02",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-04",
+          "requirement": "SIR-03 AI",
+          "name": "SIR-03 AI",
+          "detail": "SIR-02",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-01",
+          "requirement": "SIR-03 AI",
+          "name": "SIR-03 AI",
+          "detail": "SIR-03 AI",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-02",
+          "requirement": "PSR-02",
+          "name": "PSR-02",
+          "detail": "PSR-02",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-03",
+          "requirement": "PSR-03",
+          "name": "PSR-03",
+          "detail": "PSR-03",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-04",
+          "requirement": "PSR-04",
+          "name": "PSR-04",
+          "detail": "PSR-04",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-05",
+          "requirement": "PSR-05",
+          "name": "PSR-05",
+          "detail": "PSR-05",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-02",
+          "requirement": "DAR-02",
+          "name": "DAR-02",
+          "detail": "DAR-02",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-06",
+          "requirement": "DAR-06",
+          "name": "DAR-06",
+          "detail": "DAR-06",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-08",
+          "requirement": "DAR-08",
+          "name": "DAR-08",
+          "detail": "DAR-08",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-09",
+          "requirement": "DAR-09",
+          "name": "DAR-09",
+          "detail": "DAR-09",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-10",
+          "requirement": "DAR-10",
+          "name": "DAR-10",
+          "detail": "DAR-10",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-01",
+          "requirement": "PMR-01",
+          "name": "PMR-01",
+          "detail": "PMR-01",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-02",
+          "requirement": "PMR-02",
+          "name": "PMR-02",
+          "detail": "PMR-02",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-03",
+          "requirement": "PMR-03",
+          "name": "PMR-03",
+          "detail": "PMR-03",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-04",
+          "requirement": "PMR-04",
+          "name": "PMR-04",
+          "detail": "PMR-04",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-05",
+          "requirement": "PMR-05",
+          "name": "PMR-05",
+          "detail": "PMR-05",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-06",
+          "requirement": "PMR-06",
+          "name": "PMR-06",
+          "detail": "PMR-06",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-07",
+          "requirement": "PMR-07",
+          "name": "PMR-07",
+          "detail": "PMR-07",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-01",
+          "requirement": "SER-01",
+          "name": "SER-01",
+          "detail": "SER-01",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-02",
+          "requirement": "SER-02",
+          "name": "SER-02",
+          "detail": "SER-02",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-03",
+          "requirement": "SER-03",
+          "name": "SER-03",
+          "detail": "SER-03",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-04",
+          "requirement": "SER-04",
+          "name": "SER-04",
+          "detail": "SER-04",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-05",
+          "requirement": "SER-05",
+          "name": "SER-05",
+          "detail": "SER-05",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-06",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-07",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-08",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-02",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SER-06 AI · SER-07 AI ·",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-03",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SER-06 AI · SER-07 AI ·",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-04",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-05",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-06",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SER-06 AI · SER-07 AI · SER-08 AI",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-07",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SER-07 AI · SER-08 AI",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-08",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SER-08 AI",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-09",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-10",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-11",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        }
+      ],
+      "risks": [
+        {
+          "title": "실적·인증 요건",
+          "detail": "인증(CSAP)을 받은",
+          "severity": "확인"
+        },
+        {
+          "title": "공동수급·하도급",
+          "detail": "하도급 제한 O -",
+          "severity": "확인"
+        }
+      ],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업 신청기관(부서) 한국승강기안전공단(디지털지원실) 상위기관(부서) 행정안전부 □ 과업 기본 정보 대국민 서비스 유무 ☑ 유 □ 무 자원도입(HW/SW) 과업 유무 □ 유 ☑ 무 모바일 앱 서비스 유무 □ 유 ☑ 무 클라우드(IaaS) 이용 유무 (공공/민간클라우드 전환포함) □ 유 ☑ 무 □ 대내외 지적사항 및 조치 내역 지적사항 조치 내역 없음 ※ 중복·연계 등과 관련한 지능정보사회 실행계획, 국회, 감사원 등 지적사항 및 조치 내역 □ 예비검토 의견 반영 예비검토 의견유무 행정안전부 예비검토의견 기관의 반영계획 회신 반영결과 없음 ※ 전자정부 성과관리 지침 제6조(사전협의를 위한 사업목적 등의 예비검토) 내용 기재 □ 분야별 검토결과 검토분야 구 분 검토결과 주요 내용  유사·중복 및 연계·통합 ① 기관 내 또는 타 기관의 유사시스템 (사업)과 중복 여부를 확인하였는가? * 「전자정부 성과관리 업무매뉴얼」 참고 ☑ 예 □ 해...",
+        "agency": "",
+        "noticeNumber": "R26BK01686488-000",
+        "budget": "",
+        "period": "변경시 소프트웨어사업 영향평가 결과서 재검토 필요* 자체 검토결과 ○ 번호 구분 검토사항 1 웹사이트 관련 과업이 있을 경우전자정부 웹사이트 품질관리 지침 및 -1., ⑥ 」 장애인고령자 등의 정보 접근 및 이용편의 증진을 위한 고시를 준수하였는가· ?「 」 장애인고령자 고시 · 추가 필요 2 데이터 표준화 및 상위표준 준수-1. ⑩ 데이터 표준 코드 용어 단어 도메인 등 데이터 표준화 사항 반영 여부,,, ‧ 공통표준 및 기관표준 적용 준수 여부‧ 데이터표준준수 사항 추가 필요 3 전문위원회를 통해 산정한 적정 사업기간 종합 산정서를 첨부하였는가‘ ’ ?⑬ 적정 사업기간 산정 위원회 결과 등록 필요 붙임 사전협의 자체검토결과서공단 시스템 구축 및 민원 상담사 고도화 사업1. ( AI AI )부 1 . 공공 소프트웨어사업 관련 법령준수 여부 사전 검토결과 부2. 1 . 소프트웨어사업 영향평가 결과서 부 끝3. 1 . . 디지털지원실장 사원 차장 실장 07/06 협조자 시행 디지털지원...",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: 공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업 신청기관(부서) 한국승강기안전공단(디지털지원실) 상위기관(부서) 행정안전부 □ 과업 기본 정보 대국민 서비스 유무 ☑ 유 □ 무 자원도입(HW/SW) 과업 유무 □ 유 ☑ 무 모바일 앱 서비스 유무 □ 유 ☑ 무 클라우드(IaaS) 이용 유무 (공공/민간클라우드 전환포함) □ 유 ☑ 무 □ 대내외 지적사항 및 조치 내역 지적사항 조치 내역 없음 ※ 중복·연계 등과 관련한 지능정보사회 실행계획, 국회, 감사원 등 지적사항 및 조치 내역 □ 예비검토 의견 반영 예비검토 의견유무 행정안전부 예비검토의견 기관의 반영계획 회신 반영결과 없음 ※ 전자정부 성과관리 지침 제6조(사전협의를 위한 사업목적 등의 예비검토) 내용 기재 □ 분야별 검토결과 검토분야 구 분 검토결과 주요 내용  유사·중복 및 연계·통합 ① 기관 내 또는 타 기관의 유사시스템 (사업)과 중복 여부를 확인하였는가? * 「전자정부 성과관리 업무매뉴얼」 참고 ☑ 예 □ 해...",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "제안서",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "정성/정량 구분, 원본/사본/PDF/HWPX 등 제출 형식 확인",
+          "extra": ""
+        },
+        {
+          "no": 2,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ". ,\n \n \n- PC \n- \n- \n- , , , , \n \n \n- USB , \n \n- \n \n , , \n ( ) , , , \n \n \n- PC CMOS, , ( , \n , 9 )\n- 1 PC \n , , \n \n \n ,",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 1개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "기술능력 평가비중",
+          "score": 90.0,
+          "weight": 90.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "기술능력 평가비중 90점"
+        }
+      ],
+      "totals": {
+        "score": 90.0,
+        "weight": 90.0,
+        "gradeA": 1,
+        "gradeB": 0,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01686488-000",
+    "generatedAt": "2026-08-24T10:32:45.786612",
+    "sourceAnalysisAt": "2026-08-24T10:31:34.889932",
+    "projectName": "공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업 신청기관(부서) 한국승강기안전공단(디지털지원실) 상위기관(부서) 행정안전부 □ 과업 기본 정보 대국민 서비스 유무 ☑ 유 □ 무 자원도입(HW/SW) 과업 유무 □ 유 ☑ 무 모바일 앱 서비스 유무 □ 유 ☑ 무 클라우드(IaaS) 이용 유무 (공공/민간클라우드 전환포함) □ 유 ☑ 무 □ 대내외 지적사항 및 조치 내역 지적사항 조치 내역 없음 ※ 중복·연계 등과 관련한 지능정보사회 실행계획, 국회, 감사원 등 지적사항 및 조치 내역 □ 예비검토 의견 반영 예비검토 의견유무 행정안전부 예비검토의견 기관의 반영계획 회신 반영결과 없음 ※ 전자정부 성과관리 지침 제6조(사전협의를 위한 사업목적 등의 예비검토) 내용 기재 □ 분야별 검토결과 검토분야 구 분 검토결과 주요 내용  유사·중복 및 연계·통합 ① 기관 내 또는 타 기관의 유사시스템 (사업)과 중복 여부를 확인하였는가? * 「전자정부 성과관리 업무매뉴얼」 참고 ☑ 예 □ 해...",
+    "sourceFile": "제안요청서_AI 정보화사업.hwp",
+    "requirementSourceFiles": [
+      "제안요청서_AI 정보화사업.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "ECR-000",
+        "name": "1",
+        "detail": "Security Functional Requirements",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-000",
+        "name": "15",
+        "detail": "Performance Requirement",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-000",
+        "name": "14",
+        "detail": "System Interface Requirement)",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-000",
+        "name": "3",
+        "detail": "Test Requirementt",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-000",
+        "name": "3",
+        "detail": "Quality Requirement",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-000",
+        "name": "4",
+        "detail": "Project Support Requirement",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-000",
+        "name": "5",
+        "detail": "Data Quality Requirement",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-000",
+        "name": "10",
+        "detail": "Project Management Requirement",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-000",
+        "name": "7",
+        "detail": "Security Requirement",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-000",
+        "name": "8",
+        "detail": "Constraint Requirement",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-000",
+        "name": "11",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-01",
+        "name": "AI",
+        "detail": "GPU(NVIDIA A100) , LLM LLMOps · . (NVIDIA A100 GPU ) H/W ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-01",
+        "name": "AI",
+        "detail": "AI , , , AI ‧ AI AI ‧RAG‧ AI",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-02",
+        "name": "SFR-02",
+        "detail": "( ) , SQL . (Join), (Group by), (Order by) . ( , ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-03",
+        "name": "SFR-03",
+        "detail": "AI ( ) , UI/UX . [ ID, , , AI ] .",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-04",
+        "name": "AI (LLM, Large Language Model)",
+        "detail": "AI (LLM, Large Language Model) AI LLM AI , ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-05",
+        "name": ", RAG,",
+        "detail": ", RAG, DB · , DB , · · ( , )",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-06",
+        "name": "·",
+        "detail": "· (Rx, Tx) , , , , , , (",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-07",
+        "name": "SFR-07",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-08",
+        "name": "SFR-08",
+        "detail": "(PPT, HWP, PDF, XLS ) , , STT KMS( : , , , )",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-09",
+        "name": "·",
+        "detail": "AI , AI · , ( , ) ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-10",
+        "name": "SFR-10",
+        "detail": ", AI , ( ) · ( , , ) ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-11",
+        "name": "24",
+        "detail": "24 24 , , , AI ( ) ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-12",
+        "name": "SFR-12",
+        "detail": ", , , AI ( ) , , FAQ ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-13",
+        "name": "SFR-13",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-14",
+        "name": "·",
+        "detail": "· · , AI , ( , ) ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-15",
+        "name": "QA",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-01",
+        "name": "PER-01",
+        "detail": ", ( ) ( , ) , / , , / / , /",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-02",
+        "name": "PER-02",
+        "detail": "AI 8 ‧ ‧ 15 . API , .",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-03",
+        "name": "PER-03",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-04",
+        "name": "AI",
+        "detail": ". AI , , , . ( / ) . .",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-05",
+        "name": "PER-05",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-06",
+        "name": "PER-06",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-07",
+        "name": "PER-07",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-08",
+        "name": "PER-08",
+        "detail": ") CPU , CPU (24 ) , (24 ) · ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-09",
+        "name": "STT",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-10",
+        "name": "PER-10",
+        "detail": ", 3 6 10 5 ( 10 ) · , (HW SW ) ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-11",
+        "name": "PER-11",
+        "detail": "( ) LLM AI · , (HW SW ) ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-12",
+        "name": "PER-12",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-13",
+        "name": "PER-13",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-14",
+        "name": "PER-14",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-01",
+        "name": "SIR-01",
+        "detail": "· · API , CTI, IVR, , AP, KMS ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-02",
+        "name": "SIR-02",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-03",
+        "name": "AI",
+        "detail": "AI UI/UX ChatGPT UI ·",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-01",
+        "name": "TER-01",
+        "detail": ", , , ( , ) ( , , , , ) ( , )",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-02",
+        "name": "TER-02",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-03",
+        "name": "TER-03",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-01",
+        "name": "QUR-01",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-02",
+        "name": "QUR-02",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-03",
+        "name": "QUR-03",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-04",
+        "name": "QUR-04",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-01",
+        "name": "PSR-01",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-02",
+        "name": "PSR-02",
+        "detail": ", , , , , , , , ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-03",
+        "name": "PSR-03",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-04",
+        "name": "PSR-04",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-05",
+        "name": "PSR-05",
+        "detail": ", 12 , 12 , , , . , ( , )",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-01",
+        "name": "DAR-01",
+        "detail": ", ) , , , · ( , )",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-02",
+        "name": "DAR-02",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-03",
+        "name": "DAR-03",
+        "detail": ", , , , DB · · , , DB , , DB Object",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-04",
+        "name": "DAR-04",
+        "detail": "· · · . , , , ( ) , , ( , )",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-05",
+        "name": "DAR-05",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-06",
+        "name": "DAR-06",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-07",
+        "name": "DAR-07",
+        "detail": "( , ) ( · · · ) , , ( · ) , , , , ※",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-08",
+        "name": "DAR-08",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-09",
+        "name": "DAR-09",
+        "detail": ", , (PDF, HWPX, DOCX ) , ( , ) . (Chunking) AI (",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-10",
+        "name": "DAR-10",
+        "detail": "/ : AI , , , ( ) . RAG (Knowledge base) .",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-01",
+        "name": "PMR-01",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-02",
+        "name": "PMR-02",
+        "detail": ", 76 ① · IP ② ③ ④",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-03",
+        "name": "PMR-03",
+        "detail": "[ 2] [ 3 ] ( ) , , , , [ 2] [ 4 ] ( )",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-04",
+        "name": "PMR-04",
+        "detail": ") , , , , ( ) , ( ) PC",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-05",
+        "name": "PMR-05",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-06",
+        "name": "PMR-06",
+        "detail": "PC , , , , USB , , , ( ) , , ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-07",
+        "name": "PMR-07",
+        "detail": ", PC , , P2P, , PC ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-01",
+        "name": "SER-01",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-02",
+        "name": "SER-02",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-03",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-04",
+        "name": "SER-04",
+        "detail": ", ) 1 , OWAR 10 , 8 , 21 , AI ·",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-05",
+        "name": "( )",
+        "detail": "3 , , , , ( ) 26 1",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-06",
+        "name": "AI",
+        "detail": "· AI ( ·RAG ) · · , · RAG · AI ( · · ) , · DB· ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-07",
+        "name": "AI",
+        "detail": "· AI · ( ) · · · ( ) · ( ) , , ( ) , ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-08",
+        "name": "AI",
+        "detail": "· AI · · DB· · (COR)",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-01",
+        "name": "COR-01",
+        "detail": "( ) ( ) ( ) ( ) ( )",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-02",
+        "name": "COR-02",
+        "detail": ", , , ( , , ) , , , ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-03",
+        "name": "COR-03",
+        "detail": "SW ( , , ) , SW , SW ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-04",
+        "name": "SW",
+        "detail": "SW < > , , ( , , )",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-05",
+        "name": "SW",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-06",
+        "name": "COR-06",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-07",
+        "name": "COR-07",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-08",
+        "name": "COR-08",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-09",
+        "name": "SW",
+        "detail": "SW 46 , SW (SW ) < SW > SW",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-10",
+        "name": "COR-10",
+        "detail": "(√) ( ) 50 , 47 1 2 , 3 , * , * 13",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-11",
+        "name": "COR-11",
+        "detail": "· ‣ , ‣ ‣ , · · ‣ ,",
+        "source": "제안요청서_AI 정보화사업.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "기술능력 평가비중",
+        "score": 90.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 50,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "기술능력 평가비중 90점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [
+              "ECR-000",
+              "ECR-01"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "SFR-000",
+              "SIR-000",
+              "DAR-000",
+              "SFR-01",
+              "SFR-02",
+              "SFR-03",
+              "SFR-04",
+              "SFR-05",
+              "SFR-06",
+              "SFR-07",
+              "SFR-08",
+              "SFR-09",
+              "SFR-10",
+              "SFR-11",
+              "SFR-12",
+              "SFR-13",
+              "SFR-14",
+              "SFR-15",
+              "SIR-01",
+              "SIR-02",
+              "SIR-03",
+              "DAR-01",
+              "DAR-02",
+              "DAR-03",
+              "DAR-04",
+              "DAR-05",
+              "DAR-06",
+              "DAR-07",
+              "DAR-08",
+              "DAR-09",
+              "DAR-10"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "PER-000",
+              "TER-000",
+              "QUR-000",
+              "SER-000",
+              "COR-000",
+              "PER-01",
+              "PER-02",
+              "PER-03",
+              "PER-04",
+              "PER-05",
+              "PER-06",
+              "PER-07",
+              "PER-08",
+              "PER-09",
+              "PER-10",
+              "PER-11",
+              "PER-12",
+              "PER-13",
+              "PER-14",
+              "TER-01",
+              "TER-02",
+              "TER-03",
+              "QUR-01",
+              "QUR-02",
+              "QUR-03",
+              "QUR-04",
+              "SER-01",
+              "SER-02",
+              "SER-03",
+              "SER-04",
+              "SER-05",
+              "SER-06",
+              "SER-07",
+              "SER-08",
+              "COR-01",
+              "COR-02",
+              "COR-03",
+              "COR-04",
+              "COR-05",
+              "COR-06",
+              "COR-07",
+              "COR-08",
+              "COR-09",
+              "COR-10",
+              "COR-11"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-000",
+              "PSR-01",
+              "PSR-02",
+              "PSR-03",
+              "PSR-04",
+              "PSR-05"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-000",
+              "PMR-01",
+              "PMR-02",
+              "PMR-03",
+              "PMR-04",
+              "PMR-05",
+              "PMR-06",
+              "PMR-07"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 92,
+      "mappedRequirements": 92,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

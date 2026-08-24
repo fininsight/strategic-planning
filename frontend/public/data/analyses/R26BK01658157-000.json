@@ -1,0 +1,1282 @@
+{
+  "bidNtceNo": "R26BK01658157",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-08-24T10:46:27.657802",
+  "status": "completed",
+  "source": {
+    "fileName": "붙임1_공고문_연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.pdf",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01658157-000/붙임1_공고문_연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.pdf",
+    "pageCount": 2,
+    "textLength": 2091,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "붙임1_공고문_연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.pdf",
+      "extension": ".pdf",
+      "size": 58163,
+      "kindCode": ""
+    },
+    {
+      "fileName": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+      "extension": ".hwp",
+      "size": 149504,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "47f0ae2a15487faf0b6cd883",
+      "fileName": "붙임1_공고문_연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.pdf",
+      "extension": ".pdf",
+      "docType": "입찰공고문",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01658157/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01658157/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01658157/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01658157-000/붙임1_공고문_연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01658157-000/붙임1_공고문_연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01658157-000/붙임1_공고문_연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.pdf",
+      "pageCount": 2,
+      "textLength": 2091,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "연암공과대학교 산학협력단 용역 공고 제26 ­ 0706호\n입 찰 공 고\n \n국가를 당사자로 하는 계약에 관한 법률 제8조(입찰공고)에 의거 아래와 같이 공고합니다.\n \n2026년 7월 30일\n연암공과대학교 산학협력단장\n \n1. 입찰에 부치는 사항\n 가. 입찰공고명 : 연암공과대학교 AI Agent 성과관리 및 회계/구매 시스템 구축\n 나. 사업 기간 : 자세한 내용은 ‘과업지시서 ’ 참조\n 다. 용역 내용 : 자세한 내용은 ‘과업지시서 ’ 참조\n \n2. 입찰 방법\n 가. 입찰방법 및 계약방식 : 일반경쟁입찰 / 협상에 의한 계약체결 방식\n ※ 근거규정 : 국가를 당사자로 하는 계약에 관한 법률 시행령 제43조\n 나. 추정금액 : \\350,000,000원 (금삼억오천만원정) ※ 부가가치세 포함\n * 입찰금액은 부가가치세를 포함한 금액으로 한다. 면세/영세업자의 경우 계약 시 입찰금액에\n 서 부가가치세를 제외한 금액으로 계약한다.\n 다. 입찰 일정\n - 공고기간 : 2026. 07. 30.(목) ~ 2026. 09. 09.(수) 10:00\n ※ 신청서는 별도 교부하지 않고, 공고기간 중 조달청 나라장터 홈페이지(www.g2b.go.kr)에서 다운로드\n 받을 수 있음\n - 가격(전자입찰)접수 마감일시 : 2026. 09. 09.(수) 10:00 까지 \n ※가격입찰서 제출은 전자입찰로 해주세요\n - 제안서 제출 마감일시 : 2026. 09. 09.(수) 17시까지 도착 분\n - 제안서 제출 방법 : 접수처 직접 또는 우편 제출 (접수처 : 본교 사무처)\n ※ 토,일,공휴일은 직접/우편 접수 불가\n - 제안서 발표 평가 : 별도 안내\n - 우선협상대상자 선정 및 협상 : 2026. 8월 중\n - 계약 및 사업 착수 : 계약서에 따름\n ※ 추진 일정은 사정에 따라 변동될 수 있음\n \n3. 입찰 참가 자격\n 가. 「국가를 당사자로 하는 계약에 관한 법률 시행령」 제12조 규정에 의한 입찰 참가 자격 요건을 갖춘 자\n 나. 입찰 참가 등록 서류에 하자가 없는 업체\n 다. 우리 대학에서 제시한 업체 선정 방법 및 제안요청서에 따라 사업 수행이 가능한 업체로서 우리 대학의\n 업체 선정 방법과 평가 기준에 100% 동의하는 업체\n 라. 기타 ‘과업지시서’ 필히 참조\n4. 입찰보증금 납부 및 귀속\n 가. 입찰참가 등록시 입찰금액의 5/100에 해당하는 입찰보증금을 입찰이행보증보험증권으로 제출\n(기간은 입찰등록일 이후 30일 이상)\n \n5. 입찰의 무효 및 재입찰\n 가. 국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 및 동 시행규칙 제44조의 규정에 의함\n6. 협상대상자 선정 및 협상기준\n 가. 평가는 기술평가 90점, 가격평가 10점을 합산(총 100점)하여 본 대학 평가위원회에서 평가\n 나. 제안서 평가결과, 기술평가 점수가 배점한도의 85%이상(77점)인자를 협상적격자로선정\n 다. 종합평가점수(기술평가+가격평가) 결과 고득점자 순으로 협상대상자 후보 선정\n 라. 제안서 제출 후 발표평가 미 참여시 제출된 제안서로만 평가하며, 평가 결과에 대한 이의제기 불가\n 마. 입찰 참가업체가 많을 경우 평가위원회에서 1차 서류 심사를 통해 발표 업체를 선정 후 발표 평가 실시\n \n7. 입찰참가 제출서류\n 가. 제안서(7부) 등 관련 서류 각 1부\n * 제출 서류 관련 세부 내용은 ‘과업지시서’ 참조\n \n8. 제출방법\n 가. 제안서는 공문과 함께 대표자 인감을 날인하여 원본 제출\n 나. 제안사는 제안서 검토를 위해 본 대학의 추가적인 자료 제출 요구가 있는 경우 이에 응해야 함\n 다. 제출 기한 내에 미제출 시는 제안 의사가 없는 것으로 처리하고, 제안사가 제출한 제반 자료는 반환하지 \n 아니함\n \n9. 기타사항\n 가. 입찰참가자는 입찰공고, 계약조건 등 제안요청서에 표기된 입찰에 필요한 사항을 숙지한 후 입찰에 참가\n 하시기 바라며 이를 숙지하지 못한 책임은 입찰에 응한 자에게 있음\n 나. 기타 문의사항 및 연락처\n - 기타 계약 및 입찰과 관련된 사항은 연암공과대학교 사무처 최영난 (055-751-2026)로, \n 제안서 세부 내용 관련은 AI.DX센터 배성남 (055-751-2143)로 문의\n 다. 접수된 서류는 일체 반환하지 않음\n 라. 제안서 평가결과의 세부내용과 협상결과는 공개하지 않음",
+      "analysis": {
+        "docType": "입찰공고문",
+        "summary": "가.",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "bfffebcea299cfe4122b2a3f",
+      "fileName": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01658157/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01658157/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01658157/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01658157-000/붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01658157-000/converted/붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01658157-000/converted/붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.pdf",
+      "pageCount": 46,
+      "textLength": 10476,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI Agent / \n \n2026. 7.\n \n 055-751-2026\n AI·DX 055-751-2143\n \nⅠ . \nⅡ . \nⅢ . \nⅣ . \nⅤ . \nⅥ . \nⅦ . \nⅠ \n1. : ‘AI Agent / ’ \n2. : 2026.08. ~ 2027.01. ( 6 )\n- : 1 \n \n (6 )\nM M+1 M+2 M+3 M+4 M+5\n , \n \n \n \n \n \n \n \n3. : 350,000,000 ( ) (VAT )\n . \n \n1. \n . (PM)\n1) \n50,000,0002) AI Agent \n3) WBS \n . \n(Arch/Design)\n1) AI Agent \n90,000,0002) LLM \n3) Vector DB \n . (AI Dev)\n1) AI Agent \n130,000,000\n2) RAG( ) \n3) API \n4) \n2. \n . \n(Cloud/API)\n1) AWS/Azure \n80,000,0002) LLM(OpenAI/Claude ) API \n3) Vector DB \n (VAT )\n4. \n . \n1) \n (Automated Performance Collection): - · · AI \n · . - · .\n · (Analysis & Feedback): - · · \n . - - , , AI .\n (Data-Driven Performance Management): - · , → →\n → . - · .\n2) : · . : \n , , , .\n : , , , .\n :* , , , .\n Legacy : · , · · .\nⅡ \n1. \n❍ \n• · · AI Agent \n• Legacy ' ' , → → → \n• · · · \n• · \n• · · \n• AI Agent \n• \n• ( ) AS \n \n1 \n- \n- , , \n- AI Agent · · \n- \n- AI Agent \n- , , \n· · \n- \n2 AI Agent \n \n- AI Agent \n- Agent: · · \n- Agent: · \n- · Agent: , , \n- Polling \n3 \n \n- AWS AI Agent / \n- RAG DB \n- · · DB \n- Amazon CloudWatch \n4 \n- LLMOps \n- \n5 - 1 > , \n6 - 2 > \n7 - \n .\n❍ \n- AWS \n- Ai Model, Agent \n2. \n❍ \n \n SYS-001 AWS \n \nSFR-001 \nSFR-002 \nSFR-003 \nSFR-004 - \nSFR-005 \nSFR-006 \nSFR-007 \nSFR-008 \nSFR-009 \nSFR-010 , \nSFR-011 / \nSFR-012 LLMOps \n PER-001 \n UIR-001 \n DAR-001 AI \n \nTER-001 \nTER-002 \n SER-001 \nSER-002 \nSER-003 , DB \nSER-004 \n \nQUR-001 \nQUR-002 \nQUR-003 \n \nCOR-001 \nCOR-002 LLM · · \nCOR-003 , \n \nPMR-001 \nPMR-002 \nPMR-003 \n \nPSR-001 \nPSR-002 \n❍ \n1) \n SYS-001\n \n \n \n● - AWS Cloud - WEB : Java, Jsp\n● , , , \n , .\n● , , .\n2) \n SFR-001\n \n \n \n● - , , (Excel·PDF ) , \n , , , , , , .\n● - - ( , , ) , \n · · .\n● · - ( , ) \n · , .\n● - · ( / , ) , \n · .\n SFR-002\n \n \n \n● - , , \n · .\n● - , , , , \n . - · - , \n , .\n● - · , · \n .\n SFR-003\n \n \n \n● - , · , \n (RAG ) · , .\n● KPI - \n(KPI) · , .\n● · · - , , \n .\n● - , \n .\n SFR-004\n - \n \n \n● - - - ↔ ↔ \n , .\n● · - , , , , \n .\n● · - , , \n .\n● - , · \n .\n SFR-005\n \n \n \n● - , , \n AI ( , , ) .\n● · - \n , .\n● - , , , \n .\n● · - · · \n , .\n SFR-006\n \n \n \n● - , , \n , , .\n● · · - · · , · ·\n .\n● - ( / / / ) ( · \n ) .\n● - · ·PDF· .\n SFR-007\n \n \n \n● - KPI , , ·\n .\n● - , , \n( / / ) .\n● - · \n , .\n● - · ·PDF· \n .\n SFR-008\n \n \n \n● - , , , \n .\n● - → → \n .\n● · - · , \n .\n● - · ·PDF· \n .\n SFR-009\n \n \n \n● - , , \n . - , , , \n .\n● - · \n .\n● · - , , \n .\n● · - , \n .\n SFR-011\n , \n \n \n● , , \n , · · \n · \n SFR-011\n / \n \n \n● · \n · , · \n· \n● \n● , \n SFR-012\n LLMOps \n \n \n● AI - AI ( , , , \n ) , .\n● · - , , AI \n · .\n● - , , , \n / .\n● LLMOps - LLM , · · \n LLMOps , · .\n● · - · ,\n · .\n3) \n PER-001\n \n \n \n● .\n● , \n .\n● (SFR-002) , - · · \n ( : 90% ) · · .\n● · (SFR-003) · (SFR-004) \n , - · ** (Recall)** , - \n (False Positive) .\n● ( · · ) \n .\n● ( , , , ) \n , .\n4) \n UIR-001\n \n \n \n● , AI , → , → \n .\n● ( ) + , \n .\n5) (Data Requirement)\n DAR-001\n DB \n \n \n● DB , \n \n● DB \n● ( )\n● , , \n● , , , \n \n● \n● \n● / \n \n DAR-002\n \n \n \n● DB ( ) \n● DB , DBMS \n \n● , \n● \n● \n DAR-003\n \n \n \n● AI Agent \n .\n● .\n6) \n TER-001\n \n \n \n● , , , , \n \n● , \n● , \n TER-002\n \n \n \n● , , \n .\n○ , \n \n○ \n- \n- ( · , , )\n- \n- · \n- (CPU, ) \n- \n● \n .\n● \n7) \n SER-001\n \n \n \n● , \n .\n- ․ IP \n- \n- ․ \n- ․ \n- \n- \n- ․ (IPS) ․ \n- 9 1 \n \n- 2 1 \n- \n- \n● \n● .\n● , \n .\n SER-002\n \n \n \n● \n \n● \n \n● , , \n \n● , , \n , \n● , \n ․ \n● \n● 3 \n , \n ․ ․ \n● \n SER-003\n , DB \n \n \n● DB \n● DB \n● DB , DB \n● S/W ‘ S/W ’ S/W \n● OWASP 10 \n● \n- \n● \n● ( , · )\n● ( ) ( ) \n● CC \n● LLM \n- · , , LLM ·\n · .\n- LLM \n · .\n SER-004\n \n \n \n● / \n● .\n● .\n● ⋅ .\n● · .\n● · , , ,\n .\n8) \n QUR-001\n \n \n \n● , , , \n● \n .( )\n● .\n QUR-002\n \n \n \n● , \n \n● ( ) \n \n● \n● \n \n● , \n \n QUR-003\n \n \n \n● 1 .\n● 4 .\n● , .\n● \n● \n9) \n COR-001\n \n \n \n● AI Agent · , ·\n .\n● , , \n .\n● (AWS ) \n .\n● , , \n · , .\n● AI Agent , ( \n ) , AI .\n● AI , AI\nAgent .\n COR-002\n LLM · · \n \n \n● LLM · \n .\n● , LLM , \n , .\n● , \n .\n● · SW .\n COR-003\n , \n \n \n● , , , ( ) 20 ( ) \n \n● , ,\n .\n● , , \n .\n● \n \n \n , , , , , , \n \n ( ) \n \n , \n \n \n .\n \n , ( , , ), \n / , , , \n \n .\n10) \n PMR-001\n \n \n \n● , \n● \n● , , \n● (PM) ( \n 2 \n● PM .\n● .\n● \n PMR-002\n \n \n \n● / / / \n● ( \n ) \n● , .( \n , )\n● .\n● , , \n .\n● , .\n● S/W \n- \n- \n● .\n○ \n \n , ( )\n○ , \n .\n○ .\n○ , \n \n PMR-003\n \n \n \n● \n , , , , , \n● \n● \n \n○ \n· , \n· , \n2 \n \n7 \n( )\n○ 1 \n○ 2 \n○ , 2 \n○ 1 \n \n( )\n○ , ( ),\n , \n1 \n○ 1 \n○ 2 \n○ 2 \n○ ( ) 1 \n11) \n PSR-001\n \n \n \n● \n \n● \n , \n● \n- : , S/W \n- : \n● \n ( , , )\n● (1 ) , \n \n● 12 1 .\n PSR-002\n \n \n \n● \n , ( ) 1 .\n● \n \n● \n● \n● 8 , \n● 2 [ ] , \n \nⅢ \n1. \n○ “ AI Agent / ” \n , \n .\n○ , , \n .\n○ , \n , \n “ ” .\n○ .\n○ .\n○ 50 , 47 1 2 , 3 \n \n .\n2. \n○ .( , \n .)\n○ , , \n .\n○ , \n .\n○ , , \n .\n○ , \n , , .\n3. \n○ , .\n○ \n .\n○ , \n .\n○ A4 , , 100 (200 ) \n , , A4 .\n○ , \n .\n○ , \n “ ” .\n○ , \n .\n○ “ ” .\n○ \n .\n○ “ \n .”, “ .”, “ ”, “ ”, “ ” \n .\n○ , \n .\n○ , \n .\n○ \n .\n○ 16 , \n .\n○ .\n4. \n \n ◦ \n ◦ < 18 > \nⅠ . \n1. ◦ , \n2. ◦ .\n3. ◦3 \nⅡ . \n1. \n◦ , , , \n \n◦ \n2. ◦ \n3. \n◦ , \n \n◦ ( / ), Prototype \n \n4. ◦ \n \n5. \n◦ \n◦ \n◦ , \nⅢ . \n1. ◦ \n \n2. \n◦ \n◦ \n3. \n◦ \n \n◦ \n4. ◦ , \n \n5. ◦ , , \n6. ◦ \nⅣ . \n1. ◦ , \n \n2. ◦ · \n3. ◦ \n \nⅤ . \n1. ◦ , , , \n \n2. \n◦ \n , , \n \n3. ◦ , \n \nⅥ . \n1. ◦ , \n \n2. \n◦ , \n◦ ‧ \n3. ◦ , , , ,\n \n4. ◦ , , , \n \n5. ◦ , , \n \n6. ◦ / \n5. \n○ , \n 3 .\n○ .\n○ 3 .\n○ .\n○ , \n .\nⅣ \n1. \n○ : \n○ : \n2. \n . ( ( , ) \n ) ( ) \n1) 58 ( \n , :1468) \n2) 9 10 \n ( : , : : 8111159901) \n \n3) 8 2 \n ( , \n 2 3 \n )\n < > < > \n , \n(https://www.smpp.go.kr) \n . \n . 20 48 \n ( ) \n . ( ) \n \n3. \n○ : \n○ :\n1) ( ) -> ( !)\n* . / \n .\n2) 1 -> / \n- ( 2 ) 1 \n- ( ) 1 \n- ( ) 1 \n- 1 \n- ( )\n- ( 3 )\n- 1 1 \n• \n- \n• \n• \n• \n• \n3) 1 -> / \n- ( 4 )\n- ( 5 )\n- ( 6 )\n- ( 7 )\n- ( 8 )\n- ( 3 ) ( 9 )\n- 7 USB 1 \n4) 1 ( 10 )\n5) ( )\n○ \n- ( )\n- ( )\n / \n \n○ : ( )\n4. \n○ : (100 ) \n- (90 , 20 + 70 ) + (10 )\n- \n- \n- ‘ ’ \n○ \n \n 100\n \n \n(90 )\n 90\n \n \n(20 )\n 20\n 7\n 5\n 5\n 3\n \n \n(70 )\n 70\n* \n 10\n 25\n 15\n 10\n 10\n (10 ) ※ 10\n5. \n . (20 )\n1) (7 )\n 10 9~7 6~4 3~2 1 \n 7.0 6.0 5.0 4.0 3.0\n- 1 SW 1 \n \n- , , , SW ( \n ) , 4 \n , \n- , , \n \n2) (5 )\n ( ) \n100% 100%(5 )\n70% ~ 100% 90%(4.5 )\n40% ~ 70% 80%(4.0 )\n40% 70%(3.5 )\n- 3 ( )\n DB , H/W S/W , H/W S/W \n- \n \n- \n- [ 13] ( 3 ) [ \n 14] \n , , \n \n , ( \n ) \n , \n , \n \n3) (5 )\n \n \n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0\n 100%\n(5.0 )\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB-\n 90%\n(4.5 )\nB+, B0, B- B- B+, B0, B-\n 80%\n(4.0 )\nCCC+ C CCC+ \n 70%\n(3.5 )\n[ ]\n1. 2 8 3 335 \n 3 , \n , . , \n .\n2. ( ) , ‘ ’ \n .\n3. 1 , \n . , \n \n .\n4. 7 \n . \n , . , , \n ( , \n ) .( )\n5. .\n4) (3 )\n- 3 \n (3)\n 3\n 1\n , \n( ‘ ’ ) ‘ ’ \n . (70 )\n1) \n \n \n \n \n \n(15)\n \n \n \n \n .\n∘ \n∘ \n∘ \n∘ \n∘ \n3\n \n .\n∘ \n∘ \n4\n \n .\n∘ \n∘ \n5\n \n , \n \n , \n .\n∘ \n∘ \n∘ \n∘ \n3\n \n \n \n(20)\n \n \n \n \n , , \n \n .\n∘ S/W \n∘ S/W \n∘ S/W \n \n∘ S/W \n \n∘ S/W \n \n3\n \n \n \n , \n .\n∘ \n \n∘ \n∘ \n \n7\n \n \n \n , \n , \n .\n∘ \n \n∘ \n∘ \n4\n \n \n , \n .\n∘ \n \n3\n \n \n \n .\n∘ \n∘ \n∘ \n3\n \n \n \n(15)\n \n \n \n \n \n , \n .\n∘ \n∘ \n5\n \n \n , \n , \n \n .\n∘ \n∘ \n∘ \n5\n \n \n : \n \n .\n : \n , \n .\n∘ \n∘ \n5\n \n \n \n(10)\n \n \n , , ,\n \n .\n∘ \n∘ \n∘ \n∘ \n∘ \n∘ \n∘ \n \n4\n \n \n , \n , \n .\n∘ \n∘ \n∘ \n∘ \n3\n \n , \n \n .\n∘ \n∘ \n3\n \n \n \n(10)\n \n , \n \n \n .\n∘ \n∘ \n2\n \n .\n∘ \n∘ \n∘ \n3\n \n \n , , \n .\n∘ \n∘ \n∘ \n2\n \n , \n , \n .\n∘ \n∘ \n∘ \n∘ \n3\n 70\n2) \n- , \n .\n- , \n .\n6. \n . \n○ .\n○ , \n .\n . \n○ : 20 ( 15 , 5 )\n \n○ : \n○ : \n○ : (PM) \n \n○ \n- \n- \nⅤ \n1. \n○ 85% \n .\n○ (90) (10) (100) \n , 2 \n , .\n○ .\n○ \n .\n○ 85% \n .\n2. \n○ , , , \n , .\nⅥ \n○ 45 , 36 \n 10 .\n [ 1] \n○ 43 . [ 2] \n \n○ \n- ( ) , \n . , \n .\n- ( ) 56 ( ) \n .\n○ [ 3] \n- \n .\n○ \n . \n .\n○ ( 1 )\n- : AI·DX ( 055-751-2143)\n- : ( 055-751-2026)\nⅦ \n 2 . \n 3 . \n 4 . \n 5 . \n 6 . \n 7 . \n 8 . \n 9 . ( 3 )\n 10 . \n 11 . \n- [ ] \n- [ 1] \n- [ 2] \n- [ 3] \n 12 . ( )\n 13 . ( )\n 14 . \n 15 . \n 16 . \n 17 . \n 18 . \n 19 . \n< 2 >\n \n \n \n \n \n \n \n \n \n \n \n 26 - 20 \n \n \n \n \n \n \n 5 \n ( )\n ( ) \n \n \n \n․\n \n \n \n \n \n .\n \n .\n :\n :\n :\n ( ) \n .\n : 1. 1 \n2. 1 \n3. .\n20 \n : ( )\n \n< 3 >\n \n :\n : ‘AI Agent / ’ \n .\n◦ ,\n \n .\n◦ .\n◦ , \n .\n◦ \n , .\n20 \n : ( )\n \n< 4 >\n \n \n( )\n \n1. 26- .\n2. ‘AI Agent / ’ \n .\n 1. 1 \n2. 7 . .\n ( )\n ○○○ ○○○\n \n - (2026/00/00) - ( )\n / \n / / \n< 5 >\n \n \n(20 . . )\noo \n< 6 >\n \n( : , )\n \n \n \n \n \n \n \n (2025 )\n( : )\n \n \n( / )\n 2025 2024 2023 \n \n \n※ \n○ \n○ 2025 2025 \n(25 , 24 )\n○ , \n .\n< 7 >\n \n \n \n( ) \n※ , , , , , \n※ \n< 8 >\n \n( )\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n※ ( , , ) \n< 9 >\n ( 3 )\n : ○○○○○\n \n OO / OO \n※ \n※ \n< 10 >\n \n \n \n , ( · · \n ) \n1. ( ) ( ) \n .\n2. , , \n .\n3. · · ( \n ) .\n4. , ( \n ) ,\n ,\n ․ .\n , \n , \n , · \n .\n20 \n :\n : ( )\n \n< 11 >\n \n ( “ ”) ○○○○○( “ ”) \n .\n 1 ( )\n “ AI Agent / ”( “ \n ”) · ( ) , \n · \n .\n 2 ( )\n1. “ ” .\n2. “ ” .\n3. “ ” .\n4. “ ” · \n .\n5. “ ” · · · \n .\n 3 ( )\n .\n1. IP \n2. \n3. \n4. \n5. ( \n )\n6. , \n7. \n8. 9 1 \n \n9. 2 1 \n10. 4 16 3 \n11. \n .\n 4 ( )\n \n .\n 5 ( )\n 3 \n .\n 6 ( )\n \n 3 , ( ) . \n .\n 7 ( )\n \n .\n .\n \n . \n \n .\n 8 ( )\n ( SW ) \n .\n 1 , 2 \n .\n 9 ( )\n · · · \n ( ) . \n .\n 10 ( )\n ( ) , \n .\n 6 .\n 11 ( )\n 3 , , \n .\n 12 ( )\n \n .\n 13 ( )\n \n , \n .\n 14 ( )\n , \n . , \n .\n20 \n[ ] \n( ) \n : 629 35\n : ( )\n( ) ○○○○○\n :\n : ( )\n[ ]\n [ 1] \n[ 2] .\n , , , , [ 3] \n‘ ’ , \n 92 .\n \n , .\n S/W .\n , \n .\n , ( ) \n .\n[ 1] \n[ 2] \n[ 3] \n[ 1] \n \n \n \n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n◦ \n◦ \n \n◦ \n \n◦ \n \n 1. \n . \n◦ \n \n . \n . \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P \n . · \n . \n . PC \n . PC \n . \n . ( )\n◦ \n \n◦ \n \n \n1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n◦ \n / \n◦ \n \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n◦ \n \n◦ / \n \n \n ▶ \n \n▶ ▶ \n \n[ 2] \n \n1. A~D \n \n \nA B C D \n 1 1 2 3 \n \n \n \n5%\n \n3%\n \n1%\n* [ 1] \n2. , \n3. , \n[ 3] \n \n1. · IP \n2. \n3. · \n4. · \n5. ( \n )\n6. , · \n7. \n8. 9 1 \n \n9. 2 1 \n10. 4 \n11. \n< 12 > ( )\n \n<< >>\n “ AI Agent / ”\n .\n1. “ AI Agent / ” \n .\n2. \n .\n3. \n .\n . 4 1 2 · 5 ( ) . 99 ( ) \n 127 ( ) . 35 ( ) 76 ( )\n4. \n .\n2026 \n :\n :\n : ( )\n \n :\n :\n : ( )\n \n< 13 > ( )\n \n<< >>\n “ AI Agent / ”\n .\n1. “ AI Agent / ” \n .\n2. \n .\n3. .\n . 4 1 2 · 5 ( ) . 99 ( ) \n127 ( ) . 35 ( ) 76 ( )\n2026 \n \n \n \n \n \n< 14 > \n \n “ AI Agent / \n ” , \n .\n1. ( ) ( ) \n , .\n2. ( ) \n , \n .\n3. ( ) \n .\n2026 \n :\n :\n : ( )\n \n< 15 > \n \n \n \n \n ․ \n \n \n \n \n2026 ( : )\n : AI Agent \n / \n :\n \n \n \n \n1\n2\n3\n< 16 > \n · \n · . \n , , .\n※ 1 .\n( , 1 )\n▶ \n ․ ․ \n , , ( / )\n ( ), ,\n (H.P), (e-mail)\n \n \n \n• \n- 3 \n• \n- 2 \n※ .\n○ : , .\n□ . □ .\n “ · ” , .\n20 . .\n : ( )\n< 17 > \n \n ( “ ” ) ( “ ” ) “ ” \n “ ” .\n 1 ( ) “ ” “ ” , “ ” \n “ ” .\n 2 ( ) , \n , ( 2017-1 ) ( \n 2017-1 ) .\n 3 ( ) “ ” “ AI Agent \n / ” .\n1. \n 4 ( ) “ ” “ ” “ ” \n 3 .\n “ ” “ ” \n“ ” .\n 5 ( ) “ ” 23 2 24 3 29\n , 21 30 , ( 2017-1 ) \n ․ .\n 6 ( ) “ ” \n 3 .\n “ ” \n 16 ( 2017-1 )\n “ ” .\n 2 “ ” “ ” .\n 7 ( · ) “ ” “ ” \n , “ ” .\n1. \n2. \n3. \n4. ․ 5. 6. \n \n “ ” “ ” 1 ,\n“ ” .\n “ ” · · · 1 \n ( 1 ) “ ” , “ ” .\n 1 “ ” “ ” .\n 8 ( ) “ ” “ ” “ ” \n “ ” “ \n ” “ ” “ ” \n 3 “ ” .\n 1 3 “ ” \n “ ” “ ” .\n 2 , “ ” “ ” \n 1 .\n2026. . .\n \n : 629 35\n : ( )\n \n :\n : ( )\n< 18 > \n \n \n \n( )\n \n \n \n \n \n )1. ‘ ’ , \n ( , \n () )\n2. ‘ ’ ( )\n3. ○ X \n< 19 > \n \n \n( )",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "AI Agent / \n \n2026. 7.\n \n 055-751-2026\n AI·DX 055-751-2143\n \nⅠ . \nⅡ . \nⅢ . \nⅣ . \nⅤ . \nⅥ . \nⅦ . \nⅠ \n1. : ‘AI Agent / ’ \n2. : 2026.08. ~ 2027.01. ( 6 )\n- : 1 \n \n (6 )\nM M+1 M+2 M+3 M+4 M+5\n , \n \n \n \n \n \n \n \n3. : 350,000,000 ( ) (VAT )\n . \n \n1. \n . (PM)\n1) \n50,000,0002) AI Agent \n3) WBS \n . \n(Arch/Design)\n1) AI Agent \n90,000,0002) LLM \n3) Vector DB \n . (AI Dev)...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "연암공과대학교 산학협력단 용역 공고 제26 ­ 0706호\n입 찰 공 고\n \n국가를 당사자로 하는 계약에 관한 법률 제8조(입찰공고)에 의거 아래와 같이 공고합니다.\n \n2026년 7월 30일\n연암공과대학교 산학협력단장\n \n1. 입찰에 부치는 사항\n 가. 입찰공고명 : 연암공과대학교 AI Agent 성과관리 및 회계/구매 시스템 구축\n 나. 사업 기간 : 자세한 내용은 ‘과업지시서 ’ 참조\n 다. 용역 내용 : 자세한 내용은 ‘과업지시서 ’ 참조\n \n2. 입찰 방법\n 가. 입찰방법 및 계약방식 : 일반경쟁입찰 / 협상에 의한 계약체결 방식\n ※ 근거규정 : 국가를 당사자로 하는 계약에 관한 법률 시행령 제43조\n 나. 추정금액 : \\350,000,000원 (금삼억오천만원정) ※ 부가가치세 포함\n * 입찰금액은 부가가치세를 포함한 금액으로 한다. 면세/영세업자의 경우 계약 시 입찰금액에\n 서 부가가치세를 제외한 금액으로 계약한다.\n 다. 입찰 일정\n - 공고기간 : 2026. 07. 30.(목) ~ 2026. 09. 09.(수) 10:00\n ※ 신청서는 별도 교부하지 않고, 공고기간 중 조달청 나라장터 홈페이지(www.g2b.go.kr)에서 다운로드\n 받을 수 있음\n - 가격(전자입찰)접수 마감일시 : 2026. 09. 09.(수) 10:00 까지 \n ※가격입찰서 제출은 전자입찰로 해주세요\n - 제안서 제출 마감일시 : 2026. 09. 09.(수) 17시까지 도착 분\n - 제안서 제출 방법 : 접수처 직접 또는 우편 제출 (접수처 : 본교 사무처)\n ※ 토,일,공휴일은 직접/우편 접수 불가\n - 제안서 발표 평가 : 별도 안내\n - 우선협상대상자 선정 및 협상 : 2026. 8월 중\n - 계약 및 사업 착수 : 계약서에 따름\n ※ 추진 일정은 사정에 따라 변동될 수 있음\n \n3. 입찰 참가 자격\n 가. 「국가를 당사자로 하는 계약에 관한 법률 시행령」 제12조 규정에 의한 입찰 참가 자격 요건을 갖춘 자\n 나. 입찰 참가 등록 서류에 하자가 없는 업체\n 다. 우리 대학에서 제시한 업체 선정 방법 및 제안요청서에 따라 사업 수행이 가능한 업체로서 우리 대학의\n 업체 선정 방법과 평가 기준에 100% 동의하는 업체\n 라. 기타 ‘과업지시서’ 필히 참조\n4. 입찰보증금 납부 및 귀속\n 가. 입찰참가 등록시 입찰금액의 5/100에 해당하는 입찰보증금을 입찰이행보증보험증권으로 제출\n(기간은 입찰등록일 이후 30일 이상)\n \n5. 입찰의 무효 및 재입찰\n 가. 국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 및 동 시행규칙 제44조의 규정에 의함\n6. 협상대상자 선정 및 협상기준\n 가. 평가는 기술평가 90점, 가격평가 10점을 합산(총 100점)하여 본 대학 평가위원회에서 평가\n 나. 제안서 평가결과, 기술평가 점수가 배점한도의 85%이상(77점)인자를 협상적격자로선정\n 다. 종합평가점수(기술평가+가격평가) 결과 고득점자 순으로 협상대상자 후보 선정\n 라. 제안서 제출 후 발표평가 미 참여시 제출된 제안서로만 평가하며, 평가 결과에 대한 이의제기 불가\n 마. 입찰 참가업체가 많을 경우 평가위원회에서 1차 서류 심사를 통해 발표 업체를 선정 후 발표 평가 실시\n \n7. 입찰참가 제출서류\n 가. 제안서(7부) 등 관련 서류 각 1부\n * 제출 서류 관련 세부 내용은 ‘과업지시서’ 참조\n \n8. 제출방법\n 가. 제안서는 공문과 함께 대표자 인감을 날인하여 원본 제출\n 나. 제안사는 제안서 검토를 위해 본 대학의 추가적인 자료 제출 요구가 있는 경우 이에 응해야 함\n 다. 제출 기한 내에 미제출 시는 제안 의사가 없는 것으로 처리하고, 제안사가 제출한 제반 자료는 반환하지 \n 아니함\n \n9. 기타사항\n 가. 입찰참가자는 입찰공고, 계약조건 등 제안요청서에 표기된 입찰에 필요한 사항을 숙지한 후 입찰에 참가\n 하시기 바라며 이를 숙지하지 못한 책임은 입찰에 응한 자에게 있음\n 나. 기타 문의사항 및 연락처\n - 기타 계약 및 입찰과 관련된 사항은 연암공과대학교 사무처 최영난 (055-751-2026)로, \n 제안서 세부 내용 관련은 AI.DX센터 배성남 (055-751-2143)로 문의\n 다. 접수된 서류는 일체 반환하지 않음\n 라. 제안서 평가결과의 세부내용과 협상결과는 공개하지 않음",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "가. 입찰공고명 : 연암공과대학교 AI Agent 성과관리 및 회계/구매 시스템 구축\n 나. 사업 기간 : 자세한 내용은 ‘과업지시서 ’ 참조\n 다. 용역 내용 : 자세한 내용은 ‘과업지시서 ’ 참조"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01658157-000",
+    "sourceFile": "붙임1_공고문_연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.pdf",
+    "generatedAt": "2026-08-24T10:46:02.723459",
+    "match": {
+      "noticeId": "R26BK01658157-000",
+      "bidNtceNo": "R26BK01658157",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01658157-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01658157-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "용역 공고",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01658157-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "가. 「국가를 당사자로 하는 계약에 관한 법률 시행령」 제12조 규정에 의한 입찰 참가 자격 요건을 갖춘 자\n 나. 입찰 참가 등록 서류에 하자가 없는 업체\n 다. 우리 대학에서 제시한 업체 선정 방법 및 제안요청서에 따라 사업 수행이 가능한 업체로서 우리 대학의\n 업체 선정 방법과 평가 기준에 100% 동의하는 업체\n 라. 기타 ‘과업지시서’ 필히 참조",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "2026. 09. 09.(수)",
+          "note": "마감 확인"
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "기술평가 90점, 가격평가 10점을 합산(총 100점)하여 본 대학 평가위원회에서 평가",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "협상에 의한 계약, 종합평가",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "90:10",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "기술평가 90점, 가격평가 10점을 합산(총 100점)하여 본 대학 평가위원회에서 평가\n 나. 제안서 평가결과, 기술평가 점수가 배점한도의 85%이상(77점)인자를 협상적격자로선정\n 다. 종합평가점수(기술평가+가격평가) 결과 고득점자 순으로 협상대상자 후보 선정\n 라. 제안서 제출 후 발표평가 미 참여시 제출된 제안서로만 평가하며, 평가 결과에 대한 이의제기 불가\n 마. 입찰 참가업체가 많을 경우 평가위원회에서 1차 서류 심사를 통해 발표 업체를 선정 후 발표 평가 실시\n \n7. 입찰참가 제출서류\n 가. 제안서(7부) 등 관련 서류 각 1부\n * 제출 서류 관련 세부 내용은 ‘과업지시서’ 참조\n \n8. 제출방법\n 가. 제안서는 공문과 함께 대표자 인감을 날인하여 원본 제출\n 나. 제안사는 제안서 검토를 위해 본 대학의 추가적인 자료 제출 요구가 있는 경우 이에 응해야 함\n 다. 제출 기한 내에 미제출 시는 제안 의사가 없는 것으로 처리하고, 제안사가 제출한 제반 자료는 반환하지 \n 아니함\n \n9.",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4,, 100 (200 ),, A4 . ○, . ○, “ ” . ○, . ○ “ ” . ○ . ○ “ .”, “ .”, “ ”, “ ”, “ ” . ○, . ○, . ○ . ○ 16, . ○ . 4. ◦ ◦ < 18 > Ⅰ . 1. ◦, 2. ◦ . 3. ◦3 Ⅱ . 1. ◦,,, ◦ 2. ◦ 3.",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "제안서(7부) 등 관련 서류 각 1부 * 제출 서류 관련 세부 내용은 ‘과업지시서’ 참조",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "2026. 09. 09.(수)",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "접수처 직접 또는 우편 제출 (접수처 : 본교 사무처) ※ 토,일,공휴일은 직접/우편 접수 불가 - 제안서 발표",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "SFR-001",
+          "requirement": "SYS-001 AWS",
+          "name": "SYS-001 AWS",
+          "detail": ". ❍ - AWS - Ai Model, Agent ❍",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-002",
+          "requirement": "SYS-001 AWS",
+          "name": "SYS-001 AWS",
+          "detail": ". ❍ - AWS - Ai Model, Agent ❍",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-003",
+          "requirement": "SYS-001 AWS",
+          "name": "SYS-001 AWS",
+          "detail": "❍ - AWS - Ai Model, Agent ❍",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-004",
+          "requirement": "SYS-001 AWS",
+          "name": "SYS-001 AWS",
+          "detail": "- AWS - Ai Model, Agent ❍",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-005",
+          "requirement": "SYS-001 AWS",
+          "name": "SYS-001 AWS",
+          "detail": "- Ai Model, Agent ❍",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-006",
+          "requirement": "SYS-001 AWS",
+          "name": "SYS-001 AWS",
+          "detail": "❍",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-007",
+          "requirement": "SYS-001 AWS",
+          "name": "SYS-001 AWS",
+          "detail": "❍",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-008",
+          "requirement": "SYS-001 AWS",
+          "name": "SYS-001 AWS",
+          "detail": "SYS-001 AWS",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-009",
+          "requirement": "SFR-009",
+          "name": "SFR-009",
+          "detail": "SFR-009",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-010",
+          "requirement": ",",
+          "name": ",",
+          "detail": ",",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-011",
+          "requirement": ",",
+          "name": ",",
+          "detail": "/",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-012",
+          "requirement": "/",
+          "name": "/",
+          "detail": "LLMOps",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-001",
+          "requirement": "LLMOps",
+          "name": "LLMOps",
+          "detail": "SFR-010 , SFR-011 /",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-001",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-001",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-010 , SFR-011 / SFR-012 LLMOps UIR-001",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-002",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-010 , SFR-011 / SFR-012 LLMOps UIR-001",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-010 , SFR-011 / SFR-012 LLMOps UIR-001",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-011 / SFR-012 LLMOps UIR-001",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": ", DB",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": ", DB",
+          "name": ", DB",
+          "detail": "UIR-001 DAR-001 AI",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": ", DB",
+          "name": ", DB",
+          "detail": "UIR-001 DAR-001 AI",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": ", DB",
+          "name": ", DB",
+          "detail": "DAR-001 AI",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-003",
+          "requirement": ", DB",
+          "name": ", DB",
+          "detail": ", DB",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": ", DB",
+          "name": ", DB",
+          "detail": ", DB",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": "LLM",
+          "name": "LLM",
+          "detail": "· ·",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-003",
+          "requirement": ",",
+          "name": ",",
+          "detail": ",",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": ",",
+          "name": ",",
+          "detail": "SER-003 , DB COR-002 LLM · ·",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": "COR-002 LLM · ·",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": ",",
+          "name": ",",
+          "detail": "COR-002 LLM · ·",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": ",",
+          "name": ",",
+          "detail": "COR-002 LLM · ·",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": "❍ SYS-001 ● - AWS Cloud - WEB : Java, Jsp ● , , , , .",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-002",
+          "requirement": "● /",
+          "name": "● /",
+          "detail": "● DB ( ) ● DB , DBMS ● ,",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-003",
+          "requirement": "●",
+          "name": "●",
+          "detail": "AI Agent .",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [
+        {
+          "title": "일정 리스크",
+          "detail": "제안서 제출 마감일시 : 2026. 09. 09.(수) 17시까지 도착 분",
+          "severity": "확인"
+        },
+        {
+          "title": "감점·실격 조건",
+          "detail": "무효 및 재입찰",
+          "severity": "확인"
+        }
+      ],
+      "clarifications": [
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01658157-000",
+        "budget": "",
+        "period": "",
+        "deadline": "2026. 09. 09.(수)",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "제안서",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 09. 09.(수)",
+          "note": "정성/정량 구분, 원본/사본/PDF/HWPX 등 제출 형식 확인",
+          "extra": ""
+        },
+        {
+          "no": 2,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 09. 09.(수)",
+          "note": "1 \n4) 1 ( 10 )\n5) ( )\n○ \n- ( )\n- ( )\n / \n \n○ : ( )\n4. \n○ : (100 ) \n- (90 , 20 + 70 ) + (10 )\n- \n- \n- ‘ ’ \n○ \n \n 100",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 2개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "협상 적격자 평가",
+          "minor": "기술평가",
+          "score": 90.0,
+          "weight": 90.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "기술평가 90점, 가격평가 10점을 합산(총 100점)하여 본 대학 평가위원회에서 평가\n 나. 제안서 평가결과, 기술평가 점수가 배점한도의 85%이상(77점)인자를 협상적격자로선정\n 다. 종합평가점수(기술평가+가격평가) 결과 고득점자 순으로 협상대상자 후보 선정\n 라. 제안서 제출 후 발표평가 미 참여시 제출된 제안서로만 평가하며, 평가 결과에 대한 이의제기 불가\n 마. 입찰 참가업체가 많을 경우 평가위원회에서 1차 서류 심사를 통해 발표 업체를 선정 후 발표..."
+        },
+        {
+          "major": "평가항목",
+          "middle": "협상 적격자 평가",
+          "minor": "가격평가",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "기술평가 90점, 가격평가 10점을 합산(총 100점)하여 본 대학 평가위원회에서 평가\n 나. 제안서 평가결과, 기술평가 점수가 배점한도의 85%이상(77점)인자를 협상적격자로선정\n 다. 종합평가점수(기술평가+가격평가) 결과 고득점자 순으로 협상대상자 후보 선정\n 라. 제안서 제출 후 발표평가 미 참여시 제출된 제안서로만 평가하며, 평가 결과에 대한 이의제기 불가\n 마. 입찰 참가업체가 많을 경우 평가위원회에서 1차 서류 심사를 통해 발표 업체를 선정 후 발표..."
+        }
+      ],
+      "totals": {
+        "score": 100.0,
+        "weight": 100.0,
+        "gradeA": 1,
+        "gradeB": 1,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01658157-000",
+    "generatedAt": "2026-08-24T10:46:27.657781",
+    "sourceAnalysisAt": "2026-08-24T10:46:02.723459",
+    "projectName": "",
+    "sourceFile": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+    "requirementSourceFiles": [
+      "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "SYS-001",
+        "name": "AWS",
+        "detail": "● , , , , . ● , , . 2)",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-001",
+        "name": "SFR-001",
+        "detail": "·PDF ) , , , , , , , . ● - - ( , , ) , · · . ● · - ( , ) · , .",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-002",
+        "name": "SFR-002",
+        "detail": "· . ● - , , , , . - · - , , . ● - · , ·",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-003",
+        "name": "SFR-003",
+        "detail": "· (SFR-004) , - · ** (Recall)** , (False Positive) . ● ( · · ) . ● ( , , , ) , .",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-004",
+        "name": "SFR-004",
+        "detail": ", . ● · - , , , , . ● · - , , .",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-005",
+        "name": "SFR-005",
+        "detail": "AI ( , , ) . ● · , . ● - , , , .",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-006",
+        "name": "SFR-006",
+        "detail": ", , . ● · · - · · , · · . ● - ( / / / ) ( · ) .",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-007",
+        "name": "SFR-007",
+        "detail": "· . ● - , , ( / / ) . ● - · , .",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-008",
+        "name": "SFR-008",
+        "detail": ". ● - → → . ● · - · , .",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-009",
+        "name": "SFR-009",
+        "detail": ". - , , , . ● - · . ● · - , ,",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-010",
+        "name": ",",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-011",
+        "name": "/",
+        "detail": "● · · , · · ● ● ,",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-012",
+        "name": "LLMOps",
+        "detail": "● AI - AI ( , , , ) , . ● · - , , AI · . ● - , , ,",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-001",
+        "name": "UIR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-001",
+        "name": "AI",
+        "detail": "● DB , ● DB ● ( ) ● , , ● , , ,",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-001",
+        "name": "TER-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-002",
+        "name": "TER-002",
+        "detail": ". ○ , ○ ( · , , ) ·",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "SER-001",
+        "detail": ". ․ IP ․ ․ ․ (IPS) ․",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "SER-002",
+        "detail": "● ● , , ● , , , ● ,",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": ", DB",
+        "detail": "● DB ● DB ● DB , DB ● S/W ‘ S/W ’ S/W ● OWASP 10",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "SER-004",
+        "detail": "● . ● . ● ⋅ . ● · . ● · , , ,",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "QUR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": "QUR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-003",
+        "name": "QUR-003",
+        "detail": "● 4 . ● , . ● ● 9)",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": "COR-001",
+        "detail": "· , · . ● , , . ● (AWS ) .",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": "LLM",
+        "detail": "· · ● LLM · . ● , LLM , , . ● ,",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-003",
+        "name": ",",
+        "detail": "● , , , ( ) 20 ( ) ● , , . ● , , .",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "PMR-001",
+        "detail": "● ● , , ● (PM) ( 2 ● PM .",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "PMR-002",
+        "detail": "● ( ) ● , .( , ) ● .",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "PMR-003",
+        "detail": ", , , , , ● ● ○ · ,",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "PSR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": "❍",
+        "detail": ", ( ) 1 . ● ● ● ● 8 ,",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-002",
+        "name": "● DB ( )",
+        "detail": "● DB , DBMS ● , ● ●",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-003",
+        "name": "● AI Agent",
+        "detail": ". ● . 6)",
+        "source": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "기술평가",
+        "score": 90.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 45,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "기술평가 90점, 가격평가 10점을 합산(총 100점)하여 본 대학 평가위원회에서 평가 나. 제안서 평가결과, 기술평가 점수가 배점한도의 85%이상(77점)인자를 협상적격자로선정 다. 종합평가점수(기술평가+가격평가) 결과 고득점자 순으로 협상대상자 후보 선정 라. 제안서 제출 후 발표평가 미 참여시 제출된 제안서로만 평가하며, 평가 결과에 대한 이의제기 불가 마. 입찰 참가업체가 많을 경우 평가위원회에서 1차 서류 심사를 통해 발표 업체를 선정 후 발표..."
+      },
+      {
+        "scoreItem": "가격평가",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 5,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "기술평가 90점, 가격평가 10점을 합산(총 100점)하여 본 대학 평가위원회에서 평가 나. 제안서 평가결과, 기술평가 점수가 배점한도의 85%이상(77점)인자를 협상적격자로선정 다. 종합평가점수(기술평가+가격평가) 결과 고득점자 순으로 협상대상자 후보 선정 라. 제안서 제출 후 발표평가 미 참여시 제출된 제안서로만 평가하며, 평가 결과에 대한 이의제기 불가 마. 입찰 참가업체가 많을 경우 평가위원회에서 1차 서류 심사를 통해 발표 업체를 선정 후 발표..."
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 사업 이해 및 추진 방향",
+            "section": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+            "requirementCodes": [
+              "SYS-001"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "SFR-001",
+              "SFR-002",
+              "SFR-003",
+              "SFR-004",
+              "SFR-005",
+              "SFR-006",
+              "SFR-007",
+              "SFR-008",
+              "SFR-009",
+              "SFR-010",
+              "SFR-011",
+              "SFR-012",
+              "DAR-001",
+              "DAR-002",
+              "DAR-003"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "PER-001",
+              "TER-001",
+              "TER-002",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "QUR-001",
+              "QUR-002",
+              "QUR-003",
+              "COR-001",
+              "COR-002",
+              "COR-003"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-001",
+              "PMR-002",
+              "PMR-003"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-001",
+              "PSR-002"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 34,
+      "mappedRequirements": 34,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}
