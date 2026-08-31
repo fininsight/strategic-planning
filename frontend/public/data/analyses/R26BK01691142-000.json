@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01691142",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-08-24T10:25:20.600624",
+  "analyzedAt": "2026-08-31T13:17:48.871945",
   "status": "completed",
   "source": {
     "fileName": "계약특수조건_수정.hwpx",
@@ -217,7 +217,7 @@
   "proposalSheets": {
     "id": "R26BK01691142-000",
     "sourceFile": "계약특수조건_수정.hwpx",
-    "generatedAt": "2026-08-24T10:25:19.910617",
+    "generatedAt": "2026-08-31T13:17:48.170609",
     "match": {
       "noticeId": "R26BK01691142-000",
       "bidNtceNo": "R26BK01691142",
@@ -918,8 +918,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01691142-000",
-    "generatedAt": "2026-08-24T10:25:20.600589",
-    "sourceAnalysisAt": "2026-08-24T10:25:19.910617",
+    "generatedAt": "2026-08-31T13:17:48.871921",
+    "sourceAnalysisAt": "2026-08-31T13:17:48.170609",
     "projectName": "「HRDK AI 플랫폼 구축을 위한 GPU 서버 구매 및 설치 사업」 ▢ 사업기간 : 계약체결일로부터 ‘26. 12. 18.(금)까지 * 본 사업은 「소프트웨어사업 계약 및 관리감독에 관한 지침」(과학기술정보 통신부고시) 별표1에 의거 시스템운영환경구축 사업으로서, 동 고시 제10조의 소프트웨어사업의 적정 사업기간 산정 대상에 해당하지 않음 ▢ 사업예산 : 금 762,849,507원 (부가세 포함) ▢ 입찰방법 : 일반경쟁입찰 ▢ 계약방법 : 협상에 의한 계약",
     "sourceFile": "제안요청서_260811_수정.hwpx",
     "requirementSourceFiles": [

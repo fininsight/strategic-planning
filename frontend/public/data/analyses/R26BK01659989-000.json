@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01659989",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-08-24T10:26:31.046847",
+  "analyzedAt": "2026-08-31T13:29:05.480763",
   "status": "completed",
   "source": {
     "fileName": "[입찰공고문] [2026 대학혁신지원사업] 학부 학사정보시스템 고도화 사업.pdf",
@@ -217,7 +217,7 @@
   "proposalSheets": {
     "id": "R26BK01659989-000",
     "sourceFile": "[입찰공고문] [2026 대학혁신지원사업] 학부 학사정보시스템 고도화 사업.pdf",
-    "generatedAt": "2026-08-24T10:26:18.501378",
+    "generatedAt": "2026-08-31T13:28:53.474473",
     "match": {
       "noticeId": "R26BK01659989-000",
       "bidNtceNo": "R26BK01659989",
@@ -1180,8 +1180,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01659989-000",
-    "generatedAt": "2026-08-24T10:26:31.046821",
-    "sourceAnalysisAt": "2026-08-24T10:26:18.501378",
+    "generatedAt": "2026-08-31T13:29:05.480740",
+    "sourceAnalysisAt": "2026-08-31T13:28:53.474473",
     "projectName": "",
     "sourceFile": "붙임2.제안요청서 [2026 대학혁신지원사업] 학부 학사정보시스템 고도화 사업.hwp",
     "requirementSourceFiles": [

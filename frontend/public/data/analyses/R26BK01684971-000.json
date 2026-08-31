@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01684971",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-08-24T10:48:43.764887",
+  "analyzedAt": "2026-08-31T13:35:43.900513",
   "status": "completed",
   "source": {
     "fileName": "규격서 등.zip",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01684971-000",
     "sourceFile": "규격서 등.zip",
-    "generatedAt": "2026-08-24T10:48:43.088225",
+    "generatedAt": "2026-08-31T13:35:43.184075",
     "match": {
       "noticeId": "R26BK01684971-000",
       "bidNtceNo": "R26BK01684971",
@@ -503,8 +503,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01684971-000",
-    "generatedAt": "2026-08-24T10:48:43.764864",
-    "sourceAnalysisAt": "2026-08-24T10:48:43.088225",
+    "generatedAt": "2026-08-31T13:35:43.900494",
+    "sourceAnalysisAt": "2026-08-31T13:35:43.184075",
     "projectName": "",
     "sourceFile": "규격서 등.zip",
     "requirementSourceFiles": [

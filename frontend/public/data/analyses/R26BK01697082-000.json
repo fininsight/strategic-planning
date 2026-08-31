@@ -1,0 +1,2342 @@
+{
+  "bidNtceNo": "R26BK01697082",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-08-31T13:24:40.594445",
+  "status": "completed",
+  "source": {
+    "fileName": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01697082-000/2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+    "pageCount": 132,
+    "textLength": 24033,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+      "extension": ".hwp",
+      "size": 2097152,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "c3365c5740c6e277ac390679",
+      "fileName": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01697082/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01697082/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01697082/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01697082-000/2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01697082-000/converted/2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01697082-000/converted/2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).pdf",
+      "pageCount": 132,
+      "textLength": 24033,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI+OCR \n \n2026. 7.\n \n \nⅠ . \n1. \n2. \n3. \n4. \nⅡ . \n1. \n2. \n3. \nⅢ . \n1. \n2. \n3. \n4. \n5. \nⅣ . \nⅤ . \n1. \n2. \n3. \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n \nⅥ . \n1. \n2. \n3. \n4. \nⅦ . \n1. \n2. \n3. \n4. \nⅧ . \n1. \n2. \n3. \n \n1. \n2. \n3. \n4. \n5. \n6. \n7. \n8. \nⅠ \n1 \n□ \n \n☞ : ( )→ → \n → → ( )→ \n \n□ AI \n(MECAR) AI+OCR \n2 \n□ : AI+OCR \n□ : 240 \n□ : 430,000 ( )\n□ : ( )\n ( ) \n \n \n 306,300,000\n \n( )\n \n \nH/W (GPU) 35,700,000\n \n \n \n \nS/W (OCR) 88,000,000\n3 \n□ AI+OCR \n○ \n○ ( ) \n○ \n□ AI+OCR \n○ OCR \n○ AI \n \n○ , \n□ AI+OCR \n○ OCR \n○ \n○ , \n○ AI \n□ AI \n○ , \n○ , \n○ \n□ \n○ AI+OCR \n4 \n□ AI+OCR , \n□ \n□ \n \nⅡ \n1 \n□ 54 ( ) “ \n (MECAR)” \n□ \n · \n- ․ , ( , ) \n□ 21 ( ) \n \n2 \n□ MECAR \n□ \n\n3 \n□ \n※ ( 2023-27 ) 17 ( \n ) , \n \nⅢ \n1 \n (MECAR) \n \n \n \n2 \n . \n · \n , \n \n / , \n IT \n \n UI·UX \n ( ) ( ) \n ( ) \n ( ) · \n(Secure Coding) \n \n※ , (web) \n \n※ ( , , , · \n )\n . · \n \n \n \n (IRM) \n . \n ( ) \n ( ) \n · · \n ( ) \n ( ) \n ( ) \n ( ) \n \n \n / \n \n \n , \n . \n \n \n UI \n3 \n□ \n \n( )\n \n( ,\n )\n \n \n \n \n \n( · \n )\n \n4 \n□ ( 240 )\n \n \nM1 M2 M3 M4 M5 M6 M7 M8\n \n \n \n , \n \n \n ,\nDB \n UI/UX \n (Architecture)\n \n DB · \n \n \n \n / \n \n AI OCR \n , \n \n \n \n \n \n \n \n , \n \n \n \n \n※ ⋅ \n5 \n□ \n (FP) ‘ \n ‘ 10 \n11 \n※ \n□ \n ‘ ‘ 57 ( ) 71 ( \n ) \n \n※ · \n□ \n ( ) ‘ ‘ 50 \n \n ( ) ‘ ‘ 50 , 47 1 2 ,\n 3 · , \n * \n* 13 \n□ \n ‘ ‘ 54 , ‘ ‘ 84 , ‘ \n ‘ 7 8 \n \n- SW 100 40 (1 \n 1 ) “ ” \n \n \n 1) \n2) \n \n3) 4) \n1 OCR 2\n (√)\n ( )\n- 26 7 \n- 88 \n- \nⅣ \n□ AI+OCR \n○ \n○ ( ) \n○ \n□ AI+OCR \n○ OCR \n○ AI \n \n○ , \n□ AI+OCR \n○ OCR \n○ \n○ , \n□ AI \n○ , \n○ , \n○ \n□ \n○ AI+OCR \n \nH/W GPU NVIDIA L40S GPU GPU 2 \nS/W OCR 2 \n( )\n※ ‘ \n ’ \n‘ \n \n ’ \n \n \n , \n \n \n · \n \n \n \n \n \n \n \n※ \n \n \n \nⅤ \n1 \n \n \n \n -SFR (System\nFunction Requirement)\n \n ( ) \n5\n -PER\n(Performance\nRequirement)\n , , · , \n \n8\n -INR\n(System Inteface\nRequirement)\n \n \n9\n -ECR\n(Equipment Composition\nRequirement)\n , \n \n4\n -DAR (Data\nRequirement)\n DB \n \n13\n -TER (Test\nRequirement)\n , , , , \n \n6\n -SER (Security\nRequirement)\n , \n \n10\n -QUR\n(Quality Requirement)\n , \n ( , , ,\n , )\n5\n -COR\n(Constraint Requirement)\n \n \n7\n –PMR\n(Project Management\nRequirement)\n , , , \n , \n18\n -PSR\n(Project Support\nRequirement)\n \n \n9\n \n2 \n ID \n1) \nSFR-001 \nSFR-002 AI+OCR \nSFR-003 AI+OCR \nSFR-004 AI+OCR \nSFR-005 AI \n2) \nPER-001 \nPER-002 \nPER-003 \nPER-004 \nPER-005 \nPER-006 \nPER-007 SQL \nPER-008 \n3) \nINR-001 \nINR-002 \nINR-003 \nINR-004 \nINR-005 \nINR-006 \nINR-007 \nINR-008 \nINR-009 \n4) \nECR-001 \nECR-002 (H/W)GPU\nECR-003 (S/W)AI \nECR-004 (S/W)OCR \n5) DAR-001 \nDAR-002 \nDAR-003 \nDAR-004 \nDAR-005 \nDAR-006 \nDAR-007 \nDAR-008 \nDAR-009 \nDAR-010 ( )\nDAR-011 ( )\nDAR-012 \nDAR-013 \n5) \nTER-001 \nTER-002 \nTER-003 \nTER-004 \nTER-005 \nTER-006 \n6) \nSER-001 \nSER-002 \nSER-003 \nSER-004 \nSER-005 \nSER-006 \nSER-007 \nSER-008 \nSER-009 \nSER-010 \n7) \nQUR-001 \nQUR-002 \nQUR-003 \nQUR-004 \nQUR-005 \n8) \nCOR-001 \nCOR-002 ( SW ) \nCOR-003 \nCOR-004 \nCOR-005 \nCOR-006 \nCOR-007 \n9) PMR-001 EA \nPMR-002 \nPMR-003 ( ) \nPMR-004 (PM)\nPMR-005 \nPMR-006 \nPMR-007 \nPMR-008 \nPMR-009 \nPMR-010 \nPMR-011 \nPMR-012 \nPMR-013 \nPMR-014 \nPMR-015 \nPMR-016 \nPMR-017 \nPMR-018 , \n10) \nPSR-001 \nPSR-002 \nPSR-003 \nPSR-004 \nPSR-005 , AI \nPSR-006 \nPSR-007 \nPSR-008 \nPSR-009 \n※ , \n ( ) \n※ \n , \n3 \n□ (System Function Requirement)\n \n SFR-001\n \n \n \n \n ❍ \n❍ \n❍ , UI \n \n❍ ( ) \n( X (EXE) )\n❍ \n❍ , \n , / \n❍ , \n \n❍ \n \n \n❍ \n \n❍ / , OS \n \n❍ H/W, S/W , \n (open api ). , , \n , \n \n❍ , , \n \n❍ · 2 6 \n \n❍ , , \n .\n -\n \n \n SFR-002\n AI + OCR \n \n \n AI + OCR \n \n❍ · \n❍ ( ) \n❍ \n \n \n \n SFR-003\n AI + OCR \n \n \n AI + OCR \n ❍ OCR \n❍ · AI \n \n❍ , \n❍ \n( , ) \n❍ \n \n1 \n2 \n3 , , \n4 \n5 \n- , \n \n- , , \n- \n○ \n \n- \n- \n- Key-Value \n○ \n- , \n- AI-OCR \n- \n- , , Key-Value \n○ , \n \n- \n \n- ( ) \n- \n- \n \n○ , AI-OCR \n \n○ AI-OCR, \n , AI \n \n- \n \n○ \n○ \n \n \n \n SFR-004\n AI + OCR \n \n \n AI + OCR \n \n❍ OCR \n❍ \n❍ , \n \n \n \n SFR-005\n AI \n \n \n AI \n \n❍ , \n❍ , \n❍ \n \n \n□ (Performance Requirement)\n \n PER-001\n \n \n \n \n \n❍ \n❍ \n❍ ( ) \n , \n \n \n \n PER-002\n \n \n \n \n ❍ 3 \n❍ \n- 3 / (3M) \n- : https://www.webpagetest.org \n- : / Microsoft Edge / 3 \n- \n .\n- (Connection) \n· \n· DNS \n· \n- ( ) \n- \n❍ Microsoft Edge, Google Chrome 2 \n \n❍ \n- . , , \n \n- , \n- \n \n❍ ( 1GB ) \n \n \n \n \n PER-003\n \n \n \n \n \n❍ 3 \n❍ 8 \n❍ \n \n \n \n \n PER-004\n \n \n \n \n ❍ 3 \n \n❍ ( 50KB ) \n \n❍ 90% \n \n \n \n \n PER-005\n \n \n \n \n \n❍ 3\n \n❍ \n- \n , \n \n \n \n PER-006\n \n \n \n \n \n❍ 50 * \n \n- 5 \n* \n \n \n \n PER-007\n SQL \n \n \n SQL \n \n○ SQL \n \n○ \n \n \n \n PER-008\n \n \n \n \n \n○ SW .\n- Web, WAS, DB \n○ (CPU, , ) 90% \n .\n- 39 \n- (3 ) 69 \n \n \n□ (System Interface Requirement)\n \n INR-001\n \n \n \n \n ❍ \n , \n \n \n \n INR-002\n \n \n \n \n ❍ \n \n \n \n INR-003\n \n \n \n \n ❍ , \n \n❍ , \n \n❍ \n \n \n \n \n INR-004\n \n \n \n \n ❍ \n (API ) \n , \n \n \n INR-005\n \n \n \n \n ❍ \n \n \n \n \n INR-006\n \n \n \n \n \n❍ , , \n❍ , \n❍ , \n \n \n \n INR-007\n \n \n \n \n❍ \n❍ \n \n \n \n INR-008\n \n \n \n \n \n❍ ( ) \n❍ ( , ) \n , \n❍ \n❍ \n❍ UI/UX UI \n❍ ( 100 ) \n \n \n \n INR-09\n \n \n \n \n \n❍ , , , , \n \n- , , , , ,\n \n \n \n□ (Equipment Composition Requirement)\n \n ECR-001\n \n \n \n \n [ ]\n❍ \n \n[ , ]\n❍ \n- ( , EOM), \n \n❍ \n- , \n \n- A/S \n \n- , \n \n- \n- ( ) \n- , \n \n- \n❍ \n- / \n \n[H/W ]\n❍ ( ) / \n , \n❍ \n❍ , , \n \n \n❍ , , , \n , ,\n , \n- , , \n- S/W (OEM ) \n- 1 \n- SW \n \n❍ , \n❍ A/S ( )\n \n \n ECR-002\n (H/W) GPU\n \n \n (H/W) GPU \n ❍ : 2 \n❍ \n- NVIDIA L40S GPU GPU\n❍ \n- 3 24 4 \n \n❍ , \n❍ A/S ( )\n \n \n ECR-003\n (S/W) AI \n \n \n (S/W) AI \n \n○ DB \n○ / / / / \n○ \n○ \n○ \n \n❍ , \n❍ ( ) \n \n \n ECR-004\n (S/W) OCR \n \n \n (S/W) OCR \n \n○ Key Value \n○ AI \n○ OCR \n○ , , , \n○ JPG, PNG, TIF, PDF, PDF \n○ XML/JSON \n○ GS \n ❍ , \n❍ ( ) \n \n□ (Data Requirement)\n \n DAR-001\n \n \n \n \n \n○ \n- ( \n ) · \n○ \n- ( , , , ) \n \n※ \n \n , ( , , ,\n )\n \n \n DAR-002\n \n \n \n \n ○ \n- ( · · · ) \n- \n- ( ) \n○ \n- DB ( · · · ) , \n 90% \n- \n○ \n- ( · · · ) · ·\n , \n \n- \n- ( ) 1 ( \n ) \n \n※ \n1. \n2. ( ) \n3. ( ) \n4. ( )\n5. ( )\n6. ( )\n7. ( )\n8. \n※ \n , ( , , , \n ), , , \n \n \n DAR-003\n \n \n \n \n \n○ \n- (DB ) ( ) \n DB ( , , , ) \n \n※ , \n※ \n※ DB : DB DB \n \n , , , ( ),\nDB , ( , )\n \n \n DAR-004\n \n \n \n \n ○ \n- ( ) , \n \n- DB \n- , , , DB \n○ · · \n- , , DB \n \n- , , DB Object \n- , , , \n \n- \n- 90% , 1·2·3· \n \n- \n \n- ( ) 2 ( \n ) \n○ DBMS \n- \n- \n※ \n※ \n1. \n2. ( ) \n3. ( ) \n4. ( )\n5. ( )\n6. ( )\n7. ( )\n8. (CRUD )\n9. \n \n , ( · · ), , \n ( ) , ( ) , ( , , ), \n , , \n \n \n DAR-005\n \n \n \n \n ○ \n- · · · · \n \n- , , , \n \n- \n ) \n: ( )\n: \n ) \n: , , \n- \n※ \n , , , , \n · \n \n \n DAR-006\n \n \n \n \n \n○ \n- ( ) DB \n \n※ \n※ DB : DB \n \n ( , , , ERD \n ), ( , ), DB \n \n \n DAR-007\n \n \n \n \n \n○ \n- , , \n○ \n- * (BR) \n \n* \n- , , \n \n- \n \n- (DB) · ( , , , ) \n (BR) \n※ \n · , \n \n \n DAR-008\n \n \n \n \n \n \n- ( , , , , ,\n ) \n* : \n** : \n- GAP , \n \n- ( ) \n \n- \n* : , , \n** : , ž ž \n \n- \n · \n- \n- \n- \n \n · · \n \n \n DAR-009\n \n \n \n \n \n○ \n- (DB) , , \n \n \n- , , \n \n- ( · · · ) , , \n \n- ( · ) , , \n \n- , , \n \n○ \n- · \n- * \n* ( · , , ), ( , , , ), \n(DB, , ), , \n- \n , \n※ \n ( , , ) , · , , \n · , / \n \n \n DAR-010\n \n \n \n \n \n \n○ \n- \n \n※ , \n ( ) \n○ \n- API \n \n , \n \n \n DAR-011\n \n \n \n \n \n○ \n- \n \n※ , \n \n○ \n- (DB) \n \n , , \n \n \n \n DAR-012\n \n \n \n \n \n○ , \n , (99.99% ) .\n※ \n \n \n \n DAR-013\n \n \n \n \n \n○ ‘ ’ \n .\n- ( /API) \n .\n○ ‘ ’ \n .\n- .\n- .\n○ DB \n○ DB (Role) \n○ DB DB\n \n○ DB Application Unix Prompt \n○ DB DBA \n \n○ DB \n※ : ( , , )\n○ \n , , \n .\n※ \n \n \n□ (Test Requirement)\n \n TER-001\n \n \n \n \n \n❍ , \n \n❍ , \n❍ , , , , \n \n❍ \n \n❍ , , , , \n \n \n \n \n TER-002\n \n \n \n \n ❍ , , , , \n❍ , , , \n \n \n \n TER-003\n \n \n \n \n \n❍ \n \n- , \n- \n- \n- \n- , \n- \n- \n \n \n \n TER-004\n \n \n \n \n \n❍ HW Application \n \n( )\n❍ \n \n \n \n TER-005\n \n \n \n \n \n❍ , , , , \n \n❍ · ,\n \n❍ · , · \n \n❍ \n , \n · \n❍ \n \n \n \n TER-006\n \n \n \n \n \n❍ \n , , , ( ), , , , \n \n❍ : , , ( ) , ( ) \n❍ , , \n \n❍ , , , , , \n , \n❍ \n※ , \n \n❍ Test \n \n \n \n□ (Security Requirement)\n \n SER-001\n \n \n \n \n \n \n○ \n○ \n○ , “ \n[ 6]” [ 4] \n○ \n \n- “ ” ‘ 76 ( \n ) ① 18 ’ \n※ “ [ 6]” [ 3] \n○ ‧ \n- , , , , , · , \n , , \n- , , , , \n \n○ [ 6] \n \n \n \n SER-002\n \n \n \n \n \n \n○ , , \n \n○ , , , \n \n○ \n○ 76 , \n , \n○ \n- ․ ․ ( )\n- ( )\n- ( )\n- ( )\n- (OWASP) TOP 10 8 \n○ ( , )\n* \n \n \n \n SER-003\n \n \n \n DB \n \n \n○ DB \n○ \n \n○ DB \n○ DB (Role) (Privilege) \n○ DB DB \n \n○ DB Application Prompt \n○ DB DBA \n○ DB \n※ : ( , , )\n \n \n \n SER-004\n \n \n \n \n \n \n○ (ID) \n○ \n \n \n \n SER-005\n \n \n \n \n \n \n○ ‘ ( )’ \n○ , CC \n , .\n○ .\n○ , (OWASP, Open Web Application Security\nProject) , \n○ \n- \n- \n※ · SQL injection·XSS 10 \n- \n※ \n○ PMD(Programming Mistake Detector) Tool \n \n○ \n○ , \n○ , SSL(https) \n \n○ IP TCP \n IP \n○ HTTPS TLS v1.2 ( ) , \n TCP , HTTPS 2 \n❍ 26 ( ) 1 \n \n❍ ‘ ’ \n .\n❍ 54 ( ) (6 \n , \n ) .\n❍ ' ' \n .\n❍ 3 \n .\n❍ .\n \n \n \n SER-006\n \n \n \n \n \n \n○ \n \n○ \n- , CCTV ( ) \n ( )\n- · \n○ \n- , \n \n○ ( / ) \n- \n- VPN \n- , \n- ( ) \n- \n- \n- PC ( )\n○ ( ) , \n ( ) \n○ , PC , \n \n○ PC· ( ) , \n \n○ , \n \n- (SSID) (broadcasting) \n- (SSID) \n- WPA2 (256 ) \n- ( ) IP \n \n※ \n○ \n \n- · · \n · \n \n \n \n SER-007\n \n \n \n \n \n \n○ \n , \n○ CC (PP ), \n , \n \n○ \n \n○ \n○ \n \n○ L3 , \n- , CC .\n- \n· \n· \n· (ACL: Access Control List) \n○ \n- \n- \n* , , \n \n- IP \n- (1 )\n- (Telnet, FTP ) , SSH (TCP/22) \n \n- \n* , , \n \n- IP \n- \n- (1 )\n- (TELNET, FTP ) , SSH \n(TCP/22) \n \n \n \n SER-008\n \n \n \n \n \n \n○ \n \n○ \n \n○ \n- FTP, Telnet, Finger \n- · \n- \n- IP · \n- \n- Windows \n- \n- , 9 \n※ (0 9), (a z, A Z), (!, @, #, $, ^, &, *, (, ), )\n \n \n \n SER-009\n \n \n \n \n \n \n○ , \n \n○ ( , VPN ) \n .\n○ 2 \" \" , \n , ( ) \n · \n \n \n \n SER-010\n \n \n \n \n \n \n○ ‘ · ’,‘ ’,‘ \n ’ \n○ - - \n※ , , , \n \n※ , \n○ , \n , · \n \n \n \n□ (Quality Requirement)\n \n QUR-001\n \n \n \n \n \n \n○ \n○ \n , \n \n○ ( ) \n \n \n \n \n \n QUR-002\n \n \n \n \n \n \n○ , , , \n \n○ \n○ , \n○ , , , \n \n \n \n \n QUR-003\n \n \n \n \n \n \n○ , , \n ( ) \n \n○ , \n \n○ \n \n \n \n QUR-004\n \n \n \n \n \n \n○ 100% ( \n )\n○ \n \n○ \n \n \n \n QUR-005\n \n \n \n \n \n \n○ \n \n○ , , / \n○ (firmware) \n- \n- \n○ \n○ \n , \n \n \n□ (Constraint Requirement)\n \n COR-001\n \n \n \n \n \n○ , , \n○ · \n○ JAVA \n○ \n○ \n○ UI/UX \n○ \n○ · \n○ \n- , ( )\n○ ( \n , )\n○ , , \n \n○ \n○ \n \n \n \n COR-002\n ( SW ) \n \n \n ( SW ) \n \n❍ \n , . , \n \n❍ 56 ( \n ) \n❍ , \n❍ SW ,\n SW \n \n \n \n COR-003\n \n \n \n \n \n○ \n \n○ \n○ “ · ( ) “ \n- \n- , \n \n \n \n COR-004\n \n \n \n \n \n❍ “ \n ( )” \n❍ \n❍ , \n \n❍ \n \n , \n \n \n COR-005\n \n \n \n \n \n❍ “ ( )” 7 \n \n❍ \n \n \n \n COR-006\n \n \n \n \n \n❍ \n- W3C Markup Validation (http://validator.w3.org) \n- W3C CSS Validation (http://jigsaw.w3.org/css-validator) \n※ ActiveX \n❍ \n- , , \n- 3 (Microsoft Edge, Google Chrome ) \n- \n❍ “ ( )” \n \n \n \n COR-007\n \n \n \n \n \n❍ \n❍ \n❍ “ ” \n❍ ‧ ※\n \n❍ \n- “ ” \n- \n❍ \n- \n❍ \n- ( ) \n- : OWASP - 10 , - 8 \n , , \n \n□ (Project Management Requirement)\n \n PMR-001\n EA \n EA \n \n \n❍ : 14 ( \n )\n❍ ‘EA ’ ( ) .\n ‘ ’ EA \n \n❍ ( ) EA \n ( , , ) EA \n \n \n \n \n PMR-002\n \n \n \n \n ❍ , , \n❍ \n- (PM) \n \n❍ , \n \n- ( ) ,\n \n- \n \n❍ \n- \n▪ , CCTV ( )\n ( )\n▪ ( ) · \n- \n▪ , \n \n- ( / ) \n▪ \n▪ VPN \n▪ ( ) , \n \n▪ ( ) \n▪ \n▪ \n- ( ) , \n ( ) \n- , PC , \n \n- PC· ( ) , \n \n- , \n \n▪ (SSID) (broadcasting) \n▪ (SSID) \n▪ WPA2 (256 ) \n▪ ( ) IP \n \n❍ \n- , , , , \n .\n- ( \n )\n , \n \n , \n \n \n PMR-003\n ( ) \n \n \n ( ) \n ❍ \n- \n , , , , \n \n- ( ) \n , \n \n \n \n \n \n \n10 \n · \n · \n \n \n \n , \n ( )\n \n- ( ) \n- \n- \n \n \nUSB\n- \n- ERD\n- DB \n- \n- \n- \n- \n \n \n❍ ( ) : 10 , \n · , \n \n- , \n- \n- \n- ( · ) \n- , \n- , \n- ( , )\n※ ‘ (Security Requirement)’ \n❍ ( ) : · \n , .\n \n ( )\n EA , \n , \n❍ \n · · .\n , , , \n · \n❍ \n \n .\n 3 \n❍ \n \n PC ․ \n PC, \n \n ( , , ) , \n , P2P, \n \n※ : , \n / , / / , \n \n \n PMR-004\n (PM)\n \n \n (PM) \n \n❍ (PM) \n , \n- PM \n- \n- \n \n \n \n \n PMR-005\n \n \n \n \n ❍ · \n \n \n \n \n PMR-006\n \n \n \n \n \n❍ , \n \n \n❍ 7 \n❍ ,\n \n❍ ‘ ’ ‘ \n ’ , , \n \n \n \n PMR-007\n \n \n \n \n \n❍ , , ․ , , \n . \n \n❍ , \n , \n \n \n \n \n PMR-008\n \n \n \n \n \n❍ \n , , , \n \n❍ \n❍ , \n \n❍ , \n \n \n \n \n PMR-009\n \n \n \n \n \n❍ \n , , , \n \n❍ \n❍ , \n \n❍ , \n \n \n \n \n PMR-010\n \n \n \n \n \n❍ , , , \n❍ \n❍ \n \n❍ \n \n❍ : 50% , , \n \n❍ ․ \n ( ) ( : \n ) \n※ \n , ․ \n \n \n \n PMR-011\n \n \n \n \n \n❍ , , , \n \n❍ SW \n❍ · · \n \n❍ \n \n \n \n PMR-012\n \n \n \n \n \n❍ · , , \n \n❍ · \n , \n (WBS ) · \n❍ , \n \n - / / , , WBS\n \n \n PMR-013\n \n \n \n \n \n❍ \n- \n \n \n \n PMR-014\n \n \n \n \n \n❍ · , , , \n ( ) \n \n , \n \n \n PMR-015\n \n \n \n \n \n❍ , , ,\n ․ \n❍ \n · , · · \n \n \n PMR-016\n \n \n \n \n \n❍ \n- , \n- , , \n- , \n \n \n \n PMR-017\n \n \n \n \n \n❍ 14 \n- , , , , \n \n❍ , , \n \n \n \n \n PMR-018\n , \n \n \n , \n \n❍ , \n❍ , \n \n❍ ( ) \n \n \n \n□ (Project Support Requirement)\n \n PSR-001\n \n \n \n \n \n❍ , \n \n❍ \n \n❍ \n- , \n ( , ) \n ( ) .\n- , , , , \n \n❍ \n- \n \n- \n- ( ) \n \n❍ \n , \n❍ (EA) · , \n \n , \n \n \n PSR-002\n \n \n \n \n \n❍ 3 SW \n 12 \n❍ , \n❍ H·W, S·W , , \n24 \n , SW \n \n❍ \n \n❍ 3 \n \n❍ \n \n❍ \n- (HW, SW ) SW \n- \n- (Trouble Shooting)\n- \n❍ A/S 10 \n❍ \n \n- , \n- \n \n \n \n PSR-003\n \n \n \n \n \n❍ * 8 \n , \n \n* : \n❍ 7 \n \n❍ HW SW 2 \n H·W , , \n SW \n \n \n \n PSR-004\n \n \n \n \n \n❍ \n- \n- , , , \n \n❍ \n , \n \n \n \n PSR-005\n , AI \n \n \n , AI \n \n❍ , AI \n- , \n❍ , AI \n- , \n , \n \n \n \n PSR-006\n \n \n \n \n \n❍ \n \n- \n- \n- \n( )\n- \n- S/W S/W , \n- \n❍ , \n \n❍ \n \n \n \n PSR-007\n \n \n \n \n \n❍ \n \n- \n- (S/W)\n- , \n- \n- Application, DB \n- , \n- \n· , , , , , , , , \n- : ERD, , , \n , , CRUD \n , \n \n \n PSR-008\n \n \n \n \n \n❍ , , \n , \n \n \n \nS·W\n \n \n \n \n․ \n․ \n․ \n․ \n \n \n \n \n․ \n․ \n․ \nH·W\n \n \n \n \n ·\n \n \n․ \n \n․ \n \n ,\n \n \n \n ․ \n \nS·W\n ,\n \n \n \n \n \n․ \n \n․ \n \n \n \n PSR-009\n \n \n \n \n \n❍ · \n ( ) 60 ( ) \n , \n※ 56 ( \n ) \n❍ SW (SW ) \n \n- SW www.spir.kr `SW \n ` \n- SW \n- SW \n \n❍ A/S \n \n \nⅥ \n1 \n❍ : \n❍ : \n< >\n- 43 43 2\n- ( )\n- · 18 \n❍ : \n- = (90%) + (10%)\n- · ( ) \n❍ : \n❍ \n- \n \n- , , \n \n❍ \n☞ “ ” \n2 \n . \n 12 14 \n \n 27 76\n “ ” \n [ , 1468] \n \n 9 4 5 \n3 ( : , \n8111159901, ) \n \n · , , , ( \n ) \n 20 , 48 \n 2 , 3 \n , \n . \n ( ) , \n [ 8 , 9 ] ( )\n , 5 \n \n , , \n 10% \n \n . \n ( ) 51 5 \n \n \n ( ) 51 \n1 ( ) 100 \n50 , 3 . , \n 51 2 3 \n ( ) \n 8 ( ) \n ( ) , 8 \n , 85 \n . , 85 \n \n \n ( ) 8 \n ( ) \n ( ) 10% , \n 51 6 48 5 \n , \n \n . \n 50 , 47 1 2 , 3 \n · , \n \n [ ] 13 \n3 \n . · : “ ” \n . : “Ⅵ . ” \n4 \n . \n , \n ( ) \n \n \n \n . \n , \n \n 52 ( ) \n 16 ( ) \n .\n . \n 10 \n \n- “ ” ( 2)\n . \n 43 , 35 , \n ( ) 5 , 6 \n \n- “ ” ( 3)\n . \n \n \n \n . \n ( , , ) \n \n , \n 56 \n ( )\n- , \n , \n \n- 3 \n \n- \n 76 1 3 \n \n ( ) 56 ( \n ) \n . \n 1 \n . \n SW ( , , ) \n \n❍ SW (HW, SW, ) , \n , \n \n . · \n \n , . , \n \n \n \n \n ( , , ·USB \n , , ) \n . \n 4 5 · \n , , \n \n 4 9 4 5 \n · · , \n · \n · \n \n . \n , · \n , \n ,\n , \n , , \n \n , \n \n , \n , \n \n , \n \nⅦ \n1 \n ․ ․ \n \n \n , \n \n \n \n ․ ․ \n \n , \n \n2 \n , \n \n “ ” , , \n [ 2] \n \n- A4 , \n , \n 200 , , \n 50 \n- A4 , A4 \n \n- \n※ , \n- , \n \n \n \n \n “ ” . , “ , \n , ” . , \n \n \n \n3 \n 3 , \n \n \n \n , \n \n (PM) , \n ( , , ) \n \n [ 12] [ 13] \n \n , \n \n , \n \n4 \n❍ \n , \n ⋅ \n❍ “ “ \n 1 : ( )\n \n - \n - \n - \nⅠ . \n1. - \n※ , \n2. \n - \n3. - \nⅡ . \n1. - , , , \n \n2. - ( , \n , ) \n3. - ( , , ) \n , , \n4. \n- \n- \n , \nⅢ . \n1. - , · \n2. - , \n \n3. \n- : · \n \n- : · · · \n \nⅣ . \n1. \n- \n- \n- \n2. - \n \n3. - , \n \n4. \n- , ( ), , , , \n \n \nⅤ . \n1. - , \n \n2. \n- ( , , ) , \n , \n \n3. - \n , \n4. - , · \n \nⅥ . \n1. - · , \n \n2. - , , , , \n \n3. - , , \n \n4. - , \n \n 2 : \n \n - ( 1)\n - \nⅠ . \n1. \n- ( 3)\n※ , \n ( )\n ( )\n2. - ( 3 ) \n- ( 3 ) \nⅡ . \n1. - \nⅧ \n1 \n \n( ) ( ) \n \n※ \n (90%) (10%) \n- ( \n 2 ) \n , 85% \n< >\n▪ 43 43 2\n▪ ( )\n▪ · ( )\n 8 10 \n 4 5 \n 3 * \n \n* : 3 \n- , .\n2 \n \n : \n- ( )\n \n \n \n \n \n(18 )\n \n \n- \n- , , 6\n \n \n \n \n- \n- 4\n \n \n- ( , , ) \n- , , \n4\n \n \n- \n- \n , \n \n4\n \n \n(18 )\n \n \n- , · \n 6\n \n \n \n \n- , \n 3\n \n \n- : · \n \n- : · \n · · \n3\n \n \n- ,\n , \n \n3\n \n \n- , \n \n- ( , , , \n ) , , \n3\n \n \n(15 )\n - 3 \n \n - \n 2\n \n- \n , \n \n5\n \n- , ( ), , \n , , \n \n5\n \n \n \n(15 )\n \n- , \n \n \n4\n \n \n \n- ( , , ) \n , , \n \n4\n \n \n- \n , \n \n4\n \n \n- , · \n 3\n \n \n \n(14 )\n - · , \n 3\n \n \n - , , , , \n 3\n - , , \n 4\n \n \n- , \n 4\n \n \n(10 )\n - 2\n - 3 ( ) 3\n \n - , 5\n \n(10 ) - 10\n 100\n3 \n . (80 ) : \n [ 15] ‘ ( \n100%), ( 90%), ( 80%), ( 70%), ( \n60%)’ \n . (10 )\n \n 2 \n 3 ( ) 3 \n , 5 \n❍ (2 )\n- : \n- ‘ ’ \n \n \n \n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0\n2.0\n( 100%)\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB-\n1.9\n( 95%)\nB+, B0, B- B- B+, B0, B-\n1.8\n( 90%)\nCCC+ C CCC+ \n1.4\n( 70%)\n* \n[ ]\n1. 2 8 3 \n 335 3 , \n , \n . , .\n2. , \n . , \n .\n3. 1 , \n . , \n \n .\n4. 7 \n . \n , . , \n , ( , \n ) .( )\n5. , \n .\n( ) (A ×A )+(B ×B )…\n6. .\n❍ (3 )\n- : \n ( ) \n100% 3.0 ( 100%)\n70% 100% 2.7 ( 90%)\n40% 70% 2.4 ( 80%)\n40% 2.1 ( 70%)\n* 3 ( ) ( ).\n , 7 7 \n \n[ ]\n1. \n . , \n .\n2. 9 8 1 .\n3. , .\n4. 9 8 3 , \n , 5 .\n5. 15 16 \n .\n . , , \n . , , ( )\n \n . \n . , , \n \n . .\n6. , \n .\n( ) {(A ×A )+(B ×B )…} \n7. 6 .\n8. , , . \n .\n . : \n . : . , , \n .\n . : . , , \n .\n❍ (5 )\n \n \n \n① < > ▪ < > < >\n② \n▪ \n \n△ 2.0\n③ \n \n▪ 2 \n \n \n△ 2.0\n[ ]\n1. ②~③ , .\n2. , .\n3. ( \n ) .\n4. ( \n ) .\n5. \n6. ② .\n7. ③ 2 \n . , 2017 5 1 .\n 1 \n \n 1 : \n 2 : \n 3 : \n 4 : \n 5 : \n 6 : ( 3 )\n 7 : \n 8 : \n 9 : ( )\n 10 : \n 11 : \n< 1>\n \n<-------------------------- 210 mm ---------------------------->\n AI+OCR \n / \n( : , : 20, 30 )\n2026. .\n( , : 20 )\n \n( 24 , 100%, )\n∧\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n2\n9\n7\nm\nm\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n∨\n< 2>\n \n□ :\n \n \n \n \n \n※ \n※ \n※ , “ ” \n< 3>\n \n \n \n \n \n \n ∼ ( )\n \n※ \n1. \n2. \n3. \n- , 1 \n4. , \n \n< 4>\n \n \n \n( )\n \n \n* 3 ( ).\n , 7 7 \n )\n① \n ( )\n② \n< 5>\n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n ( )\n ( )\n \n \n \n \n \n(VAT )\n \n (%) ( )\n \n \n .\n \n : ( ) ( : )\n :\n : : ( : )\n[ ]\n1. ( ) , \n2. , \n \n3. , \n4. \n< 6>\n ( 3 )\n( : )\n Y-2 Y-1 Y \n \n (A)\n (B)\n (C)\n \n \n \n \nH/W\nS/W\n \n \n \n \n (D)\n \n(D/A)\n \n(B+C)/A\n ( ) \n< 7>\n \n1. \n2. \n3. \n4. \n5. \n6. \n \n \n \n ) 1. “ ” 4 4 1 4 \n ( ) \n \n2. \n< 8>\n \n□ :\n \n \n( )\n \n (5 )\n( )\n ○○ \n- ○○◦○○◦○○○○○◦...\n “ AI+OCR “ \n ① ② \n .\n \n※ \n< 9>\n ( )\n 1 ( ) , \n ․ ․ ․ \n .\n1. :\n2. :\n3. :\n 2 ( ) , , .\n1. : \n2. :\n3. :\n 3 ( ) .\n1. ( : )\n2. ( : )\n .\n 3 , \n .\n 4 ( ) , . , \n 3 ․ .\n 5 ( ) 1 ․ \n .\n 6 ( ) . \n , .\n< 2014.1.10.>\n 7 ( ) \n .\n 8 ( ) 11 , \n .\n1. ( ) : , , \n2. : , , \n 9 ( ) .\n1. : %\n2. : %\n 1 . , \n .\n1. \n2. , , , , ( \n ), \n \n , .\n 10 ( ) 9 \n .\n 10 2( ) , , , \n .\n , \n .\n 1 , \n , \n .\n 3 .\n , \n .\n[ 2012.4.2.]\n 11 ( ․ ) ․ 3 .\n 12 ( ) \n . , 3 \n .\n1. \n2. , , 10 2 \n < 2012.4.2.>\n3. , , 76 \n 1 6 \n 1 . ,\n , , \n . < \n2010.9.8.>\n 2 9 \n .\n 10 .\n 13 ( ) \n . , \n . < 2014.1.10.>\n 14 ( ) \n .\n .\n \n .\n \n ( )\n ( )\n< 10>\n \n \n 20 \n \n , \n , \n .\n20 \n \n \n \n ( )\n \n \n \n \n \n ( )\n \n \n \n \n \n ( )\n \n \n< 11>\n \n “ AI+OCR ” \n ( ) \n .\n○ : \n○ \n- , , , \n○ : 3 \n- \n20 . . .\n :\n \n 2 \n \n 1 : ( )\n 2 : ( )\n 3 : \n 4 : \n 5 : \n 6 : \n 7 : \n 1 : \n 2 : \n 3 : \n 4 : \n[ 1]\n ( )\n ( ) .\n1. .\n2. \n .\n3. \n .\n \n : :\n( ) : ( )\n :\n :\n( ) : ( )\n :\n \n□ □ \n[ ]\n \n ( ), , \n \n \n \n[ 2]\n ( )\n \n ( ) .\n1. .\n2. \n .\n3. \n .\n \n : :\n : ( )\n :\n : :\n( ) : ( )\n :\n \n□ □ \n[ ]\n \n ( ), , \n \n \n \n[ 3]\n ( )\n ( ) ( ) ( \n ) 3 \n , \n PC .\n ( ) \n \n .\n \n : :\n : ( )\n :\n : :\n( ) : ( )\n :\n \n□ □ \n[ ]\n \n ( ), , \n \n \n \n \n[ 4]\n \n ( “ ” ) ( “ ” ) “ ” \n “ ” .\n 1 ( ) “ ” “ ” , “ ” \n “ ” \n .\n 2 ( ) , \n , \n .\n 3 ( ) “ ” \n .\n1.\n2.\n3.\n 4 ( ) \n : ~ \n 5 ( ) “ ” “ ” “ ” \n 3 .\n “ ” “ ” \n “ ” .\n 6 ( ) “ ” 23 2 24 3 \n 29 , 21 30 , \n ․ .\n 7 ( ) “ ” \n 3 .\n “ ” \n 16 \n “ ” .\n 2 “ ” “ ” \n .\n 8 ( · ) “ ” “ ” \n , “ ” .\n1. \n2. \n3. \n4. ․ 5. 6. \n \n “ ” “ ” 1 \n , “ ” .\n “ ” · · · \n 1 1 “ ” , “ ” .\n 1 “ ” “ ” .\n 9 ( ) “ ” , · , \n .\n 10 ( ) “ ” 4 \n “ ” .\n 11 ( ) “ ” “ ” “ ” \n “ \n ” “ ” “ ” \n “ ” 3 “ ” \n .\n 1 3 “ ” \n “ ” “ ” .\n 2 , “ ” “ ” \n 1 .\n20 . . .\n \n 42\n( )\n : ( )\n \noo oo oo ooo\n : ( )\n[ 5]\n \n ( “ ” ) ( “ ” ) “ ” \n“ ” .\n 1 ( ) “ ” “ ” , “ ” \n “ ” .\n 2 ( ) , \n , \n .\n 3 ( ) “ ” \n .\n1.\n2.\n3.\n 4 ( ) \n : ~ \n 5 ( ) “ ” “ ” “ ” \n 3 .\n “ ” “ ” \n “ ” .\n 6 ( ) “ ” 23 2 24 3 \n 29 , 21 30 , \n ․ .\n 7 ( ) “ ” \n 3 .\n “ ” \n 16 \n “ ” .\n 2 “ ” “ ” .\n 8 ( · ) “ ” “ ” \n , “ ” .\n1. \n2. \n3. \n4. ․ 5. 6. \n \n “ ” “ ” 1 ,\n“ ” .\n “ ” · · · 1\n 1 “ ” , “ ” .\n 1 “ ” “ ” .\n 9 ( ) “ ” , · , \n .\n 10 ( ) “ ” 4 \n “ ” .\n 11 ( ) “ ” “ ” “ ” \n “ ” “ \n ” “ ” “ ” \n 3 “ ” .\n 1 3 “ ” \n “ ” “ ” .\n[ 6]\n \n :\n :\n : ( )\n \n .\n< >\n1. , \n .\n2. , \n .\n3. \n .\n4. \n .\n5. , \n .\n6. (2021.11.19. ) .\n \n : ( )\n[ 7]\n \n1. “[ 1] ” \n “[ 2] ” \n .\n2. , , , , [ 3] \n‘ ’ , \n 76 .\n3. \n , .\n4. 30 , \n ( ) .\n* 28 2 5 6 , 52 1 5 \n5. , \n .\n[ 1] \n[ 2] \n[ 3] \n[ 4] \n[ 1] \n \n \n \n1. \n . , \n . \n . \n2. \n . \n . \n . \n◦ \n◦ \n \n◦ \n \n◦ \n \n \n1. \n . \n . \n . \n . \n2. \n . \n . \n . \n3. \n . , USB \n . P2P \n \n . \n . \n . PC \n . PC \n . \n . ( )\n◦ \n \n◦ \n \n◦ \n \n 1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n◦ \n \n◦ \n / \n◦ \n \n . \n . PC (CD, USB ) \n . CMOS “1111” \n \n . PC \n . \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n◦ \n \n◦ / \n \n[ 2] \n \n . A~D \n \n \nA B C D \n 1 1 2 3 \n \n \n 76 \n \n1000 500 100 \n※ \n . , \n※ 1 \n . \n[ 3] \n \n IP \n \n \n \n ( \n )\n , \n \n 9 1 \n \n 2 1 \n 4 16 3 \n \n[ 4] \n \n1. \n . \n , \n .\n . , , , , \n , ‘ ’ \n 76 .\n2. \n< >\n IP \n \n \n \n ( \n )\n , \n \n 9 1 \n \n 2 1 \n 4 16 3 \n \n3. \n① \no \n- , “ ” “ ”( \n ), .\n- “ ” \n .\n- .\n- \n .\n· ( 1 ) ( \n , ) · .\no \n- 1 \n . , .\n- . .\no \n- , \n .\n- .\n- “ \n ” . ※ ( \n ) \n② \no \n- , , \n .\n- “ ” ( \n ) ( ) .\n- , \n .\n- , , .\n- ( “ ” ) \n .\n- .\n- .\no \n- , PC \n .\n- PC . , \n .\n- \n . , , \n .\n- , \n , .\n③ \no \n- 1 , \n .\no \n- PC, USB . , \n .\n- PC .\n- PC, .\n PC \n \n- PC, USB \n .\n- PC , PC \n .\n- PC (CMOS) , , (10 ) \n 9 .\n- , , , , USB . \n , .\n④ \n- (ID) , . , \n .\n \n- , , \n , , , .\n 3 \n\n 4 \n\n 5 \n \n1. \n AI+OCR \n □ \n□ \n■ \n□ \n \n□ \n OCR \n□ OCR \n□ AI \n□ \n \n( ) ~ 240 \n \n① · ■\n② , , \n □\n③ □\n④ ( ) \n □\n⑤ □\n⑥ □\n⑦ ■\n※ ①~⑥ 3 , 4 \n2. \n ■ \n□ ( : )\n \n( )\n \n■ 40 \n■ 20,000 \n■ 720,000 \n3. \n \n \n · \n□ ■ \n※ 3 4 \n · \no\no\no ·\n·\n4. ·\n \n( )\n■ \n( )\n- 54 ( )\n- 26 ( )\n- 18 ( )\n□ ‘ ’ \n□ *\n* Open API , · , \n , \n( : )\n□ \n( : )\n5. \n■ \n□ \n( : )\n2026 5 26 \n : ( )\n210 ×297 ( 80g/ )\n 6 \n1. \n \n \n (WBS) O \n ( ) O \n O\n O \n O\n O \n O\n O\n O\n O\n \n O\n O\n \n( ) O \n \n O \n O\n O \n O \n \n O\n O\n \n O\n O \n O\n \n O\n O\n O \n O \n O\n O\n O \n / \n O \n O\n \n \n O\n ( ) O \n ( ) O \n ( ) \n O \n O \n O\n O\n O\n O \n O \n O \n O \n O\n \n O \n O \n \n O\n O \n O \n O \n O 1 \n O\n O \n O \n \n O \n O \n \n O \n O\n O\n O EA \n O EA \n O EA \n O \n2. \n \n \n O \n / O\n O \n O EA \n ERD O EA \n / O \n O \n O EA \n O \n \n \n( , )\nO\n O\n O\nUI/UX O\n O\n O\n ( ) O\n O\n O\n (CRUD) O \n ( ) O\n ( , , ) O\n O\n O\n O\n \n \n / O\n / O\n / O\n O\n O\n O\n O\n ( ) O\n \n O EA \n O\n O EA \n \n O \n O\n3. \n \n \n / \n O DA \n O DA \n O DA \n O DA \n O EA \n O EA \n ERD O EA \n O EA \n O \n O \n O\nDB/ / O DA/EA \n \n O\n \n \n \n \n O \n \n \n( , , DB)\nO \n \n(DB , DB )\nO \n O\n4. \n \n \n O \nSOP O \n O \n O \n O EA \nCRUD O \n O \n O DA \n O DA \n O DA \n O DA \nDB/ / O DA/EA \n ERD O DA \n O DA/EA \n O\n \n O\n O \n O\n O\n O\n O\n 7 \n[ ○ ] , [ ] \n AI+OCR \n \n◇ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( ) ( )\n ( ) ( )\n ( ) ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n◇ \n \n / / \n \n \n \n \n \n \n \n , , \n .\n○\n \n \n \n 2.2 ○\n ○\n ○\n UI/UX ○\n \n \n \n- HTML 4.01/HTML 5, CSS 2.1 / CSS 3 ○\n- XHTML 1.0 ○\n- XML 1.0, XSL 1.0, XSLT 2.0 ○\n- ECMAScript 14th ○\n \n- 1.0\n(KICS.KO-10.0307)\n○\n- 2.0\n(KSX3253:2016)\n○\n \n \n (KS X ISO/IEC 20000)/ ITIL v3, v4 ○\n \n \nIPv4 ○\nIPv6 ○\n◇ \n \n / / \n \n \n \n \n \n \n , \n \n .\n○\n \n \n \n- SOAP 1.2, WSDL 2.0, XML 1.0 ○\n- RESTful ○\n \n- UML 2.X / BPMN 2.X ○\n- ebXML/BPEL/XPDL ○\n : XML 1.0, JSON ○\n : RESTful API, WSDL 2.0 ○\n◇ \n / / \n \n \n \n \n \n \n \n IPv4 IPv6 \n .\n○\n , \n \n .\n○\n \n \n : H.320~H.324, H.310 ○\n : VoIP\n- H.323 ○\n- SIP ○\n- Megaco(H.248) ○\n \n \n ( ) \n- POSIX.0 ○\n- UNIX ○\n- Windows Server ○\n- Linux ○\n \n- android ○\n- IOS ○\n \n DBMS\n- RDBMS ○\n- ORDBMS ○\n- OODBMS ○\n- MMDBMS ○\n- TSDBMS ○\n ITIL v3, v4 / ISO20000 ○\n : ○\n \n \n IaaS ○\n PaaS ○\n SaaS ○\n◇ \n \n / / \n \n \n \n \n \n . ○\n , , , ,\n .\n○\n ( 2 6 ) \n , \n , \n .\n○\n , \n , \n \n .\n○\n \n . ○\n \n \n \n \n \n○\n \n : HTML 4.01 / HTML 5 ○\n \n- JSP 2.x ○\n- ASP.net ○\n- PHP ○\n- ( ) ○\n \n \n- C ○\n- C++ ○\n- Java ○\n- C# ○\n- ( ) ○\n \n- XMI 2.0 / XMI 3.2 ○\n- SOAP 1.2 ○\n- API ○\n \n- EUC-KR ○\n- UTF-8( , UTF-8 ) ○\n◇ \n \n / \n / \n \n \n \n \n \n \n \n \n \n . “ ”, “ \n ”, “ ” “ ” .\n○\n \n .\n○\n \n .\n○\n \n \n \n ○\n ( ) ○\n ( ) ○\n \n \n \n \n \n \n ( )\n- PKI ○\n- SSO ( CC ) ○\n- ○\n- (DRM)( CC ) ○\n- ○\n- ○\n- ○\n- DB ( CC ) ○\n- (8 ) ○\n- ○\n CC ( CC )\n- ( ) ○\n- ( ) ( ) ○\n- ( ) ○\n- ○\n- DDos ( ) ○\n- ○\n- ○\n- ○\n- ( ) ○\n- ○\n- (2022.1 ) ○\n- ( ) ○\n- ○\n- ○\n- ○\n- DB ○\n- ○\n- ( \n ) ○\n- ( ) ○\n- ○\n- USB(2020.1.1 , \n ) ○\n- (2021.1.1 , , \n ) ○\n- (2021.1.1 ) ○\n- CC ○\n \n- USB( ) ○\n- ( , \n ) ○\n- ○\n- ○\n- (L3 ) ○\n- ○\n ( · ) \n- · ( ) ○\n- ○\n \n- (CSAP) ○\n- ○\n \n \n \n \n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n \n- ○\n- ( ) ○\n- ( ) ○\n- ○\n※ “ ” \n 8 \n■ [ 2 ]\n \n1. \n . \n \n \n \n \n ? \n \n ,\nAI·OCR \n \n \n ? \n , , \n AI·OCR ·\n \n ? \nMECAR WEB, WAS, DB \n \n / \n ?\n \nMECAR WEB, WAS, DB \n \n / ( , \n , DB, , , , \n ) ?\n \n , \n AI+OCR , · · \n \n ? \nMECAR AI+OCR \n \n / \n ?\n \n \n \n . \n \n \n ? \n MECAR AI·OCR \n , \n \n , ? \n MECAR AI·OCR \n , \n \n ( , \n ) ?\n \n MECAR AI·OCR \n , \n \n \n ?\n \n MECAR AI·OCR \n , \n \n \n ?\n* , , \n \n MECAR AI·OCR \n , \n \n ?\n* , ( , ) ( , , )\n \n \n MECAR AI·OCR \n , \n \n ?\n* , , , ( , ) \n \n MECAR AI·OCR \n , \n \n , \n ? \n MECAR AI·OCR \n , \n \n . \n \n \n \n \n ? \n MECAR\n AI·OCR \n \n , , \n ?\n \n MECAR\n AI·OCR \n \n , , \n ?\n \n MECAR\n AI·OCR \n \n2. \n . \n \n \n \n \n (IRM) EA \n ?\n \n \n \n , MECAR \n AI·OCR \n \n ?\n \n \n \n , MECAR \n AI·OCR \n . \n \n \n \n \n , \n ?\n \n \n \n , MECAR \n AI·OCR \n \n ?\n \n \n \n , MECAR \n AI·OCR \n . \n \n \n \n \n , \n ?\n \n \n \n , MECAR \n AI·OCR \n ?\n \n \n \n , MECAR \n AI·OCR \n , \n ?\n \n \n \n , MECAR \n AI·OCR \n3. \n . \n \n \n \n \n \n ?\n \nMECAR \n · \n , \n , , ?\n \nMECAR , \n AI·OCR \n \n (WEB, WAS, DB ) \n (CPU, Memory, Disk ) ?\n \n MECAR AI·OCR \n \n , ? \n \n \n . \n \n \n \n \n , , \n ?\n \nMECAR AI·OCR \n \n \n ?\n \n \n \n ? \n \n \n ( , ) , , \n ?\n \n , \n ?\n \nMECAR \n \n \n ?\n \n \n \n4. \n . \n \n \n \n \n ( , , )\n ?\n \n MECAR AI+OCR \n \n . \n \n \n \n \n , \n ?\n \n \n \n \n ?\n \n5. \n . \n \n \n \n \n 1 \n ?\n \n ·",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "AI+OCR \n \n2026. 7.\n \n \nⅠ . \n1. \n2. \n3. \n4. \nⅡ . \n1. \n2. \n3. \nⅢ . \n1. \n2. \n3. \n4. \n5. \nⅣ . \nⅤ . \n1. \n2. \n3. \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n \nⅥ . \n1. \n2. \n3. \n4. \nⅦ . \n1. \n2. \n3. \n4. \nⅧ . \n1. \n2. \n3. \n \n1. \n2. \n3. \n4. \n5. \n6. \n7. \n8. \nⅠ \n1 \n□ \n \n☞ : ( )→ → \n → → ( )→ \n \n□ AI \n(MECAR) AI+OCR \n2 \n□ : AI+OCR \n□ : 240 \n□ : 430,000 ( )\n□ : ( )\n ( ) \n \n \n 306,300...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "AI+OCR \n \n2026. 7.\n \n \nⅠ . \n1. \n2. \n3. \n4. \nⅡ . \n1. \n2. \n3. \nⅢ . \n1. \n2. \n3. \n4. \n5. \nⅣ . \nⅤ . \n1. \n2. \n3. \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n□ \n \nⅥ . \n1. \n2. \n3. \n4. \nⅦ . \n1. \n2. \n3. \n4. \nⅧ . \n1. \n2. \n3. \n \n1. \n2. \n3. \n4. \n5. \n6. \n7. \n8. \nⅠ \n1 \n□ \n \n☞ : ( )→ → \n → → ( )→ \n \n□ AI \n(MECAR) AI+OCR \n2 \n□ : AI+OCR \n□ : 240 \n□ : 430,000 ( )\n□ : ( )\n ( ) \n \n \n 306,300,000\n \n( )\n \n \nH/W (GPU) 35,700,000\n \n \n \n \nS/W (OCR) 88,000,000\n3 \n□ AI+OCR \n○ \n○ ( ) \n○ \n□ AI+OCR \n○ OCR \n○ AI \n \n○ , \n□ AI+OCR \n○ OCR \n○ \n○ , \n○ AI \n□ AI \n○ , \n○ , \n○ \n□ \n○ AI+OCR \n4 \n□ AI+OCR , \n□ \n□ \n \nⅡ \n1 \n□ 54 ( ) “ \n (MECAR)” \n□ \n · \n- ․ , ( , ) \n□ 21 ( ) \n \n2 \n□ MECAR \n□ \n\n3 \n□ \n※ ( 2023-27 ) 17 ( \n ) , \n \nⅢ \n1 \n (MECAR) \n \n \n \n2 \n . \n · \n , \n \n / , \n IT \n \n UI·UX \n ( ) ( ) \n ( ) \n ( ) · \n(Secure Coding) \n \n※ , (web) \n \n※ ( , , , · \n )\n . · \n \n \n \n (IRM) \n . \n ( ) \n ( ) \n · · \n ( ) \n ( ) \n ( ) \n ( ) \n \n \n / \n \n \n , \n . \n \n \n UI \n3 \n□ \n \n( )\n \n( ,\n )\n \n \n \n \n \n( · \n )\n \n4 \n□ ( 240 )\n \n \nM1 M2 M3 M4 M5 M6 M7 M8\n \n \n \n , \n \n \n ,\nDB \n UI/UX \n (Architecture)\n \n DB · \n \n \n \n / \n \n AI OCR \n , \n \n \n \n \n \n \n \n , \n \n \n \n \n※ ⋅ \n5 \n□ \n (FP) ‘ \n ‘ 10 \n11 \n※ \n□ \n ‘ ‘ 57 ( ) 71 ( \n ) \n \n※ · \n□ \n ( ) ‘ ‘ 50 \n \n ( ) ‘ ‘ 50 , 47 1 2 ,\n 3 · , \n * \n* 13 \n□ \n ‘ ‘ 54 , ‘ ‘ 84 , ‘ \n ‘ 7 8 \n \n- SW 100 40 (1 \n 1 ) “ ” \n \n \n 1) \n2) \n \n3) 4) \n1 OCR 2\n (√)\n ( )\n- 26 7 \n- 88 \n- \nⅣ \n□ AI+OCR \n○ \n○ ( ) \n○ \n□ AI+OCR \n○ OCR \n○ AI \n \n○ , \n□ AI+OCR \n○ OCR \n○ \n○ , \n□ AI \n○ , \n○ , \n○ \n□ \n○ AI+OCR \n \nH/W GPU NVIDIA L40S GPU GPU 2 \nS/W OCR 2 \n( )\n※ ‘ \n ’ \n‘ \n \n ’ \n \n \n , \n \n \n · \n \n \n \n \n \n \n \n※ \n \n \n \nⅤ \n1 \n \n \n \n -SFR (System\nFunction Requirement)\n \n ( ) \n5\n -PER\n(Performance\nRequirement)\n , , · , \n \n8\n -INR\n(System Inteface\nRequirement)\n \n \n9\n -ECR\n(Equipment Composition\nRequirement)\n , \n \n4\n -DAR (Data\nRequirement)\n DB \n \n13\n -TER (Test\nRequirement)\n , , , , \n \n6\n -SER (Security\nRequirement)\n , \n \n10\n -QUR\n(Quality Requirement)\n , \n ( , , ,\n , )\n5\n -COR\n(Constraint Requirement)\n \n \n7\n –PMR\n(Project Management\nRequirement)\n , , , \n , \n18\n -PSR\n(Project Support\nRequirement)\n \n \n9\n \n2 \n ID \n1) \nSFR-001 \nSFR-002 AI+OCR \nSFR-003 AI+OCR \nSFR-004 AI+OCR \nSFR-005 AI \n2) \nPER-001 \nPER-002 \nPER-003 \nPER-004 \nPER-005 \nPER-006 \nPER-007 SQL \nPER-008 \n3) \nINR-001 \nINR-002 \nINR-003 \nINR-004 \nINR-005 \nINR-006 \nINR-007 \nINR-008 \nINR-009 \n4) \nECR-001 \nECR-002 (H/W)GPU\nECR-003 (S/W)AI \nECR-004 (S/W)OCR \n5) DAR-001 \nDAR-002 \nDAR-003 \nDAR-004 \nDAR-005 \nDAR-006 \nDAR-007 \nDAR-008 \nDAR-009 \nDAR-010 ( )\nDAR-011 ( )\nDAR-012 \nDAR-013 \n5) \nTER-001 \nTER-002 \nTER-003 \nTER-004 \nTER-005 \nTER-006 \n6) \nSER-001 \nSER-002 \nSER-003 \nSER-004 \nSER-005 \nSER-006 \nSER-007 \nSER-008 \nSER-009 \nSER-010 \n7) \nQUR-001 \nQUR-002 \nQUR-003 \nQUR-004 \nQUR-005 \n8) \nCOR-001 \nCOR-002 ( SW ) \nCOR-003 \nCOR-004 \nCOR-005 \nCOR-006 \nCOR-007 \n9) PMR-001 EA \nPMR-002 \nPMR-003 ( ) \nPMR-004 (PM)\nPMR-005 \nPMR-006 \nPMR-007 \nPMR-008 \nPMR-009 \nPMR-010 \nPMR-011 \nPMR-012 \nPMR-013 \nPMR-014 \nPMR-015 \nPMR-016 \nPMR-017 \nPMR-018 , \n10) \nPSR-001 \nPSR-002 \nPSR-003 \nPSR-004 \nPSR-005 , AI \nPSR-006 \nPSR-007 \nPSR-008 \nPSR-009 \n※ , \n ( ) \n※ \n , \n3 \n□ (System Function Requirement)\n \n SFR-001\n \n \n \n \n ❍ \n❍ \n❍ , UI \n \n❍ ( ) \n( X (EXE) )\n❍ \n❍ , \n , / \n❍ , \n \n❍ \n \n \n❍ \n \n❍ / , OS \n \n❍ H/W, S/W , \n (open api ). , , \n , \n \n❍ , , \n \n❍ · 2 6 \n \n❍ , , \n .\n -\n \n \n SFR-002\n AI + OCR \n \n \n AI + OCR \n \n❍ · \n❍ ( ) \n❍ \n \n \n \n SFR-003\n AI + OCR \n \n \n AI + OCR \n ❍ OCR \n❍ · AI \n \n❍ , \n❍ \n( , ) \n❍ \n \n1 \n2 \n3 , , \n4 \n5 \n- , \n \n- , , \n- \n○ \n \n- \n- \n- Key-Value \n○ \n- , \n- AI-OCR \n- \n- , , Key-Value \n○ , \n \n- \n \n- ( ) \n- \n- \n \n○ , AI-OCR \n \n○ AI-OCR, \n , AI \n \n- \n \n○ \n○ \n \n \n \n SFR-004\n AI + OCR \n \n \n AI + OCR \n \n❍ OCR \n❍ \n❍ , \n \n \n \n SFR-005\n AI \n \n \n AI \n \n❍ , \n❍ , \n❍ \n \n \n□ (Performance Requirement)\n \n PER-001\n \n \n \n \n \n❍ \n❍ \n❍ ( ) \n , \n \n \n \n PER-002\n \n \n \n \n ❍ 3 \n❍ \n- 3 / (3M) \n- : https://www.webpagetest.org \n- : / Microsoft Edge / 3 \n- \n .\n- (Connection) \n· \n· DNS \n· \n- ( ) \n- \n❍ Microsoft Edge, Google Chrome 2 \n \n❍ \n- . , , \n \n- , \n- \n \n❍ ( 1GB ) \n \n \n \n \n PER-003\n \n \n \n \n \n❍ 3 \n❍ 8 \n❍ \n \n \n \n \n PER-004\n \n \n \n \n ❍ 3 \n \n❍ ( 50KB ) \n \n❍ 90% \n \n \n \n \n PER-005\n \n \n \n \n \n❍ 3\n \n❍ \n- \n , \n \n \n \n PER-006\n \n \n \n \n \n❍ 50 * \n \n- 5 \n* \n \n \n \n PER-007\n SQL \n \n \n SQL \n \n○ SQL \n \n○ \n \n \n \n PER-008\n \n \n \n \n \n○ SW .\n- Web, WAS, DB \n○ (CPU, , ) 90% \n .\n- 39 \n- (3 ) 69 \n \n \n□ (System Interface Requirement)\n \n INR-001\n \n \n \n \n ❍ \n , \n \n \n \n INR-002\n \n \n \n \n ❍ \n \n \n \n INR-003\n \n \n \n \n ❍ , \n \n❍ , \n \n❍ \n \n \n \n \n INR-004\n \n \n \n \n ❍ \n (API ) \n , \n \n \n INR-005\n \n \n \n \n ❍ \n \n \n \n \n INR-006\n \n \n \n \n \n❍ , , \n❍ , \n❍ , \n \n \n \n INR-007\n \n \n \n \n❍ \n❍ \n \n \n \n INR-008\n \n \n \n \n \n❍ ( ) \n❍ ( , ) \n , \n❍ \n❍ \n❍ UI/UX UI \n❍ ( 100 ) \n \n \n \n INR-09\n \n \n \n \n \n❍ , , , , \n \n- , , , , ,\n \n \n \n□ (Equipment Composition Requirement)\n \n ECR-001\n \n \n \n \n [ ]\n❍ \n \n[ , ]\n❍ \n- ( , EOM), \n \n❍ \n- , \n \n- A/S \n \n- , \n \n- \n- ( ) \n- , \n \n- \n❍ \n- / \n \n[H/W ]\n❍ ( ) / \n , \n❍ \n❍ , , \n \n \n❍ , , , \n , ,\n , \n- , , \n- S/W (OEM ) \n- 1 \n- SW \n \n❍ , \n❍ A/S ( )\n \n \n ECR-002\n (H/W) GPU\n \n \n (H/W) GPU \n ❍ : 2 \n❍ \n- NVIDIA L40S GPU GPU\n❍ \n- 3 24 4 \n \n❍ , \n❍ A/S ( )\n \n \n ECR-003\n (S/W) AI \n \n \n (S/W) AI \n \n○ DB \n○ / / / / \n○ \n○ \n○ \n \n❍ , \n❍ ( ) \n \n \n ECR-004\n (S/W) OCR \n \n \n (S/W) OCR \n \n○ Key Value \n○ AI \n○ OCR \n○ , , , \n○ JPG, PNG, TIF, PDF, PDF \n○ XML/JSON \n○ GS \n ❍ , \n❍ ( ) \n \n□ (Data Requirement)\n \n DAR-001\n \n \n \n \n \n○ \n- ( \n ) · \n○ \n- ( , , , ) \n \n※ \n \n , ( , , ,\n )\n \n \n DAR-002\n \n \n \n \n ○ \n- ( · · · ) \n- \n- ( ) \n○ \n- DB ( · · · ) , \n 90% \n- \n○ \n- ( · · · ) · ·\n , \n \n- \n- ( ) 1 ( \n ) \n \n※ \n1. \n2. ( ) \n3. ( ) \n4. ( )\n5. ( )\n6. ( )\n7. ( )\n8. \n※ \n , ( , , , \n ), , , \n \n \n DAR-003\n \n \n \n \n \n○ \n- (DB ) ( ) \n DB ( , , , ) \n \n※ , \n※ \n※ DB : DB DB \n \n , , , ( ),\nDB , ( , )\n \n \n DAR-004\n \n \n \n \n ○ \n- ( ) , \n \n- DB \n- , , , DB \n○ · · \n- , , DB \n \n- , , DB Object \n- , , , \n \n- \n- 90% , 1·2·3· \n \n- \n \n- ( ) 2 ( \n ) \n○ DBMS \n- \n- \n※ \n※ \n1. \n2. ( ) \n3. ( ) \n4. ( )\n5. ( )\n6. ( )\n7. ( )\n8. (CRUD )\n9. \n \n , ( · · ), , \n ( ) , ( ) , ( , , ), \n , , \n \n \n DAR-005\n \n \n \n \n ○ \n- · · · · \n \n- , , , \n \n- \n ) \n: ( )\n: \n ) \n: , , \n- \n※ \n , , , , \n · \n \n \n DAR-006\n \n \n \n \n \n○ \n- ( ) DB \n \n※ \n※ DB : DB \n \n ( , , , ERD \n ), ( , ), DB \n \n \n DAR-007\n \n \n \n \n \n○ \n- , , \n○ \n- * (BR) \n \n* \n- , , \n \n- \n \n- (DB) · ( , , , ) \n (BR) \n※ \n · , \n \n \n DAR-008\n \n \n \n \n \n \n- ( , , , , ,\n ) \n* : \n** : \n- GAP , \n \n- ( ) \n \n- \n* : , , \n** : , ž ž \n \n- \n · \n- \n- \n- \n \n · · \n \n \n DAR-009\n \n \n \n \n \n○ \n- (DB) , , \n \n \n- , , \n \n- ( · · · ) , , \n \n- ( · ) , , \n \n- , , \n \n○ \n- · \n- * \n* ( · , , ), ( , , , ), \n(DB, , ), , \n- \n , \n※ \n ( , , ) , · , , \n · , / \n \n \n DAR-010\n \n \n \n \n \n \n○ \n- \n \n※ , \n ( ) \n○ \n- API \n \n , \n \n \n DAR-011\n \n \n \n \n \n○ \n- \n \n※ , \n \n○ \n- (DB) \n \n , , \n \n \n \n DAR-012\n \n \n \n \n \n○ , \n , (99.99% ) .\n※ \n \n \n \n DAR-013\n \n \n \n \n \n○ ‘ ’ \n .\n- ( /API) \n .\n○ ‘ ’ \n .\n- .\n- .\n○ DB \n○ DB (Role) \n○ DB DB\n \n○ DB Application Unix Prompt \n○ DB DBA \n \n○ DB \n※ : ( , , )\n○ \n , , \n .\n※ \n \n \n□ (Test Requirement)\n \n TER-001\n \n \n \n \n \n❍ , \n \n❍ , \n❍ , , , , \n \n❍ \n \n❍ , , , , \n \n \n \n \n TER-002\n \n \n \n \n ❍ , , , , \n❍ , , , \n \n \n \n TER-003\n \n \n \n \n \n❍ \n \n- , \n- \n- \n- \n- , \n- \n- \n \n \n \n TER-004\n \n \n \n \n \n❍ HW Application \n \n( )\n❍ \n \n \n \n TER-005\n \n \n \n \n \n❍ , , , , \n \n❍ · ,\n \n❍ · , · \n \n❍ \n , \n · \n❍ \n \n \n \n TER-006\n \n \n \n \n \n❍ \n , , , ( ), , , , \n \n❍ : , , ( ) , ( ) \n❍ , , \n \n❍ , , , , , \n , \n❍ \n※ , \n \n❍ Test \n \n \n \n□ (Security Requirement)\n \n SER-001\n \n \n \n \n \n \n○ \n○ \n○ , “ \n[ 6]” [ 4] \n○ \n \n- “ ” ‘ 76 ( \n ) ① 18 ’ \n※ “ [ 6]” [ 3] \n○ ‧ \n- , , , , , · , \n , , \n- , , , , \n \n○ [ 6] \n \n \n \n SER-002\n \n \n \n \n \n \n○ , , \n \n○ , , , \n \n○ \n○ 76 , \n , \n○ \n- ․ ․ ( )\n- ( )\n- ( )\n- ( )\n- (OWASP) TOP 10 8 \n○ ( , )\n* \n \n \n \n SER-003\n \n \n \n DB \n \n \n○ DB \n○ \n \n○ DB \n○ DB (Role) (Privilege) \n○ DB DB \n \n○ DB Application Prompt \n○ DB DBA \n○ DB \n※ : ( , , )\n \n \n \n SER-004\n \n \n \n \n \n \n○ (ID) \n○ \n \n \n \n SER-005\n \n \n \n \n \n \n○ ‘ ( )’ \n○ , CC \n , .\n○ .\n○ , (OWASP, Open Web Application Security\nProject) , \n○ \n- \n- \n※ · SQL injection·XSS 10 \n- \n※ \n○ PMD(Programming Mistake Detector) Tool \n \n○ \n○ , \n○ , SSL(https) \n \n○ IP TCP \n IP \n○ HTTPS TLS v1.2 ( ) , \n TCP , HTTPS 2 \n❍ 26 ( ) 1 \n \n❍ ‘ ’ \n .\n❍ 54 ( ) (6 \n , \n ) .\n❍ ' ' \n .\n❍ 3 \n .\n❍ .\n \n \n \n SER-006\n \n \n \n \n \n \n○ \n \n○ \n- , CCTV ( ) \n ( )\n- · \n○ \n- , \n \n○ ( / ) \n- \n- VPN \n- , \n- ( ) \n- \n- \n- PC ( )\n○ ( ) , \n ( ) \n○ , PC , \n \n○ PC· ( ) , \n \n○ , \n \n- (SSID) (broadcasting) \n- (SSID) \n- WPA2 (256 ) \n- ( ) IP \n \n※ \n○ \n \n- · · \n · \n \n \n \n SER-007\n \n \n \n \n \n \n○ \n , \n○ CC (PP ), \n , \n \n○ \n \n○ \n○ \n \n○ L3 , \n- , CC .\n- \n· \n· \n· (ACL: Access Control List) \n○ \n- \n- \n* , , \n \n- IP \n- (1 )\n- (Telnet, FTP ) , SSH (TCP/22) \n \n- \n* , , \n \n- IP \n- \n- (1 )\n- (TELNET, FTP ) , SSH \n(TCP/22) \n \n \n \n SER-008\n \n \n \n \n \n \n○ \n \n○ \n \n○ \n- FTP, Telnet, Finger \n- · \n- \n- IP · \n- \n- Windows \n- \n- , 9 \n※ (0 9), (a z, A Z), (!, @, #, $, ^, &, *, (, ), )\n \n \n \n SER-009\n \n \n \n \n \n \n○ , \n \n○ ( , VPN ) \n .\n○ 2 \" \" , \n , ( ) \n · \n \n \n \n SER-010\n \n \n \n \n \n \n○ ‘ · ’,‘ ’,‘ \n ’ \n○ - - \n※ , , , \n \n※ , \n○ , \n , · \n \n \n \n□ (Quality Requirement)\n \n QUR-001\n \n \n \n \n \n \n○ \n○ \n , \n \n○ ( ) \n \n \n \n \n \n QUR-002\n \n \n \n \n \n \n○ , , , \n \n○ \n○ , \n○ , , , \n \n \n \n \n QUR-003\n \n \n \n \n \n \n○ , , \n ( ) \n \n○ , \n \n○ \n \n \n \n QUR-004\n \n \n \n \n \n \n○ 100% ( \n )\n○ \n \n○ \n \n \n \n QUR-005\n \n \n \n \n \n \n○ \n \n○ , , / \n○ (firmware) \n- \n- \n○ \n○ \n , \n \n \n□ (Constraint Requirement)\n \n COR-001\n \n \n \n \n \n○ , , \n○ · \n○ JAVA \n○ \n○ \n○ UI/UX \n○ \n○ · \n○ \n- , ( )\n○ ( \n , )\n○ , , \n \n○ \n○ \n \n \n \n COR-002\n ( SW ) \n \n \n ( SW ) \n \n❍ \n , . , \n \n❍ 56 ( \n ) \n❍ , \n❍ SW ,\n SW \n \n \n \n COR-003\n \n \n \n \n \n○ \n \n○ \n○ “ · ( ) “ \n- \n- , \n \n \n \n COR-004\n \n \n \n \n \n❍ “ \n ( )” \n❍ \n❍ , \n \n❍ \n \n , \n \n \n COR-005\n \n \n \n \n \n❍ “ ( )” 7 \n \n❍ \n \n \n \n COR-006\n \n \n \n \n \n❍ \n- W3C Markup Validation (http://validator.w3.org) \n- W3C CSS Validation (http://jigsaw.w3.org/css-validator) \n※ ActiveX \n❍ \n- , , \n- 3 (Microsoft Edge, Google Chrome ) \n- \n❍ “ ( )” \n \n \n \n COR-007\n \n \n \n \n \n❍ \n❍ \n❍ “ ” \n❍ ‧ ※\n \n❍ \n- “ ” \n- \n❍ \n- \n❍ \n- ( ) \n- : OWASP - 10 , - 8 \n , , \n \n□ (Project Management Requirement)\n \n PMR-001\n EA \n EA \n \n \n❍ : 14 ( \n )\n❍ ‘EA ’ ( ) .\n ‘ ’ EA \n \n❍ ( ) EA \n ( , , ) EA \n \n \n \n \n PMR-002\n \n \n \n \n ❍ , , \n❍ \n- (PM) \n \n❍ , \n \n- ( ) ,\n \n- \n \n❍ \n- \n▪ , CCTV ( )\n ( )\n▪ ( ) · \n- \n▪ , \n \n- ( / ) \n▪ \n▪ VPN \n▪ ( ) , \n \n▪ ( ) \n▪ \n▪ \n- ( ) , \n ( ) \n- , PC , \n \n- PC· ( ) , \n \n- , \n \n▪ (SSID) (broadcasting) \n▪ (SSID) \n▪ WPA2 (256 ) \n▪ ( ) IP \n \n❍ \n- , , , , \n .\n- ( \n )\n , \n \n , \n \n \n PMR-003\n ( ) \n \n \n ( ) \n ❍ \n- \n , , , , \n \n- ( ) \n , \n \n \n \n \n \n \n10 \n · \n · \n \n \n \n , \n ( )\n \n- ( ) \n- \n- \n \n \nUSB\n- \n- ERD\n- DB \n- \n- \n- \n- \n \n \n❍ ( ) : 10 , \n · , \n \n- , \n- \n- \n- ( · ) \n- , \n- , \n- ( , )\n※ ‘ (Security Requirement)’ \n❍ ( ) : · \n , .\n \n ( )\n EA , \n , \n❍ \n · · .\n , , , \n · \n❍ \n \n .\n 3 \n❍ \n \n PC ․ \n PC, \n \n ( , , ) , \n , P2P, \n \n※ : , \n / , / / , \n \n \n PMR-004\n (PM)\n \n \n (PM) \n \n❍ (PM) \n , \n- PM \n- \n- \n \n \n \n \n PMR-005\n \n \n \n \n ❍ · \n \n \n \n \n PMR-006\n \n \n \n \n \n❍ , \n \n \n❍ 7 \n❍ ,\n \n❍ ‘ ’ ‘ \n ’ , , \n \n \n \n PMR-007\n \n \n \n \n \n❍ , , ․ , , \n . \n \n❍ , \n , \n \n \n \n \n PMR-008\n \n \n \n \n \n❍ \n , , , \n \n❍ \n❍ , \n \n❍ , \n \n \n \n \n PMR-009\n \n \n \n \n \n❍ \n , , , \n \n❍ \n❍ , \n \n❍ , \n \n \n \n \n PMR-010\n \n \n \n \n \n❍ , , , \n❍ \n❍ \n \n❍ \n \n❍ : 50% , , \n \n❍ ․ \n ( ) ( : \n ) \n※ \n , ․ \n \n \n \n PMR-011\n \n \n \n \n \n❍ , , , \n \n❍ SW \n❍ · · \n \n❍ \n \n \n \n PMR-012\n \n \n \n \n \n❍ · , , \n \n❍ · \n , \n (WBS ) · \n❍ , \n \n - / / , , WBS\n \n \n PMR-013\n \n \n \n \n \n❍ \n- \n \n \n \n PMR-014\n \n \n \n \n \n❍ · , , , \n ( ) \n \n , \n \n \n PMR-015\n \n \n \n \n \n❍ , , ,\n ․ \n❍ \n · , · · \n \n \n PMR-016\n \n \n \n \n \n❍ \n- , \n- , , \n- , \n \n \n \n PMR-017\n \n \n \n \n \n❍ 14 \n- , , , , \n \n❍ , , \n \n \n \n \n PMR-018\n , \n \n \n , \n \n❍ , \n❍ , \n \n❍ ( ) \n \n \n \n□ (Project Support Requirement)\n \n PSR-001\n \n \n \n \n \n❍ , \n \n❍ \n \n❍ \n- , \n ( , ) \n ( ) .\n- , , , , \n \n❍ \n- \n \n- \n- ( ) \n \n❍ \n , \n❍ (EA) · , \n \n , \n \n \n PSR-002\n \n \n \n \n \n❍ 3 SW \n 12 \n❍ , \n❍ H·W, S·W , , \n24 \n , SW \n \n❍ \n \n❍ 3 \n \n❍ \n \n❍ \n- (HW, SW ) SW \n- \n- (Trouble Shooting)\n- \n❍ A/S 10 \n❍ \n \n- , \n- \n \n \n \n PSR-003\n \n \n \n \n \n❍ * 8 \n , \n \n* : \n❍ 7 \n \n❍ HW SW 2 \n H·W , , \n SW \n \n \n \n PSR-004\n \n \n \n \n \n❍ \n- \n- , , , \n \n❍ \n , \n \n \n \n PSR-005\n , AI \n \n \n , AI \n \n❍ , AI \n- , \n❍ , AI \n- , \n , \n \n \n \n PSR-006\n \n \n \n \n \n❍ \n \n- \n- \n- \n( )\n- \n- S/W S/W , \n- \n❍ , \n \n❍ \n \n \n \n PSR-007\n \n \n \n \n \n❍ \n \n- \n- (S/W)\n- , \n- \n- Application, DB \n- , \n- \n· , , , , , , , , \n- : ERD, , , \n , , CRUD \n , \n \n \n PSR-008\n \n \n \n \n \n❍ , , \n , \n \n \n \nS·W\n \n \n \n \n․ \n․ \n․ \n․ \n \n \n \n \n․ \n․ \n․ \nH·W\n \n \n \n \n ·\n \n \n․ \n \n․ \n \n ,\n \n \n \n ․ \n \nS·W\n ,\n \n \n \n \n \n․ \n \n․ \n \n \n \n PSR-009\n \n \n \n \n \n❍ · \n ( ) 60 ( ) \n , \n※ 56 ( \n ) \n❍ SW (SW ) \n \n- SW www.spir.kr `SW \n ` \n- SW \n- SW \n \n❍ A/S \n \n \nⅥ \n1 \n❍ : \n❍ : \n< >\n- 43 43 2\n- ( )\n- · 18 \n❍ : \n- = (90%) + (10%)\n- · ( ) \n❍ : \n❍ \n- \n \n- , , \n \n❍ \n☞ “ ” \n2 \n . \n 12 14 \n \n 27 76\n “ ” \n [ , 1468] \n \n 9 4 5 \n3 ( : , \n8111159901, ) \n \n · , , , ( \n ) \n 20 , 48 \n 2 , 3 \n , \n . \n ( ) , \n [ 8 , 9 ] ( )\n , 5 \n \n , , \n 10% \n \n . \n ( ) 51 5 \n \n \n ( ) 51 \n1 ( ) 100 \n50 , 3 . , \n 51 2 3 \n ( ) \n 8 ( ) \n ( ) , 8 \n , 85 \n . , 85 \n \n \n ( ) 8 \n ( ) \n ( ) 10% , \n 51 6 48 5 \n , \n \n . \n 50 , 47 1 2 , 3 \n · , \n \n [ ] 13 \n3 \n . · : “ ” \n . : “Ⅵ . ” \n4 \n . \n , \n ( ) \n \n \n \n . \n , \n \n 52 ( ) \n 16 ( ) \n .\n . \n 10 \n \n- “ ” ( 2)\n . \n 43 , 35 , \n ( ) 5 , 6 \n \n- “ ” ( 3)\n . \n \n \n \n . \n ( , , ) \n \n , \n 56 \n ( )\n- , \n , \n \n- 3 \n \n- \n 76 1 3 \n \n ( ) 56 ( \n ) \n . \n 1 \n . \n SW ( , , ) \n \n❍ SW (HW, SW, ) , \n , \n \n . · \n \n , . , \n \n \n \n \n ( , , ·USB \n , , ) \n . \n 4 5 · \n , , \n \n 4 9 4 5 \n · · , \n · \n · \n \n . \n , · \n , \n ,\n , \n , , \n \n , \n \n , \n , \n \n , \n \nⅦ \n1 \n ․ ․ \n \n \n , \n \n \n \n ․ ․ \n \n , \n \n2 \n , \n \n “ ” , , \n [ 2] \n \n- A4 , \n , \n 200 , , \n 50 \n- A4 , A4 \n \n- \n※ , \n- , \n \n \n \n \n “ ” . , “ , \n , ” . , \n \n \n \n3 \n 3 , \n \n \n \n , \n \n (PM) , \n ( , , ) \n \n [ 12] [ 13] \n \n , \n \n , \n \n4 \n❍ \n , \n ⋅ \n❍ “ “ \n 1 : ( )\n \n - \n - \n - \nⅠ . \n1. - \n※ , \n2. \n - \n3. - \nⅡ . \n1. - , , , \n \n2. - ( , \n , ) \n3. - ( , , ) \n , , \n4. \n- \n- \n , \nⅢ . \n1. - , · \n2. - , \n \n3. \n- : · \n \n- : · · · \n \nⅣ . \n1. \n- \n- \n- \n2. - \n \n3. - , \n \n4. \n- , ( ), , , , \n \n \nⅤ . \n1. - , \n \n2. \n- ( , , ) , \n , \n \n3. - \n , \n4. - , · \n \nⅥ . \n1. - · , \n \n2. - , , , , \n \n3. - , , \n \n4. - , \n \n 2 : \n \n - ( 1)\n - \nⅠ . \n1. \n- ( 3)\n※ , \n ( )\n ( )\n2. - ( 3 ) \n- ( 3 ) \nⅡ . \n1. - \nⅧ \n1 \n \n( ) ( ) \n \n※ \n (90%) (10%) \n- ( \n 2 ) \n , 85% \n< >\n▪ 43 43 2\n▪ ( )\n▪ · ( )\n 8 10 \n 4 5 \n 3 * \n \n* : 3 \n- , .\n2 \n \n : \n- ( )\n \n \n \n \n \n(18 )\n \n \n- \n- , , 6\n \n \n \n \n- \n- 4\n \n \n- ( , , ) \n- , , \n4\n \n \n- \n- \n , \n \n4\n \n \n(18 )\n \n \n- , · \n 6\n \n \n \n \n- , \n 3\n \n \n- : · \n \n- : · \n · · \n3\n \n \n- ,\n , \n \n3\n \n \n- , \n \n- ( , , , \n ) , , \n3\n \n \n(15 )\n - 3 \n \n - \n 2\n \n- \n , \n \n5\n \n- , ( ), , \n , , \n \n5\n \n \n \n(15 )\n \n- , \n \n \n4\n \n \n \n- ( , , ) \n , , \n \n4\n \n \n- \n , \n \n4\n \n \n- , · \n 3\n \n \n \n(14 )\n - · , \n 3\n \n \n - , , , , \n 3\n - , , \n 4\n \n \n- , \n 4\n \n \n(10 )\n - 2\n - 3 ( ) 3\n \n - , 5\n \n(10 ) - 10\n 100\n3 \n . (80 ) : \n [ 15] ‘ ( \n100%), ( 90%), ( 80%), ( 70%), ( \n60%)’ \n . (10 )\n \n 2 \n 3 ( ) 3 \n , 5 \n❍ (2 )\n- : \n- ‘ ’ \n \n \n \n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0\n2.0\n( 100%)\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB-\n1.9\n( 95%)\nB+, B0, B- B- B+, B0, B-\n1.8\n( 90%)\nCCC+ C CCC+ \n1.4\n( 70%)\n* \n[ ]\n1. 2 8 3 \n 335 3 , \n , \n . , .\n2. , \n . , \n .\n3. 1 , \n . , \n \n .\n4. 7 \n . \n , . , \n , ( , \n ) .( )\n5. , \n .\n( ) (A ×A )+(B ×B )…\n6. .\n❍ (3 )\n- : \n ( ) \n100% 3.0 ( 100%)\n70% 100% 2.7 ( 90%)\n40% 70% 2.4 ( 80%)\n40% 2.1 ( 70%)\n* 3 ( ) ( ).\n , 7 7 \n \n[ ]\n1. \n . , \n .\n2. 9 8 1 .\n3. , .\n4. 9 8 3 , \n , 5 .\n5. 15 16 \n .\n . , , \n . , , ( )\n \n . \n . , , \n \n . .\n6. , \n .\n( ) {(A ×A )+(B ×B )…} \n7. 6 .\n8. , , . \n .\n . : \n . : . , , \n .\n . : . , , \n .\n❍ (5 )\n \n \n \n① < > ▪ < > < >\n② \n▪ \n \n△ 2.0\n③ \n \n▪ 2 \n \n \n△ 2.0\n[ ]\n1. ②~③ , .\n2. , .\n3. ( \n ) .\n4. ( \n ) .\n5. \n6. ② .\n7. ③ 2 \n . , 2017 5 1 .\n 1 \n \n 1 : \n 2 : \n 3 : \n 4 : \n 5 : \n 6 : ( 3 )\n 7 : \n 8 : \n 9 : ( )\n 10 : \n 11 : \n< 1>\n \n<-------------------------- 210 mm ---------------------------->\n AI+OCR \n / \n( : , : 20, 30 )\n2026. .\n( , : 20 )\n \n( 24 , 100%, )\n∧\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n2\n9\n7\nm\nm\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n∨\n< 2>\n \n□ :\n \n \n \n \n \n※ \n※ \n※ , “ ” \n< 3>\n \n \n \n \n \n \n ∼ ( )\n \n※ \n1. \n2. \n3. \n- , 1 \n4. , \n \n< 4>\n \n \n \n( )\n \n \n* 3 ( ).\n , 7 7 \n )\n① \n ( )\n② \n< 5>\n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n ( )\n ( )\n \n \n \n \n \n(VAT )\n \n (%) ( )\n \n \n .\n \n : ( ) ( : )\n :\n : : ( : )\n[ ]\n1. ( ) , \n2. , \n \n3. , \n4. \n< 6>\n ( 3 )\n( : )\n Y-2 Y-1 Y \n \n (A)\n (B)\n (C)\n \n \n \n \nH/W\nS/W\n \n \n \n \n (D)\n \n(D/A)\n \n(B+C)/A\n ( ) \n< 7>\n \n1. \n2. \n3. \n4. \n5. \n6. \n \n \n \n ) 1. “ ” 4 4 1 4 \n ( ) \n \n2. \n< 8>\n \n□ :\n \n \n( )\n \n (5 )\n( )\n ○○ \n- ○○◦○○◦○○○○○◦...\n “ AI+OCR “ \n ① ② \n .\n \n※ \n< 9>\n ( )\n 1 ( ) , \n ․ ․ ․ \n .\n1. :\n2. :\n3. :\n 2 ( ) , , .\n1. : \n2. :\n3. :\n 3 ( ) .\n1. ( : )\n2. ( : )\n .\n 3 , \n .\n 4 ( ) , . , \n 3 ․ .\n 5 ( ) 1 ․ \n .\n 6 ( ) . \n , .\n< 2014.1.10.>\n 7 ( ) \n .\n 8 ( ) 11 , \n .\n1. ( ) : , , \n2. : , , \n 9 ( ) .\n1. : %\n2. : %\n 1 . , \n .\n1. \n2. , , , , ( \n ), \n \n , .\n 10 ( ) 9 \n .\n 10 2( ) , , , \n .\n , \n .\n 1 , \n , \n .\n 3 .\n , \n .\n[ 2012.4.2.]\n 11 ( ․ ) ․ 3 .\n 12 ( ) \n . , 3 \n .\n1. \n2. , , 10 2 \n < 2012.4.2.>\n3. , , 76 \n 1 6 \n 1 . ,\n , , \n . < \n2010.9.8.>\n 2 9 \n .\n 10 .\n 13 ( ) \n . , \n . < 2014.1.10.>\n 14 ( ) \n .\n .\n \n .\n \n ( )\n ( )\n< 10>\n \n \n 20 \n \n , \n , \n .\n20 \n \n \n \n ( )\n \n \n \n \n \n ( )\n \n \n \n \n \n ( )\n \n \n< 11>\n \n “ AI+OCR ” \n ( ) \n .\n○ : \n○ \n- , , , \n○ : 3 \n- \n20 . . .\n :\n \n 2 \n \n 1 : ( )\n 2 : ( )\n 3 : \n 4 : \n 5 : \n 6 : \n 7 : \n 1 : \n 2 : \n 3 : \n 4 : \n[ 1]\n ( )\n ( ) .\n1. .\n2. \n .\n3. \n .\n \n : :\n( ) : ( )\n :\n :\n( ) : ( )\n :\n \n□ □ \n[ ]\n \n ( ), , \n \n \n \n[ 2]\n ( )\n \n ( ) .\n1. .\n2. \n .\n3. \n .\n \n : :\n : ( )\n :\n : :\n( ) : ( )\n :\n \n□ □ \n[ ]\n \n ( ), , \n \n \n \n[ 3]\n ( )\n ( ) ( ) ( \n ) 3 \n , \n PC .\n ( ) \n \n .\n \n : :\n : ( )\n :\n : :\n( ) : ( )\n :\n \n□ □ \n[ ]\n \n ( ), , \n \n \n \n \n[ 4]\n \n ( “ ” ) ( “ ” ) “ ” \n “ ” .\n 1 ( ) “ ” “ ” , “ ” \n “ ” \n .\n 2 ( ) , \n , \n .\n 3 ( ) “ ” \n .\n1.\n2.\n3.\n 4 ( ) \n : ~ \n 5 ( ) “ ” “ ” “ ” \n 3 .\n “ ” “ ” \n “ ” .\n 6 ( ) “ ” 23 2 24 3 \n 29 , 21 30 , \n ․ .\n 7 ( ) “ ” \n 3 .\n “ ” \n 16 \n “ ” .\n 2 “ ” “ ” \n .\n 8 ( · ) “ ” “ ” \n , “ ” .\n1. \n2. \n3. \n4. ․ 5. 6. \n \n “ ” “ ” 1 \n , “ ” .\n “ ” · · · \n 1 1 “ ” , “ ” .\n 1 “ ” “ ” .\n 9 ( ) “ ” , · , \n .\n 10 ( ) “ ” 4 \n “ ” .\n 11 ( ) “ ” “ ” “ ” \n “ \n ” “ ” “ ” \n “ ” 3 “ ” \n .\n 1 3 “ ” \n “ ” “ ” .\n 2 , “ ” “ ” \n 1 .\n20 . . .\n \n 42\n( )\n : ( )\n \noo oo oo ooo\n : ( )\n[ 5]\n \n ( “ ” ) ( “ ” ) “ ” \n“ ” .\n 1 ( ) “ ” “ ” , “ ” \n “ ” .\n 2 ( ) , \n , \n .\n 3 ( ) “ ” \n .\n1.\n2.\n3.\n 4 ( ) \n : ~ \n 5 ( ) “ ” “ ” “ ” \n 3 .\n “ ” “ ” \n “ ” .\n 6 ( ) “ ” 23 2 24 3 \n 29 , 21 30 , \n ․ .\n 7 ( ) “ ” \n 3 .\n “ ” \n 16 \n “ ” .\n 2 “ ” “ ” .\n 8 ( · ) “ ” “ ” \n , “ ” .\n1. \n2. \n3. \n4. ․ 5. 6. \n \n “ ” “ ” 1 ,\n“ ” .\n “ ” · · · 1\n 1 “ ” , “ ” .\n 1 “ ” “ ” .\n 9 ( ) “ ” , · , \n .\n 10 ( ) “ ” 4 \n “ ” .\n 11 ( ) “ ” “ ” “ ” \n “ ” “ \n ” “ ” “ ” \n 3 “ ” .\n 1 3 “ ” \n “ ” “ ” .\n[ 6]\n \n :\n :\n : ( )\n \n .\n< >\n1. , \n .\n2. , \n .\n3. \n .\n4. \n .\n5. , \n .\n6. (2021.11.19. ) .\n \n : ( )\n[ 7]\n \n1. “[ 1] ” \n “[ 2] ” \n .\n2. , , , , [ 3] \n‘ ’ , \n 76 .\n3. \n , .\n4. 30 , \n ( ) .\n* 28 2 5 6 , 52 1 5 \n5. , \n .\n[ 1] \n[ 2] \n[ 3] \n[ 4] \n[ 1] \n \n \n \n1. \n . , \n . \n . \n2. \n . \n . \n . \n◦ \n◦ \n \n◦ \n \n◦ \n \n \n1. \n . \n . \n . \n . \n2. \n . \n . \n . \n3. \n . , USB \n . P2P \n \n . \n . \n . PC \n . PC \n . \n . ( )\n◦ \n \n◦ \n \n◦ \n \n 1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n◦ \n \n◦ \n / \n◦ \n \n . \n . PC (CD, USB ) \n . CMOS “1111” \n \n . PC \n . \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n◦ \n \n◦ / \n \n[ 2] \n \n . A~D \n \n \nA B C D \n 1 1 2 3 \n \n \n 76 \n \n1000 500 100 \n※ \n . , \n※ 1 \n . \n[ 3] \n \n IP \n \n \n \n ( \n )\n , \n \n 9 1 \n \n 2 1 \n 4 16 3 \n \n[ 4] \n \n1. \n . \n , \n .\n . , , , , \n , ‘ ’ \n 76 .\n2. \n< >\n IP \n \n \n \n ( \n )\n , \n \n 9 1 \n \n 2 1 \n 4 16 3 \n \n3. \n① \no \n- , “ ” “ ”( \n ), .\n- “ ” \n .\n- .\n- \n .\n· ( 1 ) ( \n , ) · .\no \n- 1 \n . , .\n- . .\no \n- , \n .\n- .\n- “ \n ” . ※ ( \n ) \n② \no \n- , , \n .\n- “ ” ( \n ) ( ) .\n- , \n .\n- , , .\n- ( “ ” ) \n .\n- .\n- .\no \n- , PC \n .\n- PC . , \n .\n- \n . , , \n .\n- , \n , .\n③ \no \n- 1 , \n .\no \n- PC, USB . , \n .\n- PC .\n- PC, .\n PC \n \n- PC, USB \n .\n- PC , PC \n .\n- PC (CMOS) , , (10 ) \n 9 .\n- , , , , USB . \n , .\n④ \n- (ID) , . , \n .\n \n- , , \n , , , .\n 3 \n\n 4 \n\n 5 \n \n1. \n AI+OCR \n □ \n□ \n■ \n□ \n \n□ \n OCR \n□ OCR \n□ AI \n□ \n \n( ) ~ 240 \n \n① · ■\n② , , \n □\n③ □\n④ ( ) \n □\n⑤ □\n⑥ □\n⑦ ■\n※ ①~⑥ 3 , 4 \n2. \n ■ \n□ ( : )\n \n( )\n \n■ 40 \n■ 20,000 \n■ 720,000 \n3. \n \n \n · \n□ ■ \n※ 3 4 \n · \no\no\no ·\n·\n4. ·\n \n( )\n■ \n( )\n- 54 ( )\n- 26 ( )\n- 18 ( )\n□ ‘ ’ \n□ *\n* Open API , · , \n , \n( : )\n□ \n( : )\n5. \n■ \n□ \n( : )\n2026 5 26 \n : ( )\n210 ×297 ( 80g/ )\n 6 \n1. \n \n \n (WBS) O \n ( ) O \n O\n O \n O\n O \n O\n O\n O\n O\n \n O\n O\n \n( ) O \n \n O \n O\n O \n O \n \n O\n O\n \n O\n O \n O\n \n O\n O\n O \n O \n O\n O\n O \n / \n O \n O\n \n \n O\n ( ) O \n ( ) O \n ( ) \n O \n O \n O\n O\n O\n O \n O \n O \n O \n O\n \n O \n O \n \n O\n O \n O \n O \n O 1 \n O\n O \n O \n \n O \n O \n \n O \n O\n O\n O EA \n O EA \n O EA \n O \n2. \n \n \n O \n / O\n O \n O EA \n ERD O EA \n / O \n O \n O EA \n O \n \n \n( , )\nO\n O\n O\nUI/UX O\n O\n O\n ( ) O\n O\n O\n (CRUD) O \n ( ) O\n ( , , ) O\n O\n O\n O\n \n \n / O\n / O\n / O\n O\n O\n O\n O\n ( ) O\n \n O EA \n O\n O EA \n \n O \n O\n3. \n \n \n / \n O DA \n O DA \n O DA \n O DA \n O EA \n O EA \n ERD O EA \n O EA \n O \n O \n O\nDB/ / O DA/EA \n \n O\n \n \n \n \n O \n \n \n( , , DB)\nO \n \n(DB , DB )\nO \n O\n4. \n \n \n O \nSOP O \n O \n O \n O EA \nCRUD O \n O \n O DA \n O DA \n O DA \n O DA \nDB/ / O DA/EA \n ERD O DA \n O DA/EA \n O\n \n O\n O \n O\n O\n O\n O\n 7 \n[ ○ ] , [ ] \n AI+OCR \n \n◇ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( ) ( )\n ( ) ( )\n ( ) ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n◇ \n \n / / \n \n \n \n \n \n \n \n , , \n .\n○\n \n \n \n 2.2 ○\n ○\n ○\n UI/UX ○\n \n \n \n- HTML 4.01/HTML 5, CSS 2.1 / CSS 3 ○\n- XHTML 1.0 ○\n- XML 1.0, XSL 1.0, XSLT 2.0 ○\n- ECMAScript 14th ○\n \n- 1.0\n(KICS.KO-10.0307)\n○\n- 2.0\n(KSX3253:2016)\n○\n \n \n (KS X ISO/IEC 20000)/ ITIL v3, v4 ○\n \n \nIPv4 ○\nIPv6 ○\n◇ \n \n / / \n \n \n \n \n \n \n , \n \n .\n○\n \n \n \n- SOAP 1.2, WSDL 2.0, XML 1.0 ○\n- RESTful ○\n \n- UML 2.X / BPMN 2.X ○\n- ebXML/BPEL/XPDL ○\n : XML 1.0, JSON ○\n : RESTful API, WSDL 2.0 ○\n◇ \n / / \n \n \n \n \n \n \n \n IPv4 IPv6 \n .\n○\n , \n \n .\n○\n \n \n : H.320~H.324, H.310 ○\n : VoIP\n- H.323 ○\n- SIP ○\n- Megaco(H.248) ○\n \n \n ( ) \n- POSIX.0 ○\n- UNIX ○\n- Windows Server ○\n- Linux ○\n \n- android ○\n- IOS ○\n \n DBMS\n- RDBMS ○\n- ORDBMS ○\n- OODBMS ○\n- MMDBMS ○\n- TSDBMS ○\n ITIL v3, v4 / ISO20000 ○\n : ○\n \n \n IaaS ○\n PaaS ○\n SaaS ○\n◇ \n \n / / \n \n \n \n \n \n . ○\n , , , ,\n .\n○\n ( 2 6 ) \n , \n , \n .\n○\n , \n , \n \n .\n○\n \n . ○\n \n \n \n \n \n○\n \n : HTML 4.01 / HTML 5 ○\n \n- JSP 2.x ○\n- ASP.net ○\n- PHP ○\n- ( ) ○\n \n \n- C ○\n- C++ ○\n- Java ○\n- C# ○\n- ( ) ○\n \n- XMI 2.0 / XMI 3.2 ○\n- SOAP 1.2 ○\n- API ○\n \n- EUC-KR ○\n- UTF-8( , UTF-8 ) ○\n◇ \n \n / \n / \n \n \n \n \n \n \n \n \n \n . “ ”, “ \n ”, “ ” “ ” .\n○\n \n .\n○\n \n .\n○\n \n \n \n ○\n ( ) ○\n ( ) ○\n \n \n \n \n \n \n ( )\n- PKI ○\n- SSO ( CC ) ○\n- ○\n- (DRM)( CC ) ○\n- ○\n- ○\n- ○\n- DB ( CC ) ○\n- (8 ) ○\n- ○\n CC ( CC )\n- ( ) ○\n- ( ) ( ) ○\n- ( ) ○\n- ○\n- DDos ( ) ○\n- ○\n- ○\n- ○\n- ( ) ○\n- ○\n- (2022.1 ) ○\n- ( ) ○\n- ○\n- ○\n- ○\n- DB ○\n- ○\n- ( \n ) ○\n- ( ) ○\n- ○\n- USB(2020.1.1 , \n ) ○\n- (2021.1.1 , , \n ) ○\n- (2021.1.1 ) ○\n- CC ○\n \n- USB( ) ○\n- ( , \n ) ○\n- ○\n- ○\n- (L3 ) ○\n- ○\n ( · ) \n- · ( ) ○\n- ○\n \n- (CSAP) ○\n- ○\n \n \n \n \n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n \n- ○\n- ( ) ○\n- ( ) ○\n- ○\n※ “ ” \n 8 \n■ [ 2 ]\n \n1. \n . \n \n \n \n \n ? \n \n ,\nAI·OCR \n \n \n ? \n , , \n AI·OCR ·\n \n ? \nMECAR WEB, WAS, DB \n \n / \n ?\n \nMECAR WEB, WAS, DB \n \n / ( , \n , DB, , , , \n ) ?\n \n , \n AI+OCR , · · \n \n ? \nMECAR AI+OCR \n \n / \n ?\n \n \n \n . \n \n \n ? \n MECAR AI·OCR \n , \n \n , ? \n MECAR AI·OCR \n , \n \n ( , \n ) ?\n \n MECAR AI·OCR \n , \n \n \n ?\n \n MECAR AI·OCR \n , \n \n \n ?\n* , , \n \n MECAR AI·OCR \n , \n \n ?\n* , ( , ) ( , , )\n \n \n MECAR AI·OCR \n , \n \n ?\n* , , , ( , ) \n \n MECAR AI·OCR \n , \n \n , \n ? \n MECAR AI·OCR \n , \n \n . \n \n \n \n \n ? \n MECAR\n AI·OCR \n \n , , \n ?\n \n MECAR\n AI·OCR \n \n , , \n ?\n \n MECAR\n AI·OCR \n \n2. \n . \n \n \n \n \n (IRM) EA \n ?\n \n \n \n , MECAR \n AI·OCR \n \n ?\n \n \n \n , MECAR \n AI·OCR \n . \n \n \n \n \n , \n ?\n \n \n \n , MECAR \n AI·OCR \n \n ?\n \n \n \n , MECAR \n AI·OCR \n . \n \n \n \n \n , \n ?\n \n \n \n , MECAR \n AI·OCR \n ?\n \n \n \n , MECAR \n AI·OCR \n , \n ?\n \n \n \n , MECAR \n AI·OCR \n3. \n . \n \n \n \n \n \n ?\n \nMECAR \n · \n , \n , , ?\n \nMECAR , \n AI·OCR \n \n (WEB, WAS, DB ) \n (CPU, Memory, Disk ) ?\n \n MECAR AI·OCR \n \n , ? \n \n \n . \n \n \n \n \n , , \n ?\n \nMECAR AI·OCR \n \n \n ?\n \n \n \n ? \n \n \n ( , ) , , \n ?\n \n , \n ?\n \nMECAR \n \n \n ?\n \n \n \n4. \n . \n \n \n \n \n ( , , )\n ?\n \n MECAR AI+OCR \n \n . \n \n \n \n \n , \n ?\n \n \n \n \n ?\n \n5. \n . \n \n \n \n \n 1 \n ?\n \n ·",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01697082-000",
+    "sourceFile": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+    "generatedAt": "2026-08-31T13:22:17.904406",
+    "match": {
+      "noticeId": "R26BK01697082-000",
+      "bidNtceNo": "R26BK01697082",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01697082-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01697082-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01697082-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4,, 200,, 50 - A4, A4 - ※, -, “ ” ., “,, ” ., 33,, (PM), (,, ) [ 12] [ 13],, 4 ❍, ⋅ ❍ “ “ 1 : ( ) - - - Ⅰ . 1. - ※, 2.",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "USB ., . - PC . - PC, . PC - PC, USB . - PC, PC . - PC (CMOS),, (10 ) 9 . -,,,, USB ., . ④ - (ID), ., . -,,,,, . 345",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "SFR-001",
+          "requirement": "Requirement",
+          "name": "Requirement",
+          "detail": "-PSR (Project Support",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-002",
+          "requirement": "AI+OCR",
+          "name": "AI+OCR",
+          "detail": "AI+OCR",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-003",
+          "requirement": "AI+OCR",
+          "name": "AI+OCR",
+          "detail": "AI+OCR",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-004",
+          "requirement": "AI+OCR",
+          "name": "AI+OCR",
+          "detail": "AI+OCR",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-005",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-001",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-002 AI+OCR SFR-003 AI+OCR SFR-004 AI+OCR",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-002",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-002 AI+OCR SFR-003 AI+OCR SFR-004 AI+OCR",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-003",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-002 AI+OCR SFR-003 AI+OCR SFR-004 AI+OCR",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-004",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-002 AI+OCR SFR-003 AI+OCR SFR-004 AI+OCR",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-005",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-003 AI+OCR SFR-004 AI+OCR",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-006",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-004 AI+OCR",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-007",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SQL",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-008",
+          "requirement": "SQL",
+          "name": "SQL",
+          "detail": "INR-001 INR-002 INR-003 INR-004 INR-005 INR-006",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-001",
+          "requirement": "INR-009",
+          "name": "INR-009",
+          "detail": "INR-003 INR-004 INR-005 INR-006 INR-007 INR-008",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-002",
+          "requirement": "INR-009",
+          "name": "INR-009",
+          "detail": "(H/W)GPU",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-003",
+          "requirement": "S/W)AI",
+          "name": "S/W)AI",
+          "detail": "S/W)AI",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-004",
+          "requirement": "S/W)AI",
+          "name": "S/W)AI",
+          "detail": "(S/W)OCR",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-001",
+          "requirement": "S/W)OCR",
+          "name": "S/W)OCR",
+          "detail": "INR-007 INR-008 INR-009 ECR-002 (H/W)GPU ECR-003 (S/W)AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-002",
+          "requirement": "S/W)OCR",
+          "name": "S/W)OCR",
+          "detail": "INR-008 INR-009 ECR-002 (H/W)GPU ECR-003 (S/W)AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-003",
+          "requirement": "S/W)OCR",
+          "name": "S/W)OCR",
+          "detail": "INR-009 ECR-002 (H/W)GPU ECR-003 (S/W)AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-004",
+          "requirement": "S/W)OCR",
+          "name": "S/W)OCR",
+          "detail": "ECR-002 (H/W)GPU ECR-003 (S/W)AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-005",
+          "requirement": "S/W)OCR",
+          "name": "S/W)OCR",
+          "detail": "ECR-002 (H/W)GPU ECR-003 (S/W)AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-006",
+          "requirement": "S/W)OCR",
+          "name": "S/W)OCR",
+          "detail": "ECR-002 (H/W)GPU ECR-003 (S/W)AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-007",
+          "requirement": "S/W)OCR",
+          "name": "S/W)OCR",
+          "detail": "ECR-003 (S/W)AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-008",
+          "requirement": "S/W)OCR",
+          "name": "S/W)OCR",
+          "detail": "S/W)OCR",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-009",
+          "requirement": "DAR-009",
+          "name": "DAR-009",
+          "detail": "DAR-009",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-010",
+          "requirement": "DAR-010",
+          "name": "DAR-010",
+          "detail": "DAR-010",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-011",
+          "requirement": "DAR-011",
+          "name": "DAR-011",
+          "detail": "DAR-011",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-012",
+          "requirement": "DAR-012",
+          "name": "DAR-012",
+          "detail": "DAR-012",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-013",
+          "requirement": "DAR-013",
+          "name": "DAR-013",
+          "detail": "DAR-013",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-001",
+          "requirement": "TER-001",
+          "name": "TER-001",
+          "detail": "TER-001",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-002",
+          "requirement": "TER-002",
+          "name": "TER-002",
+          "detail": "TER-002",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-003",
+          "requirement": "TER-003",
+          "name": "TER-003",
+          "detail": "TER-003",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-004",
+          "requirement": "TER-004",
+          "name": "TER-004",
+          "detail": "TER-004",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-005",
+          "requirement": "TER-005",
+          "name": "TER-005",
+          "detail": "TER-005",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-006",
+          "requirement": "TER-006",
+          "name": "TER-006",
+          "detail": "TER-006",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "SER-001",
+          "name": "SER-001",
+          "detail": "SER-001",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": "SER-002",
+          "name": "SER-002",
+          "detail": "SER-002",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "SER-003",
+          "name": "SER-003",
+          "detail": "SER-003",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": "SER-004",
+          "name": "SER-004",
+          "detail": "SER-004",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-005",
+          "requirement": "SER-005",
+          "name": "SER-005",
+          "detail": "SER-005",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-006",
+          "requirement": "SER-006",
+          "name": "SER-006",
+          "detail": "SER-006",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-007",
+          "requirement": "SER-007",
+          "name": "SER-007",
+          "detail": "SER-007",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-008",
+          "requirement": "SER-008",
+          "name": "SER-008",
+          "detail": "SER-008",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-009",
+          "requirement": "SER-009",
+          "name": "SER-009",
+          "detail": "SER-009",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-010",
+          "requirement": "SER-010",
+          "name": "SER-010",
+          "detail": "SER-010",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": "QUR-001",
+          "name": "QUR-001",
+          "detail": "QUR-001",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": "QUR-002",
+          "name": "QUR-002",
+          "detail": "QUR-002",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-003",
+          "requirement": "QUR-003",
+          "name": "QUR-003",
+          "detail": "QUR-003",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-004",
+          "requirement": "QUR-004",
+          "name": "QUR-004",
+          "detail": "QUR-004",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-005",
+          "requirement": "QUR-005",
+          "name": "QUR-005",
+          "detail": "QUR-005",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": "COR-001",
+          "name": "COR-001",
+          "detail": "COR-001",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-003",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-004",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-005",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-006",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-007",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "SW",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": "SW",
+          "name": "SW",
+          "detail": "EA",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "EA",
+          "name": "EA",
+          "detail": "COR-002 ( SW )",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "EA",
+          "name": "EA",
+          "detail": "EA",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-004",
+          "requirement": "EA",
+          "name": "EA",
+          "detail": "(PM)",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-005",
+          "requirement": "PM",
+          "name": "PM",
+          "detail": "9) PMR-001 EA",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-006",
+          "requirement": "PM",
+          "name": "PM",
+          "detail": "9) PMR-001 EA",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-007",
+          "requirement": "PM",
+          "name": "PM",
+          "detail": "9) PMR-001 EA",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-008",
+          "requirement": "PM",
+          "name": "PM",
+          "detail": "9) PMR-001 EA",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-009",
+          "requirement": "PM",
+          "name": "PM",
+          "detail": "9) PMR-001 EA",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-010",
+          "requirement": "PM",
+          "name": "PM",
+          "detail": "PM",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-011",
+          "requirement": "PM",
+          "name": "PM",
+          "detail": "PM",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-012",
+          "requirement": "PM",
+          "name": "PM",
+          "detail": "PM",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-013",
+          "requirement": "PMR-013",
+          "name": "PMR-013",
+          "detail": "PMR-013",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-014",
+          "requirement": "PMR-014",
+          "name": "PMR-014",
+          "detail": "PMR-014",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-015",
+          "requirement": "PMR-015",
+          "name": "PMR-015",
+          "detail": "PMR-015",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-016",
+          "requirement": "PMR-016",
+          "name": "PMR-016",
+          "detail": "PMR-016",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-017",
+          "requirement": "PMR-017",
+          "name": "PMR-017",
+          "detail": "PMR-017",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-018",
+          "requirement": ",",
+          "name": ",",
+          "detail": ",",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": ",",
+          "name": ",",
+          "detail": ",",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": ",",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-003",
+          "requirement": ",",
+          "name": ",",
+          "detail": ",",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-004",
+          "requirement": ",",
+          "name": ",",
+          "detail": ",",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-005",
+          "requirement": ",",
+          "name": ",",
+          "detail": "AI",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-006",
+          "requirement": ", AI",
+          "name": ", AI",
+          "detail": "PMR-018 ,",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-007",
+          "requirement": ", AI",
+          "name": ", AI",
+          "detail": "PMR-018 ,",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-008",
+          "requirement": ", AI",
+          "name": ", AI",
+          "detail": ", AI",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-009",
+          "requirement": ", AI",
+          "name": ", AI",
+          "detail": "※ , ※ ,",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01697082-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "- \n- ERD\n- DB \n- \n- \n- \n- \n \n \n❍ ( ) : 10 , \n · , \n \n- , \n- \n- \n- ( · ) \n- , \n- , \n- ( , )\n※ ‘ (Security Requirement)’",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 8개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "0",
+          "score": 100.0,
+          "weight": 100.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "0 100점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "9",
+          "score": 95.0,
+          "weight": 95.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "9 95점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "8",
+          "score": 90.0,
+          "weight": 90.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "8 90점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "4",
+          "score": 70.0,
+          "weight": 70.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "4 70점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "0",
+          "score": 100.0,
+          "weight": 100.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "0 100점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "7",
+          "score": 90.0,
+          "weight": 90.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "7 90점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "4",
+          "score": 80.0,
+          "weight": 80.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "4 80점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "1",
+          "score": 70.0,
+          "weight": 70.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "1 70점"
+        }
+      ],
+      "totals": {
+        "score": 695.0,
+        "weight": 695.0,
+        "gradeA": 8,
+        "gradeB": 0,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01697082-000",
+    "generatedAt": "2026-08-31T13:24:40.594421",
+    "sourceAnalysisAt": "2026-08-31T13:22:17.904406",
+    "projectName": "",
+    "sourceFile": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+    "requirementSourceFiles": [
+      "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "SFR-001",
+        "name": "SFR-001",
+        "detail": "❍ ❍ , UI ❍ ( ) ( X (EXE) ) ❍",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-002",
+        "name": "AI+OCR",
+        "detail": "AI + OCR ❍ · ❍ ( ) ❍",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-003",
+        "name": "AI+OCR",
+        "detail": "AI + OCR ❍ OCR ❍ · AI ❍ , ❍",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-004",
+        "name": "AI+OCR",
+        "detail": "AI + OCR ❍ OCR ❍ ❍ ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-005",
+        "name": "AI",
+        "detail": "AI ❍ , ❍ , ❍ □ (Performance Requirement)",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-001",
+        "name": "PER-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-002",
+        "name": "PER-002",
+        "detail": "❍ 3 / (3M) https://www.webpagetest.org / Microsoft Edge / 3 .",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-003",
+        "name": "PER-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-004",
+        "name": "PER-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-005",
+        "name": "PER-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-006",
+        "name": "PER-006",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-007",
+        "name": "SQL",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-008",
+        "name": "3)",
+        "detail": "Web, WAS, DB ○ (CPU, , ) 90% . 39 (3 ) 69",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-001",
+        "name": "ECR-001",
+        "detail": "❍ [ , ] ❍ ( , EOM), ❍",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-002",
+        "name": "(H/W)GPU",
+        "detail": "(H/W) GPU ❍ : 2 ❍ NVIDIA L40S GPU GPU ❍",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-003",
+        "name": "(S/W)AI",
+        "detail": "(S/W) AI ○ DB ○ / / / / ○ ○",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-004",
+        "name": "(S/W)OCR",
+        "detail": "(S/W) OCR ○ Key Value ○ AI ○ OCR ○ , , ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-001",
+        "name": "DAR-001",
+        "detail": "( ) · ○ ( , , , ) ※",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-002",
+        "name": "DAR-002",
+        "detail": "( · · · ) ( ) ○ DB ( · · · ) , 90%",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-003",
+        "name": "DAR-003",
+        "detail": "(DB ) ( ) DB ( , , , ) ※ , ※ ※ DB : DB DB",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-004",
+        "name": "DAR-004",
+        "detail": "( ) , DB , , , DB ○ · · , , DB",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-005",
+        "name": "DAR-005",
+        "detail": "· · · · , , , ) ( ) )",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-006",
+        "name": "DAR-006",
+        "detail": "( ) DB ※ ※ DB : DB ( , , , ERD ), ( , ), DB",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-007",
+        "name": "DAR-007",
+        "detail": ", , ○ * (BR) * , ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-008",
+        "name": "DAR-008",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-009",
+        "name": "DAR-009",
+        "detail": "(DB) , , , , ( · · · ) , , ( · ) , , , ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-010",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-011",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-012",
+        "name": "DAR-012",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-013",
+        "name": "5)",
+        "detail": ". ( /API) . ○ ‘ ’ .",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-001",
+        "name": "TER-001",
+        "detail": "❍ , ❍ , , , , ❍ ❍ , , , ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-002",
+        "name": "TER-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-003",
+        "name": "TER-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-004",
+        "name": "TER-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-005",
+        "name": "TER-005",
+        "detail": "❍ · , ❍ · , · ❍ , ·",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-006",
+        "name": "6)",
+        "detail": ", , , ( ), , , , ❍ : , , ( ) , ( ) ❍ , , ❍ , , , , , ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "SER-001",
+        "detail": "○ ○ , “ [ 6]” [ 4] ○ “ ” ‘ 76 (",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "SER-002",
+        "detail": "○ , , , ○ ○ 76 , , ○",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "SER-003",
+        "detail": "○ DB ○ ○ DB ○ DB (Role) (Privilege) ○ DB DB",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "SER-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-005",
+        "name": "SER-005",
+        "detail": "○ , CC , . ○ . ○ , (OWASP, Open Web Application Security Project) ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-006",
+        "name": "SER-006",
+        "detail": "○ , CCTV ( ) ( ) · ○",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-007",
+        "name": "SER-007",
+        "detail": ", ○ CC (PP ), , ○ ○",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-008",
+        "name": "SER-008",
+        "detail": "○ ○ FTP, Telnet, Finger · IP ·",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-009",
+        "name": "SER-009",
+        "detail": "○ ( , VPN ) . ○ 2 \" \" , , ( ) ·",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-010",
+        "name": "7)",
+        "detail": "· ’,‘ ’,‘ ’ ○ ※ , , , ※ , ○ ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "QUR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": "QUR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-003",
+        "name": "QUR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-004",
+        "name": "QUR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-005",
+        "name": "8)",
+        "detail": "○ , , / ○ (firmware) ○ ○ ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": "COR-001",
+        "detail": "○ · ○ JAVA ○ ○ ○ UI/UX",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": "( SW )",
+        "detail": "( SW ) ❍ , . , ❍ 56 ( )",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-003",
+        "name": "COR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-004",
+        "name": "COR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-005",
+        "name": "COR-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-006",
+        "name": "COR-006",
+        "detail": "W3C Markup Validation (http://validator.w3.org) W3C CSS Validation (http://jigsaw.w3.org/css-validator) ※ ActiveX ❍ , ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-007",
+        "name": "COR-007",
+        "detail": "❍ ❍ “ ” ❍ ‧ ※ ❍ “ ”",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "EA",
+        "detail": "EA ❍ : 14 ( ) ❍ ‘EA ’ ( ) . ‘ ’ EA",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "PMR-002",
+        "detail": "❍ (PM) ❍ , ( ) , ❍",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "( )",
+        "detail": "( ) ❍ , , , , ( ) ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-004",
+        "name": "(PM)",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-005",
+        "name": "PMR-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-006",
+        "name": "PMR-006",
+        "detail": "❍ 7 ❍ , ❍ ‘ ’ ‘ ’ , ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-007",
+        "name": "PMR-007",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-008",
+        "name": "PMR-008",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-009",
+        "name": "PMR-009",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-010",
+        "name": "PMR-010",
+        "detail": "❍ ❍ ❍ ❍ : 50% , , ❍ ․",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-011",
+        "name": "PMR-011",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-012",
+        "name": "PMR-012",
+        "detail": "· , , ❍ · , (WBS ) · ❍ , / / , , WBS",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-013",
+        "name": "PMR-013",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-014",
+        "name": "PMR-014",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-015",
+        "name": "PMR-015",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-016",
+        "name": "PMR-016",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-017",
+        "name": "PMR-017",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-018",
+        "name": ",",
+        "detail": ", ❍ , ❍ , ❍ ( ) □ (Project Support Requirement)",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "PSR-001",
+        "detail": "❍ ❍ , ( , ) ( ) .",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": "PSR-002",
+        "detail": "12 ❍ , ❍ H·W, S·W , , 24 , SW",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-003",
+        "name": "PSR-003",
+        "detail": ", * ❍ 7 ❍ HW SW 2 H·W , ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-004",
+        "name": "PSR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-005",
+        "name": ", AI",
+        "detail": ", AI ❍ , AI , ❍ , AI ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-006",
+        "name": "PSR-006",
+        "detail": "( ) S/W S/W , ❍ , ❍",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-007",
+        "name": "PSR-007",
+        "detail": "(S/W) , Application, DB , · , , , , , , , ,",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-008",
+        "name": "PSR-008",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-009",
+        "name": "※ ,",
+        "detail": "( ) ※ , 3 □ (System Function Requirement)",
+        "source": "2. 제안요청서(자동차 배출가스 종합전산시스템 AI+OCR 기능구축).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "0",
+        "score": 100.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 7,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "0 100점"
+      },
+      {
+        "scoreItem": "9",
+        "score": 95.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 7,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "9 95점"
+      },
+      {
+        "scoreItem": "8",
+        "score": 90.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 6,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "8 90점"
+      },
+      {
+        "scoreItem": "4",
+        "score": 70.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 5,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "4 70점"
+      },
+      {
+        "scoreItem": "0",
+        "score": 100.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 7,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "0 100점"
+      },
+      {
+        "scoreItem": "7",
+        "score": 90.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 6,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "7 90점"
+      },
+      {
+        "scoreItem": "4",
+        "score": 80.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 6,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "4 80점"
+      },
+      {
+        "scoreItem": "1",
+        "score": 70.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 5,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "1 70점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [
+              "ECR-001",
+              "ECR-002",
+              "ECR-003",
+              "ECR-004"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "SFR-001",
+              "SFR-002",
+              "SFR-003",
+              "SFR-004",
+              "SFR-005",
+              "DAR-001",
+              "DAR-002",
+              "DAR-003",
+              "DAR-004",
+              "DAR-005",
+              "DAR-006",
+              "DAR-007",
+              "DAR-008",
+              "DAR-009",
+              "DAR-010",
+              "DAR-011",
+              "DAR-012",
+              "DAR-013"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "PER-001",
+              "PER-002",
+              "PER-003",
+              "PER-004",
+              "PER-005",
+              "PER-006",
+              "PER-007",
+              "PER-008",
+              "TER-001",
+              "TER-002",
+              "TER-003",
+              "TER-004",
+              "TER-005",
+              "TER-006",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "SER-005",
+              "SER-006",
+              "SER-007",
+              "SER-008",
+              "SER-009",
+              "SER-010",
+              "QUR-001",
+              "QUR-002",
+              "QUR-003",
+              "QUR-004",
+              "QUR-005",
+              "COR-001",
+              "COR-002",
+              "COR-003",
+              "COR-004",
+              "COR-005",
+              "COR-006",
+              "COR-007"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-001",
+              "PMR-002",
+              "PMR-003",
+              "PMR-004",
+              "PMR-005",
+              "PMR-006",
+              "PMR-007",
+              "PMR-008",
+              "PMR-009",
+              "PMR-010",
+              "PMR-011",
+              "PMR-012",
+              "PMR-013",
+              "PMR-014",
+              "PMR-015",
+              "PMR-016",
+              "PMR-017",
+              "PMR-018"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-001",
+              "PSR-002",
+              "PSR-003",
+              "PSR-004",
+              "PSR-005",
+              "PSR-006",
+              "PSR-007",
+              "PSR-008",
+              "PSR-009"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 85,
+      "mappedRequirements": 85,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}
