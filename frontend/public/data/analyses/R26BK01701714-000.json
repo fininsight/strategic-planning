@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01701714",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-08-31T13:21:36.865507",
+  "analyzedAt": "2026-09-07T12:33:54.801451",
   "status": "completed",
   "source": {
     "fileName": "공고서_해양 AI 모델 운용 및 대용량 데이터 분석 기반 서버 인프라 구축_선박해양플랜트연구소.pdf",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01701714-000",
     "sourceFile": "공고서_해양 AI 모델 운용 및 대용량 데이터 분석 기반 서버 인프라 구축_선박해양플랜트연구소.pdf",
-    "generatedAt": "2026-08-31T13:21:35.067095",
+    "generatedAt": "2026-09-07T12:33:53.541009",
     "match": {
       "noticeId": "R26BK01701714-000",
       "bidNtceNo": "R26BK01701714",
@@ -633,8 +633,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01701714-000",
-    "generatedAt": "2026-08-31T13:21:36.865485",
-    "sourceAnalysisAt": "2026-08-31T13:21:35.067095",
+    "generatedAt": "2026-09-07T12:33:54.801429",
+    "sourceAnalysisAt": "2026-09-07T12:33:53.541009",
     "projectName": "해양 AI 모델 운용 및 대용량 데이터 분석 기반 서버 인프라 구축",
     "sourceFile": "제안요청서_최종.hwpx",
     "requirementSourceFiles": [
