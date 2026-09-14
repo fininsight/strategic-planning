@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01708133",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-07T12:43:03.892395",
+  "analyzedAt": "2026-09-14T13:03:31.755338",
   "status": "completed",
   "source": {
     "fileName": "공고서_sw(지방,고시이상,규가동시,20억미만).pdf",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01708133-000",
     "sourceFile": "공고서_sw(지방,고시이상,규가동시,20억미만).pdf",
-    "generatedAt": "2026-09-07T12:43:03.336007",
+    "generatedAt": "2026-09-14T13:03:30.918596",
     "match": {
       "noticeId": "R26BK01708133-000",
       "bidNtceNo": "R26BK01708133",
@@ -520,8 +520,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01708133-000",
-    "generatedAt": "2026-09-07T12:43:03.892372",
-    "sourceAnalysisAt": "2026-09-07T12:43:03.336007",
+    "generatedAt": "2026-09-14T13:03:31.755308",
+    "sourceAnalysisAt": "2026-09-14T13:03:30.918596",
     "projectName": "◻ 계약금액 :",
     "sourceFile": "규격서 등.zip",
     "requirementSourceFiles": [

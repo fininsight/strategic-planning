@@ -1,0 +1,494 @@
+{
+  "bidNtceNo": "R26BK01721618",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-09-14T12:53:05.954173",
+  "status": "completed",
+  "source": {
+    "fileName": "공고서류 (1).zip",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01721618-000/공고서류 (1).zip",
+    "pageCount": 0,
+    "textLength": 0,
+    "extractionMethod": "extract_document_text"
+  },
+  "attachments": [
+    {
+      "fileName": "공고서류 (1).zip",
+      "extension": ".zip",
+      "size": 3043844,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "68d78b8e347429e1f33aefe6",
+      "fileName": "공고서류 (1).zip",
+      "extension": ".zip",
+      "docType": "입찰공고문",
+      "viewerType": "unsupported",
+      "fileUrl": "/api/notices/R26BK01721618/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01721618/000/original-files/0",
+      "pdfUrl": "",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01721618-000/공고서류 (1).zip",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01721618-000/공고서류 (1).zip",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01721618-000/공고서류 (1).zip",
+      "pageCount": 0,
+      "textLength": 0,
+      "extractionMethod": "extract_document_text",
+      "extractionError": "",
+      "viewerError": ".zip 파일은 현재 뷰어 변환을 지원하지 않습니다.",
+      "documentText": "",
+      "analysis": {
+        "docType": "입찰공고문",
+        "summary": "입찰공고문 파일입니다. 텍스트 추출 가능 여부를 확인한 뒤 세부 내용을 검토해야 합니다.",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01721618-000",
+    "sourceFile": "공고서류 (1).zip",
+    "generatedAt": "2026-09-14T12:53:05.933331",
+    "match": {
+      "noticeId": "R26BK01721618-000",
+      "bidNtceNo": "R26BK01721618",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01721618-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01721618-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01721618-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "",
+          "requirement": "공고문 확인",
+          "name": "공고문 확인",
+          "detail": "입찰 참가 요건 원문 확인 필요",
+          "type": "확인",
+          "category": "입찰 참가 자격",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01721618-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "명시적인 배점표 확인 필요",
+      "items": [],
+      "totals": {
+        "score": 0,
+        "weight": 0,
+        "gradeA": 0,
+        "gradeB": 0,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01721618-000",
+    "generatedAt": "2026-09-14T12:53:05.954152",
+    "sourceAnalysisAt": "2026-09-14T12:53:05.933331",
+    "projectName": "",
+    "sourceFile": "공고서류 (1).zip",
+    "requirementSourceFiles": [
+      "공고서류 (1).zip"
+    ],
+    "extractionWarnings": [
+      "RFP 원문에서 요구사항 코드를 찾지 못해 기존 분석 요약을 보조 자료로 사용했습니다."
+    ],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "코드 미확인-001",
+        "name": "공고문 확인",
+        "detail": "입찰 참가 요건 원문 확인 필요",
+        "source": "proposalSheets.noticeInfo.requirements",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "배점표 확인 필요",
+        "score": 0,
+        "targetSection": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+        "proposalType": "qualitative",
+        "recommendedPages": 4,
+        "mappedRequirementCodes": [
+          "코드 미확인-001"
+        ],
+        "source": "목차 기반 추정",
+        "detail": ""
+      }
+    ],
+    "scoringSource": "배점표 확인 필요",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 사업 이해 및 추진 방향",
+            "section": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+            "requirementCodes": [
+              "코드 미확인-001"
+            ],
+            "recommendedPages": 4
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 1,
+      "mappedRequirements": 1,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": false,
+      "message": "RFP 원문에서 요구사항 코드를 찾지 못해 기존 분석 요약을 보조 자료로 사용했습니다."
+    }
+  }
+}
