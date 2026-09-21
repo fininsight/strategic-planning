@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01715589",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-14T12:56:34.083905",
+  "analyzedAt": "2026-09-21T13:05:08.352814",
   "status": "completed",
   "source": {
     "fileName": "긴급입찰사유서_AI기반 실종자 예측 시스템 구축 위탁감리.hwp",
@@ -175,7 +175,7 @@
   "proposalSheets": {
     "id": "R26BK01715589-000",
     "sourceFile": "긴급입찰사유서_AI기반 실종자 예측 시스템 구축 위탁감리.hwp",
-    "generatedAt": "2026-09-14T12:56:30.166990",
+    "generatedAt": "2026-09-21T13:05:05.555102",
     "match": {
       "noticeId": "R26BK01715589-000",
       "bidNtceNo": "R26BK01715589",
@@ -683,8 +683,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01715589-000",
-    "generatedAt": "2026-09-14T12:56:34.083879",
-    "sourceAnalysisAt": "2026-09-14T12:56:30.166990",
+    "generatedAt": "2026-09-21T13:05:08.352792",
+    "sourceAnalysisAt": "2026-09-21T13:05:05.555102",
     "projectName": "주관기관 사업자 (피감리기관) 2단계 감리 감리원 투입(MD) 최소 감리일 설계단계 종료단계 AI기반 실종자 예측 시스템 구축 위탁감리 한국지능정보사회진흥원 주식회사 송우인포텍 컨소시엄 ○ ○ 1105",
     "sourceFile": "제안요청서_AI기반 실종자 예측 시스템 구축 위탁감리.hwpx",
     "requirementSourceFiles": [

@@ -1,0 +1,1931 @@
+{
+  "bidNtceNo": "R26BK01729358",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-09-21T13:03:18.598894",
+  "status": "completed",
+  "source": {
+    "fileName": "긴급입찰사유서.hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01729358-000/긴급입찰사유서.hwp",
+    "pageCount": 2,
+    "textLength": 212,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "긴급입찰사유서.hwp",
+      "extension": ".hwp",
+      "size": 71168,
+      "kindCode": ""
+    },
+    {
+      "fileName": "붙임1_제안요청서_수정_260911.hwp",
+      "extension": ".hwp",
+      "size": 1720320,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "12c987975bcb8f16e654079b",
+      "fileName": "긴급입찰사유서.hwp",
+      "extension": ".hwp",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01729358/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01729358/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01729358/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01729358-000/긴급입찰사유서.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01729358-000/converted/긴급입찰사유서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01729358-000/converted/긴급입찰사유서.pdf",
+      "pageCount": 2,
+      "textLength": 212,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "1. \n . : AI \n . : 189,850,000 ( )\n . : 2027 4 30 \n2. \n . : 35 4 4 \n 35 4 35 4 \n 20 2 \n1 2. \n \n \n \n 2 3 \n2. \n \n3. \n \n4. \n \n5. 2 3 \n \n . \n○ \n , AI · · · \n \n○ AI \n . \n , \n , , \n \n○ · \n , · \n○ \n , 35 4 4 \n \n . * : \n*",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "1. \n . : AI \n . : 189,850,000 ( )\n . : 2027 4 30 \n2. \n . : 35 4 4 \n 35 4 35 4 \n 20 2 \n1 2. \n \n \n \n 2 3 \n2. \n \n3. \n \n4. \n \n5. 2 3 \n \n . \n○ \n , AI · · · \n \n○ AI \n . \n , \n , , \n \n○ · \n , · \n○ \n , 35 4 4 \n \n . * : \n*",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "dec06d2febd9f1ec92ce66f6",
+      "fileName": "붙임1_제안요청서_수정_260911.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01729358/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01729358/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01729358/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01729358-000/붙임1_제안요청서_수정_260911.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01729358-000/converted/붙임1_제안요청서_수정_260911.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01729358-000/converted/붙임1_제안요청서_수정_260911.pdf",
+      "pageCount": 70,
+      "textLength": 13115,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI \n \n2026. 07.\n \n \n \n TEL: 042-860-4372 FAX: 042-860-4489\n \n \nI. \n1. 1\n2. 1\n3. 1\n4. 1\n5. 2\n6. 2\nII. \n1. 3\n2. 4\n3. 4\nIII. \n1. 6\n2. 7\nIV. \n1. 41\n2. 41\n3. 42\n4. 42\n5. 44\n6. 44\n7. 45\nV. \n1. 46\n2. 46\n3. 46\n4. 47\n5. 47\n[ ] 49\nI. \n1. : AI \n2. \n · · \n \n protein_pipeline , AI · · \n · · \n(https://github.com/sblabkribb/protein_pipeline)\n · UI/UX\n , \n ( ) - \n \n3. \n : 189,850,000 (VAT )\n : 120 \n : ( ), \n : 90%, 10%\n4. \n ( ): · 2 \n \n : , GPU , AI \n (RFDiffusion(RFD3), BioEmu, ProteinMPNN, SoluProt, AF2,\nColabFold, DiffDock )\n : MongoDB , , Registry, \n UI/UX: React , DAG Workflow Studio\n : GPU ( · · · ), \n AI : MCP, API / / IDE· (Backend\nPython/uv)\n5. \n protein_pipeline , run \n \n Stage DAG Workflow Studio \n · · \n Model Registry \n GPU(RunPod) · \n Backend Python/uv·Frontend React·MongoDB \nAPI(HTTP/OpenAPI, MCP) \n6. \n · · · \n \n SOTA \n \n · \n · \n \nII. \n1. \n . AI \n , , AI \n \n , , , \n \n - , \n \n . \n protein_pipeline Setup, Workflow Studio, Monitor, Analyze,\nRunPod Admin MCP / \n(https://github.com/sblabkribb/protein_pipeline)\n※ : https://rapid.kbiofoundry.kr/ ( : user :\nuser@example)\n , safe partial rerun, run , Compare Studio,\nHit List, \n , , DAG UI/UX, \n · \n . \n ,\nURL \n ID, , , Model Registry \n \n , , , · \n \n . \n , , , \n , .\n Stage DAG Workflow Studio \n · · .\n . \n GPU(RunPod) , · · \n .\n , , , \n .\n2. \n : , , , \n / : , , , · \n \n : , , , , \n : , , , , , , , \n3. \n M1 / : protein_pipeline , , · · \n \n M2 / · : (Python·React·MongoDB·uv) \n , Model Registry/DAG/ , ·API . \n , Registry, Workflow Studio, Analyze · \n \n M3 / · · : , · · , \n , . , , , , \nIII. \n1. \n \nSFR \n \n25 \nDAR , , , \n \n9 \nSER , , , , 8 \nUIR , , , 5 \nSIR MCP, HTTP API, , / \n \n5 \nPER , , 3 \nQUR , , , 2 \nTER , , , 2 \nCOR , GPU , , 3 \nPMR , , , , 5 \nPSR , , , , SW \n \n4 \n 71 \n2. \n . \n Setup, Workflow Studio, Monitor, Analyze, RunPod Admin \n .\n run_id , Compare Studio, Hit List, \n .\n / , GPU , Agent Panel \n .\n ·\n .\n . \n UI/UX DAG Workflow Studio ( , 2 \n )\n API Agent \n \n \n Model Registry \n \n / / / \n (Backend Python/uv, Frontend React, DB MongoDB) \n . (SFR)\n SFR-001\n \n \n \n \n \n protein_pipeline \n . MSA, ,\n , developability , .\n - run \n .\n , , , \n SFR-002\n Stage \n \n \n \n \n `msa -> rfd3 -> bioemu -> design -> soluprot -> af2` \n , \n .\n - , , , \n .\n , , \n SFR-003\n MSA· · \n \n \n \n \n MSA \n . tier \n .\n - MSA , , .\n MSA/ , , \n SFR-004\n \n \n \n \n PDB, RFDiffusion/RFD3, BioEmu \n , .\n - , , .\n , , \n SFR-005\n ProteinMPNN Tier \n \n \n \n ProteinMPNN tier, , , \n , tier .\n - 30/50/70 tier tier \n .\n , tier , \n SFR-006\n SoluProt 1 developability \n \n \n \n \n SoluProt developability \n 1 . \n .\n - .\n , , \n SFR-007\n AF2/ColabFold \n \n \n \n AF2 ColabFold pLDDT,\nRMSD 2 .\n - , pLDDT/RMSD , \n .\n , , \n SFR-008\n WT Diff· / \n \n \n \n WT , \n . Compare Studio tier .\n - WT , run , source .\n , , \n SFR-009\n Run \n \n \n \n run , , , , , \n . / .\n - run request, status, report, artifact \n .\n , , \n SFR-010\n Workflow Studio \n \n \n \n \n Workflow Studio , ,\ncontinue/rerun/fork . Monitor \ncheckpoint review gate .\n - Workflow Studio , , \n .\n Workflow Studio , , \n SFR-011\n DAG Workflow Studio \n \n \n \n \n Stage , , \n DAG Workflow Studio . \n .\n - , , , , / , \n .\n DAG Studio , , \n SFR-012\n Model Registry \n \n \n \n \n AI URL ID , , / , / \n / Model Registry( Model Providers \n ) . .\n - ID \n .\n Model Registry , API, UI, \n SFR-013\n MCP IDE/ \n \n \n \n \n MCP IDE, , , \n , , , . JSON-RPC HTTP \n .\n - MCP HTTP \n .\n MCP , , , \n SFR-014\n Copilot · · \n \n \n \n \n , Copilot \n . FAQ \n .\n - , , run , \n .\n Copilot , , \n SFR-015\n Compare Studio·Run Compare·Hit List \n \n \n \n \nAnalyze Compare Studio, run-to-run compare, weighted hit list, \n , . , , \n .\n - run run weighted ranking / \n .\n , hit list , \n SFR-016\n RunPod Admin GPU \n \n \n \n RunPod GPU , \n , , , .\n - , , , .\n , GPU , \n SFR-017\n Fork \n \n \n \n run fork .\n - fork run .\n fork , , \n SFR-018\n · · · \n \n \n \n , , , , \n , .\n - run , , , \n .\n / , , \n SFR-019\n · \n \n \n \n , \n .\n - , FASTA, JSON, SVG .\n , export , \n SFR-020\n Agent Panel \n \n \n \n \n MSA , SoluProt , AF2 ,\nAgent Panel · · . \n .\n - / .\n Agent Panel , , \n SFR-021\n \n \n \n \n \n ( ) \n . DiffDock , AF2-\nMultimer/ColabFold , · \n · , Stage · ·Compare·Hit\nList .\n - , \n , run · .\n , · , · , \n SFR-022\n (Job) \n \n \n \n , \n .\n - · · .\n , , \n SFR-023\n \n \n \n \n , , · \n .\n - · · .\n , , \n SFR-024\n \n \n \n \n · \n .\n - .\n , \n SFR-025\n \n \n \n \n (Project·Round·Task, Feedback ) \n .\n - · · .\n , \n . (DAR)\n DAR-001\n Run \n \n \n \n , , , run \n run .\n - run request/status/events/artifacts .\n run , \n DAR-002\n · · \n \n \n \n / , , , , , \n .\n - run .\n , API \n DAR-003\n Model Registry \n \n \n \n ID, , , , , , \n Registry .\n - · · .\n Registry , \n DAR-004\n \n \n \n \n PDB, FASTA, JSON, SVG, , , \n · · · .\n - , , .\n , \n DAR-005\n · · · \n \n \n \n Hit list, run comparison, , \n .\n - · · .\n / , \n DAR-006\n AI \n \n \n \n surrogate model ranking model \n .\n - run .\n , \n DAR-007\n \n \n \n \n protein_pipeline outputs \n .\n - run .\n , , \n DAR-008\n · \n \n \n \n , , , \n .\n - .\n , \n DAR-009\n MongoDB · \n \n \n \n MongoDB run·artifact \n · .\n - runs + artifacts · · .\n , \n . (SER)\n SER-001\n (RBAC)\n \n \n \n , , , ·run· \n .\n - , , .\n , \n SER-002\n OIDC/SSO \n \n \n \n OIDC/SSO , \n .\n - , , , .\n , \n SER-003\n \n \n \n \n · · at-rest \n .\n - .\n , \n SER-004\n \n \n \n \n UI, HTTP API, MCP, TLS \n .\n - .\n , \n SER-005\n · · \n \n \n \n RunPod API , , , · · \n .\n - , , .\n , \n SER-006\n \n \n \n \n , \n .\n - , , .\n , \n SER-007\n \n \n \n \n , , , , , \n .\n - · · .\n , \n SER-008\n \n \n \n \n , , \n .\n - .\n , , \n . (UIR)\n UIR-001\n \n \n \n \n Setup, Workflow Studio, Monitor, Analyze, RunPod Admin \n .\n - .\n , , UI \n UIR-002\n Workflow Studio DAG Studio \n \n \n \n Workflow Studio DAG Studio , \n .\n - , , UX .\n UI/UX , , \n UIR-003\n Copilot \n \n \n \n Copilot run , , , , \n .\n - , , .\n Copilot , \n UIR-004\n 3D · · \n \n \n \n , , , \n .\n - / / .\n , \n UIR-005\n React UI/UX \n \n \n \n React · \nUI/UX .\n - .\n , UI/UX \n . (SIR)\n SIR-001\n MCP JSON-RPC \n \n \n \n , , run MCP JSON-RPC \n .\n - MCP · · .\n MCP , \n SIR-002\n HTTP Tool API OpenAPI \n \n \n \n HTTP tool API OpenAPI ,\n · .\n - HTTP .\n OpenAPI , , API \n SIR-003\n Model Registry API\n \n \n \n ID, , , \nAPI .\n - ID / .\n API, , \n SIR-004\n \n \n \n \n RunPod, GPU, , \n .\n - .\n , , \n SIR-005\n AI· API \n \n \n \n AI· API(HTTP/OpenAPI, MCP) \n · .\n - AI· API · .\n API , , \n . (PER)\n PER-001\n \n \n \n \n ( , \n ) 50 3 .\n - ( 50 , 30 ) 3 \n .\n , \n PER-002\n \n \n \n \n \n \n . 50%\n .\n - 50% .\n , \n PER-003\n \n \n \n \n \n , , Monitor/Analyze · , \n run(500MB ) 10 , 30 \n .\n - run 10 , 30 \n .\n , \n . (QUR)\n QUR-001\n · · \n \n \n \n / , , , \n .\n - .\n / / , \n QUR-002\n · · \n \n \n \n , , , , \n .\n - .\n , \n . (TER)\n TER-001\n · · \n \n \n \n , API, , , · · \n .\n - .\n , , \n TER-002\n \n \n \n \n , , , rerun \n .\n - , , fork, rollback .\n , \n . (COR)\n COR-001\n ·GPU \n \n \n \n , , , GPU , CUDA \n .\n - .\n , \n COR-002\n · · \n \n \n \n , , , · \n .\n - .\n , \n COR-003\n \n \n \n \n Backend Python/uv, Frontend React, DB MongoDB \n · .\n - .\n , \n . (PMR)\n PMR-001\n \n \n \n \n · · .\n - .\n , \n PMR-002\n \n \n \n \n , , , , , , \n .\n - .\n , \n PMR-003\n · · \n \n \n \n , , , \n .\n - .\n , \n PMR-004\n \n \n \n \n , , , \n .\n - / / .\n , \n PMR-005\n \n \n \n \n / / \n .\n - .\n , \n . (PSR)\n PSR-001\n · \n \n \n \n , , , .\n - .\n , , \n PSR-002\n · · \n \n \n \n \n .\n \n- , , .\n- : ( \n ) 1 \n , \n PSR-003\n · · \n \n \n \n , , , , , Workflow \n .\n - / .\n , , \n PSR-004\n SW \n \n \n \n SW \n \n- / .\n- 46 SW (SW \n ) \n- SW www.spir.kr ‘SW \n ’ \n- SW \n \n- SW \n \n SW \nIV. \n1. \n 12 \n \n 58 53 , 17 \n ( , : 1468) \n( ) \n 48 2 \n , \n \n 2 \n 2 , \n · \n- · \n \n 9 ( \n , : 8111159901) \n- \n \n 27 76 \n \n , GPU(RunPod) \n2. \n protein_pipeline , \n .\n (Model Registry) (DAG Studio) \n .\n , , , , , .\n · · .\n 51 \n .\n , \n \n \n .\n , 5 \n .\n 10% , \n .\n \n ( ) .\n3. \n ( ) 49 1 , \n44 1 .\n \n- : (90%), (10%)\n- (90 ) (10 ) .\n- (90 ) 85% .\n \n .\n .\n4. \n , \n 90 , 10 .\n ( ) \n .\n< >\n \n \n(10)\n , 5\n · · 5\n \n(20)\n \n \n , · 10\n Registry, DAG, MCP · · 10\n \n \n(20)\n Model Registry · · 10\n \n \n DAG · · · 10\n \n(15)\n Copilot, Compare/Report 8\nUI/UX UI/UX, · 7\n · · \n(15)\n SSO, RBAC, 8\n · , · , 7\n \n(10)\n · · · , · \n \n5\n , , 5\n 90\n5. \n .\n , \n .\n \n 85% , \n .\n ( ) 7 6 \n .\n6. \n 6 ․ \n , ( ) \n .\n \n , 3 , \n .\n 2 , \n , \n .\n \n , \n .\n , \n , .\n · \n . , \n .\n7. \n , , \n .\n .\n \n .\n .\n8. \n .\n , , , .\n , , .\n \n 6 2 300MB .\n9. ( )\n : , , , .\n : protein_pipeline .\n : , , , · \n .\n : , , , , .\n : , , , .\nV. \n1. \n \n , .\n2. \n SW ( , , ) \n , GPU , , \n \n \n3. \n 35 2 56 \n , \n . , \n .\n · \n , \n 57 .\n SW , \n 4 \nSW . \n- SW , \n , [ 2 ] \n \n- SW 3 \n \n- SW \n 76 1 3 \n 92 1 19 \n 56 4 \n .\n4. \n · \n , , · \n , \n · · · · · · \n \n5. \n 2 .\n , \n .\nVI. \n1. \n 50 \n ( 5 )\n 50 , 47 1 2 , 3 \n · , \n * \n , \n * 13 \n2. SW \n 45 ‘ \n ’ 10 ( \n 7 )\n3. SW \n 43 , 35 37 , \n 5 , 6 \n ( 6 )\n[ ] \n[ 1] \n SFR-001: \n SFR-002: Stage \n SFR-003: MSA· · \n SFR-004: \n SFR-005: ProteinMPNN Tier \n SFR-006: SoluProt 1 developability \n SFR-007: AF2/ColabFold \n SFR-008: WT Diff· / \n SFR-009: Run \n SFR-010: Workflow Studio \n SFR-011: DAG Workflow Studio \n SFR-012: Model Registry \n SFR-013: MCP IDE/ \n SFR-014: Copilot · · \n SFR-015: Compare Studio·Run Compare·Hit List \n SFR-016: RunPod Admin GPU \n SFR-017: Fork \n SFR-018: · · · \n SFR-019: · \n SFR-020: Agent Panel \n SFR-021: \n SFR-022: (Job) \n SFR-023: \n SFR-024: \n SFR-025: \n DAR-009: MongoDB · \n UIR-005: React UI/UX \n SIR-005: AI· API \n COR-003: \n DAR-001: Run \n DAR-002: · · \n DAR-003: Model Registry \n DAR-004: \n DAR-005: · · · \n DAR-006: AI \n DAR-007: \n DAR-008: · \n SER-001: (RBAC)\n SER-002: OIDC/SSO \n SER-003: \n SER-004: \n SER-005: · · \n SER-006: \n SER-007: \n SER-008: \n UIR-001: \n UIR-002: Workflow Studio DAG Studio \n UIR-003: Copilot \n UIR-004: 3D · · \n SIR-001: MCP JSON-RPC \n SIR-002: HTTP Tool API OpenAPI \n SIR-003: Model Registry API\n SIR-004: \n PER-001: \n PER-002: \n PER-003: \n QUR-001: · · \n QUR-002: · · \n TER-001: · · \n TER-002: \n COR-001: ·GPU \n COR-002: · · \n PMR-001: \n PMR-002: \n PMR-003: · · \n PMR-004: \n PMR-005: \n PSR-001: · \n PSR-002: · · \n PSR-003: · · \n PSR-004: SW \n[ 2] \n \n , , \n , Registry, Workflow Studio, Analyze, Copilot, \n , , / \n / / / / \n , , , \n \n[ 1 ]\n \n \n .\n1. \n .\n2. \n .\n3. \n .\n . 4 1 2 5 ( )\n . 99 ( ) 127 ( )\n . 9 ( ) 13 ( )\n \n \n \n \n \n \n[ 2 ]\n \n❍ :\n❍ :\n❍ :\n \n , . , ,\n \n .\n \n :\n : ( )\n :\n : ( ) ( )\n \n[ 3 ]\n \n※ : ( ), ( , ‘14.9 ) \n1. \n \n , .\n , , , , \n ‘ ’ , \n 76 \n .\n< >\n① IP \n② \n③ \n④ · \n⑤ \n( )\n⑥ \n⑦ (IPS) \n⑧ ‘ ’ 9 1 \n⑨ ‘ ’ 2 1 \n⑩ ‘ ’ 4 , 7 3 \n⑪ ( , \n )\n ( ) \n , [ 4 ] \n .\n , ( , ) \n , \n .\n※ , \n2. \n .\n [ 1 ] , .\n , ( ) \n .\n3. \n ․ ․ \n .\n PC ( \n ) ․ , \n .\n ․\n , .\n ( ) , \n .\n ․P2P \n ․ \n .\n※ , \n ․ , PC \n ( ) , \n [ 2 ] .\n※ ․ ( ) .\n4. ․ \n ( ) CCTV․ \n .\n 1 , \n .\n \n .\n PC 1 “ PC ” \n .\n S/W , , \n .\n (USB, CD/DVD, , PC,\nMP3 ) , 1 \n ․ .\n※ CD-RW PC .\n ( ) ․ , \n , ․ \n .\n※ PC, .\n .\n※ , \n ․ .\n5. ․ \n , PC \n , . (ADSL )\n .\n PC . , \n \n .\n※ P2P, .\n \n- \n .\n- .\n- ( , , 9 ) \n .\n- , \n .\n[ 4 ]\n \n \n \n1. \n . , \n . · \n . \n2. \n . \n . \n . \n◦ \n◦ \n \n◦ \n \n◦ \n \n 1. \n . \n . \n . ․ \n . \n2. \n . \n . \n . · \n◦ \n / \n◦ \n \n◦ \n \n3. \n . , USB \n . ·P2P /\n \n . · \n . \n . PC \n . PC \n . \n . ( )\n \n1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n◦ \n \n◦ \n / \n◦ \n \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n◦ ⋅ \n \n◦ /\n \n \n . A~D \n \n \nA B C D \n 1 1 2 3 \n \n 76 \n \n500 300 100 \n※ \n . , \n※ 1 \n . \n[ 5 ]\n※ \n[ 6 ]\n\n※ \n[ 7 ]\n\n※ \n[ 8 ]\n■ [ 1 ]\n[V] , [ ] \n AI \n 2026.08.14\n◇ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( ) ( )\n ( ) ( )\n ( ) ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n◇ \n \n / / \n \n \n \n \n \n \n , , \n .\nV\n \n \n \n 2.2 V\n V \n V\n UI/UX V\n \n \n \n- HTML 4.01/HTML 5, CSS 2.1 / CSS 3 V\n- XHTML 1.0 V\n- XML 1.0, XSL 1.0, XSLT 2.0 V\n- ECMAScript 14th V\n \n- 1.0\n(KICS.KO-10.0307) V \n- 2.0\n(KSX3253:2016) V \n \n \n (KS X ISO/IEC 20000)/ ITIL v3, v4 V\n \n \n \n \n \n \nIPv4 V\nIPv6 V\n◇ \n \n / / \n \n \n \n \n \n , \n \n .\nV\n \n \n \n- SOAP 1.2, WSDL 2.0, XML 1.0 V\n- RESTful V\n \n- UML 2.X / BPMN 2.X V\n- ebXML/BPEL/XPDL V\n : XML 1.0, JSON V\n : RESTful API, WSDL 2.0 V\n◇ \n / / \n \n \n \n \n \n \n \n IPv4 IPv6 \n .\nV \n \n , \n \n .\nV\n \n \n \n \n \n : H.320~H.324, H.310 V , , \n \n : VoIP\n- H.323 V , , \n \n- SIP V , , \n \n- Megaco(H.248) V , , \n \n \n \n ( ) \n- POSIX.0 V\n- UNIX V\n- Windows Server V\n- Linux V\n \n- android V \n \n- IOS V \n \n \n DBMS\n- RDBMS V\nMongoDB \n \n \n- ORDBMS V\nMongoDB \n \n \n- OODBMS V\nMongoDB \n \n \n- MMDBMS V\nMongoDB \n \n \n- TSDBMS V\nMongoDB \n \n \n ITIL v3, v4 / ISO20000 V \n \n \n : V\n \n \n \n \n \n IaaS V\n \n \n \n \n PaaS V\n \n \n \n \n SaaS V\n \n \n \n \n◇ \n \n / / \n \n \n \n \n \n \n . V\n , , , ,\n .\nV\n ( 2 6 ) \n , \n , \n .\nV\n , \n , \n \n .\nV \n \n \n .\nV \n \n \n \n \n \n \nV\n \n : HTML 4.01 / HTML 5 V\n \n- JSP 2.x V\n- ASP.net V\n- PHP V\n- ( React ) V\n \n \n- C V\n- C++ V\n- Java V\n- C# V\n- ( Python ) V\n \n- XMI 2.0 / XMI 3.2 V\n- SOAP 1.2 V\n- API V\n \n- EUC-KR V\n- UTF-8( , UTF-8 ) V\n◇ \n \n / \n / \n \n \n \n \n \n \n \n \n \n \n . “ ”, “ \n ”, “ ” “ ” .\nV\n \n .\nV\n \n .\nV\n \n \n \n V\n ( ) V\n ( ) V\n \n \n \n \n \n \n ( )\n- PKI V \n \n- SSO ( CC ) V \n \n- V \n \n- (DRM)( CC ) V \n \n- V \n \n- V \n \n- V \n \n- DB ( CC ) V \n \n- (8 ) V \n \n- V \n \n CC ( CC )\n- ( ) V \n \n- ( ) ( ) V \n \n- ( ) V \n \n- V \n \n- DDos ( ) V \n \n- V \n \n- V \n \n- V \n \n- ( ) V \n \n- V \n \n- (2022.1 ) V \n \n- ( ) V \n \n- V \n \n- V \n \n- V \n \n- DB V \n \n- V \n \n- ( \n ) V \n \n- ( ) V \n \n- V \n \n- USB(2020.1.1 , \n ) V \n \n- (2021.1.1 , , \n ) V \n \n- (2021.1.1 ) V \n \n- CC V \n \n \n- USB( ) V \n \n- ( , \n ) V \n \n- V \n \n- V \n \n- (L3 ) V \n \n- V \n \n ( · ) \n- · ( ) V \n \n- V \n \n \n- (CSAP) V \n \n- V \n \n \n \n \n \n- V\n- V\n- V\n- V\n- V\n- V\n- V\n- V\n- V\n \n- V\n- ( ) V\n- ( ) V\n- V\n※ “ ”",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "AI \n \n2026. 07.\n \n \n \n TEL: 042-860-4372 FAX: 042-860-4489\n \n \nI. \n1. 1\n2. 1\n3. 1\n4. 1\n5. 2\n6. 2\nII. \n1. 3\n2. 4\n3. 4\nIII. \n1. 6\n2. 7\nIV. \n1. 41\n2. 41\n3. 42\n4. 42\n5. 44\n6. 44\n7. 45\nV. \n1. 46\n2. 46\n3. 46\n4. 47\n5. 47\n[ ] 49\nI. \n1. : AI \n2. \n · · \n \n protein_pipeline , AI · · \n · · \n(https://github.com/sblabkribb/protein_pipeline)\n · UI/UX\n , \n ( ) - \n \n3. \n : 1...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "1. \n . : AI \n . : 189,850,000 ( )\n . : 2027 4 30 \n2. \n . : 35 4 4 \n 35 4 35 4 \n 20 2 \n1 2. \n \n \n \n 2 3 \n2. \n \n3. \n \n4. \n \n5. 2 3 \n \n . \n○ \n , AI · · · \n \n○ AI \n . \n , \n , , \n \n○ · \n , · \n○ \n , 35 4 4 \n \n . * : \n*",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01729358-000",
+    "sourceFile": "긴급입찰사유서.hwp",
+    "generatedAt": "2026-09-21T13:02:57.193553",
+    "match": {
+      "noticeId": "R26BK01729358-000",
+      "bidNtceNo": "R26BK01729358",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01729358-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01729358-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01729358-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "USB(2020.1.1, ) V - (2021.1.1,, ) V - (2021.1.1 ) V - CC V - USB( ) V - (, ) V - V - V - (L3 ) V - V ( · ) - · ( ) V - V - (CSAP) V - V - V - V - V - V - V - V - V - V - V - V - ( ) V - ( ) V - V ※",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "SFR-001",
+          "requirement": ". (SFR",
+          "name": ". (SFR",
+          "detail": "protein_pipeline . MSA, , , developability , . - run",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-002",
+          "requirement": ", , ,",
+          "name": ", , ,",
+          "detail": "Stage `msa -> rfd3 -> bioemu -> design -> soluprot -> af2` , .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-003",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "MSA· · MSA . tier .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-004",
+          "requirement": "MSA/ , ,",
+          "name": "MSA/ , ,",
+          "detail": "PDB, RFDiffusion/RFD3, BioEmu , .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-005",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "ProteinMPNN Tier ProteinMPNN tier, , , , tier . - 30/50/70 tier tier",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-006",
+          "requirement": ", tier ,",
+          "name": ", tier ,",
+          "detail": "SoluProt 1 developability SoluProt developability 1 . .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-007",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "AF2/ColabFold AF2 ColabFold pLDDT, RMSD 2 . - , pLDDT/RMSD ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-008",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "WT Diff· / WT , . Compare Studio tier .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-009",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "Run run , , , , , . / . - run request, status, report, artifact",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-010",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "Workflow Studio Workflow Studio , , continue/rerun/fork . Monitor checkpoint review gate . - Workflow Studio , ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-011",
+          "requirement": "Workflow Studio , ,",
+          "name": "Workflow Studio , ,",
+          "detail": "DAG Workflow Studio Stage , , DAG Workflow Studio . . - , , , , / ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-012",
+          "requirement": "DAG Studio , ,",
+          "name": "DAG Studio , ,",
+          "detail": "Model Registry AI URL ID , , / , / / Model Registry( Model Providers ) . .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-013",
+          "requirement": "Model Registry , API, UI,",
+          "name": "Model Registry , API, UI,",
+          "detail": "MCP IDE/ MCP IDE, , , , , , . JSON-RPC HTTP . - MCP HTTP",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-014",
+          "requirement": "MCP , , ,",
+          "name": "MCP , , ,",
+          "detail": "Copilot · · , Copilot . FAQ . - , , run ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-015",
+          "requirement": "Copilot , ,",
+          "name": "Copilot , ,",
+          "detail": "Compare Studio·Run Compare·Hit List Analyze Compare Studio, run-to-run compare, weighted hit list, , . , , . - run run weighted ranking /",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-016",
+          "requirement": ", hit list ,",
+          "name": ", hit list ,",
+          "detail": "RunPod Admin GPU RunPod GPU , , , , .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-017",
+          "requirement": ", GPU ,",
+          "name": ", GPU ,",
+          "detail": "Fork run fork .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-018",
+          "requirement": "fork , ,",
+          "name": "fork , ,",
+          "detail": "· · · , , , , , . - run , , ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-019",
+          "requirement": "/ , ,",
+          "name": "/ , ,",
+          "detail": "· , .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-020",
+          "requirement": ", export ,",
+          "name": ", export ,",
+          "detail": "Agent Panel MSA , SoluProt , AF2 , Agent Panel · · . .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-021",
+          "requirement": "Agent Panel , ,",
+          "name": "Agent Panel , ,",
+          "detail": ". DiffDock , AF2- Multimer/ColabFold , · · , Stage · ·Compare·Hit List . - ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-022",
+          "requirement": ",",
+          "name": ",",
+          "detail": "(Job) .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-023",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "· .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-024",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "· .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-025",
+          "requirement": ",",
+          "name": ",",
+          "detail": "(Project·Round·Task, Feedback ) . - · · .",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-001",
+          "requirement": ". (DAR",
+          "name": ". (DAR",
+          "detail": "Run , , , run run .",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-002",
+          "requirement": "run ,",
+          "name": "run ,",
+          "detail": "· · / , , , , , .",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-003",
+          "requirement": ", API",
+          "name": ", API",
+          "detail": "Model Registry ID, , , , , , Registry .",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-004",
+          "requirement": "Registry ,",
+          "name": "Registry ,",
+          "detail": "PDB, FASTA, JSON, SVG, , , · · · .",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-005",
+          "requirement": ",",
+          "name": ",",
+          "detail": "· · · Hit list, run comparison, , .",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-006",
+          "requirement": "/ ,",
+          "name": "/ ,",
+          "detail": "AI surrogate model ranking model .",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-007",
+          "requirement": ",",
+          "name": ",",
+          "detail": "protein_pipeline outputs .",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-008",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "· , , , .",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-009",
+          "requirement": ",",
+          "name": ",",
+          "detail": "MongoDB · MongoDB run·artifact · . - runs + artifacts · · .",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": ". (SER",
+          "name": ". (SER",
+          "detail": "(RBAC) , , , ·run· .",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": "OIDC/SSO OIDC/SSO , .",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": ",",
+          "name": ",",
+          "detail": "· · at-rest .",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": ",",
+          "name": ",",
+          "detail": "UI, HTTP API, MCP, TLS .",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-005",
+          "requirement": ",",
+          "name": ",",
+          "detail": "· · RunPod API , , , · · .",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-006",
+          "requirement": ",",
+          "name": ",",
+          "detail": ".",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-007",
+          "requirement": ",",
+          "name": ",",
+          "detail": ", , , , .",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-008",
+          "requirement": ",",
+          "name": ",",
+          "detail": ", . - . , , . (UIR) UIR-001 Setup, Workflow Studio, Monitor, Analyze, RunPod Admin",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-001",
+          "requirement": ". (PER",
+          "name": ". (PER",
+          "detail": "( , ) 50 3 . - ( 50 , 30 ) 3",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": ". 50% .",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-003",
+          "requirement": ",",
+          "name": ",",
+          "detail": ", Monitor/Analyze · , run(500MB ) 10 , 30 . - run 10 , 30 .",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": ". (QUR",
+          "name": ". (QUR",
+          "detail": "· · / , , , .",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": "/ / ,",
+          "name": "/ / ,",
+          "detail": "· · , , , , . - .",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-001",
+          "requirement": ". (TER",
+          "name": ". (TER",
+          "detail": "· · , API, , , · · .",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-002",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": ", rerun . - , , fork, rollback .",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": ". (COR",
+          "name": ". (COR",
+          "detail": "·GPU , , , GPU , CUDA .",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": "· · , , , · .",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-003",
+          "requirement": ",",
+          "name": ",",
+          "detail": "Backend Python/uv, Frontend React, DB MongoDB · . - .",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": ". (PMR",
+          "name": ". (PMR",
+          "detail": "· · .",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": ", , , , , .",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": ",",
+          "name": ",",
+          "detail": "· · , , , .",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-004",
+          "requirement": ",",
+          "name": ",",
+          "detail": ", , .",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-005",
+          "requirement": ",",
+          "name": ",",
+          "detail": "/ / . - .",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": ". (PSR",
+          "name": ". (PSR",
+          "detail": "· , , , .",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "· · . - , , .",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-003",
+          "requirement": ",",
+          "name": ",",
+          "detail": "· · , , , , , Workflow .",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-004",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "SW SW - / . - 46 SW (SW - SW www.spir.kr ‘SW ’",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [
+        {
+          "title": "일정 리스크",
+          "detail": "긴급입찰사유서.hwp]",
+          "severity": "확인"
+        }
+      ],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01729358-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ", CD/DVD, , PC,\nMP3 ) , 1 \n ․ .\n※ CD-RW PC .\n ( ) ․ , \n , ․ \n .\n※ PC, .\n .\n※ , \n ․ .\n5. ․ \n , PC \n , . (ADSL )\n .\n PC .",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "명시적인 배점표 확인 필요",
+      "items": [],
+      "totals": {
+        "score": 0,
+        "weight": 0,
+        "gradeA": 0,
+        "gradeB": 0,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01729358-000",
+    "generatedAt": "2026-09-21T13:03:18.598873",
+    "sourceAnalysisAt": "2026-09-21T13:02:57.193553",
+    "projectName": "",
+    "sourceFile": "붙임1_제안요청서_수정_260911.hwp",
+    "requirementSourceFiles": [
+      "붙임1_제안요청서_수정_260911.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "SFR-001",
+        "name": "protein_pipeline",
+        "detail": ". MSA, , , developability , . run . , , ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-002",
+        "name": "Stage",
+        "detail": "`msa -> rfd3 -> bioemu -> design -> soluprot -> af2` , . , , , .",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-003",
+        "name": "MSA",
+        "detail": "· · MSA . tier . MSA , , . MSA/ , ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-004",
+        "name": "PDB, RFDiffusion/RFD3, BioEmu",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-005",
+        "name": "ProteinMPNN Tier",
+        "detail": "ProteinMPNN tier, , , , tier . 30/50/70 tier tier . , tier ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-006",
+        "name": "SoluProt 1 developability",
+        "detail": "SoluProt developability 1 . . . , ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-007",
+        "name": "AF2/ColabFold",
+        "detail": "AF2 ColabFold pLDDT, RMSD 2 . , pLDDT/RMSD , . , ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-008",
+        "name": "WT Diff",
+        "detail": "· / WT , . Compare Studio tier . WT , run , source . , ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-009",
+        "name": "Run",
+        "detail": "run , , , , , . / . run request, status, report, artifact . , ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-010",
+        "name": "Workflow Studio",
+        "detail": "Workflow Studio , , continue/rerun/fork . Monitor checkpoint review gate . Workflow Studio , , .",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-011",
+        "name": "DAG Workflow Studio",
+        "detail": "Stage , , DAG Workflow Studio . . , , , , / , .",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-012",
+        "name": "Model Registry",
+        "detail": "AI URL ID , , / , / / Model Registry( Model Providers ) . . ID .",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-013",
+        "name": "MCP IDE/",
+        "detail": "MCP IDE, , , , , , . JSON-RPC HTTP . MCP HTTP .",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-014",
+        "name": "Copilot",
+        "detail": "· · , Copilot . FAQ . , , run , .",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-015",
+        "name": "Compare Studio",
+        "detail": "·Run Compare·Hit List Analyze Compare Studio, run-to-run compare, weighted hit list, , . , , . run run weighted ranking / .",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-016",
+        "name": "RunPod Admin GPU",
+        "detail": "RunPod GPU , , , , . , , , . , GPU ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-017",
+        "name": "Fork",
+        "detail": "run fork . fork run . fork , ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-018",
+        "name": "· · ·",
+        "detail": ", , , , , . run , , , . / , ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-019",
+        "name": "·",
+        "detail": ", . , FASTA, JSON, SVG . , export ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-020",
+        "name": "Agent Panel",
+        "detail": "MSA , SoluProt , AF2 , Agent Panel · · . . / . Agent Panel , ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-021",
+        "name": "( )",
+        "detail": ". DiffDock , AF2 Multimer/ColabFold , · · , Stage · ·Compare·Hit List . ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-022",
+        "name": "(Job)",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-023",
+        "name": ", ,",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-024",
+        "name": "·",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-025",
+        "name": "(Project",
+        "detail": "·Round·Task, Feedback ) . · · . , . (DAR)",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-001",
+        "name": "Run",
+        "detail": ", , , run run . run request/status/events/artifacts . run ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-002",
+        "name": "· ·",
+        "detail": "/ , , , , , . run . , API",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-003",
+        "name": "Model Registry",
+        "detail": "ID, , , , , , Registry . · · . Registry ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-004",
+        "name": "PDB, FASTA, JSON, SVG, , ,",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-005",
+        "name": "· · ·",
+        "detail": "Hit list, run comparison, , . · · . / ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-006",
+        "name": "AI",
+        "detail": "surrogate model ranking model . run . ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-007",
+        "name": "protein_pipeline outputs",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-008",
+        "name": "·",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-009",
+        "name": "MongoDB",
+        "detail": "· MongoDB run·artifact · . runs + artifacts · · . , . (SER)",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "(RBAC)",
+        "detail": ", , , ·run· . , , . ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "OIDC/SSO",
+        "detail": "OIDC/SSO , . , , , . ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "at-rest",
+        "detail": "· · at-rest . . ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "UI, HTTP API, MCP, TLS",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-005",
+        "name": "· ·",
+        "detail": "RunPod API , , , · · . , , . ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-006",
+        "name": ",",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-007",
+        "name": ", , , , ,",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-008",
+        "name": ", ,",
+        "detail": "UIR-002: Workflow Studio DAG Studio UIR-003: Copilot UIR-004: 3D · ·",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-001",
+        "name": "MCP JSON-RPC",
+        "detail": ", , run MCP JSON-RPC . MCP · · . MCP ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-002",
+        "name": "HTTP Tool API OpenAPI",
+        "detail": "HTTP tool API OpenAPI , · . HTTP . OpenAPI , , API",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-003",
+        "name": "Model Registry API",
+        "detail": "ID, , , API . ID / . API, ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-004",
+        "name": "RunPod, GPU, ,",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-005",
+        "name": "AI",
+        "detail": "· API AI· API(HTTP/OpenAPI, MCP) · . AI· API · . API , , . (PER)",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-001",
+        "name": "( ,",
+        "detail": ") 50 3 . ( 50 , 30 ) 3 . ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-002",
+        "name": ". 50%",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-003",
+        "name": ", , Monitor/Analyze",
+        "detail": "· , run(500MB ) 10 , 30 . run 10 , 30 . ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "· ·",
+        "detail": "/ , , , . . / / ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": "· ·",
+        "detail": ", , , , . . , . (TER)",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-001",
+        "name": "· ·",
+        "detail": ", API, , , · · . . , ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-002",
+        "name": ", , , rerun",
+        "detail": ". , , fork, rollback . , . (COR)",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": "GPU",
+        "detail": "·GPU , , , GPU , CUDA . . ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": "· ·",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-003",
+        "name": "Backend Python/uv, Frontend React, DB MongoDB",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": ".",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": ", , , , , ,",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "· ·",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-004",
+        "name": ", , ,",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-005",
+        "name": "/ /",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "·",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": "· ·",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-003",
+        "name": "· ·",
+        "detail": ", , , , , Workflow . / . , ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-004",
+        "name": "SW",
+        "detail": "[ 2] , , , Registry, Workflow Studio, Analyze, Copilot, , , / / / / / , , ,",
+        "source": "붙임1_제안요청서_수정_260911.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "배점표 확인 필요",
+        "score": 0,
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 4,
+        "mappedRequirementCodes": [
+          "SFR-001",
+          "SFR-002",
+          "SFR-003",
+          "SFR-004",
+          "SFR-005",
+          "SFR-006",
+          "SFR-007",
+          "SFR-008",
+          "SFR-009",
+          "SFR-010",
+          "SFR-011",
+          "SFR-012",
+          "SFR-013",
+          "SFR-014",
+          "SFR-015",
+          "SFR-016",
+          "SFR-017",
+          "SFR-018",
+          "SFR-019",
+          "SFR-020",
+          "SFR-021",
+          "SFR-022",
+          "SFR-023",
+          "SFR-024",
+          "SFR-025",
+          "DAR-001",
+          "DAR-002",
+          "DAR-003",
+          "DAR-004",
+          "DAR-005",
+          "DAR-006",
+          "DAR-007",
+          "DAR-008",
+          "DAR-009",
+          "SIR-001",
+          "SIR-002",
+          "SIR-003",
+          "SIR-004",
+          "SIR-005"
+        ],
+        "source": "목차 기반 추정",
+        "detail": ""
+      },
+      {
+        "scoreItem": "배점표 확인 필요",
+        "score": 0,
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 4,
+        "mappedRequirementCodes": [
+          "SER-001",
+          "SER-002",
+          "SER-003",
+          "SER-004",
+          "SER-005",
+          "SER-006",
+          "SER-007",
+          "SER-008",
+          "PER-001",
+          "PER-002",
+          "PER-003",
+          "QUR-001",
+          "QUR-002",
+          "TER-001",
+          "TER-002",
+          "COR-001",
+          "COR-002",
+          "COR-003"
+        ],
+        "source": "목차 기반 추정",
+        "detail": ""
+      },
+      {
+        "scoreItem": "배점표 확인 필요",
+        "score": 0,
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 4,
+        "mappedRequirementCodes": [
+          "PMR-001",
+          "PMR-002",
+          "PMR-003",
+          "PMR-004",
+          "PMR-005"
+        ],
+        "source": "목차 기반 추정",
+        "detail": ""
+      },
+      {
+        "scoreItem": "배점표 확인 필요",
+        "score": 0,
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 4,
+        "mappedRequirementCodes": [
+          "PSR-001",
+          "PSR-002",
+          "PSR-003",
+          "PSR-004"
+        ],
+        "source": "목차 기반 추정",
+        "detail": ""
+      }
+    ],
+    "scoringSource": "배점표 확인 필요",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "SFR-001",
+              "SFR-002",
+              "SFR-003",
+              "SFR-004",
+              "SFR-005",
+              "SFR-006",
+              "SFR-007",
+              "SFR-008",
+              "SFR-009",
+              "SFR-010",
+              "SFR-011",
+              "SFR-012",
+              "SFR-013",
+              "SFR-014",
+              "SFR-015",
+              "SFR-016",
+              "SFR-017",
+              "SFR-018",
+              "SFR-019",
+              "SFR-020",
+              "SFR-021",
+              "SFR-022",
+              "SFR-023",
+              "SFR-024",
+              "SFR-025",
+              "DAR-001",
+              "DAR-002",
+              "DAR-003",
+              "DAR-004",
+              "DAR-005",
+              "DAR-006",
+              "DAR-007",
+              "DAR-008",
+              "DAR-009",
+              "SIR-001",
+              "SIR-002",
+              "SIR-003",
+              "SIR-004",
+              "SIR-005"
+            ],
+            "recommendedPages": 4
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "SER-005",
+              "SER-006",
+              "SER-007",
+              "SER-008",
+              "PER-001",
+              "PER-002",
+              "PER-003",
+              "QUR-001",
+              "QUR-002",
+              "TER-001",
+              "TER-002",
+              "COR-001",
+              "COR-002",
+              "COR-003"
+            ],
+            "recommendedPages": 4
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-001",
+              "PMR-002",
+              "PMR-003",
+              "PMR-004",
+              "PMR-005"
+            ],
+            "recommendedPages": 4
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-001",
+              "PSR-002",
+              "PSR-003",
+              "PSR-004"
+            ],
+            "recommendedPages": 4
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 66,
+      "mappedRequirements": 66,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01721618",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-14T12:53:05.954173",
+  "analyzedAt": "2026-09-21T13:09:49.854325",
   "status": "completed",
   "source": {
     "fileName": "공고서류 (1).zip",
@@ -91,7 +91,7 @@
   "proposalSheets": {
     "id": "R26BK01721618-000",
     "sourceFile": "공고서류 (1).zip",
-    "generatedAt": "2026-09-14T12:53:05.933331",
+    "generatedAt": "2026-09-21T13:09:49.852655",
     "match": {
       "noticeId": "R26BK01721618-000",
       "bidNtceNo": "R26BK01721618",
@@ -387,8 +387,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01721618-000",
-    "generatedAt": "2026-09-14T12:53:05.954152",
-    "sourceAnalysisAt": "2026-09-14T12:53:05.933331",
+    "generatedAt": "2026-09-21T13:09:49.854315",
+    "sourceAnalysisAt": "2026-09-21T13:09:49.852655",
     "projectName": "",
     "sourceFile": "공고서류 (1).zip",
     "requirementSourceFiles": [
