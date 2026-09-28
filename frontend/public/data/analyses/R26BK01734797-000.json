@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01734797",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-21T12:52:36.867810",
+  "analyzedAt": "2026-09-28T13:14:16.925405",
   "status": "completed",
   "source": {
     "fileName": "26.08.24 물품구매규격서_GPU.hwp",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01734797-000",
     "sourceFile": "26.08.24 물품구매규격서_GPU.hwp",
-    "generatedAt": "2026-09-21T12:52:35.122491",
+    "generatedAt": "2026-09-28T13:14:13.999500",
     "match": {
       "noticeId": "R26BK01734797-000",
       "bidNtceNo": "R26BK01734797",
@@ -645,8 +645,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01734797-000",
-    "generatedAt": "2026-09-21T12:52:36.867787",
-    "sourceAnalysisAt": "2026-09-21T12:52:35.122491",
+    "generatedAt": "2026-09-28T13:14:16.925382",
+    "sourceAnalysisAt": "2026-09-28T13:14:13.999500",
     "projectName": "2026학년도 한국체육대학교 국립대학육성사업 스포츠AI·빅데이터 연구 및 교육 인프라 구축 (GPU 서버 인프라 및 운영 플랫폼 구축 운영)",
     "sourceFile": "26.08.24 제안요청서_2026학년도 한국체육대학교 국립대학육성사업 스포츠 AI ·빅데이터 연구 및 교육 전용 통합 인프라 구축(GPU 서버 인프라 및 운영 플랫폼 고도화).hwpx",
     "requirementSourceFiles": [

@@ -1,0 +1,1160 @@
+{
+  "bidNtceNo": "R26BK01739258",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-09-28T13:18:38.219619",
+  "status": "completed",
+  "source": {
+    "fileName": "2. 제안요청서.hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01739258-000/2. 제안요청서.hwp",
+    "pageCount": 107,
+    "textLength": 27996,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "2. 제안요청서.hwp",
+      "extension": ".hwp",
+      "size": 1104384,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "9ad9ffd1b8d303a2ee2e79aa",
+      "fileName": "2. 제안요청서.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01739258/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01739258/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01739258/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01739258-000/2. 제안요청서.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01739258-000/converted/2. 제안요청서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01739258-000/converted/2. 제안요청서.pdf",
+      "pageCount": 107,
+      "textLength": 27996,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "2026. 09.\n ,\n \n \n< >\nⅠ . \n1. 1\n2. 2\n3. 6\n4. 15\nⅡ . \n1. 47\n2. 48\n3. 48\n4. 50\nⅢ . \n1. 52\n2. 55\n3. 61\nⅣ . \n1. 65\n2. 73\n[ 1 ] 74\n[ 2 ] 75\n[ 2-2 ] 77\n[ 3 ] 78\n[ 3-2 ] 80\n[ 4 ] 81\n[ 4-2 ] KOICA ( ) 82\n[ 5 ] 83\n[ 6 ] 85\n[ 7 ] 86\n[ 8 ] 87\n[ 8-2 ] 88\n[ 9 ] 89\n[ 10 ] 90\n[ 11 ] 96\n[ 11-2 ] 97\n[ 11-3 ] ( ) 99\n[ 12 ] 101\n[ 13 ] 101\n[ 14 ] 103\n[ 15 ] 104\n[ 16 ] 105\n[ 17 ] 108\n[ ] \n[ ] * \n \nAI Artificial Intelligence (AI) • · · \n \nAPI Application\nProgramming Interface\n \n (API)\n• \n \ne-SUD Electronic Judicial\nInformation System\n (e-\nSUD)\n• \nF/S Feasibility Study (F/S) • \nIPM Integrated Project\nManagement System\n \n(IPM)\n• \n \nLLM Large Language Model (LLM) • · AI\n \nLMS Learning Management\nSystem\n \n(LMS)\n• \nMDT Ministry of Digital\nTechnologies\n (MDT) • \nMHESI\nMinistry of Higher\nEducation, Science and\nInnovations\n · · \n(MHESI)\n• \nMOJ Ministry of Justice (MoJ) • · \n \nMSA Microservice\nArchitecture\n \n (MSA)\n• \n \nOD Output Description \n (OD)\n• , , , \n \nODA Official Development\nAssistance\n (ODA) • · \n \nPAO Project Action Officer \n(PAO)\n• \n \nPC Project Contractor (PC) • \nPDM Project Design Matrix (PDM) • , , , \n \nPM Project Manager (PM) • \nPMC Project Management\nConsultant\n (PMC) • , , , \n \nPOD Project Output\nDescription\n \n(POD)\n• \nPSC Project Steering\nCommittee\n \n(PSC)\n• \n \nRAG Retrieval-Augmented\nGeneration\n (RAG) • AI \n \nRD\n(R/D)\nRecord of Discussion (R/D) • \nRFP Request for Proposal (RFP) • \n \nSDGs Sustainable\nDevelopment Goals\n \n(SDGs)\n• UN \nTSUL Tashkent State\nUniversity of Law\n \n \n(TSUL)\n• \nI \n . : AI - (2026-2030/1,450\n ) PMC \n* (ENG) PMC Service for the Project for Building an Environment for AI-based Legal\nService and Capacity Development in Uzbekistan\n . : 2030.12.31. \n . : , \n . : 7,674,351,351 ($5,561,124/1$=1,380 , 2026 )\n( )\n- 2026 : 257,266,371 ($186,425/1$=1,380 , 2026 )\n- 2027 : 3,185,763,573 ($2,308,524/1$=1,380 , 2026 )\n- 2028 : 1,595,787,029 ($1,156,367/1$=1,380 , 2026 )\n- 2029 : 1,317,767,189 ($954,903/1$=1,380 , 2026 )\n- 2030 : 1,317,767,189 ($954,903/1$=1,380 , 2026 )\n 2026 : 1,380 \n . \n AI \nDevelopment of a Master Plan for the Integration of AI-based Legal Services and the\nTraining of Digital Legal Professionals\n- \nEstablishment of a mid- to long-term capacity-building roadmap\n- \nDevelopment of a curriculum and implementation plan for interdisciplinary legal education\non digital transformation\n- AI (ISP) \nDevelopment of an Information Strategy Planning (ISP) for an AI-based legal services\nplatform\n AI · · PC 3 \nTechnical Support for the Selection of Three Project Contractors (PCs) for AI Platform\nDevelopment, Equipment Provision, and Information System Supervision\n AI \nCapacity Building in Digital and AI-related Legal Competencies\n- \nEstablishment and operation of an interdisciplinary law curriculum on digital transformation\n- \nKorea invitation training program on law and digital transformation\n- - \nJoint Korea-Uzbekistan research and academic activities\n- \nSupport for a degree program in law and digital transformation\n \nOverall Project Management and Performance Management\n- AI \nProject management for the development of an integrated AI-based legal services platform\n- IT \nProject management for IT capacity-building activities\n- \nProject management for equipment provision\n- PC \nTechnical support for the selection of a project contractor (PC) for information system\nsupervision\n- Performance management\n- Project management\n- Public relations and communications\n . \n \n- \n- AI \n- \n . \n \n⬆\n \n \n \n \n \n⬆ ⬆ ⬆ ⬆\n \n \n \n \n \nAI \n \n \nAI \n \n \n⬆ ⬆ ⬆ ⬆\n \n \n \n \n \nAI \n \n \n \n \n \n \n \n \n \n \n \n \n - \n AI \n \n (ISP)* \n \nICT \n . \n (Tashkent) (MOJ:\nMinistry of Justice) (TSUL: Tashkent State University of Law)\n \n 7km 20 \n , , IT , , \n . \n \n2026 2027 2028 2029 2030\nQ1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4\n \n \n \n \nR/D\n \n \nRD\n \nPMC\n \n \n \n* \n \n \n \nPC\n \n \n \n \n \n \n \n \n \n \n ,\n /\n \n \n \n , \n ,\n \n \n \n \n \n \nAI\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n(ISP)\n \n \n \n \nPC \n \n \n \n \n \n \nAI\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nAI\n \n \n \n \n \n \n \n \n \n \n \n \n \n \nAI \n \n *\n \n \n ( \n \n )\n \n \n \n \n \nIT \n \n \nIT\n \n \n \n \n \n \n \n \n \n \n※ PMC , , , AI , PC \n※ PMC “ ” , \n \n , \n .\n* , PC1( \n ) \n . \n1) \n \n \n \n AI \n \n AI \n AI \n \n AI \n ICT \n \n , \n , , \n \n AI \n \n AI \n AI \n \n ( , )\n , , \n \n2) \n \n (Project Steering Committee, PSC)\n- KOICA \n- (MoJ), (TSUL)\n▶ - -TSUL RD \n- \n- \n- \n↑\n (Project Implementation Unit, PIU) - \n- KOICA , PMC\n- (TSUL)\n- \n- \n↑\n \nPMC(Project Management Consultant)\n- , , \n \n- , , PC \n- , , \n- ( ) ( )\n- , \n- KOICA PMC \n- \n (TSUL) (TF)\n- \n- , \n- \n- \n- PMC \n \n↑\nPC 1\n AI \nIT \nPC 2\nICT \nPC 3\n \n- KOICA PC \n- PMC PC \n \n \n( ‘ 1. ’ )\n . \n1) \n \n(Component or\nProject Output)\n \n \n \n \n(Activities)\n \n \n / \n(Outputs)\n \n( )\n(Output 1.1)\nAI \n \n (Activity 1.1.1) \n (Activity 1.1.2) \n \n (Activity 1.1.3) AI \n (ISP) \n( )\n·AI, \n \n·Governance \n·TSUL , TSUL \n , \n·AI, \n \n·AI, \n \n· \n·AI, \n \n· , , \n· \n· \n· \n· \n· \n· \n· \n· \n· ( )\n· ( )\n· ( )\n(Output 1.2)\n \n \n (Activity 1.2.1) \n \n (Activity 1.2.2) \n \n (Activity 1.2.3) - \n \n (Activity 1.2.4) \n \n( )\n· \n· \n· \n· \n· \n· \n· \n· \n· \n· \n \n( )\n· / \n· \n· \n· \n· \n· \n· \n· \n· \n· \n· \n· \n· \n· \n· \n· / \n2) \n AI , \n , AI \n \n ▴AI , ▴ AI , ▴\n \n PMC \n \n , ( ) \n \n \n . ( , ‘ 2. POD/OD’ )\nOutput ‘2.1 AI ’ ‘2.2 ’ \n IT (PC1), (PC2), \n (PC3) . PMC PC \n , · · , \n , , KOICA . PMC \n .\nOutput Acitivity PC\n2.1. AI \n \n2.1.1 AI PC1(IT )\n2.1.2 PC2( )\n2.1.3 ICT PC2( )\n2.1.4 PC3( )\n2.2. \n \n2.2.1 IT PC1(IT )\n2.2.2 PC1(IT )\n1) (Output 1.1) AI \n (1.1.1) \n- ( ) AI \n , TSUL AI \n , AI Literacy AI \n 3 AI \n- ( ) TSUL AI \n \n- ( , ) , · \n \n- ( ) AI \n (GAP) \n- ( ) AI , \n , \n (1.1.2) \n- ( ) , AI \n \n- ( ) AI ( ) \n \n- ( ) AI \n (1.1.3) AI (ISP) \n- ( ) / / , IT , / / ,\n (CSF) \n \n- ( ) AI / / / \n- ( ) / / , / / \n , \n- ( ) , , \n / / HW/SW/NW . \n / \n- ( ) . \n / \n PC \n- ( ) / / \n \n- (PC1 ) \n ( ) , (RFP) , \n \n- (PC2 ICT ) \n , (RFP) , \n \n- (PC3 ) (RFP) \n , \n2) (Output 1.2) AI \n (1.2.1) \n- TSUL , TSUL \n . AI , AI \n TSUL ( ) (2028 3\n 2 )\n (1.2.2) \n- ( /15 *2 *2 ) TSUL 15 \n 14 2 , AI \n , AI TSUL \n · .\n- ( /15 *2 *2 ) TSUL 15 \n2 , AI .\n- AI, , ESG , \n \n[ \n( )]\n( )\n 2027 2028 2029 2030 2031 \n 15(2 ) 15(2 ) 30\n 15(2 ) 15(2 ) 30\n (1.2.3) - \n- TSUL 3 \n , 2 , 2 , \n .\n- TSUL AI· \n 3 \n (1.2.4) \n- TSUL \n(4 *2 ), (1 *2 ) \n- TSUL (2 ) \n \n* , \n[ \n \n( )]\n \n , \n \n 2027 2028 2029 2030 \n 4 0(4) 4 0(4) 8\n 1 0(1) 1 0(1) 2\n3) \n AI \n- \n- \n- ( ) , \n( , ) AI \n- ( ) \n , (NLP) \n- ( ) AI , , \n (UI/UX) \n- ( ) · · , AI \n \n- ( ) , ,\n \n- ( ) , \n , \n- ( ) , \n AI \n- ( ) , \n \n- ( ) / , \n \n- ( ) \n , \n IT \n- \n- ( ) AI , , \n , , , \n \n- \n \n- \n- \n- , \n- \n PC \n- PC \n(RfP) \n- PC \n \n- (PDM ) PDM ( , , , ) \n· KOICA , · PDM \n \n- ( (Baseline survey)) KOICA , PDM \n \n- ( ) , \n , / \n \n- ( ) , \n \n \n- \n( )\n- \n- \n- \n- \n- / \n- \n- / \n- ( )\n- ( )\n- \n※ (raw data) \n \n- , , , \n , \n- ( ) , , , , \n \n- ( ) .\n , \n- ( ) , \n , \n- ( ) (PSC, Project Steering Committee) , \n , \n \n- ( ) , \n \n- ( ) \n \n- ( , TV, ) , \n · , \n- KOICA PMC , KOICA \n \n . \n \n- KOICA- (PSC) \n , (PIU) \nPC · \n- PMC \n , \n \n \nKOICA \n- \n- PMC \nKOICA \n- \n- \n- ( , )\n- \n (Project\nSteering\nCommittee)\n- , \n- \n \n(Project\nManagement Unit)\n- \n- ( ) \n- PM \n- \nPMC/PC\n- KOICA \n- \n- \n- \n- \n- , · , \n- , , \n (MoJ)\n \n(TSUL)\n- \n- ( ) \n- \n- \n4. \n . \n ID \n1\n - CSR\n(ConSulting\nRequirement)\n , Governance \n , , , \n , , \n , , \n \n , , \n , , , PC \n \nCSR-000 17\n2 - TRR\n(TRaining Requirement)\n \n TRR-000 7\n3\n - DER\n(Development\nRequirement)\n \n DER-000 3\n4 - ECR HW, SW, NW \n ( ), \nECR-000 3\n(Equipment Composition\nRequirement)\n5 - SER\n(Security Requirement)\n · \n \n \nSER-000 3\n6 - QUR\n(Quality Requirement)\n , \n QUR-000 2\n7\n - PMR\n(Project Management\nRequirement)\n , \n PMR-000 11\n \n . \n CODE \n \nCSR-001 AI, \nCSR-002 Governance \nCSR-003 AI, \nCSR-004 AI, \nCSR-005 \nCSR-006 \nCSR-007 \nCSR-008 AI, \nCSR-009 \nCSR-010 \nCSR-011 \nCSR-012 \nCSR-013 \nCSR-014 \nCSR-015 \nCSR-016 \nCSR-017 PC \n \nTRR-001 \nTRR-002 AI, \nTRR-003 \nTRR-004 AI, \nTRR-005 · \nTRR-006 \n DER-001 \nDER-001 DB \nDER-003 \n \n \nECR-001 \nECR-002 \nECR-003 / , , \n \nSER-001 \nSER-002 \nSER-003 \n \nQUR-001 \nQUR-002 \n \nPMR-001 \nPMR-002 \nPMR-003 \nPMR-004 \nPMR-005 \nPMR-006 \nPMR-007 \nPMR-008 \nPMR-009 \nPMR-010 \n . \n(1) \n \n CSR-001\n AI \n \n · \n \n AI \n- AI \n \n AI \n \n- AI , TSUL AI , \n AI Literacy 3 \n \n AI \n- AI , \n TSUL AI \n , AI Literacy AI \n 3 AI \n \n- ( / ) \n AI, \n , FGI(Focus Group Interview) ( / ) \n \n CSR-002\n Governance \n \n \n AI Governance , \n \n \n Governance \n- (MHESI, Ministry of\nHigher Education, Science and Innovations), TSUL \n (MOJ, Ministry of Justice) AI \n (MDT, Ministry for Digital Technologies) \n- Governance \n- \n \n- AI \n- TSUL \n- \n Governance \n \n \n CSR-003\n AI, \n \n AI TSUL , , \n \n \n- TSUL \n \n- \n- \n- , \n- AI \n TSUL \nTSUL , \n \n \n CSR-004\n AI, \n \n \n AI \n \n AI \n \n- \n (GAP) \n AI, \n \n \n CSR-005\n \n \n \n TSUL AI , \n , \n \n \n- TSUL, TSUL , AI\n \n- ( , ) \n- \n AI \n- TSUL AI , , \n \n- , , AI \n \n AI \n- \n- , \n- \n AI \n \n \n CSR-006\n \n \n \n \n \n \n- \n- \n- \n \n- \n- \n- \n- \n- \n- \n \n \n \n CSR-007\n \n \n \n , \n \n \n \n- TSUL, , \n- AI \n- \n \n- , \n- \n AI \n \n \n CSR-008\n AI \n ( ), \n \n \n \n- AI \n- \n- \n \n- \n- ( )\n \n- \n- , \n \n- ( , , )\n- AI (Continuous\nQuality Improvement: CQI) \n , , \n \n \n CSR-009\n \n \n \n \n \n \n- \n- \n \n- \n- \n \n \n \n CSR-010\n \n \n \n , , , ICT \n , , , \n- \n- AI \n- AI \n \n- CIS \n \n \n \n CSR-011\n \n \n \n TSUL \n \n \n- \n- , , \n- Chatbot AI \n \n- Legal Clinic \n- \n- AI \n \n- , \n- NGO \n- \n \n- \n- Digitalization, Migration \n \n- AI \n ICT \n- ICT \n- HW/SW/NW , \n- (GDC) Colocation \n- TSUL \n ICT \n- AI \n- AI \n AI Governance \n- Governance \n- AI \n (CSF) (CIR) \n \n \n , , AI \n , \n \n CSR-012\n \n \n \n AI \n \n AI \n- , , \n (GAP) \n \n \n \n CSR-013\n \n \n \n \n \n \n- (CSF) \n (CIR) \n \n- \n- \n \n \n \n CSR-014\n \n \n \n \n \n \n- (CSF) \n (CIR), / / \n- \n \n \n \n CSR-015\n \n \n \n \n \n \n- AI AI \n- \n- \n \n- , \n- \n \n- HW/SW/NW \n- \n \n \n \n CSR-016\n \n \n \n \n \n \n- \n- \n- (Road-Map)\n- \n \n- \n- \n \n \n \n CSR-017\n PC \n \n \n PC \n \n PC \n- \n- \n- \n- \n- ( ) ( )\n- / / (RFP) \n PC \n \n \n(2) \n \n TRR-001\n \n \n \n AI \n \n TSUL AI , \n \n ( \n 2 , 4 , 3 (2028-2030) 12 )\n \n IT (2028 \n2030 3 1 *30 , 6 )\n \n , .\n , , , \n \n \n TRR-002\n AI, \n \n \n TSUL AI \n \n \n , \n \n , \n : 5 / \n \n TRR-003\n \n \n \n AI \n \n TSUL 15 \n 14 2 \n AI \n , AI TSUL \n · \n TSUL , , \n AI \n \n \n \n , \n : 15 /14 / 1 , 2 \n \n TRR-004\n AI, \n \n \n TSUL AI \n \n \n \n TSUL 15 2 \n AI \n AI \n (AI. , ESG ) \n \n \n , \n : 15 /14 / 1 , 2 \n \n TRR-005\n · \n \n \n - AI · \n \n TSUL \n 3 \n TSUL , \n \n 500 \n TSUL AI \n 2028 \n2030 3 3 \n \n \n \n TSUL .\n - \n \n 4 , \n .\n* 2 , 2 ( )\n \n , / , \n \n \n TRR-006\n \n \n \n TSUL AI \n \n \n \n TSUL \n \n \n \n , \n \n(3) \n \n DER-001\n \n \n \n PC \n \n PC \n \n \n PC PC \n \n \n- \n- \n \n- ( ) , \n ( , ) \n AI \n- ( ) \n , (NLP) \n \n- ( ) AI , \n , \n (UI/UX) \n- ( ) · · \n , AI \n- ( : , \n , \n \n \n \n DER-002\n DB \n \n \n PC \n \n PC \n \n \n PC PC \n \n \n- \n- \n \n- ( ) \n , \n \n- ( ) , \n AI \n- ( ) \n \n- ( ) \n , \n- ( ) \n \n \n \n \n DER-003\n \n \n \n \n \n EPUB 3.0 \n \n- \n- \n \n , , \n \n(4) \n \n ECR-001\n \n \n \n \n \n PC \n \n \n IT ,\nIT \n \n , \n (PC) \n \n ECR-002\n \n \n \n \n \n \n- AI IT \n- PC (RFP) \n \n- PC \n PC RFP \n (PC) \n \n ECR-003\n / , , \n \n \n / , , \n PC \n .\n- , Legal Clinic , (LED )\n- ( ) , , , , , \n- ( ) \n .\n* \n .\n , , & \n (PC) \n(5) \n \n SER-001\n \n \n \n \n \no · , \n \n \no \n , ( ) \n \n \n \n SER-002\n \n \n \n \n o ,\n \no \no \n \no , , , ,\n \no , , \n \n \no , \n , , \n \no , , \n \no \n \no \n \n \n \n SER-003\n \n \n \n \n \no \n \no \n \n , \no \n , \n \no \n 81 ( ) [ . \n ] , \n \n- ( ) , ‘ \n ’ \n- , \n ‘ ’ \n \n* ( , PC ) ‘ \n ’, ‘ ’ \n \n \n(6) \n \n QUR-001\n \n \n \n \n \n , \n , \n \n \n , ( \n )\n- \n- \n \n- \n \n \n ( \n ) ( ) \n( )\n ( ), \n \n \n QUR-002\n \n \n \n \n \n , \n \n- ‘ / ’ \n \n \n(7) \n \n PMR-001\n \n \n \n \n \n , \n \n , , \n \n \n \n \n PMR-002\n \n \n \n \n \n (PM) \n , \n \n \n \n \n PMR-003\n \n \n \n \n \n \n \n , \n , \n 5 \n · . , \n \n \n , · \n , \n \n \n \n \n PMR-004\n \n \n \n \n \n / , \n , , \n ( ) \n , \n \n \n PMR-005\n \n \n \n \n \n , , , , \n \n \n ( ) \n \n \n \n PMR-006\n \n \n \n \n \n , , · · · · · \n \n .\n \n \n \n \n \n PMR-007\n \n \n \n \n \n , \n \n , , \n \n \n \n \n PMR-008\n \n \n \n \n \n \n , , \n , , \n- worksheet \n- , , \n \n- ( ) \n USB \n , \n , , ( )\n \n \n PMR-009\n \n \n \n \n \n \n- , , , , \n \n , \n , \n \n \n \n PMR-010\n \n \n \n \n \n PDM : PDM PDM\n ( )\n : PDM \n \n : \n , \n※ KOICA “ ” \n : \n \n \n \n3) \n \n (M/D)\n \n \n \n \n \n(PM)\n 1 2 \n[ ]\n· ( \n )\n· \n[ ]\n· \n· \n \n· \n· ODA \n· \n· \n- , \n \n- \n- \n \n- \n440 217 657\n 1 3 [ ]\n· ODA \n[ ]\n· · \n \n· \n· \n- \n- / \n \n40 56 96\n \n(PL)\n 1 3 \n[ ]\n· \n· \n· \n[ ]\n· \n· \n· \n- \n- \n \n- AI, \n \n- \n- \n- AI, \n \n- \n \n- \n \n- \n \n30 594 624\n (PL) 1 2 \n[ ]\n· , \n \n· AI \n , (ISP) \n \n· ODA \n[ ]\n· AI \n \n· \n· \n- , \n \n- \n- \n- \n- \n- , , IT \n PC \n- / / \n \n- IT \n- \n- AI \n198 426 624\nICT 1 4 \n[ ]\n· \n \n· ODA \n[ ]\n· AI \n \n· \n- , \n \n- ICT \n \n- ICT \n \n- \n- \n- \n- PC \n- \n \n- \n / \n54 56 110\nPAO 1 6 \n[ ]\n· ODA \n[ ]\n· \n \n· \n· \n- \n- \n- \n- \n110 217 327\n[ \n ]\n[ ]\n \n \n 1 3 [ ]\n· , \n \n- AI, \n \n- \n132 63 195\n \n AI\n \n \n \n· \n \n[ ]\n· ODA \n· \n· \n- \n- \n- \n[ ]\n \n \n 1 3 \n[ ]\n· , \n \n· \n \n[ ]\n· ODA \n· \n· \n- \n \n- \n44 42 86\n[ ]\nIT \n \n 1 3 \n[ ]\n· AI \n , (ISP) \n \n· ODA \n[ ]\n· IT , \n· \n- IT \n- IT \n- \n- IT \n- \n- \n- \n- , IT PC\n \n147 63 210\n[ ]\n \nAI \n 1 3 \n[ ]\n· AI \n , (ISP) \n \n[ ]\n· ODA \n· \n· \n- \n- AI \n- \n- \n- \n- \n- \n- \n- , IT PC \n \n147 63 210\n[ ] \n \n 1 3 \n[ ]\n· AI \n , (ISP) \n \n[ ]\n· ODA \n· \n \n· \n- \n- \n- \n- \n- \n- \n- \n- \n- , IT PC \n \n147 63 210\n[ ] \n \n 1 3 [ ]\n· AI \n , (ISP) \n \n[ ]\n· ODA \n· \n· \n- \n- \n- \n- \n- \n- \n- \n147 63 210\n- \n \n- , IT PC \n \n[ \n ]\n \n AI\n \n \n[ ] ( \n AI \n )\n 1 3 \n[ ]\n· , \n \n· AI \n[ ]\n· \n \n· \n· \n- \n- AI \n- \n- \n336 336\n[ ]\n(AI )\n 1 3 \n[ ]\n· \n· \n[ ]\n· \n \n· \n· \n- AI \n \n- \n \n- \n- \n672 672\n[ ]\n( \n )\n 1 3 \n[ ]\n· \n· \n[ ]\n· \n \n· \n· \n- ,\n , , , \n \n- \n- \n336 336\n[ ]\n(AI )\n 1 3 \n[ ]\n· , \n \n· AI \n[ ]\n· \n \n· \n· \n- AI 180 180\n \n : (PM) 1 \n \n- ( , , , , , \n( ( ), , 4 ) ) .\n- , ( \n ) .( 3 )\n1) ( ( ), , 4 )\n2) \n3) \n-       ,          .\n- , \n- · ( ) \n .\n- .\n1) \n- , \n \n2) , / ( / \n ) \n* , ( : 1 , \n 365 )\n- (PM) \n- TOEIC 700 ( TEPS 557\n , 301 , TOEFL/IBT 80 , 5 ) \n .\n* 5 \n ( ) \n .\n- (PM) \n- (PM) \n- \n- \n PM \n ( ) .\n- , (‘20.1.1 ) .\n PM \n ( ) .\n- , (‘20.1.1 ) .\n , ( , ) , \n , .\n- \n- 1M = 22D . \n , ․ .\n (IPM .)\n : ( , ) , \n : , \n : , IPM \n \n3) \n (Project Output)\n \n1.1 AI \n \n·AI, \n·Governance \n·TSUL , TSUL , \n·AI, \n·AI, \n· \n·AI, \n· , , \n· \n· \n· \n· \n· \n· \n· \n· \n· ( )\n· ( )\n· ( )\n1.2 \n \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n- \n· ( / )\n· ( / )\n· ( / )\n· ( / )\n· ( / )\n· ( / )\n· ( / )\n· ( / )\n· ( / )\n· ( / )\n- , [ 2] (OD) \n , \n , Ⅱ . (2-2. ) .\n- .\n- \n , .\n- , \n .\n (Sub-Output)\n \n \n \n( , ) \n1.1 \nAI \n \na.1.1.1-1 AI, \n / 1 \n 1 \na.1.1.1-2 Governance / 1 \n 1 \na.1.1.1-3 TSUL , TSUL \n , / 1 \n 1 \na.1.1.1-4 AI, \n / 1 \n 1 \na.1.1.1-5 AI, \n / 1 \n 1 \na.1.1.1-6 / 1 \n 1 \na.1.1.1-7 AI, \n / 3 \n 1 \na.1.1.1-8 , , / 1 \n \n1 \na.1.1.1-9 / 1 \n 1 \na.1.1.1-10 / 1 \n \n1 \na.1.1.1-11 / 1 \n 1 \na.1.1.1-12 / 1 \n 1 \na.1.1.1-13 / 1 \n \n1 \na.1.1.1-14 / 1 \n 1 \na.1.1.1-15 / 1 \n \n1 \na.1.1.1-16 / 1 \n 1 \na.1.1.1-17 ( ) 1 \n 1 \na.1.1.1-18 ( ) 1 \n \n1 \na.1.1.1-19 ( ) 1 \n \n1 \n1.2. \n AI \n \na.1.2.1-1,2 , ( \n )\n / / 1 /\n 1 \n 1 \na.1.2.1-3,4 / / / \n 1\n /\n \n 1 \na.1.2.2-1,2 / / / \n \n1 / 1 \na.1.2.3-1,2 / \n ( )\n / / \n1 / \n 1 \na.1.2.4-1,2 / ( \n )\n / / \n1 / \n 1 \n (Management Document)\n \n \n \n \n*([ ] \n )\n / 1 \n* ([ ]\n ) / 1 \n \n( ) 1 / / 1 \n / 1 \n \n ( \n \n , \n )\n 1 \n 1 1 \n 1 1 \n 1 1 \n 1 1 \n 1 1 \n 1 / / 1 \n 1 1 \n 2 / 1 \n 3 1 \n 1 \n 1 / 1 \n 1 / / 1 \n* \n ( ) , , , \n .\nII \n \n ( ) \n- ( ) http://www.g2b.go.kr\n* , \n(https://nebid.koica.go.kr) \n- . ( : 1169) ( : 9999)\n- ( )( 1468)\n 27 , 76 ( \n ) 72 \n 1 , 6 9 \n 27 5 12 3 ‘ \n ’ 2 \n- 12 3 \n · , \n .\n 13 4 2 1 , · \n 13 4 2 2 ODA \n , 27 4 \n 5 2( ) 4 2 \n ( ), \n- · , \n .\n 48 ( ) \n \n 48 4 , \n \n- 48 4 31 \n ( 48 3 \n ) \n \n* \n \n 8 80 \n 8 40 \n 2 \n 2 ‘ ’ 5 20 \n※ 5 , ( : \n )\n※ SW ( \n48 4 , ‘24.7.24 )\n 40 80 48 ( \n ) 2 , 3 \n 8 \n 80 48 ( \n ) 5 ( \n ‘ : , 20 , 40\n ’ ), 8 \n SW , SW \n ( 48 2 4 , 2 1\n ) \n ( , ) , 5 \n ( )\n※ 1 \n※ , , \n 10% \n , \n . : ( ) \n . : (90%)․ (10%) ( )\n . \n \n \n \n \n \n ‘ ’ ‘KOICA - - ’ ‘ -\n - - ’ \n . : \n . ( ) : \n . \n1) \n , ( ) \n 85% \n (90%) (10%) \n- , \n 8 2 \n .\n1. \n \n2. 1 \n \n \n \n- ( \n )\n- \n2) \n .\n , \n , .\n .\n , \n \n .\n \n .\n , , \n .\n3) \n , \n , \n .\n ( ) \n \n- ( \n ) .\n , ,\n .\n ‘ ’ ‘KOICA ’ ‘ \n ( ’ \n , \n ( : / \n , ) \n , , , \n .\n , · , \n , ( \n 0 )“ .\n , , \n , .\n , \n .\n 7 , \n .\n \n . , “ ” \n .\n · ( ) , \n .\n , 3 \n , .\n ( ) “ ” , \n .\n ( 3 ) , \n .\n KOICA “ ” \n .\n \n , PAO 2 \n .( PAO , \n PAO \n ) PAO \n , KOICA PAO .\n PAO PAO , \n .( PAO \n )\n , 3 \n .\n 16 , 17 , \n .\n□ \n ( ) 50 \n ( ) ( ) ( )\n 50 , 47 1 2 , 3 \n · , \n * , \n \n* 13 \nIII \n . \n , , , .\n . \n \n .\n , \n \n .\n \n , , \n . , , \n .\n , \n .\n , \n .\n \n .\n [ 3 ] \n .\n , \n .\n \n .\n ( ) \n .\n . \n1) \n I( ), II( ), ( ), \n , .\n- , \n 160%, 25 , 20 , 15 , \n ( ).\n- : Ⅰ . Ⅱ . Ⅲ . ...(16point )\n- : 1. 2. 3. ...(13 point )\n- : 1-1, 1-1-1, 2, 2-1, 2-1-1, ...(13 point)\n , , “ \n ” .\n '~ , ~ ' .\n , .\n , [ 1 ] .\n , “ ( , )” \n .\n( ) PBX(Private Branch eXchange, )\n \n .\n , , , .\n2) \n I, ② II, ③ ( ) , ( ~ ) \nPDF \n PDF . ※PDF \n I, ② II, ③ , (PDF) 300MB \n \n ( ) \n \n \n , \n .\n- , \n . , , , .\n- , , · , \n , , \n ( 0\n ) , \n .\n – ,\n [ 3 ] ( , \n ( ) ) .\n .\n※ 1 [ 3 ] .\n※ [ 3 ] .\n . \n , , 3 \n .\n1) ( ), , 4 \n2) \n3) \n · ( \n ) .\n . \n1) I( )\n* \nI. \n1. \n2. , \nII. \n1. \n1-1. \n1-2. \n1-3. \n1-4. , \n2. \n2-1. \n2-2. AI \n2-3. AI \n2-4. PC \nIII. \n1. \n1-1. \n1-2. \n2. \n2-1. \n2-2. \n2-3. \n2-4. \n2-5. \n2-6. \nIV. \n , , ( ) \n2) II( ) ( )\n1. ( 8-2 )\n1-1. ( )( 7 )\n1-2. ( 5 )\n1-3. \n1-4. ( 5 , , , \n )\n1-5. KOICA ( )( 4-2 )\n2. ( 5 )\n2-1. ( )( 7 )\n2-2. ( 5 , , , \n )\n※ 4 \n3) ( ) ( )\n1. ( ) \n2. ( 8 )\n3. ( ) \n4. \n※ , [ 3 ] , \n \n4-1. \n5. \n4) ( )\n PT PPT 20 PDF \n※ PT \n . \n1) I( )\n \n \n- ○ [ 12 ] \n . 12 \n- ○ .\nI. 10% \n1. \n○ , ( 3 ) \n , \n ( ) \n \n .\n○ .\n* : \n \n 2 \n 2-2 \n2. , \n \n○ ( ) .\n○ \n .\n 3 \n 3-2 \nII. 50% \n1. \n1-1. \n \n○ \n .\n1-2. ○ (As-is) (To-\nbe) .\n1-3. \n \n○ , , , , , , , \n .\n1-4. , \n \n○ PDM \n PDM ① \n(Output-Outcome-Goal), ② \n(Objectively Verifiable Indicators: OVIs) ③ \n (Means of Verification: MOV) \n , PDM \n .\n- , PDM , \n , .\n2. \n2-1. \n○ \n .\n- , , \n \n .\n○ , , \n .\n2-2. AI \n \n○ , \n .\n- \n- \n- \n- \n- AS-IS/ TO-BE \n- \n- \n- \n2-3. AI \n \n○ .\n- \n- \n- \n- \n- \n○ \n- \n- ( )\n- \n- \n- \n○ .\n- \n- ( )\n- \n- \n- \n○ .\n- \n- ( )\n- \n- \n- \n2-4. PC \n \n○ , .\n- (RFP) , \n- , \n- PC , \nIII. 30% \n1. \n \n1-1. \n○ ① \n , ② , ③ \n .\n- PM , , , \n .\n※ , PAO , \n , , ( 3\n )\n※ \n※ ‘ II( )’ \n \n 4 \n1-2. \n○ .\n※ \n○ \n .\n○ , \n , .\n 6 \n2. \n2-1. \n○ / , \n(Baseline survey), (Endline survey), \n(Foramtive Research), PDM \n .\n2-2. \n○ \n .\n- , \n2-3. \n○ , \n , \n .\n○ , \n , .\n2-4. ○ \n .\n2-5. \n○ \n .\n① PDM \n \n- , , \n \n② \n- \n․ , / , \n , \n2-6. ○ , , \n .\nIV. \n○ , \n , AI \n , / , \n , ESG / \n .\n ) ( ) PDM , \n \n( ) / \n , , ESG / \n \n10% \n2) II( )\n \n1. \n \n○ \n . 8-2 \n1-1. \n ○ . 7 \n1-2. \n \n○ .\n※ , 5 \n1-3. \n \n○ .\n※       ,    \n       .\n1-4. \n \n○ 5 \n , , , \n .\n※       ,    \n       .\n1-5. KOICA \n ( )\n○ KOICA \n . 4-2 \n2. \n○ .\n※ , \n※ \n※ \n \n 5 \n2-1. \n ○ . 7 \n2-2. \n \n○ 5 , , , \n .\n※       ,    \n       .\n3) ( )\n \n1. ( ) ○ ( / ) , \n . -\n2. ○ . 8 \n3. \n \n○ \n .\n-\n4. \n○ I( ) \n .\n※ , [ 3 ] \n , \n \n 3 \n4-1. \n \n○ I( ) \n .\n○ ( ) , .\n※ , , [ 9\n ] \n 9 \n4) ( ) : \n . \n , ,\n , , \n , SW \n ( 1 ) : 1,380 (2026 )\n※ : , \n KEB ( ) 1 ( \n ) . , (Cross Rate) , \n \n . \n1) \n \n(1 , : )\n 1 2 3 4 5 6 \n 460,000 360,000 310,000 280,000 240,000 190,000\n 30 1 , 22 22 \n . 30 22/30 . .\n ( / , , , , , , ) \n 3 , , .\nKOICA \n1 \n2 \n3 \n4 \n5 \n6 \n \n \n1 \n 20 \n 3 3 \n 4 3 \n 2 8 \n2 \n 15 \n 4 \n 4 3 \n 1 5 \n3 \n 10 \n 5 \n 4 2 \n 2,3 \n4 \n 7 \n 7 \n 4 \n 4 \n5 3 \n6 5 \n \n- 6 . \n- : 8 , 3 ( \n ) ( △ △ △ △ △ △ △ \n△ )\n- : △ △KOICA \n △UN △ NGO △ \n \n \n- : 2 , 5 , 5 ( , 2 \n 2 . )\n- , , 10 \n , 12 1 , \n 7 1 , 7 1 . \n (10 ) .\n- 10 , 1\n ( , )\n , , \n . .\n- \n \n2) ( )\n ( ) : ×(110% )\n : ×(10% )\n ( ) : ( + )×(40% )\n ( ) : 2 \n : 1 .\n ( ) : \n1. : 300,000,000 \n2. : 200,000,000 \n3. : 10,000,000 \n4. / : 20,000,000 \n ( ) KOICA \n \n1. - - - ( )\n2. KOICA , \n , , \n ( ) : , , , , , \n ( ) : 10% , \nIV \n . : \n . \n1) : \n※ ( , )\n (PT)\n► (PT) : (PM) 1 \n► : (PM) 1 \n- 10 , \n .\n- , \n .\n- (PM) , PM 3 , \n .\n , , \n .\n- (PM) ( ) \n .\n1) (PM) \n2) (PM) \n3) \n4) \n \n \n \n \n , \n \n , , , \n \n100%\n \n (RFP) , \n , / \n , , , \n \n \n85%\n \n( )\n (RFP) \n \n , , , , \n \n \n70%\n \n (RFP) , \n , \n , , , , \n \n \n55%\n \n \n (RFP) \n \n , , , , \n \n \n40%\n2) : \n3) : · 5~10 \n4) \n · \n \n ( 0 ) , \n \n .\n · .\n- ( \n , )\n- .\n- 1 , , .\n- , , .\n- ( , ) .\n< >\n \n \n \n ?\n- · ( , , ) , , , \n . , \n .\n \n- : (031-740-0140), (031-740-0147)\n- : 825 \n- : KOICA > > > \n- : (http://www.acrc.go.kr/) → → ( ) \n \n \n ?\n- ∙ ∙ \n . ( : , \n ∙ , ∙ , ∙ )\n- , . \n , \n .\n- , KOICA \n . ( , ,\n ( ) , , )\n \n- : (031-740-0140), ∙ (031-740-0143)\n- : 825 \n- : KOICA > > > \n- : ( http://www.epeople.go.kr) → → \n . \n \n \n \n(12 )\n \n \n- : \n .\n ( / ) , \n / \n4\n \n \n \n \n- : \n .\n6\n \n \n- [ 3 ] , \n .\n 3 \n ( / ) , \n \n \n \n \n \n \n \n- (PM) \n- (PM) \n .\n2\n \n \n \n(88 )\n \n \n \n \n- , , \n \n .\n5\n \n \n \n- : \n .\n- : (As-is) \n(To-be) .\n- : \n .\n- , : PDM \n .\n10\n \n \n- : \n .\n- AI : , , , \n , .\n- AI : , , \n .\n- PC : PC ,\n .\n25\n \n \n \n \n \n- : , , \n , \n .\n※ , \n \n- : , \n , , ODA \n , \n .\n18\n \n \n- : PDM \n . \n .\n- : \n .\n- : , \n , \n20\n . , \n , .\n- : \n .\n- : , \n .\n- : , , \n .\n \n- , , AI \n · , / \n , , ESG / \n .\n5\n \n \n \n \n- (PM) \n . 5\n , , \n \n , / , \n ( , 5 , )\n□ \n \n \n \n \n \nAAA, AA+,\nAA0, AA-, A+,\nA0, A-, BBB+,\nBBB0\nA1, A2+,\nA20,\nA2-, A3+,\nA30\nAAA, AA+, AA0,\nAA-,\nA+, A0, A-,\nBBB+, BBB0\n4.00 \nBBB-, BB+,\nBB0, BB-\nA3-, B+,\nB0\nBBB-, BB+,\nBB0, BB- 3.80 \nB+, B0, B- B- B+, B0, B- 3.60 \nCCC+ C CCC+ 2.80\n4\n \n \n \n( * \n ) \n ** \n* 40 \n** \n100% 6.0 \n6\n70% 100% 5.5 \n40% 70% 5.0 \n10% 40% 4.5 \n10% 4.2 \n \n \n \n( )\n 5 : 2.0 \n2\n 4 : 1.7 \n 3 : 1.4 \n 2 : 1.1 \n 1 : 0.8 \n : 0.0 \n [ 5] .\n□ ․ \n \n \nA. ( 10% )\n0.5 \n( 0.5\n )\nB. , , ( 20% )\n(1) ( ) ( , , , \n ) \n(2) \n0.5 \n0.25 \nC. ( 20% )\n(1) 2 1 2 \n ( ) 0.2 \nD. ( 20% )\n(1) 2 2 , ( \n ) \n(2) \n( ) 24 \n0.25 \n0.5 \nE. ( 20% )\n(1) ( ) \n(2) ( ) \n(3) ( ) ESG \n \n \n0.5 \n( \n2.0 )\nF. ODA (ODA (3 ) \nODA ) 0.5( 1 ) . , ODA (3\n ) ODA .\n \n0.5 \n( 1 )\n \nG. ( 2 \n )\n0.5 \n( \n2.5 )\nH. , , \n ( 0.2 )\n \n0.4 \n · [ 4] .\n . : [ ] \n \n . \n ) 100 80 \n․\n* : , 100 70 \n100 70 < 2015.9.21., 2023.6.30.>\n* : \n* , \n \n ) 100 80 \n․\n* : , 100 70 \n100 70 < 2015.9.21., 2023.6.30.>\n* : , 100 70 \n 30% < 2015.9.21., 2023.6.30.>\n* SW , , \n , \n 100 80 \n 30% < 2014.1.10, 2015.9.21., 2023.6.30.>\n* , \n \n ) \n \n ) \n \n3cm\n3cm 3cm\n \n(40Point)\n(20Point)\n(24Point)\n(18Point)\n \n1. \n \n \n \n \n \n ~ ( )\n ~ ( )\n \n2. \n \n \n 2 8 3 \n 335 3 \n , , \n , ( ) \n \n- ‘ ’ . , \n \n- ( \n )\n- \n \n- \n \n , ‘ ’ \n \n⑤ \n[ ] \n- ‘ ’ \n- ,\n ( ) \n \n ( 3 )\n( : )\n M-2 M-1 M \n \n \n⃝⃝ \n⃝⃝ \n⃝⃝ \n⃝⃝ \n \n \no :\n \n \n \n( )\n \n1\n /\n / \n \n2\n3\n4\n :\n- AI AI ( 5 )\n- AI ( , (ISP/ISMP), \n AI ) ( 5 )\n- , , , , \n※ \n① 5 \n( )\n- ( , \n 9 )\n- ( OO OO , 9 \n( , , , , , ( ), ( ) \n , ( ( ) ) \n )\n- ( ) .( \n )\n- [ 5] 3 \n \n \n \n \n \n \n \n \n① \n② \n① , ② \n ① \n \n ① \n \n① \n② \n③ ( )\n① , ② , ③ \n \n \n ① \n ① \n \n ① \n \n① \n② \n③ ( \n , )\n① , ② , ③ \n \n[ ]\n1. , , \n .\n2. : ( : , , ) \n \n3. \n( : , )\n4. : \n5. , , \n \n \n / \n \n▶ KOICA \n▶ .\n , \n .\n \n \n \n※ \n① ( \n )\n- , 3 \n② ( )\n- , \n ( )\n \n \n \n \n \n \n \n \n \n \n \n \n / \n \n \n(PM)\n \n \n \n \n \n \n \n \n \n \n \n \n : \n※ 5 , KOICA ODA YP( )\n \n- KOICA : / 1588-0434( : 09:00-18:00)\n / ‘ ’ \n※ SW · SW \n ( : , , SW ) \n 4-2 \nKOICA ( )\n \n \n \n \n \n \n \n OOO PM( ) OOO\n \n \n /\n \n \nOOOO \n20XX.00.00 ~\n20XX.00.00\nKOICA PM \n \n① . \n ( )\n- , 3 \n② ( )\n- , \n \n \n \n( ) \n \n( )\n( ) \n ( ) ( )( )\n \n \n ( ) \n \n \n \n \n \n ( )/ \n( )\n ( ) \n. . . ~ \n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n \n ( ) \n. . .\n. . .\n. . .\n \n A : Native speaker \n \n( )\nB : \n \nC : \nD : \n \n \n \n \n / ( ) \n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n \n \n / \n( )\n ( ) \n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\nODA \n \n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n \n \n , ‘ ’\n .\n② ( , , , , , ( ( \n ), , 4 \n )\n ) ( ) \n ( )\n (PM) \nOO \nOO \nOO \nOO \n※ \n① \n② \n \n ( ) \n OOM/D\n( OOM/D,\n OOM/D)\n OOO \n , .\n※ \n① KOICA \n② KOICA \n③ \n \n \n ( )\n \n※ \n① ( ) \n* \n② \n \n \n \n \n \n- ( )\n \n- \n \n · \n- ( )\n- ( )\n \n \n : ( )\n . \n ( , ) , .\n- ( ) ( ) . \n .\n( ) (A ×A )+(B ×B )…\n- ( ) , \n .\n( ) {(A ×A )+(B ×B )…} \n \n \n \n : ( )\n 12 6 1 4 \n .\n         ( , , , , , \n )       ,        .\n . , \n , 3 .\n1) ( ), , 4 \n2) \n3) \n( · ( ) \n .\n \n \n ( ) ( )\n \n \n \n \n \n ( )\n ( )\n ( ) \n \n \n \n \n \n \n \n \n( \n )\n ( )\n \n* \n \n \n \n \n \n : ( ) ( : )\n : (Fax : )\n : :\n※ , \n \n , , \n \n \n , , , \n ( ) .\n 10 \n AI - PMC \n 2026.7.31.\n□ \n \n \no \no \no \no \no \no \no \no \no \no \no \no \no \n \n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · )( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n□ \n \n / / \n \n \n \n \n \n \n \n , , \n · .\n○\n \n \no \n- HTML 4.01/HTML 5, CSS 2.1 ○\n- XHTML 1.0 ○\n- XML 1.0, XSL 1.0 ○\n- ECMAScript 3rd ○\n- 2.0 ○\no \n- 1.0 (KICS.KO-10.0307) ○\n (KS X ISO/IEC 20000)/ ITIL v3 ○\n \n \nIPv4 ○\nIPv6 ○\n□ \n \n / / \n \n \n \n \n \n \no , \n · \n .\n○\n \n \no \n- SOAP 1.2, WSDL 2.0, XML 1.0 ○\n- UDDI v3 ○\n- RESTful ○\no \n- UML 2.0/BPMN 1.0 ○\n- ebXML/BPEL 2.0/ XPDL 2.0 ○\n o : XML 1.0 ○\n o : UDDI v3, WSDL 2.0 ○\n□ \n \n / / \n \n \n \n \n \n \n \n IPv4 IPv6 \n . ○\n , \n . ○\n \n \no : H.320~H.324, H.310 ○\no : VoIP\n- H.323 ○\n- SIP ○\n- Megaco(H.248) ○\n \n \no : POSIX ○\no \n- android ○\n- IOS ○\n- 7 ○\no \n- Java ○\n- Objective C ○\n \no DBMS\n- RDBMS ○\n- ORDBMS ○\n- OODBMS ○\n- MMDBMS ○\n o ITIL v3 / ISO20000 ○\n \no : UML2.0 ○\no : ○\n□ \n \n / / \n \n \n \n \n \n \n \n \no . ○\no , , , \n .\n○\no \n \n “ ” \n .\n○\no \n .\n○\n \n \no : HTML 4.01 ○\no - JSP 2.1 ○\n- ASP ○\n- PHP ○\n \no \n- J2EE 5, J2SE 5.0, Java Servlet 2.5\n○\no - XML 1.0, XSL 1.1 ○\n- RDF ○\n- AJAX ○\n \no :\n- XMI 2.0\n○\n- SOAP 1.2 ○\no \n- EUC-KR\n○\n- UTF-8( , UTF-8 ) ○\n□ \n \n / \n / \n \n \n \n \n \n \n \n \n . “ ”,“ \n ”,“ ” “ ” .\n○ \n \n . ○ \n \n ․ . ○ \n \n \n \n \n ( )\n- \n · ( )\n○\n \n \n \n \n \n \n ( )\n- PKI ○ \n- SSO ○\n- ․ ○\n- (DRM) ○ \n- ○\n- ○ \n- ○ \n- ○ \n- DB ○ \n- (9 ) ○ \n- ○ \n CC ( CC )\n- ( ) ○ \n- ( ) ( ) ○ \n- ○ \n- ○ \n- DDos ○ \n- ○ \n- ○ \n- ○ \n- ( ) ○ \n- ○ \n- ○ \n- ○ \n- ○ \n- (PC ) ○ \n- ○ \n- ( , \n ) ○ \n- ○ \n- ○ \n- DB ○ \n- ○ \n- USB( ) ○ \n- ( \n ) ○ \n- ○ \n- ○ \n- CC ○ \n ( · ) \n- · ( ) ○ \n- ○ \n- ○ \n- USB ○ \n \n \n \n \n \n- ○ \n- ○ \n- ○ \n- ○ \n- ○ \n- ○ \n- ○ \n- ○ \n- ○ \n \n- ○ \n- ( ) ○ \n- ( ) ○ \n- ○ \n ‘ (www.nis.go.kr/AF/1_7_2_1.do)’ \n 11 ( )\n \n , ( ) , \n , \n .\n- -\nSW SW \n※ , \n .\n※ SW \n .\n (O ∨ )\n \n :\n : ( )\n( ) :\n : ( )\n \n , ( \n ) , \n , , \n ( ) , \n \n .\n \n [( ) ( 2 13 )] “ ” ( ) \n ( ) .\n( → , → )\n [ ] SW SW ( ) \n( SW ) SW 50% .\n ( SW ) SW ( \n ) .\n- ‘ ’ SW ( ) SW \n \n- SW ( ) \n ‘ ’ \n- ‘ ’ ‘ ( , )’ \n‘ ’ \n [ ] \n , .\n SW FAQ\n ) · ( ) ?\n ) , \n .\n ) SW ( ) ‘ ’ ( ) ?\n ) SW SW , \n SW ( ) .\n ) (Business partner), \n ?\n ) ( ) . \n .\n ) ?\n ) , , 50% \n . , 50% .\n 11-2 ( )\n \n \n( )\n \n \n□ \n \n%\n%\n %\n1) \n* ( , , ) \n- 50% : _________________________________________________\n2) : ______________________________________________________\n□ 10% \n○ 10% \n : ( ○ ), ( × ) (O X )\n○ 10% : _________________________\n□ \n○ 38 4 \n- : ( ○ ), ( × ) (O X )\n- : ______________________________________________\n○ 3 2 \n- : ( ○ ), ( × ) (O X )\n- : ______________________________________________\n 20 \n \n .\n \n :\n : ( )\n \n※ \n- 51 1 50% . , \n 2 . .\n- 51 3 . , 3 . \n , .\n- 51 6 48 5 100 10\n .\n \n , ( ) , \n \n 11-3 ( )( )\n ( )\n \n (C) ∼ \n \n( )\n \n \n \n \n \n \n \n (A)\n \n \n1 . . . ∼ . . . %\n2 . . . ∼ . . . %\n . . . ∼ . . . %\n \n \n(HW․ ․ SW) \n( ) \n (B)\n1 \n2 \n \n- ( ) \n- ․ , \n- ( ) \n- 50% : _____________________\n- (C) = (A) + (B) + \n- = (A)/( (C)- (B)) X 100\n 19 .\n \n :\n : ( )\n :\n : ( )\n :\n : ( )\n \n - ( ) 1 \n- 1 \n※ \n- 51 1 \n50% . , 2 . \n .\n- \n . , \n .\n- .\n210 ×297 ( 80g/ )\n 12 ( )\n \n \n \n 5\n \n \n 6-1\n \n \n \n \nI\n , \n \n \nII-1\n \n \n \n , \n \n \nII-2\n AI \n AI \nPC \n \n \nIII-1 \n \n \nIII-2\n \n \n \n \n \n \n \n , \n , AI · \n \nIV\n \n \n \n-\n 13 \n 1) \n2) \n 3) 4) \n1\n ( )\n ( )\n2\n ( )\n ( )\n3\n ( )\n ( )\n4\n ( )\n ( )\n5\n ( )\n ( )\n6\n ( )\n ( )\n7\n ( )\n ( )\n8\n ( )\n ( )\n1) ‘ ’ 7 1 \n 7 2 \n2) ‘ ’ , \n (√), (√)( \n ) \n3) ‘ ’ 8 1 \n4) ‘ ’ , \n※ 8 4 ‘ 1 100 \n 40 ’ \n 14 \n \n1. \n \n AI - \n PMC \n □ \n□ \n■ \n□ \n , CCTV \n \n \n( ) 2026 6 ~ 2030 12 \n \n① · □\n② , , \n □\n③ □\n④ ( ) \n □\n⑤ □\n⑥ □\n⑦ ( \n , ) ■\n※ ①~⑥ 3 , 4 \n2. \n ■ ( )\n□ ( : )\n \n( )\n \n■ \n , \n■ \n□ \n3. \n \n \n · \n□ ■ \n※ 3 4 \n · \no\n4. ·\n \n( )\n□ \n□ ‘ ’ \n□ *\n* Open API , · , \n , \n( : )\n□ \n( : )\n5. \n■ \n- , SW/HW , \n .\n□ \n2026 7 31 \n ( )\n210 ×297 ( 80g/ )\n 15 ( )\n \n \n AI - \n (2026-2030/1,450 )\n \n \n① (FP) SW \n - - \n② ( , \n , )\n- - \n③ - - \n④ - - \n \n⑤ -\n \n \n- \n 10 3 \n .\n2026 7 27 \n ( )\n \n 16 ( , SW , ’24.12 )\nNo (o,x)\n1 \n ( ) ○\n ( ) ○\n2\n SW \n SW \n (BMT)\n 3 SW SW \n 5 \n (GS) CC NET NEP 5 \n SW \n SW ( \n 40% ) \n SW ( )\n BMT \n3\n SW \n \n ○\n ○\n 2 \n \n \n \n4 \n \n ( )\n (50% ) ( )\n ( \n ) ( )\n ( )\n 10% ( )\n5 SW \n( )\n SW ( X)\n ( X)\n \n ( X)\n6 SW \n \n ○\n \n ○\n \n ○\n7 SW \n \n SW , \n ( X)\n8 \n \n 1 \n ( X)\n ( \n ) ( X)\n ‘ ’ ( X)\n ( ) \n ( X)\n9 \n10\n \n ( \n )\n SW ○\n \n11 (90%)\n \n 90:10 \n ○\n12 SW \n \n SW \n ○\n 30 ○\n , \n13 SW 20 SW ○( )\n14 SW ○\n15 SW \n \n SW \n ○\n16 \n \n SW \n \n17 SW SW ○\n18 SW SW \n SW \n* SW \n 17 \n※ [ ] √ .\n 14 \n \n \n \n \n \n [ ] [ ] \n \n \n \n \n ( ※ )\n \n ( ※ )\n \n ( ※ )\n \n \n \n ( ※ )\n 50 3 .\n \n ( )\n \n \n \n \n \n : \n210mm×297mm[ 80g/ ]",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "2026. 09.\n ,\n \n \n< >\nⅠ . \n1. 1\n2. 2\n3. 6\n4. 15\nⅡ . \n1. 47\n2. 48\n3. 48\n4. 50\nⅢ . \n1. 52\n2. 55\n3. 61\nⅣ . \n1. 65\n2. 73\n[ 1 ] 74\n[ 2 ] 75\n[ 2-2 ] 77\n[ 3 ] 78\n[ 3-2 ] 80\n[ 4 ] 81\n[ 4-2 ] KOICA ( ) 82\n[ 5 ] 83\n[ 6 ] 85\n[ 7 ] 86\n[ 8 ] 87\n[ 8-2 ] 88\n[ 9 ] 89\n[ 10 ] 90\n[ 11 ] 96\n[ 11-2 ] 97\n[ 11-3 ] ( ) 99\n[ 12 ] 101\n[ 13 ] 101\n[ 14 ] 103\n[ 15 ] 104\n[ 16 ] 105\n[ 17 ]...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "2026. 09.\n ,\n \n \n< >\nⅠ . \n1. 1\n2. 2\n3. 6\n4. 15\nⅡ . \n1. 47\n2. 48\n3. 48\n4. 50\nⅢ . \n1. 52\n2. 55\n3. 61\nⅣ . \n1. 65\n2. 73\n[ 1 ] 74\n[ 2 ] 75\n[ 2-2 ] 77\n[ 3 ] 78\n[ 3-2 ] 80\n[ 4 ] 81\n[ 4-2 ] KOICA ( ) 82\n[ 5 ] 83\n[ 6 ] 85\n[ 7 ] 86\n[ 8 ] 87\n[ 8-2 ] 88\n[ 9 ] 89\n[ 10 ] 90\n[ 11 ] 96\n[ 11-2 ] 97\n[ 11-3 ] ( ) 99\n[ 12 ] 101\n[ 13 ] 101\n[ 14 ] 103\n[ 15 ] 104\n[ 16 ] 105\n[ 17 ] 108\n[ ] \n[ ] * \n \nAI Artificial Intelligence (AI) • · · \n \nAPI Application\nProgramming Interface\n \n (API)\n• \n \ne-SUD Electronic Judicial\nInformation System\n (e-\nSUD)\n• \nF/S Feasibility Study (F/S) • \nIPM Integrated Project\nManagement System\n \n(IPM)\n• \n \nLLM Large Language Model (LLM) • · AI\n \nLMS Learning Management\nSystem\n \n(LMS)\n• \nMDT Ministry of Digital\nTechnologies\n (MDT) • \nMHESI\nMinistry of Higher\nEducation, Science and\nInnovations\n · · \n(MHESI)\n• \nMOJ Ministry of Justice (MoJ) • · \n \nMSA Microservice\nArchitecture\n \n (MSA)\n• \n \nOD Output Description \n (OD)\n• , , , \n \nODA Official Development\nAssistance\n (ODA) • · \n \nPAO Project Action Officer \n(PAO)\n• \n \nPC Project Contractor (PC) • \nPDM Project Design Matrix (PDM) • , , , \n \nPM Project Manager (PM) • \nPMC Project Management\nConsultant\n (PMC) • , , , \n \nPOD Project Output\nDescription\n \n(POD)\n• \nPSC Project Steering\nCommittee\n \n(PSC)\n• \n \nRAG Retrieval-Augmented\nGeneration\n (RAG) • AI \n \nRD\n(R/D)\nRecord of Discussion (R/D) • \nRFP Request for Proposal (RFP) • \n \nSDGs Sustainable\nDevelopment Goals\n \n(SDGs)\n• UN \nTSUL Tashkent State\nUniversity of Law\n \n \n(TSUL)\n• \nI \n . : AI - (2026-2030/1,450\n ) PMC \n* (ENG) PMC Service for the Project for Building an Environment for AI-based Legal\nService and Capacity Development in Uzbekistan\n . : 2030.12.31. \n . : , \n . : 7,674,351,351 ($5,561,124/1$=1,380 , 2026 )\n( )\n- 2026 : 257,266,371 ($186,425/1$=1,380 , 2026 )\n- 2027 : 3,185,763,573 ($2,308,524/1$=1,380 , 2026 )\n- 2028 : 1,595,787,029 ($1,156,367/1$=1,380 , 2026 )\n- 2029 : 1,317,767,189 ($954,903/1$=1,380 , 2026 )\n- 2030 : 1,317,767,189 ($954,903/1$=1,380 , 2026 )\n 2026 : 1,380 \n . \n AI \nDevelopment of a Master Plan for the Integration of AI-based Legal Services and the\nTraining of Digital Legal Professionals\n- \nEstablishment of a mid- to long-term capacity-building roadmap\n- \nDevelopment of a curriculum and implementation plan for interdisciplinary legal education\non digital transformation\n- AI (ISP) \nDevelopment of an Information Strategy Planning (ISP) for an AI-based legal services\nplatform\n AI · · PC 3 \nTechnical Support for the Selection of Three Project Contractors (PCs) for AI Platform\nDevelopment, Equipment Provision, and Information System Supervision\n AI \nCapacity Building in Digital and AI-related Legal Competencies\n- \nEstablishment and operation of an interdisciplinary law curriculum on digital transformation\n- \nKorea invitation training program on law and digital transformation\n- - \nJoint Korea-Uzbekistan research and academic activities\n- \nSupport for a degree program in law and digital transformation\n \nOverall Project Management and Performance Management\n- AI \nProject management for the development of an integrated AI-based legal services platform\n- IT \nProject management for IT capacity-building activities\n- \nProject management for equipment provision\n- PC \nTechnical support for the selection of a project contractor (PC) for information system\nsupervision\n- Performance management\n- Project management\n- Public relations and communications\n . \n \n- \n- AI \n- \n . \n \n⬆\n \n \n \n \n \n⬆ ⬆ ⬆ ⬆\n \n \n \n \n \nAI \n \n \nAI \n \n \n⬆ ⬆ ⬆ ⬆\n \n \n \n \n \nAI \n \n \n \n \n \n \n \n \n \n \n \n \n - \n AI \n \n (ISP)* \n \nICT \n . \n (Tashkent) (MOJ:\nMinistry of Justice) (TSUL: Tashkent State University of Law)\n \n 7km 20 \n , , IT , , \n . \n \n2026 2027 2028 2029 2030\nQ1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4\n \n \n \n \nR/D\n \n \nRD\n \nPMC\n \n \n \n* \n \n \n \nPC\n \n \n \n \n \n \n \n \n \n \n ,\n /\n \n \n \n , \n ,\n \n \n \n \n \n \nAI\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n(ISP)\n \n \n \n \nPC \n \n \n \n \n \n \nAI\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nAI\n \n \n \n \n \n \n \n \n \n \n \n \n \n \nAI \n \n *\n \n \n ( \n \n )\n \n \n \n \n \nIT \n \n \nIT\n \n \n \n \n \n \n \n \n \n \n※ PMC , , , AI , PC \n※ PMC “ ” , \n \n , \n .\n* , PC1( \n ) \n . \n1) \n \n \n \n AI \n \n AI \n AI \n \n AI \n ICT \n \n , \n , , \n \n AI \n \n AI \n AI \n \n ( , )\n , , \n \n2) \n \n (Project Steering Committee, PSC)\n- KOICA \n- (MoJ), (TSUL)\n▶ - -TSUL RD \n- \n- \n- \n↑\n (Project Implementation Unit, PIU) - \n- KOICA , PMC\n- (TSUL)\n- \n- \n↑\n \nPMC(Project Management Consultant)\n- , , \n \n- , , PC \n- , , \n- ( ) ( )\n- , \n- KOICA PMC \n- \n (TSUL) (TF)\n- \n- , \n- \n- \n- PMC \n \n↑\nPC 1\n AI \nIT \nPC 2\nICT \nPC 3\n \n- KOICA PC \n- PMC PC \n \n \n( ‘ 1. ’ )\n . \n1) \n \n(Component or\nProject Output)\n \n \n \n \n(Activities)\n \n \n / \n(Outputs)\n \n( )\n(Output 1.1)\nAI \n \n (Activity 1.1.1) \n (Activity 1.1.2) \n \n (Activity 1.1.3) AI \n (ISP) \n( )\n·AI, \n \n·Governance \n·TSUL , TSUL \n , \n·AI, \n \n·AI, \n \n· \n·AI, \n \n· , , \n· \n· \n· \n· \n· \n· \n· \n· \n· ( )\n· ( )\n· ( )\n(Output 1.2)\n \n \n (Activity 1.2.1) \n \n (Activity 1.2.2) \n \n (Activity 1.2.3) - \n \n (Activity 1.2.4) \n \n( )\n· \n· \n· \n· \n· \n· \n· \n· \n· \n· \n \n( )\n· / \n· \n· \n· \n· \n· \n· \n· \n· \n· \n· \n· \n· \n· \n· \n· / \n2) \n AI , \n , AI \n \n ▴AI , ▴ AI , ▴\n \n PMC \n \n , ( ) \n \n \n . ( , ‘ 2. POD/OD’ )\nOutput ‘2.1 AI ’ ‘2.2 ’ \n IT (PC1), (PC2), \n (PC3) . PMC PC \n , · · , \n , , KOICA . PMC \n .\nOutput Acitivity PC\n2.1. AI \n \n2.1.1 AI PC1(IT )\n2.1.2 PC2( )\n2.1.3 ICT PC2( )\n2.1.4 PC3( )\n2.2. \n \n2.2.1 IT PC1(IT )\n2.2.2 PC1(IT )\n1) (Output 1.1) AI \n (1.1.1) \n- ( ) AI \n , TSUL AI \n , AI Literacy AI \n 3 AI \n- ( ) TSUL AI \n \n- ( , ) , · \n \n- ( ) AI \n (GAP) \n- ( ) AI , \n , \n (1.1.2) \n- ( ) , AI \n \n- ( ) AI ( ) \n \n- ( ) AI \n (1.1.3) AI (ISP) \n- ( ) / / , IT , / / ,\n (CSF) \n \n- ( ) AI / / / \n- ( ) / / , / / \n , \n- ( ) , , \n / / HW/SW/NW . \n / \n- ( ) . \n / \n PC \n- ( ) / / \n \n- (PC1 ) \n ( ) , (RFP) , \n \n- (PC2 ICT ) \n , (RFP) , \n \n- (PC3 ) (RFP) \n , \n2) (Output 1.2) AI \n (1.2.1) \n- TSUL , TSUL \n . AI , AI \n TSUL ( ) (2028 3\n 2 )\n (1.2.2) \n- ( /15 *2 *2 ) TSUL 15 \n 14 2 , AI \n , AI TSUL \n · .\n- ( /15 *2 *2 ) TSUL 15 \n2 , AI .\n- AI, , ESG , \n \n[ \n( )]\n( )\n 2027 2028 2029 2030 2031 \n 15(2 ) 15(2 ) 30\n 15(2 ) 15(2 ) 30\n (1.2.3) - \n- TSUL 3 \n , 2 , 2 , \n .\n- TSUL AI· \n 3 \n (1.2.4) \n- TSUL \n(4 *2 ), (1 *2 ) \n- TSUL (2 ) \n \n* , \n[ \n \n( )]\n \n , \n \n 2027 2028 2029 2030 \n 4 0(4) 4 0(4) 8\n 1 0(1) 1 0(1) 2\n3) \n AI \n- \n- \n- ( ) , \n( , ) AI \n- ( ) \n , (NLP) \n- ( ) AI , , \n (UI/UX) \n- ( ) · · , AI \n \n- ( ) , ,\n \n- ( ) , \n , \n- ( ) , \n AI \n- ( ) , \n \n- ( ) / , \n \n- ( ) \n , \n IT \n- \n- ( ) AI , , \n , , , \n \n- \n \n- \n- \n- , \n- \n PC \n- PC \n(RfP) \n- PC \n \n- (PDM ) PDM ( , , , ) \n· KOICA , · PDM \n \n- ( (Baseline survey)) KOICA , PDM \n \n- ( ) , \n , / \n \n- ( ) , \n \n \n- \n( )\n- \n- \n- \n- \n- / \n- \n- / \n- ( )\n- ( )\n- \n※ (raw data) \n \n- , , , \n , \n- ( ) , , , , \n \n- ( ) .\n , \n- ( ) , \n , \n- ( ) (PSC, Project Steering Committee) , \n , \n \n- ( ) , \n \n- ( ) \n \n- ( , TV, ) , \n · , \n- KOICA PMC , KOICA \n \n . \n \n- KOICA- (PSC) \n , (PIU) \nPC · \n- PMC \n , \n \n \nKOICA \n- \n- PMC \nKOICA \n- \n- \n- ( , )\n- \n (Project\nSteering\nCommittee)\n- , \n- \n \n(Project\nManagement Unit)\n- \n- ( ) \n- PM \n- \nPMC/PC\n- KOICA \n- \n- \n- \n- \n- , · , \n- , , \n (MoJ)\n \n(TSUL)\n- \n- ( ) \n- \n- \n4. \n . \n ID \n1\n - CSR\n(ConSulting\nRequirement)\n , Governance \n , , , \n , , \n , , \n \n , , \n , , , PC \n \nCSR-000 17\n2 - TRR\n(TRaining Requirement)\n \n TRR-000 7\n3\n - DER\n(Development\nRequirement)\n \n DER-000 3\n4 - ECR HW, SW, NW \n ( ), \nECR-000 3\n(Equipment Composition\nRequirement)\n5 - SER\n(Security Requirement)\n · \n \n \nSER-000 3\n6 - QUR\n(Quality Requirement)\n , \n QUR-000 2\n7\n - PMR\n(Project Management\nRequirement)\n , \n PMR-000 11\n \n . \n CODE \n \nCSR-001 AI, \nCSR-002 Governance \nCSR-003 AI, \nCSR-004 AI, \nCSR-005 \nCSR-006 \nCSR-007 \nCSR-008 AI, \nCSR-009 \nCSR-010 \nCSR-011 \nCSR-012 \nCSR-013 \nCSR-014 \nCSR-015 \nCSR-016 \nCSR-017 PC \n \nTRR-001 \nTRR-002 AI, \nTRR-003 \nTRR-004 AI, \nTRR-005 · \nTRR-006 \n DER-001 \nDER-001 DB \nDER-003 \n \n \nECR-001 \nECR-002 \nECR-003 / , , \n \nSER-001 \nSER-002 \nSER-003 \n \nQUR-001 \nQUR-002 \n \nPMR-001 \nPMR-002 \nPMR-003 \nPMR-004 \nPMR-005 \nPMR-006 \nPMR-007 \nPMR-008 \nPMR-009 \nPMR-010 \n . \n(1) \n \n CSR-001\n AI \n \n · \n \n AI \n- AI \n \n AI \n \n- AI , TSUL AI , \n AI Literacy 3 \n \n AI \n- AI , \n TSUL AI \n , AI Literacy AI \n 3 AI \n \n- ( / ) \n AI, \n , FGI(Focus Group Interview) ( / ) \n \n CSR-002\n Governance \n \n \n AI Governance , \n \n \n Governance \n- (MHESI, Ministry of\nHigher Education, Science and Innovations), TSUL \n (MOJ, Ministry of Justice) AI \n (MDT, Ministry for Digital Technologies) \n- Governance \n- \n \n- AI \n- TSUL \n- \n Governance \n \n \n CSR-003\n AI, \n \n AI TSUL , , \n \n \n- TSUL \n \n- \n- \n- , \n- AI \n TSUL \nTSUL , \n \n \n CSR-004\n AI, \n \n \n AI \n \n AI \n \n- \n (GAP) \n AI, \n \n \n CSR-005\n \n \n \n TSUL AI , \n , \n \n \n- TSUL, TSUL , AI\n \n- ( , ) \n- \n AI \n- TSUL AI , , \n \n- , , AI \n \n AI \n- \n- , \n- \n AI \n \n \n CSR-006\n \n \n \n \n \n \n- \n- \n- \n \n- \n- \n- \n- \n- \n- \n \n \n \n CSR-007\n \n \n \n , \n \n \n \n- TSUL, , \n- AI \n- \n \n- , \n- \n AI \n \n \n CSR-008\n AI \n ( ), \n \n \n \n- AI \n- \n- \n \n- \n- ( )\n \n- \n- , \n \n- ( , , )\n- AI (Continuous\nQuality Improvement: CQI) \n , , \n \n \n CSR-009\n \n \n \n \n \n \n- \n- \n \n- \n- \n \n \n \n CSR-010\n \n \n \n , , , ICT \n , , , \n- \n- AI \n- AI \n \n- CIS \n \n \n \n CSR-011\n \n \n \n TSUL \n \n \n- \n- , , \n- Chatbot AI \n \n- Legal Clinic \n- \n- AI \n \n- , \n- NGO \n- \n \n- \n- Digitalization, Migration \n \n- AI \n ICT \n- ICT \n- HW/SW/NW , \n- (GDC) Colocation \n- TSUL \n ICT \n- AI \n- AI \n AI Governance \n- Governance \n- AI \n (CSF) (CIR) \n \n \n , , AI \n , \n \n CSR-012\n \n \n \n AI \n \n AI \n- , , \n (GAP) \n \n \n \n CSR-013\n \n \n \n \n \n \n- (CSF) \n (CIR) \n \n- \n- \n \n \n \n CSR-014\n \n \n \n \n \n \n- (CSF) \n (CIR), / / \n- \n \n \n \n CSR-015\n \n \n \n \n \n \n- AI AI \n- \n- \n \n- , \n- \n \n- HW/SW/NW \n- \n \n \n \n CSR-016\n \n \n \n \n \n \n- \n- \n- (Road-Map)\n- \n \n- \n- \n \n \n \n CSR-017\n PC \n \n \n PC \n \n PC \n- \n- \n- \n- \n- ( ) ( )\n- / / (RFP) \n PC \n \n \n(2) \n \n TRR-001\n \n \n \n AI \n \n TSUL AI , \n \n ( \n 2 , 4 , 3 (2028-2030) 12 )\n \n IT (2028 \n2030 3 1 *30 , 6 )\n \n , .\n , , , \n \n \n TRR-002\n AI, \n \n \n TSUL AI \n \n \n , \n \n , \n : 5 / \n \n TRR-003\n \n \n \n AI \n \n TSUL 15 \n 14 2 \n AI \n , AI TSUL \n · \n TSUL , , \n AI \n \n \n \n , \n : 15 /14 / 1 , 2 \n \n TRR-004\n AI, \n \n \n TSUL AI \n \n \n \n TSUL 15 2 \n AI \n AI \n (AI. , ESG ) \n \n \n , \n : 15 /14 / 1 , 2 \n \n TRR-005\n · \n \n \n - AI · \n \n TSUL \n 3 \n TSUL , \n \n 500 \n TSUL AI \n 2028 \n2030 3 3 \n \n \n \n TSUL .\n - \n \n 4 , \n .\n* 2 , 2 ( )\n \n , / , \n \n \n TRR-006\n \n \n \n TSUL AI \n \n \n \n TSUL \n \n \n \n , \n \n(3) \n \n DER-001\n \n \n \n PC \n \n PC \n \n \n PC PC \n \n \n- \n- \n \n- ( ) , \n ( , ) \n AI \n- ( ) \n , (NLP) \n \n- ( ) AI , \n , \n (UI/UX) \n- ( ) · · \n , AI \n- ( : , \n , \n \n \n \n DER-002\n DB \n \n \n PC \n \n PC \n \n \n PC PC \n \n \n- \n- \n \n- ( ) \n , \n \n- ( ) , \n AI \n- ( ) \n \n- ( ) \n , \n- ( ) \n \n \n \n \n DER-003\n \n \n \n \n \n EPUB 3.0 \n \n- \n- \n \n , , \n \n(4) \n \n ECR-001\n \n \n \n \n \n PC \n \n \n IT ,\nIT \n \n , \n (PC) \n \n ECR-002\n \n \n \n \n \n \n- AI IT \n- PC (RFP) \n \n- PC \n PC RFP \n (PC) \n \n ECR-003\n / , , \n \n \n / , , \n PC \n .\n- , Legal Clinic , (LED )\n- ( ) , , , , , \n- ( ) \n .\n* \n .\n , , & \n (PC) \n(5) \n \n SER-001\n \n \n \n \n \no · , \n \n \no \n , ( ) \n \n \n \n SER-002\n \n \n \n \n o ,\n \no \no \n \no , , , ,\n \no , , \n \n \no , \n , , \n \no , , \n \no \n \no \n \n \n \n SER-003\n \n \n \n \n \no \n \no \n \n , \no \n , \n \no \n 81 ( ) [ . \n ] , \n \n- ( ) , ‘ \n ’ \n- , \n ‘ ’ \n \n* ( , PC ) ‘ \n ’, ‘ ’ \n \n \n(6) \n \n QUR-001\n \n \n \n \n \n , \n , \n \n \n , ( \n )\n- \n- \n \n- \n \n \n ( \n ) ( ) \n( )\n ( ), \n \n \n QUR-002\n \n \n \n \n \n , \n \n- ‘ / ’ \n \n \n(7) \n \n PMR-001\n \n \n \n \n \n , \n \n , , \n \n \n \n \n PMR-002\n \n \n \n \n \n (PM) \n , \n \n \n \n \n PMR-003\n \n \n \n \n \n \n \n , \n , \n 5 \n · . , \n \n \n , · \n , \n \n \n \n \n PMR-004\n \n \n \n \n \n / , \n , , \n ( ) \n , \n \n \n PMR-005\n \n \n \n \n \n , , , , \n \n \n ( ) \n \n \n \n PMR-006\n \n \n \n \n \n , , · · · · · \n \n .\n \n \n \n \n \n PMR-007\n \n \n \n \n \n , \n \n , , \n \n \n \n \n PMR-008\n \n \n \n \n \n \n , , \n , , \n- worksheet \n- , , \n \n- ( ) \n USB \n , \n , , ( )\n \n \n PMR-009\n \n \n \n \n \n \n- , , , , \n \n , \n , \n \n \n \n PMR-010\n \n \n \n \n \n PDM : PDM PDM\n ( )\n : PDM \n \n : \n , \n※ KOICA “ ” \n : \n \n \n \n3) \n \n (M/D)\n \n \n \n \n \n(PM)\n 1 2 \n[ ]\n· ( \n )\n· \n[ ]\n· \n· \n \n· \n· ODA \n· \n· \n- , \n \n- \n- \n \n- \n440 217 657\n 1 3 [ ]\n· ODA \n[ ]\n· · \n \n· \n· \n- \n- / \n \n40 56 96\n \n(PL)\n 1 3 \n[ ]\n· \n· \n· \n[ ]\n· \n· \n· \n- \n- \n \n- AI, \n \n- \n- \n- AI, \n \n- \n \n- \n \n- \n \n30 594 624\n (PL) 1 2 \n[ ]\n· , \n \n· AI \n , (ISP) \n \n· ODA \n[ ]\n· AI \n \n· \n· \n- , \n \n- \n- \n- \n- \n- , , IT \n PC \n- / / \n \n- IT \n- \n- AI \n198 426 624\nICT 1 4 \n[ ]\n· \n \n· ODA \n[ ]\n· AI \n \n· \n- , \n \n- ICT \n \n- ICT \n \n- \n- \n- \n- PC \n- \n \n- \n / \n54 56 110\nPAO 1 6 \n[ ]\n· ODA \n[ ]\n· \n \n· \n· \n- \n- \n- \n- \n110 217 327\n[ \n ]\n[ ]\n \n \n 1 3 [ ]\n· , \n \n- AI, \n \n- \n132 63 195\n \n AI\n \n \n \n· \n \n[ ]\n· ODA \n· \n· \n- \n- \n- \n[ ]\n \n \n 1 3 \n[ ]\n· , \n \n· \n \n[ ]\n· ODA \n· \n· \n- \n \n- \n44 42 86\n[ ]\nIT \n \n 1 3 \n[ ]\n· AI \n , (ISP) \n \n· ODA \n[ ]\n· IT , \n· \n- IT \n- IT \n- \n- IT \n- \n- \n- \n- , IT PC\n \n147 63 210\n[ ]\n \nAI \n 1 3 \n[ ]\n· AI \n , (ISP) \n \n[ ]\n· ODA \n· \n· \n- \n- AI \n- \n- \n- \n- \n- \n- \n- , IT PC \n \n147 63 210\n[ ] \n \n 1 3 \n[ ]\n· AI \n , (ISP) \n \n[ ]\n· ODA \n· \n \n· \n- \n- \n- \n- \n- \n- \n- \n- \n- , IT PC \n \n147 63 210\n[ ] \n \n 1 3 [ ]\n· AI \n , (ISP) \n \n[ ]\n· ODA \n· \n· \n- \n- \n- \n- \n- \n- \n- \n147 63 210\n- \n \n- , IT PC \n \n[ \n ]\n \n AI\n \n \n[ ] ( \n AI \n )\n 1 3 \n[ ]\n· , \n \n· AI \n[ ]\n· \n \n· \n· \n- \n- AI \n- \n- \n336 336\n[ ]\n(AI )\n 1 3 \n[ ]\n· \n· \n[ ]\n· \n \n· \n· \n- AI \n \n- \n \n- \n- \n672 672\n[ ]\n( \n )\n 1 3 \n[ ]\n· \n· \n[ ]\n· \n \n· \n· \n- ,\n , , , \n \n- \n- \n336 336\n[ ]\n(AI )\n 1 3 \n[ ]\n· , \n \n· AI \n[ ]\n· \n \n· \n· \n- AI 180 180\n \n : (PM) 1 \n \n- ( , , , , , \n( ( ), , 4 ) ) .\n- , ( \n ) .( 3 )\n1) ( ( ), , 4 )\n2) \n3) \n-       ,          .\n- , \n- · ( ) \n .\n- .\n1) \n- , \n \n2) , / ( / \n ) \n* , ( : 1 , \n 365 )\n- (PM) \n- TOEIC 700 ( TEPS 557\n , 301 , TOEFL/IBT 80 , 5 ) \n .\n* 5 \n ( ) \n .\n- (PM) \n- (PM) \n- \n- \n PM \n ( ) .\n- , (‘20.1.1 ) .\n PM \n ( ) .\n- , (‘20.1.1 ) .\n , ( , ) , \n , .\n- \n- 1M = 22D . \n , ․ .\n (IPM .)\n : ( , ) , \n : , \n : , IPM \n \n3) \n (Project Output)\n \n1.1 AI \n \n·AI, \n·Governance \n·TSUL , TSUL , \n·AI, \n·AI, \n· \n·AI, \n· , , \n· \n· \n· \n· \n· \n· \n· \n· \n· ( )\n· ( )\n· ( )\n1.2 \n \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n· ( / ) 1 \n- \n· ( / )\n· ( / )\n· ( / )\n· ( / )\n· ( / )\n· ( / )\n· ( / )\n· ( / )\n· ( / )\n· ( / )\n- , [ 2] (OD) \n , \n , Ⅱ . (2-2. ) .\n- .\n- \n , .\n- , \n .\n (Sub-Output)\n \n \n \n( , ) \n1.1 \nAI \n \na.1.1.1-1 AI, \n / 1 \n 1 \na.1.1.1-2 Governance / 1 \n 1 \na.1.1.1-3 TSUL , TSUL \n , / 1 \n 1 \na.1.1.1-4 AI, \n / 1 \n 1 \na.1.1.1-5 AI, \n / 1 \n 1 \na.1.1.1-6 / 1 \n 1 \na.1.1.1-7 AI, \n / 3 \n 1 \na.1.1.1-8 , , / 1 \n \n1 \na.1.1.1-9 / 1 \n 1 \na.1.1.1-10 / 1 \n \n1 \na.1.1.1-11 / 1 \n 1 \na.1.1.1-12 / 1 \n 1 \na.1.1.1-13 / 1 \n \n1 \na.1.1.1-14 / 1 \n 1 \na.1.1.1-15 / 1 \n \n1 \na.1.1.1-16 / 1 \n 1 \na.1.1.1-17 ( ) 1 \n 1 \na.1.1.1-18 ( ) 1 \n \n1 \na.1.1.1-19 ( ) 1 \n \n1 \n1.2. \n AI \n \na.1.2.1-1,2 , ( \n )\n / / 1 /\n 1 \n 1 \na.1.2.1-3,4 / / / \n 1\n /\n \n 1 \na.1.2.2-1,2 / / / \n \n1 / 1 \na.1.2.3-1,2 / \n ( )\n / / \n1 / \n 1 \na.1.2.4-1,2 / ( \n )\n / / \n1 / \n 1 \n (Management Document)\n \n \n \n \n*([ ] \n )\n / 1 \n* ([ ]\n ) / 1 \n \n( ) 1 / / 1 \n / 1 \n \n ( \n \n , \n )\n 1 \n 1 1 \n 1 1 \n 1 1 \n 1 1 \n 1 1 \n 1 / / 1 \n 1 1 \n 2 / 1 \n 3 1 \n 1 \n 1 / 1 \n 1 / / 1 \n* \n ( ) , , , \n .\nII \n \n ( ) \n- ( ) http://www.g2b.go.kr\n* , \n(https://nebid.koica.go.kr) \n- . ( : 1169) ( : 9999)\n- ( )( 1468)\n 27 , 76 ( \n ) 72 \n 1 , 6 9 \n 27 5 12 3 ‘ \n ’ 2 \n- 12 3 \n · , \n .\n 13 4 2 1 , · \n 13 4 2 2 ODA \n , 27 4 \n 5 2( ) 4 2 \n ( ), \n- · , \n .\n 48 ( ) \n \n 48 4 , \n \n- 48 4 31 \n ( 48 3 \n ) \n \n* \n \n 8 80 \n 8 40 \n 2 \n 2 ‘ ’ 5 20 \n※ 5 , ( : \n )\n※ SW ( \n48 4 , ‘24.7.24 )\n 40 80 48 ( \n ) 2 , 3 \n 8 \n 80 48 ( \n ) 5 ( \n ‘ : , 20 , 40\n ’ ), 8 \n SW , SW \n ( 48 2 4 , 2 1\n ) \n ( , ) , 5 \n ( )\n※ 1 \n※ , , \n 10% \n , \n . : ( ) \n . : (90%)․ (10%) ( )\n . \n \n \n \n \n \n ‘ ’ ‘KOICA - - ’ ‘ -\n - - ’ \n . : \n . ( ) : \n . \n1) \n , ( ) \n 85% \n (90%) (10%) \n- , \n 8 2 \n .\n1. \n \n2. 1 \n \n \n \n- ( \n )\n- \n2) \n .\n , \n , .\n .\n , \n \n .\n \n .\n , , \n .\n3) \n , \n , \n .\n ( ) \n \n- ( \n ) .\n , ,\n .\n ‘ ’ ‘KOICA ’ ‘ \n ( ’ \n , \n ( : / \n , ) \n , , , \n .\n , · , \n , ( \n 0 )“ .\n , , \n , .\n , \n .\n 7 , \n .\n \n . , “ ” \n .\n · ( ) , \n .\n , 3 \n , .\n ( ) “ ” , \n .\n ( 3 ) , \n .\n KOICA “ ” \n .\n \n , PAO 2 \n .( PAO , \n PAO \n ) PAO \n , KOICA PAO .\n PAO PAO , \n .( PAO \n )\n , 3 \n .\n 16 , 17 , \n .\n□ \n ( ) 50 \n ( ) ( ) ( )\n 50 , 47 1 2 , 3 \n · , \n * , \n \n* 13 \nIII \n . \n , , , .\n . \n \n .\n , \n \n .\n \n , , \n . , , \n .\n , \n .\n , \n .\n \n .\n [ 3 ] \n .\n , \n .\n \n .\n ( ) \n .\n . \n1) \n I( ), II( ), ( ), \n , .\n- , \n 160%, 25 , 20 , 15 , \n ( ).\n- : Ⅰ . Ⅱ . Ⅲ . ...(16point )\n- : 1. 2. 3. ...(13 point )\n- : 1-1, 1-1-1, 2, 2-1, 2-1-1, ...(13 point)\n , , “ \n ” .\n '~ , ~ ' .\n , .\n , [ 1 ] .\n , “ ( , )” \n .\n( ) PBX(Private Branch eXchange, )\n \n .\n , , , .\n2) \n I, ② II, ③ ( ) , ( ~ ) \nPDF \n PDF . ※PDF \n I, ② II, ③ , (PDF) 300MB \n \n ( ) \n \n \n , \n .\n- , \n . , , , .\n- , , · , \n , , \n ( 0\n ) , \n .\n – ,\n [ 3 ] ( , \n ( ) ) .\n .\n※ 1 [ 3 ] .\n※ [ 3 ] .\n . \n , , 3 \n .\n1) ( ), , 4 \n2) \n3) \n · ( \n ) .\n . \n1) I( )\n* \nI. \n1. \n2. , \nII. \n1. \n1-1. \n1-2. \n1-3. \n1-4. , \n2. \n2-1. \n2-2. AI \n2-3. AI \n2-4. PC \nIII. \n1. \n1-1. \n1-2. \n2. \n2-1. \n2-2. \n2-3. \n2-4. \n2-5. \n2-6. \nIV. \n , , ( ) \n2) II( ) ( )\n1. ( 8-2 )\n1-1. ( )( 7 )\n1-2. ( 5 )\n1-3. \n1-4. ( 5 , , , \n )\n1-5. KOICA ( )( 4-2 )\n2. ( 5 )\n2-1. ( )( 7 )\n2-2. ( 5 , , , \n )\n※ 4 \n3) ( ) ( )\n1. ( ) \n2. ( 8 )\n3. ( ) \n4. \n※ , [ 3 ] , \n \n4-1. \n5. \n4) ( )\n PT PPT 20 PDF \n※ PT \n . \n1) I( )\n \n \n- ○ [ 12 ] \n . 12 \n- ○ .\nI. 10% \n1. \n○ , ( 3 ) \n , \n ( ) \n \n .\n○ .\n* : \n \n 2 \n 2-2 \n2. , \n \n○ ( ) .\n○ \n .\n 3 \n 3-2 \nII. 50% \n1. \n1-1. \n \n○ \n .\n1-2. ○ (As-is) (To-\nbe) .\n1-3. \n \n○ , , , , , , , \n .\n1-4. , \n \n○ PDM \n PDM ① \n(Output-Outcome-Goal), ② \n(Objectively Verifiable Indicators: OVIs) ③ \n (Means of Verification: MOV) \n , PDM \n .\n- , PDM , \n , .\n2. \n2-1. \n○ \n .\n- , , \n \n .\n○ , , \n .\n2-2. AI \n \n○ , \n .\n- \n- \n- \n- \n- AS-IS/ TO-BE \n- \n- \n- \n2-3. AI \n \n○ .\n- \n- \n- \n- \n- \n○ \n- \n- ( )\n- \n- \n- \n○ .\n- \n- ( )\n- \n- \n- \n○ .\n- \n- ( )\n- \n- \n- \n2-4. PC \n \n○ , .\n- (RFP) , \n- , \n- PC , \nIII. 30% \n1. \n \n1-1. \n○ ① \n , ② , ③ \n .\n- PM , , , \n .\n※ , PAO , \n , , ( 3\n )\n※ \n※ ‘ II( )’ \n \n 4 \n1-2. \n○ .\n※ \n○ \n .\n○ , \n , .\n 6 \n2. \n2-1. \n○ / , \n(Baseline survey), (Endline survey), \n(Foramtive Research), PDM \n .\n2-2. \n○ \n .\n- , \n2-3. \n○ , \n , \n .\n○ , \n , .\n2-4. ○ \n .\n2-5. \n○ \n .\n① PDM \n \n- , , \n \n② \n- \n․ , / , \n , \n2-6. ○ , , \n .\nIV. \n○ , \n , AI \n , / , \n , ESG / \n .\n ) ( ) PDM , \n \n( ) / \n , , ESG / \n \n10% \n2) II( )\n \n1. \n \n○ \n . 8-2 \n1-1. \n ○ . 7 \n1-2. \n \n○ .\n※ , 5 \n1-3. \n \n○ .\n※       ,    \n       .\n1-4. \n \n○ 5 \n , , , \n .\n※       ,    \n       .\n1-5. KOICA \n ( )\n○ KOICA \n . 4-2 \n2. \n○ .\n※ , \n※ \n※ \n \n 5 \n2-1. \n ○ . 7 \n2-2. \n \n○ 5 , , , \n .\n※       ,    \n       .\n3) ( )\n \n1. ( ) ○ ( / ) , \n . -\n2. ○ . 8 \n3. \n \n○ \n .\n-\n4. \n○ I( ) \n .\n※ , [ 3 ] \n , \n \n 3 \n4-1. \n \n○ I( ) \n .\n○ ( ) , .\n※ , , [ 9\n ] \n 9 \n4) ( ) : \n . \n , ,\n , , \n , SW \n ( 1 ) : 1,380 (2026 )\n※ : , \n KEB ( ) 1 ( \n ) . , (Cross Rate) , \n \n . \n1) \n \n(1 , : )\n 1 2 3 4 5 6 \n 460,000 360,000 310,000 280,000 240,000 190,000\n 30 1 , 22 22 \n . 30 22/30 . .\n ( / , , , , , , ) \n 3 , , .\nKOICA \n1 \n2 \n3 \n4 \n5 \n6 \n \n \n1 \n 20 \n 3 3 \n 4 3 \n 2 8 \n2 \n 15 \n 4 \n 4 3 \n 1 5 \n3 \n 10 \n 5 \n 4 2 \n 2,3 \n4 \n 7 \n 7 \n 4 \n 4 \n5 3 \n6 5 \n \n- 6 . \n- : 8 , 3 ( \n ) ( △ △ △ △ △ △ △ \n△ )\n- : △ △KOICA \n △UN △ NGO △ \n \n \n- : 2 , 5 , 5 ( , 2 \n 2 . )\n- , , 10 \n , 12 1 , \n 7 1 , 7 1 . \n (10 ) .\n- 10 , 1\n ( , )\n , , \n . .\n- \n \n2) ( )\n ( ) : ×(110% )\n : ×(10% )\n ( ) : ( + )×(40% )\n ( ) : 2 \n : 1 .\n ( ) : \n1. : 300,000,000 \n2. : 200,000,000 \n3. : 10,000,000 \n4. / : 20,000,000 \n ( ) KOICA \n \n1. - - - ( )\n2. KOICA , \n , , \n ( ) : , , , , , \n ( ) : 10% , \nIV \n . : \n . \n1) : \n※ ( , )\n (PT)\n► (PT) : (PM) 1 \n► : (PM) 1 \n- 10 , \n .\n- , \n .\n- (PM) , PM 3 , \n .\n , , \n .\n- (PM) ( ) \n .\n1) (PM) \n2) (PM) \n3) \n4) \n \n \n \n \n , \n \n , , , \n \n100%\n \n (RFP) , \n , / \n , , , \n \n \n85%\n \n( )\n (RFP) \n \n , , , , \n \n \n70%\n \n (RFP) , \n , \n , , , , \n \n \n55%\n \n \n (RFP) \n \n , , , , \n \n \n40%\n2) : \n3) : · 5~10 \n4) \n · \n \n ( 0 ) , \n \n .\n · .\n- ( \n , )\n- .\n- 1 , , .\n- , , .\n- ( , ) .\n< >\n \n \n \n ?\n- · ( , , ) , , , \n . , \n .\n \n- : (031-740-0140), (031-740-0147)\n- : 825 \n- : KOICA > > > \n- : (http://www.acrc.go.kr/) → → ( ) \n \n \n ?\n- ∙ ∙ \n . ( : , \n ∙ , ∙ , ∙ )\n- , . \n , \n .\n- , KOICA \n . ( , ,\n ( ) , , )\n \n- : (031-740-0140), ∙ (031-740-0143)\n- : 825 \n- : KOICA > > > \n- : ( http://www.epeople.go.kr) → → \n . \n \n \n \n(12 )\n \n \n- : \n .\n ( / ) , \n / \n4\n \n \n \n \n- : \n .\n6\n \n \n- [ 3 ] , \n .\n 3 \n ( / ) , \n \n \n \n \n \n \n \n- (PM) \n- (PM) \n .\n2\n \n \n \n(88 )\n \n \n \n \n- , , \n \n .\n5\n \n \n \n- : \n .\n- : (As-is) \n(To-be) .\n- : \n .\n- , : PDM \n .\n10\n \n \n- : \n .\n- AI : , , , \n , .\n- AI : , , \n .\n- PC : PC ,\n .\n25\n \n \n \n \n \n- : , , \n , \n .\n※ , \n \n- : , \n , , ODA \n , \n .\n18\n \n \n- : PDM \n . \n .\n- : \n .\n- : , \n , \n20\n . , \n , .\n- : \n .\n- : , \n .\n- : , , \n .\n \n- , , AI \n · , / \n , , ESG / \n .\n5\n \n \n \n \n- (PM) \n . 5\n , , \n \n , / , \n ( , 5 , )\n□ \n \n \n \n \n \nAAA, AA+,\nAA0, AA-, A+,\nA0, A-, BBB+,\nBBB0\nA1, A2+,\nA20,\nA2-, A3+,\nA30\nAAA, AA+, AA0,\nAA-,\nA+, A0, A-,\nBBB+, BBB0\n4.00 \nBBB-, BB+,\nBB0, BB-\nA3-, B+,\nB0\nBBB-, BB+,\nBB0, BB- 3.80 \nB+, B0, B- B- B+, B0, B- 3.60 \nCCC+ C CCC+ 2.80\n4\n \n \n \n( * \n ) \n ** \n* 40 \n** \n100% 6.0 \n6\n70% 100% 5.5 \n40% 70% 5.0 \n10% 40% 4.5 \n10% 4.2 \n \n \n \n( )\n 5 : 2.0 \n2\n 4 : 1.7 \n 3 : 1.4 \n 2 : 1.1 \n 1 : 0.8 \n : 0.0 \n [ 5] .\n□ ․ \n \n \nA. ( 10% )\n0.5 \n( 0.5\n )\nB. , , ( 20% )\n(1) ( ) ( , , , \n ) \n(2) \n0.5 \n0.25 \nC. ( 20% )\n(1) 2 1 2 \n ( ) 0.2 \nD. ( 20% )\n(1) 2 2 , ( \n ) \n(2) \n( ) 24 \n0.25 \n0.5 \nE. ( 20% )\n(1) ( ) \n(2) ( ) \n(3) ( ) ESG \n \n \n0.5 \n( \n2.0 )\nF. ODA (ODA (3 ) \nODA ) 0.5( 1 ) . , ODA (3\n ) ODA .\n \n0.5 \n( 1 )\n \nG. ( 2 \n )\n0.5 \n( \n2.5 )\nH. , , \n ( 0.2 )\n \n0.4 \n · [ 4] .\n . : [ ] \n \n . \n ) 100 80 \n․\n* : , 100 70 \n100 70 < 2015.9.21., 2023.6.30.>\n* : \n* , \n \n ) 100 80 \n․\n* : , 100 70 \n100 70 < 2015.9.21., 2023.6.30.>\n* : , 100 70 \n 30% < 2015.9.21., 2023.6.30.>\n* SW , , \n , \n 100 80 \n 30% < 2014.1.10, 2015.9.21., 2023.6.30.>\n* , \n \n ) \n \n ) \n \n3cm\n3cm 3cm\n \n(40Point)\n(20Point)\n(24Point)\n(18Point)\n \n1. \n \n \n \n \n \n ~ ( )\n ~ ( )\n \n2. \n \n \n 2 8 3 \n 335 3 \n , , \n , ( ) \n \n- ‘ ’ . , \n \n- ( \n )\n- \n \n- \n \n , ‘ ’ \n \n⑤ \n[ ] \n- ‘ ’ \n- ,\n ( ) \n \n ( 3 )\n( : )\n M-2 M-1 M \n \n \n⃝⃝ \n⃝⃝ \n⃝⃝ \n⃝⃝ \n \n \no :\n \n \n \n( )\n \n1\n /\n / \n \n2\n3\n4\n :\n- AI AI ( 5 )\n- AI ( , (ISP/ISMP), \n AI ) ( 5 )\n- , , , , \n※ \n① 5 \n( )\n- ( , \n 9 )\n- ( OO OO , 9 \n( , , , , , ( ), ( ) \n , ( ( ) ) \n )\n- ( ) .( \n )\n- [ 5] 3 \n \n \n \n \n \n \n \n \n① \n② \n① , ② \n ① \n \n ① \n \n① \n② \n③ ( )\n① , ② , ③ \n \n \n ① \n ① \n \n ① \n \n① \n② \n③ ( \n , )\n① , ② , ③ \n \n[ ]\n1. , , \n .\n2. : ( : , , ) \n \n3. \n( : , )\n4. : \n5. , , \n \n \n / \n \n▶ KOICA \n▶ .\n , \n .\n \n \n \n※ \n① ( \n )\n- , 3 \n② ( )\n- , \n ( )\n \n \n \n \n \n \n \n \n \n \n \n \n / \n \n \n(PM)\n \n \n \n \n \n \n \n \n \n \n \n \n : \n※ 5 , KOICA ODA YP( )\n \n- KOICA : / 1588-0434( : 09:00-18:00)\n / ‘ ’ \n※ SW · SW \n ( : , , SW ) \n 4-2 \nKOICA ( )\n \n \n \n \n \n \n \n OOO PM( ) OOO\n \n \n /\n \n \nOOOO \n20XX.00.00 ~\n20XX.00.00\nKOICA PM \n \n① . \n ( )\n- , 3 \n② ( )\n- , \n \n \n \n( ) \n \n( )\n( ) \n ( ) ( )( )\n \n \n ( ) \n \n \n \n \n \n ( )/ \n( )\n ( ) \n. . . ~ \n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n \n ( ) \n. . .\n. . .\n. . .\n \n A : Native speaker \n \n( )\nB : \n \nC : \nD : \n \n \n \n \n / ( ) \n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n \n \n / \n( )\n ( ) \n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\nODA \n \n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n. . . ~ . . .\n \n \n , ‘ ’\n .\n② ( , , , , , ( ( \n ), , 4 \n )\n ) ( ) \n ( )\n (PM) \nOO \nOO \nOO \nOO \n※ \n① \n② \n \n ( ) \n OOM/D\n( OOM/D,\n OOM/D)\n OOO \n , .\n※ \n① KOICA \n② KOICA \n③ \n \n \n ( )\n \n※ \n① ( ) \n* \n② \n \n \n \n \n \n- ( )\n \n- \n \n · \n- ( )\n- ( )\n \n \n : ( )\n . \n ( , ) , .\n- ( ) ( ) . \n .\n( ) (A ×A )+(B ×B )…\n- ( ) , \n .\n( ) {(A ×A )+(B ×B )…} \n \n \n \n : ( )\n 12 6 1 4 \n .\n         ( , , , , , \n )       ,        .\n . , \n , 3 .\n1) ( ), , 4 \n2) \n3) \n( · ( ) \n .\n \n \n ( ) ( )\n \n \n \n \n \n ( )\n ( )\n ( ) \n \n \n \n \n \n \n \n \n( \n )\n ( )\n \n* \n \n \n \n \n \n : ( ) ( : )\n : (Fax : )\n : :\n※ , \n \n , , \n \n \n , , , \n ( ) .\n 10 \n AI - PMC \n 2026.7.31.\n□ \n \n \no \no \no \no \no \no \no \no \no \no \no \no \no \n \n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · )( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n□ \n \n / / \n \n \n \n \n \n \n \n , , \n · .\n○\n \n \no \n- HTML 4.01/HTML 5, CSS 2.1 ○\n- XHTML 1.0 ○\n- XML 1.0, XSL 1.0 ○\n- ECMAScript 3rd ○\n- 2.0 ○\no \n- 1.0 (KICS.KO-10.0307) ○\n (KS X ISO/IEC 20000)/ ITIL v3 ○\n \n \nIPv4 ○\nIPv6 ○\n□ \n \n / / \n \n \n \n \n \n \no , \n · \n .\n○\n \n \no \n- SOAP 1.2, WSDL 2.0, XML 1.0 ○\n- UDDI v3 ○\n- RESTful ○\no \n- UML 2.0/BPMN 1.0 ○\n- ebXML/BPEL 2.0/ XPDL 2.0 ○\n o : XML 1.0 ○\n o : UDDI v3, WSDL 2.0 ○\n□ \n \n / / \n \n \n \n \n \n \n \n IPv4 IPv6 \n . ○\n , \n . ○\n \n \no : H.320~H.324, H.310 ○\no : VoIP\n- H.323 ○\n- SIP ○\n- Megaco(H.248) ○\n \n \no : POSIX ○\no \n- android ○\n- IOS ○\n- 7 ○\no \n- Java ○\n- Objective C ○\n \no DBMS\n- RDBMS ○\n- ORDBMS ○\n- OODBMS ○\n- MMDBMS ○\n o ITIL v3 / ISO20000 ○\n \no : UML2.0 ○\no : ○\n□ \n \n / / \n \n \n \n \n \n \n \n \no . ○\no , , , \n .\n○\no \n \n “ ” \n .\n○\no \n .\n○\n \n \no : HTML 4.01 ○\no - JSP 2.1 ○\n- ASP ○\n- PHP ○\n \no \n- J2EE 5, J2SE 5.0, Java Servlet 2.5\n○\no - XML 1.0, XSL 1.1 ○\n- RDF ○\n- AJAX ○\n \no :\n- XMI 2.0\n○\n- SOAP 1.2 ○\no \n- EUC-KR\n○\n- UTF-8( , UTF-8 ) ○\n□ \n \n / \n / \n \n \n \n \n \n \n \n \n . “ ”,“ \n ”,“ ” “ ” .\n○ \n \n . ○ \n \n ․ . ○ \n \n \n \n \n ( )\n- \n · ( )\n○\n \n \n \n \n \n \n ( )\n- PKI ○ \n- SSO ○\n- ․ ○\n- (DRM) ○ \n- ○\n- ○ \n- ○ \n- ○ \n- DB ○ \n- (9 ) ○ \n- ○ \n CC ( CC )\n- ( ) ○ \n- ( ) ( ) ○ \n- ○ \n- ○ \n- DDos ○ \n- ○ \n- ○ \n- ○ \n- ( ) ○ \n- ○ \n- ○ \n- ○ \n- ○ \n- (PC ) ○ \n- ○ \n- ( , \n ) ○ \n- ○ \n- ○ \n- DB ○ \n- ○ \n- USB( ) ○ \n- ( \n ) ○ \n- ○ \n- ○ \n- CC ○ \n ( · ) \n- · ( ) ○ \n- ○ \n- ○ \n- USB ○ \n \n \n \n \n \n- ○ \n- ○ \n- ○ \n- ○ \n- ○ \n- ○ \n- ○ \n- ○ \n- ○ \n \n- ○ \n- ( ) ○ \n- ( ) ○ \n- ○ \n ‘ (www.nis.go.kr/AF/1_7_2_1.do)’ \n 11 ( )\n \n , ( ) , \n , \n .\n- -\nSW SW \n※ , \n .\n※ SW \n .\n (O ∨ )\n \n :\n : ( )\n( ) :\n : ( )\n \n , ( \n ) , \n , , \n ( ) , \n \n .\n \n [( ) ( 2 13 )] “ ” ( ) \n ( ) .\n( → , → )\n [ ] SW SW ( ) \n( SW ) SW 50% .\n ( SW ) SW ( \n ) .\n- ‘ ’ SW ( ) SW \n \n- SW ( ) \n ‘ ’ \n- ‘ ’ ‘ ( , )’ \n‘ ’ \n [ ] \n , .\n SW FAQ\n ) · ( ) ?\n ) , \n .\n ) SW ( ) ‘ ’ ( ) ?\n ) SW SW , \n SW ( ) .\n ) (Business partner), \n ?\n ) ( ) . \n .\n ) ?\n ) , , 50% \n . , 50% .\n 11-2 ( )\n \n \n( )\n \n \n□ \n \n%\n%\n %\n1) \n* ( , , ) \n- 50% : _________________________________________________\n2) : ______________________________________________________\n□ 10% \n○ 10% \n : ( ○ ), ( × ) (O X )\n○ 10% : _________________________\n□ \n○ 38 4 \n- : ( ○ ), ( × ) (O X )\n- : ______________________________________________\n○ 3 2 \n- : ( ○ ), ( × ) (O X )\n- : ______________________________________________\n 20 \n \n .\n \n :\n : ( )\n \n※ \n- 51 1 50% . , \n 2 . .\n- 51 3 . , 3 . \n , .\n- 51 6 48 5 100 10\n .\n \n , ( ) , \n \n 11-3 ( )( )\n ( )\n \n (C) ∼ \n \n( )\n \n \n \n \n \n \n \n (A)\n \n \n1 . . . ∼ . . . %\n2 . . . ∼ . . . %\n . . . ∼ . . . %\n \n \n(HW․ ․ SW) \n( ) \n (B)\n1 \n2 \n \n- ( ) \n- ․ , \n- ( ) \n- 50% : _____________________\n- (C) = (A) + (B) + \n- = (A)/( (C)- (B)) X 100\n 19 .\n \n :\n : ( )\n :\n : ( )\n :\n : ( )\n \n - ( ) 1 \n- 1 \n※ \n- 51 1 \n50% . , 2 . \n .\n- \n . , \n .\n- .\n210 ×297 ( 80g/ )\n 12 ( )\n \n \n \n 5\n \n \n 6-1\n \n \n \n \nI\n , \n \n \nII-1\n \n \n \n , \n \n \nII-2\n AI \n AI \nPC \n \n \nIII-1 \n \n \nIII-2\n \n \n \n \n \n \n \n , \n , AI · \n \nIV\n \n \n \n-\n 13 \n 1) \n2) \n 3) 4) \n1\n ( )\n ( )\n2\n ( )\n ( )\n3\n ( )\n ( )\n4\n ( )\n ( )\n5\n ( )\n ( )\n6\n ( )\n ( )\n7\n ( )\n ( )\n8\n ( )\n ( )\n1) ‘ ’ 7 1 \n 7 2 \n2) ‘ ’ , \n (√), (√)( \n ) \n3) ‘ ’ 8 1 \n4) ‘ ’ , \n※ 8 4 ‘ 1 100 \n 40 ’ \n 14 \n \n1. \n \n AI - \n PMC \n □ \n□ \n■ \n□ \n , CCTV \n \n \n( ) 2026 6 ~ 2030 12 \n \n① · □\n② , , \n □\n③ □\n④ ( ) \n □\n⑤ □\n⑥ □\n⑦ ( \n , ) ■\n※ ①~⑥ 3 , 4 \n2. \n ■ ( )\n□ ( : )\n \n( )\n \n■ \n , \n■ \n□ \n3. \n \n \n · \n□ ■ \n※ 3 4 \n · \no\n4. ·\n \n( )\n□ \n□ ‘ ’ \n□ *\n* Open API , · , \n , \n( : )\n□ \n( : )\n5. \n■ \n- , SW/HW , \n .\n□ \n2026 7 31 \n ( )\n210 ×297 ( 80g/ )\n 15 ( )\n \n \n AI - \n (2026-2030/1,450 )\n \n \n① (FP) SW \n - - \n② ( , \n , )\n- - \n③ - - \n④ - - \n \n⑤ -\n \n \n- \n 10 3 \n .\n2026 7 27 \n ( )\n \n 16 ( , SW , ’24.12 )\nNo (o,x)\n1 \n ( ) ○\n ( ) ○\n2\n SW \n SW \n (BMT)\n 3 SW SW \n 5 \n (GS) CC NET NEP 5 \n SW \n SW ( \n 40% ) \n SW ( )\n BMT \n3\n SW \n \n ○\n ○\n 2 \n \n \n \n4 \n \n ( )\n (50% ) ( )\n ( \n ) ( )\n ( )\n 10% ( )\n5 SW \n( )\n SW ( X)\n ( X)\n \n ( X)\n6 SW \n \n ○\n \n ○\n \n ○\n7 SW \n \n SW , \n ( X)\n8 \n \n 1 \n ( X)\n ( \n ) ( X)\n ‘ ’ ( X)\n ( ) \n ( X)\n9 \n10\n \n ( \n )\n SW ○\n \n11 (90%)\n \n 90:10 \n ○\n12 SW \n \n SW \n ○\n 30 ○\n , \n13 SW 20 SW ○( )\n14 SW ○\n15 SW \n \n SW \n ○\n16 \n \n SW \n \n17 SW SW ○\n18 SW SW \n SW \n* SW \n 17 \n※ [ ] √ .\n 14 \n \n \n \n \n \n [ ] [ ] \n \n \n \n \n ( ※ )\n \n ( ※ )\n \n ( ※ )\n \n \n \n ( ※ )\n 50 3 .\n \n ( )\n \n \n \n \n \n : \n210mm×297mm[ 80g/ ]",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01739258-000",
+    "sourceFile": "2. 제안요청서.hwp",
+    "generatedAt": "2026-09-28T13:16:19.993025",
+    "match": {
+      "noticeId": "R26BK01739258-000",
+      "bidNtceNo": "R26BK01739258",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01739258-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01739258-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01739258-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "USB( ) ○ - ( ) ○ - ○ - ○ - CC ○ ( · ) - · ( ) ○ - ○ - ○ - USB ○ - ○ - ○ - ○ - ○ - ○ - ○ - ○ - ○ - ○ - ○ - ( ) ○ - ( ) ○ - ○ ‘ (www.nis.go.kr/AF/1_7_2_1.do)’ 11 ( ), ( ),, . - - SW SW ※, . ※ SW .",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "ECR-000",
+          "requirement": ",",
+          "name": ",",
+          "detail": "(Equipment Composition Requirement) 5 - SER",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-000",
+          "requirement": "Security Requirement",
+          "name": "Security Requirement",
+          "detail": "6 - QUR",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-000",
+          "requirement": ",",
+          "name": ",",
+          "detail": "- PMR (Project Management",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-000",
+          "requirement": ",",
+          "name": ",",
+          "detail": ". CODE CSR-001 AI, CSR-002 Governance CSR-003 AI, CSR-004 AI, CSR-005",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-001",
+          "requirement": "DER-003",
+          "name": "DER-003",
+          "detail": "TRR-002 AI, TRR-003 TRR-004 AI, TRR-005 · TRR-006 DER-001 DER-001 DB",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-002",
+          "requirement": "DER-003",
+          "name": "DER-003",
+          "detail": "TRR-003 TRR-004 AI, TRR-005 · TRR-006 DER-001 DER-001 DB",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-003",
+          "requirement": "/ , ,",
+          "name": "/ , ,",
+          "detail": "/ , ,",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "/ , ,",
+          "name": "/ , ,",
+          "detail": "TRR-005 · TRR-006 DER-001 DER-001 DB DER-003",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": "/ , ,",
+          "name": "/ , ,",
+          "detail": "TRR-006 DER-001 DER-001 DB DER-003",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "/ , ,",
+          "name": "/ , ,",
+          "detail": "DER-001 DER-001 DB DER-003",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": "/ , ,",
+          "name": "/ , ,",
+          "detail": "DER-001 DB DER-003",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": "/ , ,",
+          "name": "/ , ,",
+          "detail": "DER-003",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": "/ , ,",
+          "name": "/ , ,",
+          "detail": "/ , ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "/ , ,",
+          "name": "/ , ,",
+          "detail": "/ , ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "/ , ,",
+          "name": "/ , ,",
+          "detail": "/ , ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-004",
+          "requirement": "PMR-004",
+          "name": "PMR-004",
+          "detail": "PMR-004",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-005",
+          "requirement": "PMR-005",
+          "name": "PMR-005",
+          "detail": "PMR-005",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-006",
+          "requirement": "PMR-006",
+          "name": "PMR-006",
+          "detail": "PMR-006",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-007",
+          "requirement": "PMR-007",
+          "name": "PMR-007",
+          "detail": "PMR-007",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-008",
+          "requirement": "PMR-008",
+          "name": "PMR-008",
+          "detail": "PMR-008",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-009",
+          "requirement": "PMR-009",
+          "name": "PMR-009",
+          "detail": "PMR-009",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-010",
+          "requirement": ".",
+          "name": ".",
+          "detail": "(1) CSR-001 AI · AI - AI",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01739258-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ", \n , , ( )\n \n \n PMR-009\n \n \n \n \n \n \n- , , , , \n \n , \n , \n \n \n \n PMR-010\n \n \n \n \n \n PDM : PDM PDM\n ( )\n : PDM \n \n :",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 12개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "ESG /",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "ESG / 10점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "0 \n6",
+          "score": 70.0,
+          "weight": 70.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "0 \n6 70점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "5",
+          "score": 40.0,
+          "weight": 40.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "5 40점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "0",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "0 10점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "5",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "5 10점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "100 70",
+          "score": 30.0,
+          "weight": 30.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "100 70 30점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "100 80",
+          "score": 30.0,
+          "weight": 30.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "100 80 30점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "SW",
+          "score": 50.0,
+          "weight": 50.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "SW 50점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "51 1",
+          "score": 50.0,
+          "weight": 50.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "51 1 50점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "51 1",
+          "score": 50.0,
+          "weight": 50.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "51 1 50점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "CC NET NEP 5 \n SW \n SW",
+          "score": 40.0,
+          "weight": 40.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "CC NET NEP 5 \n SW \n SW 40점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "11",
+          "score": 90.0,
+          "weight": 90.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "11 90점"
+        }
+      ],
+      "totals": {
+        "score": 480.0,
+        "weight": 480.0,
+        "gradeA": 9,
+        "gradeB": 3,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01739258-000",
+    "generatedAt": "2026-09-28T13:18:38.219599",
+    "sourceAnalysisAt": "2026-09-28T13:16:19.993025",
+    "projectName": "",
+    "sourceFile": "2. 제안요청서.hwp",
+    "requirementSourceFiles": [
+      "2. 제안요청서.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "ECR-000",
+        "name": "3",
+        "detail": "(Equipment Composition Requirement) 5 - SER (Security Requirement) ·",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-000",
+        "name": "3",
+        "detail": "6 - QUR (Quality Requirement) ,",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-000",
+        "name": "2",
+        "detail": "7 PMR (Project Management Requirement) ,",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-000",
+        "name": "11",
+        "detail": ". CODE CSR-001 AI, CSR-002 Governance CSR-003 AI, CSR-004 AI,",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-001",
+        "name": "ECR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-002",
+        "name": "ECR-002",
+        "detail": "PC (RFP) PC PC RFP (PC)",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-003",
+        "name": "/ , ,",
+        "detail": "/ , , PC . , Legal Clinic , (LED ) ( ) , , , , ,",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "SER-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "SER-002",
+        "detail": "o o o , , , , o , , o ,",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "SER-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "QUR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": "QUR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "PMR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "PMR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "PMR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-004",
+        "name": "PMR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-005",
+        "name": "PMR-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-006",
+        "name": "PMR-006",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-007",
+        "name": "PMR-007",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-008",
+        "name": "PMR-008",
+        "detail": ", , worksheet , , ( ) USB",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-009",
+        "name": "PMR-009",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-010",
+        "name": ".",
+        "detail": "( ) PDM , ※ KOICA “ ” 3)",
+        "source": "2. 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "ESG /",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 1,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "ESG / 10점"
+      },
+      {
+        "scoreItem": "0 6",
+        "score": 70.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 7,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "0 6 70점"
+      },
+      {
+        "scoreItem": "5",
+        "score": 40.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 4,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "5 40점"
+      },
+      {
+        "scoreItem": "0",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 1,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "0 10점"
+      },
+      {
+        "scoreItem": "5",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 1,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "5 10점"
+      },
+      {
+        "scoreItem": "100 70",
+        "score": 30.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 3,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "100 70 30점"
+      },
+      {
+        "scoreItem": "100 80",
+        "score": 30.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 3,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "100 80 30점"
+      },
+      {
+        "scoreItem": "SW",
+        "score": 50.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 5,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "SW 50점"
+      },
+      {
+        "scoreItem": "51 1",
+        "score": 50.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 5,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "51 1 50점"
+      },
+      {
+        "scoreItem": "51 1",
+        "score": 50.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 5,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "51 1 50점"
+      },
+      {
+        "scoreItem": "CC NET NEP 5 SW SW",
+        "score": 40.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 4,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "CC NET NEP 5 SW SW 40점"
+      },
+      {
+        "scoreItem": "11",
+        "score": 90.0,
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 9,
+        "mappedRequirementCodes": [
+          "PMR-000",
+          "PMR-001",
+          "PMR-002",
+          "PMR-003",
+          "PMR-004",
+          "PMR-005",
+          "PMR-006",
+          "PMR-007",
+          "PMR-008",
+          "PMR-009",
+          "PMR-010"
+        ],
+        "source": "배점표",
+        "detail": "11 90점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [
+              "ECR-000",
+              "ECR-001",
+              "ECR-002",
+              "ECR-003"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "SER-000",
+              "QUR-000",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "QUR-001",
+              "QUR-002"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-000",
+              "PMR-001",
+              "PMR-002",
+              "PMR-003",
+              "PMR-004",
+              "PMR-005",
+              "PMR-006",
+              "PMR-007",
+              "PMR-008",
+              "PMR-009",
+              "PMR-010"
+            ],
+            "recommendedPages": 9
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 22,
+      "mappedRequirements": 22,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

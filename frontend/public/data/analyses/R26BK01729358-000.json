@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01729358",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-21T13:03:18.598894",
+  "analyzedAt": "2026-09-28T13:25:39.013799",
   "status": "completed",
   "source": {
     "fileName": "긴급입찰사유서.hwp",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01729358-000",
     "sourceFile": "긴급입찰사유서.hwp",
-    "generatedAt": "2026-09-21T13:02:57.193553",
+    "generatedAt": "2026-09-28T13:25:12.202047",
     "match": {
       "noticeId": "R26BK01729358-000",
       "bidNtceNo": "R26BK01729358",
@@ -992,8 +992,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01729358-000",
-    "generatedAt": "2026-09-21T13:03:18.598873",
-    "sourceAnalysisAt": "2026-09-21T13:02:57.193553",
+    "generatedAt": "2026-09-28T13:25:39.013776",
+    "sourceAnalysisAt": "2026-09-28T13:25:12.202047",
     "projectName": "",
     "sourceFile": "붙임1_제안요청서_수정_260911.hwp",
     "requirementSourceFiles": [

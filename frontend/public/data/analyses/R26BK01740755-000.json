@@ -1,0 +1,1331 @@
+{
+  "bidNtceNo": "R26BK01740755",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-09-28T13:21:59.643496",
+  "status": "completed",
+  "source": {
+    "fileName": "붙임1. 입찰공고문_디자인 AI 기본 시스템 개발 용역.pdf",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01740755-000/붙임1. 입찰공고문_디자인 AI 기본 시스템 개발 용역.pdf",
+    "pageCount": 4,
+    "textLength": 5308,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "붙임1. 입찰공고문_디자인 AI 기본 시스템 개발 용역.pdf",
+      "extension": ".pdf",
+      "size": 189850,
+      "kindCode": ""
+    },
+    {
+      "fileName": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+      "extension": ".hwp",
+      "size": 201216,
+      "kindCode": ""
+    },
+    {
+      "fileName": "붙임3. 제안요청서_디자인 AI 기본 시스템 개발 용역.hwp",
+      "extension": ".hwp",
+      "size": 219648,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "443a2b2db05e37cf610db9a8",
+      "fileName": "붙임1. 입찰공고문_디자인 AI 기본 시스템 개발 용역.pdf",
+      "extension": ".pdf",
+      "docType": "입찰공고문",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01740755/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01740755/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01740755/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01740755-000/붙임1. 입찰공고문_디자인 AI 기본 시스템 개발 용역.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01740755-000/붙임1. 입찰공고문_디자인 AI 기본 시스템 개발 용역.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01740755-000/붙임1. 입찰공고문_디자인 AI 기본 시스템 개발 용역.pdf",
+      "pageCount": 4,
+      "textLength": 5308,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "- 1 -\n(재)대구경북디자인진흥원 공고 제 2026-056\n『디자인 AI 인프라 구축사업』\n[긴급] 디자인 AI 지원 시스템 개발 용역 입찰공고\n1. 입찰에 부치는 사항\n 가. 용 역 명 : 디자인 AI 지원 시스템 개발 용역\n 나. 사업금액 : 금496,676,000원정도(사억구천육백육십칠만육천정도/VAT포함)\n - 1차년도:365,300,000원정도 / 2차년도:131,376,000원정도\n ※ 본 과업은 계속사업 계약을 적용하여 연차별로 구분하여 사업비를 집행하며, \n 세부 지급방법과 시기는 연차별 계약조건에 따름\n 다. 용역기간 : 계약일로부터 2027년 6월 30일까지(약 9개월정도)\n※ 세부 추진 일정은 변경될 수 있음\n 라. 용역유형 : 일반용역(소프트웨어 용역)\n 마. 입찰방법 : 전자입찰, 제한(총액)경쟁입찰, 긴급입찰\n 바. 낙찰자 결정방법 : 협상에 의한 계약\n 사. 용역내용 : 붙임 과업지시서 및 제안요청서 참조\n 아. 공동수급 및 하도급 : 불허\n2. 입찰 일정\n 가. 공고기간 : 2026. 9. 22.(화) ~ 2026. 10. 6.(화)\n 나. 가격입찰 : 조달청 나라장터를 통한 전자입찰\n 1) 제출기간 : 2026. 10. 6.(화) 09:00~14:00\n 2) 입찰참가 자격등록 마감일시 : 2026. 10. 5.(월) 18:00\n 3) 개찰일시 : 제안서 기술평가 후 개찰/ 2026. 10. 8.(목), 17:00(예정)\n 4) 개찰장소 : 대구경북디자인진흥원 입찰집행관 PC\n- 2 -\n ※본입찰의가격입찰은전자입찰로만가능하며또한전자입찰에필요한제반사\n항을만족하여야하며가격입찰서를제출한입찰자만제안서를제출할수있음\n ※PC환경에따라다소늦어질수있음\n 다. 제안서 접수 : 직접 방문접수\n 1) 접수기간 : 2026. 10. 6.(화) 09:00~14:00\n※평일 업무시간내 접수\n 2) 접수장소 : 경북 구미시 구미대로 350-27 IT융합기술센터 3층 \n(재)대구경북디자인진흥원 경영지원실(B310호)\n 3) 접수방법 : 직접 방문접수(우편 및 택배 등 접수 불가)\n※접수요령 및관련 양식:제안요청서 및제안요청양식 참조\n 라. 제안서 평가\n 1) 평가일시 : 2026. 10. 8.(목), 14:00(예정)\n 2) 평가장소 : 구미시 구미대로 350-27 IT융합기술센터 연구실험동 3층\n 3) 평가방법 : 발표평가, 업체당 30분(발표 20분, 질의응답 10분)\n※운영상황에따라변경가능하며,제안서검토및평가서작성시간포함\n 마. 협상적격자 발표 : 개별통지\n 1) 기술평가 (80%)와 가격평가 (20%)를 종합평가한 결과, 최고 \n득점자를 우선협상대상자로 선정\n※모든입찰일정은변경될수있으며변경시우리원홈페이지(dgdp.or.kr)에게시\n3. 입찰 참가자격\n 가. 「지방자치단체를 당사자로 하는 계약에 관한 법률 시행령」 \n제13조 및 동법 시행규칙 제14조에 따른 경쟁입찰 참가자격을 \n갖춘 업체\n 나. 입찰등록 마감일 현재 「지방자치단체를 당사자로 하는 계약에 \n관한 법률」 제31조 및 동법 시행령 제92조에 해당하지 않는 업체\n 다. 「중소기업기본법」 제2조제2항에 따른 중소기업 또는 「소상공인\n기본법」 제2조에 따른 소상공인으로서, 「중소기업 범위 및 확인에\n- 3 -\n관한 규정」에 따라 발급된 중소기업·소상공인 확인서를 소지한 \n업체\n 라. 국가종합전자조달시스템 입찰참가자격등록규정에 따라 입찰일 \n전일까지 입찰참가자격을 나라장터에 등록한 업체\n 마. 입찰공고일 현재 소프트웨어진흥법에 따른 소프트웨어 사업자\n(컴퓨터 관련 서비스업)로 신고한 자\n - 「소프트웨어진흥법」제58조 시행령 제53조 및 시행규칙 제17조에\n의한 소프트웨어사업자(컴퓨터관련 서비스사업 1468) (최근년도 \n결산 신고된 SW사업자 신고확인서 제출)\n 바. 본 사업은 사업금액이 20억원 미만인 소프트웨어사업으로서 「중소\n소프트웨어사업자의 사업 참여 지원에 관한 지침」에 따라 대기업\n및 중견기업인 소프트웨어사업자는 입찰에 참여할 수 없음\n 사. 「중소기업제품 구매촉진 및 판로지원에 관한 법률」에 따른 중소\n기업자로서 입찰마감일 전일까지 발급된 유효한 직접생산확인\n증명서[정보시스템개발서비스(8111159901)]를 소지한 업체\n 아. 본 용역은 공동수급 및 하도급 불허용\n※중소기업확인서및직접생산확인증명서는입찰마감일전일까지발급된것으로서유효기간내에있어야함\n- 4 -\n4. 제출서류\n 가. 제출서류 목록 \n구분 제출서류 비고\n입찰 등록\n및참가자격\n서류\n◦입찰참가신청서1부\n◦위임장(원본)1부(해당시,대리인일경우재직증명서)\n◦서약서1부\n◦사업자등록증명원(원본)1부\n◦청렴계약이행서약서1부\n◦법인등기부등본(원본)1부(해당시)\n◦법인인감증명서및사용인감계(사용인감사용시)(원본)각1부\n◦지방세,국세완납증명서1부(지방세법인인감날인)\n◦제안서\n◦정량적평가자기평가와심사표1부\n◦제안참가(응모)신청서1부\nㅇ기타입찰제안시필요한서류및입찰공고요청사항\n※사본은\n반드시\n원본\n대조필\n하여\n제출\n기\n술\n능\n력\n평\n가\n정량적\n평 가\n◦제안서\n◦일반현황및연혁\n◦조직및인원현황\n◦자본금및매출액(최근3년)\n◦수행실적총괄표및용역수행실적증명서\n◦제안사보유전문인력및기술역량현황\n◦신인도평가서류\n◦신용평가등급확인서\n정성적\n평 가\n◦제안서10부,제안서및프리젠테이션(PT)자료가담긴USB1개\n※제안회사명표기(1부),제안회사명삭제(9부)\n기타서류 ◦제안서PT발표자명단및제안참가(응모)신청서\n※별지 서식은제안요청서 참고\n 나. 접수 시 유의사항\n 1) 제안서는 업체별로 1점을 원칙으로 하며, 제출된 제안서는 수정\nㆍ보완ㆍ교환이 불가능함\n 2) 제출서류는 접수담당자 확인 후 밀봉하여 제출하여야 함.\n 3) 대리인이 제출하는 서류에는 반드시 대표자(법인) 인감도장이 \n날인된 위임장을 제출하여야 함\n 4) 제출서류가 미비하거나 입찰참가자격을 확인할 수 없는 경우 \n접수가 제한되거나 평가에서 제외될 수 있음\n- 5 -\n5. 입찰의 무효\n 가. 「지방자치단체를 당사자로 하는 계약에 관한 법률 시행령」 제39조\n및 동법 시행규칙 제42조에 해당하는 입찰은 무효로 함\n 나. 가격입찰서와 제안서를 모두 제출하여야 하며, 어느 하나라도 \n제출하지 않은 입찰은 무효로 처리함\n 다. 입찰참가자격이 없는 자가 한 입찰, 입찰에 관한 조건을 위반한 \n입찰 및 제출서류에 허위사실을 기재한 입찰은 관계 법령 및 \n입찰유의서 등에 따라 처리함\n6. 낙찰자 결정방법 : 협상에 의한 낙찰자 결정\n 가. 본 사업은 제안서의 평가는 총점 100점 만점을 기준으로, 기술\n능력평가 80점, 입찰가격 20점으로 배점하여 평가하고, 기술능력\n평가 점수가 기술능력평가 분야 배점 한도의 85% 이상인 자를 \n선정하여 고득점자 순으로 한다.\n 나. 협상 순서는 종합평가 점수의 고득점 순에 의하여 결정하되,\n합산점수가 동일한 제안자가 2인 이상인 경우에는 기술능력 평가\n점수가 높은 제안자를 우선 순위자로 하고, 기술능력 평가 점수도\n동일한 경우에는 기술능력의 세부 평가 항목 중 배점이 큰 \n항목에서 높은 점수를 얻은 자를 우선 순위자로 한다.\n 다. 협상 순서는 합산점수의 고득점자 순에 의해 협상을 진행하며,\n협상이 성립된 때에는 다른 협상적격자와 협상하지 아니한다.\n협상이 결렬되면 차순위 협상 대상자 순으로 협상을 실시한다.\n 라. 제안서 평가결과 소수점 이하의 숫자가 있는 경우, 소수점 다섯\n째자리에서 반올림 한다.\n7. 입찰보증금 납부 및 귀속\n 가. 「지방자치단체를 당사자로 하는 계약에 관한 법률」제12조 및 \n동법 시행령 제37조에 의하여 입찰보증금 납부는 입찰참가신청\n- 6 -\n서 입찰보증금 확약으로 갈음\n 나. 단, 지방자치단체를 당사자로 하는 계약에 관한 법률 제12조 제\n3항 및 동법 시행령 제38조에 의한 세입조치 사유가 발생한 때\n에는 입찰금액의 100분의 5에 해당하는 금액을 납입하여야 하\n며, 부정당업자로 입찰참가자격 제한 처분을 받게 됨\n8. 제안서의 효력\n가. 본 입찰의 내용은 대구경북디자인진흥원이 요청하지 않는 한 \n변경될 수 없으며, 계약 체결 시에는 계약조건으로 간주한다.\n나. 대구경북디자인진흥원이 필요 시 공고 참가자에 대하여 추가 \n제안이나 추가 자료를 요구할 수 있으며, 이에 따라 제출된 \n자료는 계약과 동일한 효력을 가진다.\n9. 기타사항\n가. 제출된 모든 서류는 일체 반환하지 않으며, 제안서는 대표자 \n인감이 날인된 공문과 함께 제출되어야 한다.\n나. 계약상대자가 계약내용을 이행하지 않는 경우 관계 법령 및 계약\n조건에 따라 계약을 해제 또는 해지할 수 있으며, 부정당업자 \n제재 사유에 해당하는 경우 「지방자치단체를 당사자로 하는 계약에\n관한 법률」 제31조, 동법 시행령 제92조 및 동법 시행규칙 \n제76조에 따라 입찰참가자격 제한처분을 받을 수 있다.\n다. 본 사업의 계약목적물에 대한 지식재산권은 발주기관과 계약상대자가\n공동으로 소유함을 원칙으로 하며, 세부적인 권리의 귀속 및 \n이용에 관한 사항은 관계 계약법령과 계약조건에 따른다.\n라. 제안서 작성·제출에 대하여는「제안요청서」의 내용(제안 안내 \n및 유의 사항, 제안서 작성기준 및 요령 등)을 반드시 숙지하여\n이행하여야 한다.\n- 7 -\n마. 본 사업은 발주처의 사정에 따라 변동될 수 있으며, 이 경우에 \n제안자는 발주처의 지시에 따라야 한다.\n바. 본 사업은 계약보증금 납부, 손해배상보험·공제 및 하자보수보증\n대상 사업이며 관련 비용은 계약상대자가 부담하며, 본 사업에 \n포함된 SW의 하자담보책임기간은 최종 검사·검수 완료일로부터\n1년으로 하며, 하자보수와 유상 유지관리의 구분은 과업지시서 \n및 제안요청서에 따른다\n사. 천재지변 또는 기타 불가항력적 사고로 인하여 발생한 제안서의\n분실 또는 손상에 대하여는 우리 진흥원이 책임을 지지 아니한다.\n아. 일부 용역비 항목에 대해서는 용역완료 후 정산할 수 있다.\n자. 본 입찰에 참가하고자 하는 자는 청렴계약 이행서약서를 제출\n하여야 입찰에 참가할 수 있으며, 이를 제출하지 않거나 거부\n하는 자는 입찰에 참가할 수 없다.\n차. 본 사업은 하도급을 허용하지 않는다.\n카. 본 사업의 작업장소는 발주기관과 계약상대자가 상호 협의하여 \n결정하며, 계약상대자는 보안요구사항을 충족하는 자체 작업장소\n또는 원격개발 방안을 제시할 수 있으며, 발주기관은 이를 검토\n하여 승인할 수 있다\n타. 향후 공동활용이 필요한 경우에는 공동활용의 목적, 대상 기관, 대상\n소프트웨어, 소스코드·API·데이터의 제공 범위, 비용, 지식재산권\n및 보안조치에 관한 사항을 계약상대자와 별도로 협의하여 정한다\n파. 발주기관과 계약상대자는 과업범위, 계약금액, 계약기간 또는 \n주요 산출물의 변경이 필요한 경우 상호 협의하고, 관계 계약\n법령 및 계약조건에 따른 변경계약 절차를 거쳐야 한다\n- 8 -\n10. 문의처\n담당부서 담당자명 직위 연락처\n전략기획팀 황인도 선임\n054-716-2147\nhide@dgdp.or.kr\n2026. 9.\n(재)대구경북디자인진흥원 재무관",
+      "analysis": {
+        "docType": "입찰공고문",
+        "summary": "가. 용 역 명 : 디자인 AI 지원 시스템 개발 용역\n 나. 사업금액 : 금496,676,000원정도(사억구천육백육십칠만육천정도/VAT포함)\n - 1차년도:365,300,000원정도 / 2차년도:131,376,000원정도\n ※ 본 과업은 계속사업",
+        "checklist": [
+          "제한 처분을 받게 됨\n8. 제안서의 효력\n가. 본 입찰의 내용은 대구경북디자인진흥원이 요청하지 않는 한 \n변경될 수 없으며, 계약 체결 시에는 계약조건으로 간주한다.\n나. 대구경북디자인진흥원이 필요 시 공고 참가자에 대하여 추가 \n제안이나 추가 자료를 요구할 수 있으며, 이에 따라 제출된 \n자료는 계약과 동일한 효력을 가진다.\n9. 기타사항\n가. 제출된 모든 서류는 일체 반환하지 않으며, 제안서는 대표자 \n인감이 날인된 공문과 함께 제출되어야 한다.\n나. 계약상...",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "한도의 85% 이상인 자를 \n선정하여 고득점자 순으로 한다.\n 나."
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "fab0e510d650280d612371b9",
+      "fileName": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+      "extension": ".hwp",
+      "docType": "과업지시서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01740755/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01740755/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01740755/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01740755-000/붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01740755-000/converted/붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01740755-000/converted/붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.pdf",
+      "pageCount": 43,
+      "textLength": 8106,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI \n AI \n2026. 9.\nⅠ \n1. : AI \n2. \n . \n○ AI , · , \n , AI\n AI (HAI ) \n \n○ HAI – – 9 AI\n ( AI ) \n \n - , , , , \n - , \n - UT , Pain Points \n※ AI ( , , ) 3 \n○ 9 – – , \n , 3 \n , 6 \n . \n○ AI 9 AI \n , 9 AI \n , 3 ( , \n , ) \n○ AI \n \n \n · · · · \n135 \n RAG\nAI \n \n · · \n , , \n API \n○ AI 135 9 \n \n \n3. \n . Two-track \n○ HAI Two-\ntrack \n \nTrack 1 - HAI B200 \nTrack 2 - DGX Spark AI \n※ (Track 2) \n○ DGX Spark \n \n○ DGX Spark · , B200 \n· ·RAG· · \n \n○ DGX Spark B200 \n , · · \n \n※ , \n4. \n . AI \n \n · · \n · · · · \n135 · · DB·RAG \nRDBMS, Vector DB \n · · · · \n , BM25 , , SQL RAG\nAI , \n · · \nURL, , , \n · · · \n , , \n 6 API \n . \n○ \n \n , \n , , , \n , \n · · , , , \n , , , · , , , \n RDBMS · · · · \n○ \n \n · \n , , \n , , , \n \n · , , · · · ·CMF , \n \n · , · · · ·CMF , , \n \n , , , \n \n○ \n \n · · \n , , \n , , , \n , , , PEST · \n , , , , PEST· , · , \n \n , · , , · \n \n○ \n \n \n · \n URL , , · \n \n \n※ , \n \n5. R&D 135 \n○ R&D \n , 135 · · \n , · · · · · \n RDBMS, Vector DB \n○ 135 30\n 135 \n○ · · · · · R&D \n \n○ , ID · , \n · · \n6. \n○ NVIDIA DGX Spark AI \n \n- \n- Spark , \n \n○ DGX Spark , · · · \n \n○ , \n \n○ DGX Spark ·AI · , \n B200 \n○ R&D , · \n \n7. \n○ \n○ \n , , \n \n○ · GPU , \n , , , \n \n○ · , , \n , \n \n○ \n- · \n- \n- \n- · · \n- \n- \n○ \n \n8. AI \n○ DGX Spark · 80 ~270 \n (8B~27B ) \n○ 8B~27B \n○ , \n \n \n RAG \n · · \nGPU · · \n DGX Spark B200 \n○ 60~80 , \n · \n○ , , KV-cache, GPU \n , \n○ 200B , \n , · \n \n9. \n . : 2027 6 30 ( 9 )\n○ \n○ 1 : 2026 10 2026 12 \n○ 2 : 2027 1 2027 6 \n . \n \n1 2026.10.~2026.12.\n , LLM · , , \n · , , ,\nRaw·Curated·Labeled , RAG Vector DB , \n \n2 2027.1.~2027.6.\nLLM , · · 3 UI·API , \n , , BM25· ·SQL · RAG,\n · · , · · ·UAT , B200 \n , · · \n※ \n10. : 496,676,000 ( )\n○ 1 : 365,300,000 \n○ 2 : 131,376,000 \n※ , \nⅡ \n1. \n \n -SAR (System\nArchitecture Requirement)\n , AI·RAG· , 6\nAI/ –AIR\n(AI Requirement)\n AI , , RAG, AI 6\n -DAR\n(Data Architecture Requirement)\n · · · · · 9\n -DEV\n(Development Requirement)\n , API, 7\n -PER\n(Performance Requirement)\n , , , 5\n –SER\n(Security Requirement)\n , , , 6\n –TER\n(Test Requirement)\n · ·AI · · · 6\n · -DEP\n(Deployment Requirement)\n , , 5\n \n※ \n2. \n \n \nSAR-001 \nSAR-002 AI \nSAR-003 RAG \nSAR-004 3 \nSAR-005 \nSAR-006 · · \nAI/ \nAIR-001 \nAIR-002 (LoRA) \nAIR-003 \nAIR-004 RAG \nAIR-005 \nAIR-006 AI \n \n \nDAR-001 \nDAR-002 \nDAR-003 3 \nDAR-004 135 \nDAR-005 (Chunk) \nDAR-006 ( )\nDAR-007 \nDAR-008 \nDAR-009 \n \nDEV-001 API \nDEV-002 SaaS UI ( )\nDEV-003 · \nDEV-004 \nDEV-005 \nDEV-006 API \nDEV-007 \n \nPER-001 \nPER-002 \nPER-003 (SLA)\nPER-004 \nPER-005 \n \nSER-001 \nSER-002 (RBAC)\nSER-003 \nSER-004\nSER-004 \nSER-005 \nSER-006 \n \nTER-001 \nTER-002 \nTER-003 AI \nTER-004 \nTER-005 \nTER-006 (UAT)\n · \nDEP-001 \nDEP-002 \nDEP-003 \nDEP-004 \nDEP-005 \n3. \n□ (SAR)\n \n SAR-001\n \n \n \n \n R&D · · \n , 9 \n \n \n , , API, LLM , RAG , \n · , RDBMS, Vector DB · \n \n 6 \n \n · · , · · \n · · \n DGX Spark B200 \n \n , , , , \n \n , · \n \n , · , , \n , · , \n \n SAR-002\n AI \n \n \n \n R&D , DGX Spark\n · 8B~27B AI · \n \n 8B~27B , \n \n , , , \n RAG \n \n , , \n LoRA \n , , \n \n \n \n · , AI , , \n \n \n SAR-003\n RAG \n \n \n \n135 Multi-Index \n RAG \n \n ( / / / / ) \n \n \n (135) (30 ) \n \n (Re-ranking), (URL ), \n(Freshness), (Authority) \n \n ( , , ) \n / / (Trace) \n \n \nRAG , ( / / \n ), ( topK/ / ), \n , RAG Trace/ ( )\n \n SAR-004\n 3 \n \n \n \n / / 3 135 \n \n \n Raw/Curated/Labeled 3 · · · \n \n 135 , / \n \n RAG ( ID, , / ,\nURL, ) \n URL \n ( , ) \n \n \n (3 ), ( \n ), / , / \n \n SAR-005\n \n \n \n \n 1,000 , 60~80 \n \n \n 1,000 \n 60~80 \n , GPU , , \n KV-cache \n , , \n \n 4~6 15~18 \n \n · · \n \n B200 \n \n \n ( / / / ), ( / \n / ), ( )\n \n SAR-006\n · · \n \n \n \n \n , , \n \n \n (TLS) \n (RBAC) ( / / ) \n \n ( ) \n ( / / ) \n \n ( / / / ) (3 ) \n \n \n ( /RBAC/ / ), \n , \n□ AI (AIR)\n AI/ \n AIR-001\n \n \n \n \n R&D AI \n(8B~27B ) \n \n GPU \n \n ( , , temperature, top-p ) \n \n ( , ) \n \n \n \n \n , , \n \n AI/ \n AIR-002\n (LoRA) \n \n \n \n , , \n LoRA \n \n LoRA · \n \n · \n \n , , \n \n , \nRAG \n \n \n , , / \n \n AI/ \n AIR-003\n \n \n \n \n AI \n GPU LLM API \n \n GPU · \n \n 60~80 \n \n \n \n \n API \n , API , \n AI/ \n AIR-004\n RAG \n \n \n \n Multi-Index \nRAG \n \n , , , \n \n · \n , RDBMS ( /SQL API \n ) \n \n \n 135 \n (Re-ranking) · \n \n URL \n \n \nRAG , , \n \n AI/ \n AIR-005\n \n \n \n \n · · \n \n \n ( , , , ) \n \n (JSON ) · \n (800~2,000 ) \n \n \n \n ( ), (JSON Schema)\n , \n AI/ \n AIR-006\n AI \n \n \n \nAI \n \n \n · · 200 \n \n \n , , ·\n · \n , \n \n \n \n \nAI , , \n , \n□ (DAR)\n \n DAR-001\n \n \n \n \n , , , , · \n \n \n / \n- / : 1 ( )\n- / / : ( )\n Raw \n \n ( , , , / ) \n Excel, CSV, · \n · \n \n \n · · · \n \n , \n \n , / ,\n ( )\n \n DAR-002\n \n \n \n \nURL \n \n \n / / URL \n \n ( ) \n URL / ( / / ) \n \n \n \n , \n ( )\n \n DAR-003\n 3 \n \n \n \n , , Raw/Curated/Labeled\n3 · \n \n Raw : Excel , API , \n \n Curated : , , , , \nRDBMS \n Labeled : · · · · ·PEST· \n · Vector DB \n RDBMS , \n Vector DB \n \n3 , \n / \n \n DAR-004\n 135 \n \n \n \n135 (30 ) RAG\n \n \n 135 \n \n- ID(135), ID, , / , URL( \n ), \n /PEST ( / / ) \n \n \n , ( )\n \n \n DAR-005\n (Chunk) \n \n \n \nRAG \n \n \n / / \n ( , , ) \n / / \n \n \n , \n / ( )\n \n DAR-006\n ( )\n \n \n \n DB \n \n \n \n ( / / / ) \n \n ( / ) RDBMS · \n , \n ( , ID, ) \n \n / \n \n \n / , \n / \n \n DAR-007\n \n \n \n \n \n \n \n \n Curated Labeled \n ( , , ) \n / \n \n , \n / ( )\n \n DAR-008\n \n \n \n \n \n \n \n , , \n \n \n \n \n , ( )\n \n \n DAR-009\n \n \n \n \n DB \n \n \n Raw/Curated/Labeled \n DB \n , \n \n , , \n□ (DEV)\n \n DEV-001\n API \n \n \n \n (RAG), , \nAPI \n \n → / → RAG → → \n API \n AI API \n (JSON ) \n , , \n 60~80 \n \n JSON \n URL , , · ,\n \n · · \n \n \nAPI (Swagger/OpenAPI ), API \n \n \n DEV-002\n SaaS UI ( )\n \n \n \n · , \n \n \n \n (135 ) \n UI \n , , / \n , \n \n , \n \n · · \n , , · , \n \n URL \n \n \nUI ( ), \n ( )\n \n DEV-003\n · \n \n \n \nAI \n \n \n · · \n \n · · · ·CMF \n \n · ·PEST· \n \n · · · \n \n , JSON Schema \n \n \n DEV-004\n \n \n \n \n · · · \n \n \n / (RBAC) \n ( / ) \n \n \n ( , ) \n \n , \n \n \n DEV-005\n \n \n \n \n \n \n \n \n ( , ) \n \n \n 3 \n , , ( )\n \n DEV-006\n API \n \n \n \n API\n · \n \n REST API \n API \n / \n (Rate Limit) \n API \n API , API , \n \n DEV-007\n \n \n \n \n \n \n \n CPU/GPU , , , \n \n ( /API/ ) \n / / \n , \n \n , ( ), \n□ (PER)\n \n PER-001\n \n \n \n \n 1,000 60~80 \n \n \n 1,000 \n 60~80 , GPU\n \n Active Generation Concurrency 60~80 , \n · ·KV-cache GPU \n , , \n \n DGX Spark , B200 \n \n , \n \n PER-002\n \n \n \n \nAI \n \n \n : 4~6 \n : 15~18 \n ( 4~6 , 15~18 ) \n , \n \n \n RAG \n \n , , , \n \n , RAG , AI \n \n DGX Spark · , \n B200 \n , \n \n PER-003\n (SLA)\n \n \n \n \n \n \n 98% \n \n (RTO) \n · \n SLA , \n \n \n SLA , , ( )\n \n PER-004\n \n \n \n \n \n \n \n /API \n AI ( GPU) \n DB \n API \n \n GPU \n \n , ( )\n \n PER-005\n \n \n \n \n \n \n \n CPU/GPU , , , \n \n \n \n \n , \n□ (SER)\n \n SER-001\n \n \n \n \n \n \n \n - -API- TLS \n \n \n \n \n \n \n \n , \n \n \n SER-002\n (RBAC)\n \n \n \n \n \n \n , , \n \n · \n \n \n RBAC , , \n \n SER-003\n \n \n \n \n · · \n \n \n , \n \n AI / \n \n \n , , \n \n SER-004\n \n \n \n \n \n \n \n \n \n \n API Rate Limit \n \n \n , \n \n \n SER-005\n \n \n \n \n · \n \n \n , , , \n \n 3 \n · \n \n , , \n \n SER-006\n \n \n \n \n · \n \n \n ( , , ) \n \n \n ( )\n \n , , \n \n□ (TER)\n \n TER-001\n \n \n \n \n ( , RAG, , ) \n \n \n \n \n RAG ( , , ) \n \n \n , \n \n TER-002\n \n \n \n \n \n \n \n → → → → \n \n \n ( , , ) \n \n ( , , ) \n , \n \n TER-003\n AI \n \n \n \nAI \n \n \n 200 · · \n \n · · · · · \n \n , , · · · ·CMF \n , \n · ·PEST· , \n \n , \n·RAG· · \n 135 · · \n , , DB RAG , \n \n \n \nAI , \n \n \n TER-004\n \n \n \n 60~80 \n \n 1,000 \n 60~80 \n \n , \n \n DGX Spark · , B200 \n \n , \n \n \n , \n \n \n TER-005\n \n \n \n \n \n / \n SQL Injection \n \n \n , \n \n TER-006\n (UAT)\n \n \n \n ( ) \n \n \n \n UI , , \n \n \n UAT , , \n□ (DEP)\n \n DEP-001\n \n \n \n \n \n \n \n DGX Spark · \n B200 · · · \n · · \n B200 , \n , , \n , \n \n , , \n \n DEP-002\n \n \n \n \n 135 · · \n RDBMS, Vector DB , ·\n · \n \n 135 · , \n , , , , \n RDBMS , \n , \n \n · · \n \n Raw/Curated/Labeled \n DB ( ) \n , , \n \n \n135 , · \n , , DB·RAG \n \n DEP-003\n \n \n \n \n · \n \n \n \n \n \n \n \n \n , , , · , \n \n \n DEP-004\n \n \n \n · \n \n , , , \n \n · , \n \n \n \n \n \n , , \n \n DEP-005\n \n \n \n \n \n \n AI \n \n \n \n \n , , \nⅢ \n1. \n \n \n \n \n1 \n( )\n- \n- \n \n \n1 \n( )\n- \n- \n \n1 \n1 \n(1 )\n- 1 \n- \n \n( )\n2 \n1 \n(2 )\n- \n- \n \n( )\n \n \n \n \n \n- \n- \n \n \n \n \n- \n- \n \n2. \n . _V. \n 1 \n \n ◦ ( ) 1 \n \n \n◦ (PM) \n◦ \n◦ \n◦ \n◦ \n◦ \n1 \n1 \n1 \n1 \n \n◦ \n◦ \n1 \n※ , \n \n . , -\n 5 USB 1 - 1 - \n - \nⅣ \n1. \n . , \n \n . , \n , , ,\n .\n . , \n , \n \n2. \n . \n \n . \n \n . \n \n ․ ․ \n \n . , \n \n \n . \n \n . SW · \n 1 \n . \n- \n- \n- · · \n- \n . \n \n- \n- · · \n- \n- 3 \n- , \n- , \n . , \n3. \n . \n , \n \n . \n \n . , \n · \n . , \n \n4. \n . 3 \n \n . · \n , .\n \n . \n . , 3 , \n \n . · · · \n . 3 \n \n . SW . \n , , 3 30 \n \n . \n . 3 \n . \n \n . , , , \n \n . , \n \n . \n , \n . , , ,\n ·API· , , \n \n5. \n . \n \n○ \n \n- ( ) 15 \n \n- , \n . 1 \n○ \n○ \n \n○ \n○ \n○ \n . , \n \nⅤ \n1. \n . , \n \n . \n , , \n \n . \n . \n , \n \n . \n \n . ,",
+      "analysis": {
+        "docType": "과업지시서",
+        "summary": "AI \n AI \n2026. 9.\nⅠ \n1. : AI \n2. \n . \n○ AI , · , \n , AI\n AI (HAI ) \n \n○ HAI – – 9 AI\n ( AI ) \n \n - , , , , \n - , \n - UT , Pain Points \n※ AI ( , , ) 3 \n○ 9 – – , \n , 3 \n , 6 \n . \n○ AI 9 AI \n , 9 AI \n , 3 ( , \n , ) \n○ AI \n \n \n · · · · \n135 \n RAG\nAI \n \n · · \n , , \n API \n○ AI 135 9 \n \n \n3. \n . Two-track \n○ HAI Two-\ntrack \n \nTrack 1 - HAI B200 \nTrack 2 - DGX Spar...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "2",
+      "attachmentKey": "f3fa7443fe42cfa839bb0300",
+      "fileName": "붙임3. 제안요청서_디자인 AI 기본 시스템 개발 용역.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01740755/000/files/2",
+      "originalFileUrl": "/api/notices/R26BK01740755/000/original-files/2",
+      "pdfUrl": "/api/notices/R26BK01740755/000/files/2",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01740755-000/붙임3. 제안요청서_디자인 AI 기본 시스템 개발 용역.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01740755-000/converted/붙임3. 제안요청서_디자인 AI 기본 시스템 개발 용역.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01740755-000/converted/붙임3. 제안요청서_디자인 AI 기본 시스템 개발 용역.pdf",
+      "pageCount": 67,
+      "textLength": 11675,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI \n AI \n \n2026. 9.\n AI \n AI \nⅠ \n1. \n○ : AI ( )\n○ : 2027 6 30 ( 9 ) ※ \n \n○ : ( )\n○ : ( ) / \n○ : ( ) \n○ : 496,676,000 ( /vat )\n· 1 : 365,300,000 \n· 2 : 131,376,000 ※ , \n \n○ : AI , RAG, , API, \n \n○ : GPU \n2. \n○ · , , \n AI \n○ HAI – – 9 AI \n( AI ) \n \n - , , , , \n - , \n - UT , Pain Points \n※ AI ( , , ) 3 \n○ , 3 \n , 6 \n \n○ R&D , GD 135 R&D \n( ) , , · · ·\n · AI AI \nⅡ \n1. \n \n1 \n- 9 , AI , 3 ,\n · DGX Spark–B200 \n2 AI \n- 8B~27B · , , , \n AI \n3 RAG \n- , BM25 , , RDBMS·SQL \n RAG \n4 \n- 135 , · · , Raw·Curated·Labeled\n3 , RDBMS·Vector DB \n5 \n- · · 3 , UI, API, \n , · · \n6 \n- DGX Spark B200 \n \n7 \n- , , , \n \n8 - · ·AI · · · \n9 · \n- , , , , \n \n2. \n \n -SAR (System\nArchitecture Requirement)\n , AI , RAG,\n 3 , · \n6\nAI/ –AIR\n(AI Requirement)\nAI , , , RAG \n , AI \n6\n -DAR\n(Data Architecture Requirement)\n · , , 3 , 135 ,\n · · , · \n9\n -DEV\n(Development Requirement)\n API, UI, · · , \n , · , API \n7\n -PER\n(Performance Requirement)\n · , , , \n \n5\n –SER\n(Security Requirement)\n , , , , \n \n6\n –TER\n(Test Requirement)\n · ·AI · · 6\n · -DEP\n(Deployment Requirement)\n , , , \n \n5\n \n3. \n \n \nSAR-001 \nSAR-002 AI \nSAR-003 RAG \nSAR-004 3 \nSAR-005 \nSAR-006 · · \nAI/ \nAIR-001 \nAIR-002 (LoRA) \nAIR-003 \nAIR-004 RAG \nAIR-005 \nAIR-006 AI \n \n \nDAR-001 \nDAR-002 \nDAR-003 3 \nDAR-004 135 \nDAR-005 (Chunk) \nDAR-006 ( )\nDAR-007 \nDAR-008 \nDAR-009 \n \nDEV-001 API \nDEV-002 SaaS UI ( )\nDEV-003 · \nDEV-004 \nDEV-005 \nDEV-006 API \nDEV-007 \n \nPER-001 \nPER-002 \nPER-003 (SLA)\nPER-004 \nPER-005 \n \nSER-001 \nSER-002 (RBAC)\nSER-003 \nSER-004 \nSER-004 \nSER-005 \nSER-006 \n \nTER-001 \nTER-002 \nTER-003 AI \nTER-004 \nTER-005 \nTER-006 (UAT)\n · \nDEP-001 \nDEP-002 \nDEP-003 \nDEP-004 \nDEP-005 \n※ AI \n4. \n○ AI \n \nAI \n- DGX Spark · 8B~27B · \n- · , , GPU , , RAG \n \n- LoRA \n- 200B · \n \n \n \n- Raw : Excel·CSV· , API \n- Curated : , , , , RDBMS \n- Labeled : · · · · ·PEST· , \n \n- RDBMS, Vector DB \n \nRAG\n- · · \n- BM25 \n- \n- RDBMS·SQL \n- , · \n- AI URL· · · · \n \n- : 1,000 \n- : 60~80 \n- : 4~6 \n- : 15~18 \n- : 98% \n※ 60~80 , , ,\nKV-cache GPU \n※ B200 \n5. \n \n1 2026.10.~2026.12.\n- \n- LLM · \n- \n- · \n- ,\n- \n- Raw·Curated·Labeled \n- RAG Vector DB \n- \n2 2027.1.~2027.6.\n- LLM \n- · · 3 UI·API \n- \n- \n- BM25· ·SQL · RAG\n- · · \n- · · ·UAT \n- B200 \n- · · \n6. \n□ (SAR)\n \n SAR-001\n \n \n \n \n R&D · · \n , 9 \n \n \n , , API, LLM , RAG , \n · , RDBMS, Vector DB · \n \n 6 \n \n · · , · · \n · · \n DGX Spark B200 \n \n , , , , \n \n , · \n \n , · , , \n , · , \n \n SAR-002\n AI \n \n \n \n R&D , DGX Spark\n · 8B~27B AI · \n \n 8B~27B , \n \n , , , \n RAG \n \n , , \n LoRA \n , , \n \n \n \n · , AI , , \n \n \n SAR-003\n RAG \n \n \n \n135 Multi-Index \n RAG \n \n ( / / / / ) \n \n \n (135) (30 ) \n \n (Re-ranking), (URL ), \n(Freshness), (Authority) \n \n ( , , ) \n / / (Trace) \n \n \nRAG , ( / / \n ), ( topK/ / ), \n , RAG Trace/ ( )\n \n SAR-004\n 3 \n \n \n \n / / 3 135 \n \n \n Raw/Curated/Labeled 3 · · · \n \n 135 , / \n \n RAG ( ID, , / , URL,\n ) \n URL \n ( , ) \n \n \n (3 ), ( \n ), / , / \n \n SAR-005\n \n \n \n \n 1,000 , 60~80 \n \n \n 1,000 \n 60~80 \n , GPU , , \n KV-cache \n , , \n \n 4~6 15~18 \n \n · · \n \n B200 \n \n \n ( / / / ), ( / \n / ), ( )\n \n SAR-006\n · · \n \n \n \n \n , , \n \n \n (TLS) \n (RBAC) ( / / ) \n \n ( ) \n ( / / ) \n \n ( / / / ) (3 ) \n \n \n ( /RBAC/ / ), \n , \n□ AI (AIR)\n AI/ \n AIR-001\n \n \n \n \n R&D AI \n(8B~27B ) \n \n GPU \n \n ( , , temperature, top-p ) \n \n ( , ) \n \n \n \n \n , , \n \n AI/ \n AIR-002\n (LoRA) \n \n \n \n , , \n LoRA \n \n LoRA · \n \n · \n \n , , \n \n , \nRAG \n \n \n , , / \n \n AI/ \n AIR-003\n \n \n \n \n AI \n GPU LLM API \n \n GPU · \n \n 60~80 \n \n \n \n \n API \n , API , \n AI/ \n AIR-004\n RAG \n \n \n \n Multi-Index \nRAG \n \n , , , \n \n · \n , RDBMS ( /SQL API \n ) \n \n \n 135 \n (Re-ranking) · \n \n URL \n \n \nRAG , , \n \n AI/ \n AIR-005\n \n \n \n \n · · \n \n \n ( , , , ) \n \n (JSON ) · \n (800~2,000 ) \n \n \n \n ( ), (JSON Schema)\n , \n AI/ \n AIR-006\n AI \n \n \n \nAI \n \n \n · · 200 \n \n \n , , ·\n · \n , \n \n \n \n \nAI , , \n , \n□ (DAR)\n \n DAR-001\n \n \n \n \n , , , , · \n \n \n / \n- / : 1 ( )\n- / / : ( )\n Raw \n \n ( , , , / ) \n Excel, CSV, · \n · \n \n \n · · · \n \n , \n \n , / ,\n ( )\n \n DAR-002\n \n \n \n \nURL \n \n \n / / URL \n \n ( ) \n URL / ( / / ) \n \n \n \n , \n ( )\n \n DAR-003\n 3 \n \n \n \n , , Raw/Curated/Labeled\n3 · \n \n Raw : Excel , API , \n \n Curated : , , , , \nRDBMS \n Labeled : · · · · ·PEST· \n · Vector DB \n RDBMS , \n Vector DB \n \n3 , \n / \n \n DAR-004\n 135 \n \n \n \n135 (30 ) RAG\n \n \n 135 \n \n- ID(135), ID, , / , URL( \n ), \n /PEST ( / / ) \n \n \n , ( )\n \n \n DAR-005\n (Chunk) \n \n \n \nRAG \n \n \n / / \n ( , , ) \n / / \n \n \n , \n / ( )\n \n DAR-006\n ( )\n \n \n \n DB \n \n \n \n ( / / / ) \n \n ( / ) RDBMS · \n , \n ( , ID, ) \n \n / \n \n \n / , \n / \n \n DAR-007\n \n \n \n \n \n \n \n \n Curated Labeled \n ( , , ) \n / \n \n , \n / ( )\n \n DAR-008\n \n \n \n \n \n \n \n , , \n \n \n \n \n , ( )\n \n \n DAR-009\n \n \n \n \n DB \n \n \n Raw/Curated/Labeled \n DB \n , \n \n , , \n□ (DEV)\n \n DEV-001\n API \n \n \n \n (RAG), , \nAPI \n \n → / → RAG → → \n API \n AI API \n (JSON ) \n , , \n 60~80 \n \n JSON \n URL , , · ,\n \n · · \n \n \nAPI (Swagger/OpenAPI ), API \n \n \n DEV-002\n SaaS UI ( )\n \n \n \n · , \n \n \n \n (135 ) \n UI \n , , / \n , \n \n , \n \n · · \n , , · , \n \n URL \n \n \nUI ( ), \n ( )\n \n DEV-003\n · \n \n \n \nAI \n \n \n · · \n \n · · · ·CMF \n \n · ·PEST· \n \n · · · \n \n , JSON Schema \n \n \n DEV-004\n \n \n \n \n · · · \n \n \n / (RBAC) \n ( / ) \n \n \n ( , ) \n \n , \n \n \n DEV-005\n \n \n \n \n \n \n \n \n ( , ) \n \n \n 3 \n , , ( )\n \n DEV-006\n API \n \n \n \n API\n · \n \n REST API \n API \n / \n (Rate Limit) \n API \n API , API , \n \n DEV-007\n \n \n \n \n \n \n \n CPU/GPU , , , \n \n ( /API/ ) \n / / \n , \n \n , ( ), \n□ (PER)\n \n PER-001\n \n \n \n \n 1,000 60~80 \n \n \n 1,000 \n 60~80 , GPU\n \n Active Generation Concurrency 60~80 , \n · ·KV-cache GPU \n , , \n \n DGX Spark , B200 \n \n , \n \n PER-002\n \n \n \n \nAI \n \n \n : 4~6 \n : 15~18 \n ( 4~6 , 15~18 ) \n , \n \n \n RAG \n \n , , , \n \n , RAG , AI \n \n DGX Spark · , \n B200 \n , \n \n PER-003\n (SLA)\n \n \n \n \n \n \n 98% \n \n (RTO) \n · \n SLA , \n \n \n SLA , , ( )\n \n PER-004\n \n \n \n \n \n \n \n /API \n AI ( GPU) \n DB \n API \n \n GPU \n \n , ( )\n \n PER-005\n \n \n \n \n \n \n \n CPU/GPU , , , \n \n \n \n \n , \n□ (SER)\n \n SER-001\n \n \n \n \n \n \n \n - -API- TLS \n \n \n \n \n \n \n \n , \n \n \n SER-002\n (RBAC)\n \n \n \n \n \n \n , , \n \n · \n \n \n RBAC , , \n \n SER-003\n \n \n \n \n · · \n \n \n , \n \n AI / \n \n \n , , \n \n SER-004\n \n \n \n \n \n \n \n \n \n \n API Rate Limit \n \n \n , \n \n \n SER-005\n \n \n \n \n · \n \n \n , , , \n \n 3 \n · \n \n , , \n \n SER-006\n \n \n \n \n · \n \n \n ( , , ) \n \n \n ( )\n \n , , \n \n□ (TER)\n \n TER-001\n \n \n \n \n ( , RAG, , ) \n \n \n \n \n RAG ( , , ) \n \n \n , \n \n TER-002\n \n \n \n \n \n \n \n → → → → \n \n \n ( , , ) \n \n ( , , ) \n , \n \n TER-003\n AI \n \n \n \nAI \n \n \n 200 · · \n \n · · · · · \n \n , , · · · ·CMF \n , \n · ·PEST· , \n \n , \n·RAG· · \n 135 · · \n , , DB RAG , \n \n \n \nAI , \n \n \n TER-004\n \n \n \n 60~80 \n \n 1,000 \n 60~80 \n \n , \n \n DGX Spark · , B200 \n \n , \n \n \n , \n \n \n TER-005\n \n \n \n \n \n / \n SQL Injection \n \n \n , \n \n TER-006\n (UAT)\n \n \n \n ( ) \n \n \n \n UI , , \n \n \n UAT , , \n□ (DEP)\n \n DEP-001\n \n \n \n \n \n \n \n DGX Spark · \n B200 · · · \n · · \n B200 , \n , , \n , \n \n , , \n \n DEP-002\n \n \n \n \n 135 · · \n RDBMS, Vector DB , ·\n · \n \n 135 · , \n , , , , \n RDBMS , \n , \n \n · · \n \n Raw/Curated/Labeled \n DB ( ) \n , , \n \n \n135 , · \n , , DB·RAG \n \n DEP-003\n \n \n \n \n · \n \n \n \n \n \n \n \n \n , , , · , \n \n \n DEP-004\n \n \n \n · \n \n , , , \n \n · , \n \n \n \n \n \n , , \n \n DEP-005\n \n \n \n \n \n \n AI \n \n \n \n \n , , \nⅢ \n1. \n \n1. \n- \n- , \n \n- \n- \n \n \n \n . \n . \n . \n . \n2. \n- , \n- , , 135 3 \n \n- · \n- , \n- , \n-\n3. - , , \n- , , , \n- 1 2 \n \n-\n . \n . \n- 50 · · · \n \n- DGX Spark , B200 , \n· · \n . \n . \n . \n4. ( )\n- \n \n-\n2. \n . \n : \n : 10 ( 1 , 9 )\n : A4(210×297 ) \n : \n : \n : , , \n ․ ․ \n , , \n . PPT \n 30 USB \n ,\n \n , USB \n3. \n . ( ) 1 [# \n 1] ( )( ) 1 [# 2] ( ) 1 \n 1 \n ․ ․ 1 , 1 ( \n ) 1 ( )( ) 1 [# 3] \n ( ) 1 [# 4, 5]\n . \n 1 [# 6] 3 \n \n( / ) 1 [# 7, 8] - 2 \n ( ) 1 [# 9] - ( ) 1\n ( ) , \n 1 [# 10, 11] 10 , (PT) USB 1\n ※ (1 ), (9 )\n . 1 [# 12] \n 1 [# 13] PT ( ) \n [# 14, 15]\n4. \n \n ( ) (G2B) ※ \n \n \n5. \n . : 2026. 9. 22.( ) ~ 2026. 10. 6.( ) 14:00\n※ : 2026. 10. 5.( ) 18:00 \n※ : 2026. 9. 22.( ) ~ 2026. 10. 6.( ) 14:00 \n※ : 2026. 10. 6.( ) 09:00~14:00\n※ , \n \n . : 350-27 IT 3 ( ) \n (B310 )\n※ ( )\n . : ( )\n※ : \n6. \n . , \n . 1 ( )\n . \n \n . \n . \n \n . \n . , \n \n . , , , \n \n . , \n , \n . \n \n , . \n \n . \n \n . . \n , \n , \n . , \n , \n . ,\n \n . (※ \n ) \n . , \n \n7. SW \n . \n . \n , \n \n . · GPU , , ,\n \n . , , , , \n \n8. SW \n . \n , \n . 3 , \n \n . SW , \n , , 3 \n \n . \n , 3 \n \n . , , , \n ·API· , , \n \nⅣ \n1. \n \n \n \n \n \n 20 \n 60 \n 20 \n2. \n : 2026. 10. 7.( ) 14:00( )\n : 350-27 IT 3 \n \n : \n : 7 \n : \n : (PT 20 ) → ( , ) → \n : \n3. \n . MS , \n . PT ․ \n(CI, BI, ), , , , \n \n※ \n . , \n \n . PT USB \n , \n . 30 \n , \n . \n \n . \n \n . \n \n※ \nⅤ \n . : ( ) ( )\n \n \n \n \n . \n 13 \n14 \n 31 \n 92 \n 2 2 2 \n , ,\n \n ( ) \n \n 24 ( \n ) \n- 58 53 17 \n ( 1468)\n- \n [ : 8111159901] \n \n \nⅥ \n [ ] \n \n( )\n \n \n \n[20 ]\n▪ ( 3 ) 5\n▪ ( ) 5\n▪ 5\n▪ ( ) 5\n \n( )\n \n \n \n[60 ]\n \n[10 ]\n▪ 5\n▪ 5\n \n[20 ]\n▪ , , 5\n▪ AI , 5\n▪ · · · 5\n▪ , API, 5\n \n[20 ]\n▪ · · 10\n▪ · ·AI · · 10\n \n[10 ]\n▪ , · · 5\n▪ , · , 5\n \n[10 ]\n▪ 20\n \nVII \n1. (20 )\n \n1. \n \n \n \n 3 \n \n[ ]\nA. 100% 5\nB. 70% ~ 100% 4.7\nC. 40% ~ 70% 4.1\nD. 40% 3.9\n* 3 ( ) \n** \n5\n2. \n \n \n \nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+,\nBBB0\nA1, A2+, A20, A2-,\nA3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+,\nBBB0\n5.00\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0,\nBB-\n4.75\nB+, B0, B- B- B+, B0, B- 4.50\nCCC+ C CCC+ 3.50\n* \n** \n** , \n .\n( ) (A ×A )+(B ×B )…\n5\n3. \n \n \n( 3 \n )\n7 \n 6 5 4 3 \n5\n5 4.7 4.4 4.1 3.8\n* 4 \n( 1 )\n5\n4. \n \n50% 5\n50% ~ 100% 4.7\n100 ~ 150% 4.4\n150 ~ 200% 4.1\n200% 3.8\n* ( ) : 2025 / * 100%\n[ (2025 ) ]\n5\n \n . (5 )\n ( ) 3 ( ) \n ( ) \n- 3 ( ) .\n① ( ) ( )\n② .\n· , \n , , \n ( ) .\n· , \n \n .\n· \n .\n . (5 )\n 4 1 1 \n 1 , \n , \n .\n ‘ ’ , \n .\n \n \n .\n \n . (5 )\n 1 \n( 4 )\n . (5 )\n \n- 2025 / * 100%\n- 2025 \n2. (60 )\n . 2 \n 1 \n . , ( ) \n \n . , \n , , \n . \n . ( : 60 )\n \n[ ]\n \n \n \n[60 ]\n \n[10 ]\n▪ 5\n▪ 5\n \n[20 ]\n▪ , , 5\n▪ AI , 5\n▪ · · · 5\n▪ , API, 5\n \n[20 ]\n▪ · · 10\n▪ · ·AI · · 10\n \n[10 ]\n▪ , · · 5\n▪ , · , 5\n \n3. (10 )\n※ ( )\n . \n 100 80 \n = × ( / )\n※ 1. , 100 \n70 100 70 \n2. 100 \n80 \n = 100 80 \n[ × ( / 80% )]\n [2×( 80% – )/( 80% - \n 70% ) ]\n※ 1. , 100 70 \n 100 70 \n2. 100 70 30% \n \n3. \n4. \n5. \nVIII ( ) \n1. \n . 100 , 80 ( 20 ,\n 60 ), 20 , \n 85%(68 ) \n※ ( 68 ) , \n \n . , \n 2 , \n \n \n . , \n . \n \n . , \n2. \n . \n · · ( ※ \n )\n , , \n , \n \n . \n ( \n ) \n . \n 15 .\n※ , , 10 \n . \n 1 \n \n \n . \n , , \n \n \n , \n \n \n \n3. \n . \n .\n 3 \n . \n 10 \n \n \n \n , \n , \n , , , \n \n 4 9 \n \n \n \n□ \n1. [# 1] \n2. [# 2] \n3. [# 3] \n4. [# 4] \n5. [# 5] \n6. [# 6] \n7. [# 7] \n8. [# 8] \n9. [# 9] \n10. [# 10] \n11. [# 11] \n12. [# 12] \n13. [# 13] \n14. [# 14] PT \n15. [# 15] ( ) \n[# 1] \n \n* .\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n( ) \n \n ' AI ' AI \n \n \n \n \n \n \n· :\n 100 5 .\n \n \n· :\n· \n .\n \n \n \n·\n \n \n \n \n \n .\n \n \n \n .\n ( )\n ( ) ( , ) \n( · ) \n .\n : 1. 1 \n2. 1 \n3. \n ( )\n( ) \n[# 2] \n \n \n \n \n \n \n \n \n \n( ) ' AI ' AI \n \n .\n2026 \n : ( )\n : ( )\n( ) \n※ : 1 , \n※ \n※ \n※ , \n[# 3] \n \n \n :\n :\n :\n ' AI ' AI \n · , \n · \n .\n2026 \n :\n :\n : ( )\n ( ) :\n( ) \n[# 4] \n \n : AI \n1. \n , \n .\n2. · , \n \n .\n3. \n .\n2026 \n :\n :\n : ( )\n :\n( ) \n[# 5] \n \n ( ) ' AI ' AI \n \n \n1. , , \n .\n \n 2 ( ) , , \n \n \n .\n2. ( ) , \n .\n , \n \n 2 ( ) \n , , .\n3. ( ) , \n , \n , .\n4. ( ) , \n \n .\n , \n , , ( ) \n ( ) \n .\n2026 . . .\n :\n :\n : ( )\n( ) \n[# 6] \n \n※ \n1. \n \n \n \n \n / \n \n \n \n2. \n \n ) 1. , , ( ) 2. , , \n \n[# 7] \n \n※ \n \n \n \n( , \n )\n \n \n \n ) 1) , , , .\n2) 3 , \n \n3) : \n4) 2 \n5) [# 8] \n[# 8] \n \n \n \n \n ( ) \n \n \n \n \n( )\n \n \n \n \n ※ \n※ \n \n \n \n \n2026 \n : ( ) ( : )\n : (Fax : )\n : :\n ) 1) , \n \n2) , , , \n3) (※ ) \n[# 9] \n \n \n \n( \n )\n \n( )\n \n※ “ ” \n※ 1 ( ) \n※ 1 ( )\n , .\n2026 \n○○○ ( )\n( ) \n[# 10] \n \n \n \n \n \n %\n \n \n \n( . . )\n \n※ PM , , \n※ PM, AI·RAG, , , \n[# 11] \n \n :\n \n \n \n \n \n \n1\n2\n3\n4\n ) 1 ( , , \n , 4 1 )\n ) \n )PM , \n[# 12] \n \n□ : AI \n \n \n \n ( )\n \n \n( )\nFAX\n□ ( : )\n \n 20 \n 5 \n 5 \n 5 \n 5 \n※ \n : ( ) ( )\n[# 13] \n \n ' AI ' AI \n \n .\n1. .\n2. · · \n , .\n3. , \n , \n \n .\n2026 \n :\n :\n : ( )\n( ) \n[# 14] PT \n PT \n \n \n( )\n \n( )\n ) 1) \n ) 2) , \n ) 3) [ 1 ] \n ) 4) , \n \n2026. . .\n : ( )\n[# 15] ( ) \n ( ) \n ( ) ' AI ' AI \n .\n2026 \n \n \n \n ( )\n \n ( \n )\nFAX\n : 1 \n( ) \n---------( )----------------- --------------( )--------------\n ( ) \n HAI 2026 - 2026 \n \n \n :\n : : : ( )",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "AI \n AI \n \n2026. 9.\n AI \n AI \nⅠ \n1. \n○ : AI ( )\n○ : 2027 6 30 ( 9 ) ※ \n \n○ : ( )\n○ : ( ) / \n○ : ( ) \n○ : 496,676,000 ( /vat )\n· 1 : 365,300,000 \n· 2 : 131,376,000 ※ , \n \n○ : AI , RAG, , API, \n \n○ : GPU \n2. \n○ · , , \n AI \n○ HAI – – 9 AI \n( AI ) \n \n - , , , , \n - , \n - UT , Pain Points \n※ AI ( , , ) 3 \n○ , 3 \n , 6 \n \n○ R&D , GD 135 R&D \n( ) , , · · ·\n · AI AI...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "- 1 -\n(재)대구경북디자인진흥원 공고 제 2026-056\n『디자인 AI 인프라 구축사업』\n[긴급] 디자인 AI 지원 시스템 개발 용역 입찰공고\n1. 입찰에 부치는 사항\n 가. 용 역 명 : 디자인 AI 지원 시스템 개발 용역\n 나. 사업금액 : 금496,676,000원정도(사억구천육백육십칠만육천정도/VAT포함)\n - 1차년도:365,300,000원정도 / 2차년도:131,376,000원정도\n ※ 본 과업은 계속사업 계약을 적용하여 연차별로 구분하여 사업비를 집행하며, \n 세부 지급방법과 시기는 연차별 계약조건에 따름\n 다. 용역기간 : 계약일로부터 2027년 6월 30일까지(약 9개월정도)\n※ 세부 추진 일정은 변경될 수 있음\n 라. 용역유형 : 일반용역(소프트웨어 용역)\n 마. 입찰방법 : 전자입찰, 제한(총액)경쟁입찰, 긴급입찰\n 바. 낙찰자 결정방법 : 협상에 의한 계약\n 사. 용역내용 : 붙임 과업지시서 및 제안요청서 참조\n 아. 공동수급 및 하도급 : 불허\n2. 입찰 일정\n 가. 공고기간 : 2026. 9. 22.(화) ~ 2026. 10. 6.(화)\n 나. 가격입찰 : 조달청 나라장터를 통한 전자입찰\n 1) 제출기간 : 2026. 10. 6.(화) 09:00~14:00\n 2) 입찰참가 자격등록 마감일시 : 2026. 10. 5.(월) 18:00\n 3) 개찰일시 : 제안서 기술평가 후 개찰/ 2026. 10. 8.(목), 17:00(예정)\n 4) 개찰장소 : 대구경북디자인진흥원 입찰집행관 PC\n- 2 -\n ※본입찰의가격입찰은전자입찰로만가능하며또한전자입찰에필요한제반사\n항을만족하여야하며가격입찰서를제출한입찰자만제안서를제출할수있음\n ※PC환경에따라다소늦어질수있음\n 다. 제안서 접수 : 직접 방문접수\n 1) 접수기간 : 2026. 10. 6.(화) 09:00~14:00\n※평일 업무시간내 접수\n 2) 접수장소 : 경북 구미시 구미대로 350-27 IT융합기술센터 3층 \n(재)대구경북디자인진흥원 경영지원실(B310호)\n 3) 접수방법 : 직접 방문접수(우편 및 택배 등 접수 불가)\n※접수요령 및관련 양식:제안요청서 및제안요청양식 참조\n 라. 제안서 평가\n 1) 평가일시 : 2026. 10. 8.(목), 14:00(예정)\n 2) 평가장소 : 구미시 구미대로 350-27 IT융합기술센터 연구실험동 3층\n 3) 평가방법 : 발표평가, 업체당 30분(발표 20분, 질의응답 10분)\n※운영상황에따라변경가능하며,제안서검토및평가서작성시간포함\n 마. 협상적격자 발표 : 개별통지\n 1) 기술평가 (80%)와 가격평가 (20%)를 종합평가한 결과, 최고 \n득점자를 우선협상대상자로 선정\n※모든입찰일정은변경될수있으며변경시우리원홈페이지(dgdp.or.kr)에게시\n3. 입찰 참가자격\n 가. 「지방자치단체를 당사자로 하는 계약에 관한 법률 시행령」 \n제13조 및 동법 시행규칙 제14조에 따른 경쟁입찰 참가자격을 \n갖춘 업체\n 나. 입찰등록 마감일 현재 「지방자치단체를 당사자로 하는 계약에 \n관한 법률」 제31조 및 동법 시행령 제92조에 해당하지 않는 업체\n 다. 「중소기업기본법」 제2조제2항에 따른 중소기업 또는 「소상공인\n기본법」 제2조에 따른 소상공인으로서, 「중소기업 범위 및 확인에\n- 3 -\n관한 규정」에 따라 발급된 중소기업·소상공인 확인서를 소지한 \n업체\n 라. 국가종합전자조달시스템 입찰참가자격등록규정에 따라 입찰일 \n전일까지 입찰참가자격을 나라장터에 등록한 업체\n 마. 입찰공고일 현재 소프트웨어진흥법에 따른 소프트웨어 사업자\n(컴퓨터 관련 서비스업)로 신고한 자\n - 「소프트웨어진흥법」제58조 시행령 제53조 및 시행규칙 제17조에\n의한 소프트웨어사업자(컴퓨터관련 서비스사업 1468) (최근년도 \n결산 신고된 SW사업자 신고확인서 제출)\n 바. 본 사업은 사업금액이 20억원 미만인 소프트웨어사업으로서 「중소\n소프트웨어사업자의 사업 참여 지원에 관한 지침」에 따라 대기업\n및 중견기업인 소프트웨어사업자는 입찰에 참여할 수 없음\n 사. 「중소기업제품 구매촉진 및 판로지원에 관한 법률」에 따른 중소\n기업자로서 입찰마감일 전일까지 발급된 유효한 직접생산확인\n증명서[정보시스템개발서비스(8111159901)]를 소지한 업체\n 아. 본 용역은 공동수급 및 하도급 불허용\n※중소기업확인서및직접생산확인증명서는입찰마감일전일까지발급된것으로서유효기간내에있어야함\n- 4 -\n4. 제출서류\n 가. 제출서류 목록 \n구분 제출서류 비고\n입찰 등록\n및참가자격\n서류\n◦입찰참가신청서1부\n◦위임장(원본)1부(해당시,대리인일경우재직증명서)\n◦서약서1부\n◦사업자등록증명원(원본)1부\n◦청렴계약이행서약서1부\n◦법인등기부등본(원본)1부(해당시)\n◦법인인감증명서및사용인감계(사용인감사용시)(원본)각1부\n◦지방세,국세완납증명서1부(지방세법인인감날인)\n◦제안서\n◦정량적평가자기평가와심사표1부\n◦제안참가(응모)신청서1부\nㅇ기타입찰제안시필요한서류및입찰공고요청사항\n※사본은\n반드시\n원본\n대조필\n하여\n제출\n기\n술\n능\n력\n평\n가\n정량적\n평 가\n◦제안서\n◦일반현황및연혁\n◦조직및인원현황\n◦자본금및매출액(최근3년)\n◦수행실적총괄표및용역수행실적증명서\n◦제안사보유전문인력및기술역량현황\n◦신인도평가서류\n◦신용평가등급확인서\n정성적\n평 가\n◦제안서10부,제안서및프리젠테이션(PT)자료가담긴USB1개\n※제안회사명표기(1부),제안회사명삭제(9부)\n기타서류 ◦제안서PT발표자명단및제안참가(응모)신청서\n※별지 서식은제안요청서 참고\n 나. 접수 시 유의사항\n 1) 제안서는 업체별로 1점을 원칙으로 하며, 제출된 제안서는 수정\nㆍ보완ㆍ교환이 불가능함\n 2) 제출서류는 접수담당자 확인 후 밀봉하여 제출하여야 함.\n 3) 대리인이 제출하는 서류에는 반드시 대표자(법인) 인감도장이 \n날인된 위임장을 제출하여야 함\n 4) 제출서류가 미비하거나 입찰참가자격을 확인할 수 없는 경우 \n접수가 제한되거나 평가에서 제외될 수 있음\n- 5 -\n5. 입찰의 무효\n 가. 「지방자치단체를 당사자로 하는 계약에 관한 법률 시행령」 제39조\n및 동법 시행규칙 제42조에 해당하는 입찰은 무효로 함\n 나. 가격입찰서와 제안서를 모두 제출하여야 하며, 어느 하나라도 \n제출하지 않은 입찰은 무효로 처리함\n 다. 입찰참가자격이 없는 자가 한 입찰, 입찰에 관한 조건을 위반한 \n입찰 및 제출서류에 허위사실을 기재한 입찰은 관계 법령 및 \n입찰유의서 등에 따라 처리함\n6. 낙찰자 결정방법 : 협상에 의한 낙찰자 결정\n 가. 본 사업은 제안서의 평가는 총점 100점 만점을 기준으로, 기술\n능력평가 80점, 입찰가격 20점으로 배점하여 평가하고, 기술능력\n평가 점수가 기술능력평가 분야 배점 한도의 85% 이상인 자를 \n선정하여 고득점자 순으로 한다.\n 나. 협상 순서는 종합평가 점수의 고득점 순에 의하여 결정하되,\n합산점수가 동일한 제안자가 2인 이상인 경우에는 기술능력 평가\n점수가 높은 제안자를 우선 순위자로 하고, 기술능력 평가 점수도\n동일한 경우에는 기술능력의 세부 평가 항목 중 배점이 큰 \n항목에서 높은 점수를 얻은 자를 우선 순위자로 한다.\n 다. 협상 순서는 합산점수의 고득점자 순에 의해 협상을 진행하며,\n협상이 성립된 때에는 다른 협상적격자와 협상하지 아니한다.\n협상이 결렬되면 차순위 협상 대상자 순으로 협상을 실시한다.\n 라. 제안서 평가결과 소수점 이하의 숫자가 있는 경우, 소수점 다섯\n째자리에서 반올림 한다.\n7. 입찰보증금 납부 및 귀속\n 가. 「지방자치단체를 당사자로 하는 계약에 관한 법률」제12조 및 \n동법 시행령 제37조에 의하여 입찰보증금 납부는 입찰참가신청\n- 6 -\n서 입찰보증금 확약으로 갈음\n 나. 단, 지방자치단체를 당사자로 하는 계약에 관한 법률 제12조 제\n3항 및 동법 시행령 제38조에 의한 세입조치 사유가 발생한 때\n에는 입찰금액의 100분의 5에 해당하는 금액을 납입하여야 하\n며, 부정당업자로 입찰참가자격 제한 처분을 받게 됨\n8. 제안서의 효력\n가. 본 입찰의 내용은 대구경북디자인진흥원이 요청하지 않는 한 \n변경될 수 없으며, 계약 체결 시에는 계약조건으로 간주한다.\n나. 대구경북디자인진흥원이 필요 시 공고 참가자에 대하여 추가 \n제안이나 추가 자료를 요구할 수 있으며, 이에 따라 제출된 \n자료는 계약과 동일한 효력을 가진다.\n9. 기타사항\n가. 제출된 모든 서류는 일체 반환하지 않으며, 제안서는 대표자 \n인감이 날인된 공문과 함께 제출되어야 한다.\n나. 계약상대자가 계약내용을 이행하지 않는 경우 관계 법령 및 계약\n조건에 따라 계약을 해제 또는 해지할 수 있으며, 부정당업자 \n제재 사유에 해당하는 경우 「지방자치단체를 당사자로 하는 계약에\n관한 법률」 제31조, 동법 시행령 제92조 및 동법 시행규칙 \n제76조에 따라 입찰참가자격 제한처분을 받을 수 있다.\n다. 본 사업의 계약목적물에 대한 지식재산권은 발주기관과 계약상대자가\n공동으로 소유함을 원칙으로 하며, 세부적인 권리의 귀속 및 \n이용에 관한 사항은 관계 계약법령과 계약조건에 따른다.\n라. 제안서 작성·제출에 대하여는「제안요청서」의 내용(제안 안내 \n및 유의 사항, 제안서 작성기준 및 요령 등)을 반드시 숙지하여\n이행하여야 한다.\n- 7 -\n마. 본 사업은 발주처의 사정에 따라 변동될 수 있으며, 이 경우에 \n제안자는 발주처의 지시에 따라야 한다.\n바. 본 사업은 계약보증금 납부, 손해배상보험·공제 및 하자보수보증\n대상 사업이며 관련 비용은 계약상대자가 부담하며, 본 사업에 \n포함된 SW의 하자담보책임기간은 최종 검사·검수 완료일로부터\n1년으로 하며, 하자보수와 유상 유지관리의 구분은 과업지시서 \n및 제안요청서에 따른다\n사. 천재지변 또는 기타 불가항력적 사고로 인하여 발생한 제안서의\n분실 또는 손상에 대하여는 우리 진흥원이 책임을 지지 아니한다.\n아. 일부 용역비 항목에 대해서는 용역완료 후 정산할 수 있다.\n자. 본 입찰에 참가하고자 하는 자는 청렴계약 이행서약서를 제출\n하여야 입찰에 참가할 수 있으며, 이를 제출하지 않거나 거부\n하는 자는 입찰에 참가할 수 없다.\n차. 본 사업은 하도급을 허용하지 않는다.\n카. 본 사업의 작업장소는 발주기관과 계약상대자가 상호 협의하여 \n결정하며, 계약상대자는 보안요구사항을 충족하는 자체 작업장소\n또는 원격개발 방안을 제시할 수 있으며, 발주기관은 이를 검토\n하여 승인할 수 있다\n타. 향후 공동활용이 필요한 경우에는 공동활용의 목적, 대상 기관, 대상\n소프트웨어, 소스코드·API·데이터의 제공 범위, 비용, 지식재산권\n및 보안조치에 관한 사항을 계약상대자와 별도로 협의하여 정한다\n파. 발주기관과 계약상대자는 과업범위, 계약금액, 계약기간 또는 \n주요 산출물의 변경이 필요한 경우 상호 협의하고, 관계 계약\n법령 및 계약조건에 따른 변경계약 절차를 거쳐야 한다\n- 8 -\n10. 문의처\n담당부서 담당자명 직위 연락처\n전략기획팀 황인도 선임\n054-716-2147\nhide@dgdp.or.kr\n2026. 9.\n(재)대구경북디자인진흥원 재무관",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "가. 용 역 명 : 디자인 AI 지원 시스템 개발 용역\n 나. 사업금액 : 금496,676,000원정도(사억구천육백육십칠만육천정도/VAT포함)\n - 1차년도:365,300,000원정도 / 2차년도:131,376,000원정도\n ※ 본 과업은 계속사업 계약을 적용하여 연차별로 구분하여 사업비를 집행하며, \n 세부 지급방법과 시기는 연차별 계약조건에 따름\n 다. 용역기간 : 계약일로부터 2027년 6월 30일까지(약 9개월정도)\n※ 세부 추진 일정은 변경될 수 있음..."
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01740755-000",
+    "sourceFile": "붙임1. 입찰공고문_디자인 AI 기본 시스템 개발 용역.pdf",
+    "generatedAt": "2026-09-28T13:21:16.791951",
+    "match": {
+      "noticeId": "R26BK01740755-000",
+      "bidNtceNo": "R26BK01740755",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01740755-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01740755-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "용역 공고",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01740755-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "등록규정에 따라 입찰일 \n전일까지 입찰참가자격을 나라장터에 등록한 업체\n 마. 입찰공고일 현재 소프트웨어진흥법에 따른 소프트웨어 사업자\n(컴퓨터 관련 서비스업)로 신고한 자\n - 「소프트웨어진흥법」제58조 시행령 제53조 및 시행규칙 제17조에\n의한 소프트웨어사업자(컴퓨터관련 서비스사업 1468) (최근년도 \n결산 신고된 SW사업자 신고확인서 제출)\n 바. 본 사업은 사업금액이 20억원 미만인 소프트웨어사업으로서 「중소\n소프트웨어사업자의 사업 참여 지원에 관한 지침」에 따라 대기업\n및 중견기업인 소프트웨어사업자는 입찰에 참여할 수 없음\n 사. 「중소기업제품 구매촉진 및 판로지원에 관한 법률」에 따른 중소\n기업자로서 입찰마감일 전일까지 발급된 유효한 직접생산확인\n증명서[정보시스템개발서비스(8111159901)]를 소지한 업체\n 아. 본 용역은 공동수급 및 하도급 불허용\n※중소기업확인서및직접생산확인증명서는입찰마감일전일까지발급된것으로서유효기간내에있어야함\n- 4 -",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "2026. 10. 5.(월) 18:00",
+          "note": "마감 확인"
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "기술평가 후 개찰/ 2026. 10. 8.(목), 17:00(예정) 4) 개찰장소 : 대구경북디자인진흥원 입찰집행관 PC - 2 - ※본입찰의가격입찰은전자입찰로만가능하며또한전자입찰에필요한제반사 항을만족하여야하며가격입찰서를제출한입찰자만제안서를제출할수있음 ※PC환경에따라다소늦어질수있음",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "또는",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "또는",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "협상에 의한 계약, 종합평가",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "기술평가 후 개찰/ 2026. 10. 8.(목), 17:00(예정)\n 4) 개찰장소 : 대구경북디자인진흥원 입찰집행관 PC\n- 2 -\n ※본입찰의가격입찰은전자입찰로만가능하며또한전자입찰에필요한제반사\n항을만족하여야하며가격입찰서를제출한입찰자만제안서를제출할수있음\n ※PC환경에따라다소늦어질수있음\n 다. 제안서 접수 : 직접 방문접수\n 1) 접수기간 : 2026. 10. 6.(화) 09:00~14:00\n※평일 업무시간내 접수\n 2) 접수장소 : 경북 구미시 구미대로 350-27 IT융합기술센터 3층 \n(재)대구경북디자인진흥원 경영지원실(B310호)\n 3) 접수방법 : 직접 방문접수(우편 및 택배 등 접수 불가)\n※접수요령 및관련 양식:제안요청서 및제안요청양식 참조\n 라. 제안서 평가\n 1) 평가일시 : 2026. 10. 8.(목), 14:00(예정)\n 2) 평가장소 : 구미시 구미대로 350-27 IT융합기술센터 연구실험동 3층\n 3) 평가방법 : 발표평가, 업체당 30분(발표 20분, 질의응답 10분)\n※운영상황에따라변경가능하며,제안서검토및평가서작성시간포함\n 마. 협상적격자 발표 : 개별통지\n 1) 기술평가 (80%)와 가격평가 (20%)를 종합평가한 결과, 최고 \n득점자를 우선협상대상자로 선정\n※모든입찰일정은변경될수있으며변경시우리원홈페이지(dgdp.or.kr)에게시\n3. 입찰 참가자격\n 가. 「지방자치단체를 당사자로 하는 계약에 관한 법률...",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4(210×297 ) : : :,, ․ ․,, . PPT 30 USB,, USB 3. . ( ) 1 [# 1] ( )( ) 1 [# 2] ( ) 11 ․ ․ 1, 1 ( ) 1 ( )( ) 1 [# 3] ( ) 1 [# 4, 5] . 1 [# 6] 3 ( / ) 1 [# 7, 8] - 2 ( ) 1 [# 9]",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "제안서 ◦정량적평가자기평가와심사표1부 ◦제안참가(응모)신청서1부 ㅇ기타입찰제안시필요한서류및입찰공고요청사항 ※사본은 반드시 원본 대조필 하여 제출 기 술 능 력 평 가 정량적 평 가 ◦제안서 ◦일반현황및연혁 ◦조직및인원현황 ◦자본금및매출액(최근3년) ◦수행실적총괄표및용역수행실적증명서 ◦제안사보유전문인력및기술역량현황 ◦신인도평가서류 ◦신용평가등급확인서 정성적 평 가 ◦제안서10부,제안서및프리젠테이션(PT)자료가담긴USB1개 ※제안회사명표기(1부),",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "2026. 10. 5.(월) 18:00",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "나라장터를 통한 전자입찰 1) 제출기간 : 2026. 10. 6.(화) 09:00~14:002) 입찰참가 자격등록 마감일시 : 2026. 10. 5.(월) 18:003) 개찰일시 : 제안서 기술평가 후 개찰/ 2026. 10. 8.(목), 17:00(예정) 4) 개찰장소 : 대구경북디자인진흥원 입찰집행관 PC - 2 - ※본입찰의가격입찰은전자입찰로만가능하며또한전자입찰에필요한제반사 항을만",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "10분) ※운영상황에따라변경가능하며,제안서검토및",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "DAR-001",
+          "requirement": "AIR-006 AI",
+          "name": "AIR-006 AI",
+          "detail": "SAR-006 · · AI/ AIR-001 AIR-002 (LoRA) AIR-003 AIR-004 RAG AIR-005",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-002",
+          "requirement": "AIR-006 AI",
+          "name": "AIR-006 AI",
+          "detail": "AI/ AIR-001 AIR-002 (LoRA) AIR-003 AIR-004 RAG AIR-005",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-003",
+          "requirement": "AIR-006 AI",
+          "name": "AIR-006 AI",
+          "detail": "AIR-006 AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-004",
+          "requirement": "AIR-006 AI",
+          "name": "AIR-006 AI",
+          "detail": "AIR-006 AI",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-005",
+          "requirement": "Chunk",
+          "name": "Chunk",
+          "detail": "Chunk",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-006",
+          "requirement": "Chunk",
+          "name": "Chunk",
+          "detail": "Chunk",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-007",
+          "requirement": "Chunk",
+          "name": "Chunk",
+          "detail": "AIR-005 AIR-006 AI DAR-003 3 DAR-004 135",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-008",
+          "requirement": "Chunk",
+          "name": "Chunk",
+          "detail": "AIR-006 AI DAR-003 3 DAR-004 135",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-009",
+          "requirement": "Chunk",
+          "name": "Chunk",
+          "detail": "DEV-001 API DEV-002 SaaS UI ( ) DEV-003 · DEV-004 DEV-005",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-001",
+          "requirement": "DEV-007",
+          "name": "DEV-007",
+          "detail": "DEV-001 API DEV-002 SaaS UI ( ) DEV-003 · DEV-004 DEV-005 DEV-006 API",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-002",
+          "requirement": "DEV-007",
+          "name": "DEV-007",
+          "detail": "DEV-001 API DEV-002 SaaS UI ( ) DEV-003 · DEV-004 DEV-005 DEV-006 API",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-003",
+          "requirement": "SLA",
+          "name": "SLA",
+          "detail": "SLA",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-004",
+          "requirement": "SLA",
+          "name": "SLA",
+          "detail": "DEV-003 · DEV-004 DEV-005 DEV-006 API DEV-007",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-005",
+          "requirement": "SLA",
+          "name": "SLA",
+          "detail": "DEV-004 DEV-005 DEV-006 API DEV-007",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "SLA",
+          "name": "SLA",
+          "detail": "DEV-005 DEV-006 API DEV-007",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": "SLA",
+          "name": "SLA",
+          "detail": "(RBAC)",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "RBAC",
+          "name": "RBAC",
+          "detail": "DEV-007 PER-003 (SLA)",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": "RBAC",
+          "name": "RBAC",
+          "detail": "PER-003 (SLA)",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-005",
+          "requirement": "RBAC",
+          "name": "RBAC",
+          "detail": "PER-003 (SLA)",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-006",
+          "requirement": "RBAC",
+          "name": "RBAC",
+          "detail": "RBAC",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-001",
+          "requirement": "RBAC",
+          "name": "RBAC",
+          "detail": "RBAC",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-002",
+          "requirement": "RBAC",
+          "name": "RBAC",
+          "detail": "RBAC",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-003",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-004",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-005",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-006",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "(UAT) · DEP-001 DEP-002 DEP-003 DEP-004 DEP-005",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [
+        {
+          "title": "실적·인증 요건",
+          "detail": "중소기업기본법」 제2조제2항에 따른 중소기업 또는 「소상공인",
+          "severity": "확인"
+        },
+        {
+          "title": "일정 리스크",
+          "detail": "긴급] 디자인 AI 지원 시스템 개발 용역 입찰공고",
+          "severity": "확인"
+        },
+        {
+          "title": "공동수급·하도급",
+          "detail": "공동수급 및 하도급 : 불허",
+          "severity": "확인"
+        },
+        {
+          "title": "감점·실격 조건",
+          "detail": "무효",
+          "severity": "확인"
+        }
+      ],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        },
+        {
+          "question": "공동수급 시 대표사 지분 또는 참여비율 제한이 있는지 확인해야 합니다.",
+          "reason": "공동수급 언급은 있으나 지분 요건은 자동 추출되지 않았습니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01740755-000",
+        "budget": "",
+        "period": "또는",
+        "deadline": "2026. 10. 5.(월) 18:00",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "입찰참가신청서",
+          "form": "별지 1",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 10. 5.(월) 18:00",
+          "note": "◦위임장(원본)",
+          "extra": ""
+        },
+        {
+          "no": 2,
+          "document": "신용평가등급확인서",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 10. 5.(월) 18:00",
+          "note": "정성적\n평 가\n◦제안서",
+          "extra": ""
+        },
+        {
+          "no": 3,
+          "document": "인감증명서",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 10. 5.(월) 18:00",
+          "note": "법인인 경우 법인인감증명서 및 법인등기부등본 각 1부",
+          "extra": ""
+        },
+        {
+          "no": 4,
+          "document": "법인인감증명서",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 10. 5.(월) 18:00",
+          "note": "및사용인감계(사용인감사용시)(원본)각",
+          "extra": ""
+        },
+        {
+          "no": 5,
+          "document": "법인등기부등본",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 10. 5.(월) 18:00",
+          "note": "개인사업자는 사업자등록증 등 대체 가능 여부 확인",
+          "extra": ""
+        },
+        {
+          "no": 6,
+          "document": "사용인감계",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 10. 5.(월) 18:00",
+          "note": "인감도장 입찰참가 신청 시 지참",
+          "extra": ""
+        },
+        {
+          "no": 7,
+          "document": "사업자등록증",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 10. 5.(월) 18:00",
+          "note": "명원(원본)",
+          "extra": ""
+        },
+        {
+          "no": 8,
+          "document": "수행실적증명서",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 10. 5.(월) 18:00",
+          "note": "◦제안사보유전문인력및기술역량현황\n◦신인도평가서류\n◦신용평가등급확인서\n정성적\n평 가\n◦제안서",
+          "extra": ""
+        },
+        {
+          "no": 9,
+          "document": "위임장",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 10. 5.(월) 18:00",
+          "note": "대리인 제출 시 필요",
+          "extra": ""
+        },
+        {
+          "no": 10,
+          "document": "재직증명서",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 10. 5.(월) 18:00",
+          "note": "대리인 또는 투입인력 증빙",
+          "extra": ""
+        },
+        {
+          "no": 11,
+          "document": "제안서",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 10. 5.(월) 18:00",
+          "note": "정성/정량 구분, 원본/사본/PDF/HWPX 등 제출 형식 확인",
+          "extra": ""
+        },
+        {
+          "no": 12,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "2026. 10. 5.(월) 18:00",
+          "note": "전자파일 제출 매체, 원본/사본 구분 확인",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 2개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "협상 적격자 평가",
+          "minor": "기술평가",
+          "score": 80.0,
+          "weight": 80.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "기술평가 후 개찰/ 2026. 10. 8.(목), 17:00(예정)\n 4) 개찰장소 : 대구경북디자인진흥원 입찰집행관 PC\n- 2 -\n ※본입찰의가격입찰은전자입찰로만가능하며또한전자입찰에필요한제반사\n항을만족하여야하며가격입찰서를제출한입찰자만제안서를제출할수있음\n ※PC환경에따라다소늦어질수있음\n 다. 제안서 접수 : 직접 방문접수\n 1) 접수기간 : 2026. 10. 6.(화) 09:00~14:00\n※평일 업무시간내 접수\n 2) 접수장소 : 경북 구미시 구미대로 350..."
+        },
+        {
+          "major": "평가항목",
+          "middle": "협상 적격자 평가",
+          "minor": "가격평가",
+          "score": 20.0,
+          "weight": 20.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "기술평가 후 개찰/ 2026. 10. 8.(목), 17:00(예정)\n 4) 개찰장소 : 대구경북디자인진흥원 입찰집행관 PC\n- 2 -\n ※본입찰의가격입찰은전자입찰로만가능하며또한전자입찰에필요한제반사\n항을만족하여야하며가격입찰서를제출한입찰자만제안서를제출할수있음\n ※PC환경에따라다소늦어질수있음\n 다. 제안서 접수 : 직접 방문접수\n 1) 접수기간 : 2026. 10. 6.(화) 09:00~14:00\n※평일 업무시간내 접수\n 2) 접수장소 : 경북 구미시 구미대로 350..."
+        }
+      ],
+      "totals": {
+        "score": 100.0,
+        "weight": 100.0,
+        "gradeA": 2,
+        "gradeB": 0,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01740755-000",
+    "generatedAt": "2026-09-28T13:21:59.643473",
+    "sourceAnalysisAt": "2026-09-28T13:21:16.791951",
+    "projectName": "",
+    "sourceFile": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+    "requirementSourceFiles": [
+      "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+      "붙임3. 제안요청서_디자인 AI 기본 시스템 개발 용역.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "DAR-001",
+        "name": "DAR-001",
+        "detail": "· / / : 1 ( ) / / : ( ) Raw ( , , , / )",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-002",
+        "name": "DAR-002",
+        "detail": "/ / URL ( ) URL / ( / / ) , ( )",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-003",
+        "name": "3",
+        "detail": ", , Raw/Curated/Labeled 3 · Raw : Excel , API , Curated : , , , , RDBMS",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-004",
+        "name": "135",
+        "detail": "135 (30 ) RAG 135 ID(135), ID, , / , URL( ), /PEST ( / / )",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-005",
+        "name": "(Chunk)",
+        "detail": "RAG / / ( , , ) / / ,",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-006",
+        "name": "( )",
+        "detail": "DB ( / / / ) ( / ) RDBMS · , ( , ID, )",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-007",
+        "name": "DAR-007",
+        "detail": "( , , ) / , / ( )",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-008",
+        "name": "DAR-008",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-009",
+        "name": "DEV-001 API",
+        "detail": "DEV-002 SaaS UI ( ) DEV-003 · DEV-004 DEV-005 DEV-006 API",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-001",
+        "name": "PER-001",
+        "detail": "1,000 60~80 , GPU Active Generation Concurrency 60~80 , · ·KV-cache GPU , ,",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-002",
+        "name": "PER-002",
+        "detail": "4~6 15~18 ( 4~6 , 15~18 ) , RAG",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-003",
+        "name": "(SLA)",
+        "detail": "98% (RTO) · SLA , SLA , , ( )",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-004",
+        "name": "PER-004",
+        "detail": "AI ( GPU) DB API GPU , ( )",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-005",
+        "name": "PER-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "SER-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "(RBAC)",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "SER-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "SER-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-005",
+        "name": "SER-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-006",
+        "name": "SER-006",
+        "detail": "( , , ) ( ) , , □ (TER)",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-001",
+        "name": "TER-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-002",
+        "name": "TER-002",
+        "detail": "( , , ) ( , , ) ,",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-003",
+        "name": "AI",
+        "detail": "AI 200 · · · · · · · , , · · · ·CMF ,",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-004",
+        "name": "TER-004",
+        "detail": "1,000 60~80 , DGX Spark · , B200 ,",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-005",
+        "name": "TER-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-006",
+        "name": "(UAT)",
+        "detail": "· DEP-001 DEP-002 DEP-003 DEP-004 DEP-005",
+        "source": "붙임2. 디자인 AI 기본 시스템 개발 용역 과업지시서_최종.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "기술평가",
+        "score": 80.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 40,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "기술평가 후 개찰/ 2026. 10. 8.(목), 17:00(예정) 4) 개찰장소 : 대구경북디자인진흥원 입찰집행관 PC - 2 - ※본입찰의가격입찰은전자입찰로만가능하며또한전자입찰에필요한제반사 항을만족하여야하며가격입찰서를제출한입찰자만제안서를제출할수있음 ※PC환경에따라다소늦어질수있음 다. 제안서 접수 : 직접 방문접수 1) 접수기간 : 2026. 10. 6.(화) 09:00~14:00 ※평일 업무시간내 접수 2) 접수장소 : 경북 구미시 구미대로 350..."
+      },
+      {
+        "scoreItem": "가격평가",
+        "score": 20.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 10,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "기술평가 후 개찰/ 2026. 10. 8.(목), 17:00(예정) 4) 개찰장소 : 대구경북디자인진흥원 입찰집행관 PC - 2 - ※본입찰의가격입찰은전자입찰로만가능하며또한전자입찰에필요한제반사 항을만족하여야하며가격입찰서를제출한입찰자만제안서를제출할수있음 ※PC환경에따라다소늦어질수있음 다. 제안서 접수 : 직접 방문접수 1) 접수기간 : 2026. 10. 6.(화) 09:00~14:00 ※평일 업무시간내 접수 2) 접수장소 : 경북 구미시 구미대로 350..."
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "DAR-001",
+              "DAR-002",
+              "DAR-003",
+              "DAR-004",
+              "DAR-005",
+              "DAR-006",
+              "DAR-007",
+              "DAR-008",
+              "DAR-009"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "PER-001",
+              "PER-002",
+              "PER-003",
+              "PER-004",
+              "PER-005",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "SER-005",
+              "SER-006",
+              "TER-001",
+              "TER-002",
+              "TER-003",
+              "TER-004",
+              "TER-005",
+              "TER-006"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 26,
+      "mappedRequirements": 26,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

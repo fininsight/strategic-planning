@@ -1,0 +1,927 @@
+{
+  "bidNtceNo": "R26BK01733186",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-09-28T13:40:44.056600",
+  "status": "completed",
+  "source": {
+    "fileName": "산출내역서.hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01733186-000/산출내역서.hwp",
+    "pageCount": 2,
+    "textLength": 590,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "산출내역서.hwp",
+      "extension": ".hwp",
+      "size": 42496,
+      "kindCode": ""
+    },
+    {
+      "fileName": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+      "extension": ".hwpx",
+      "size": 6911488,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "7510540302d4014ec917d4ec",
+      "fileName": "산출내역서.hwp",
+      "extension": ".hwp",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01733186/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01733186/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01733186/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01733186-000/산출내역서.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01733186-000/converted/산출내역서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01733186-000/converted/산출내역서.pdf",
+      "pageCount": 2,
+      "textLength": 590,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "□ : \n□ \n \nH/W( )\n \n○ : 2024 \n- 1 (DDN)\n- 1 (IBM, Tape Library)\n- (L4 4 )\n- 2 \n458,134,200\n- : 2,506,210,000 \n- : 15 \n(2026.10.1. ~ 2027.12.31)\n○ : 2025 \n- 1 (DDN)\n- 1 (IBM, Tape Library)\n- (L3 2 , 10G L2 18 , 1G L3 16 )\n- 2 \n589,238,407\n- : 3,976,669,800 \n- : 13 \n(2026.12.1. ~ 2027.12.31)\n (V.A.T. ) 1,047,372,607\n \n○ \n- \n- \n446,307,567\n- , \n- :\n405,734,152 (VAT )\n (V.A.T. ) 1,493,680,174\n□ \n ( ) ( ) (M/M) ( ) \n * 320,738,460\n- IT 15 1 5,170,016 77,550,240\n- IT 15 4 4,053,137 243,188,220\n \n( 15%)\n48,110,769 ① X 15%\n \n( + 10%)\n36,884,923 ( ① + ② ) X 10%\n ① + ② + ③ 405,734,152\n* 2026 SW",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "□ : \n□ \n \nH/W( )\n \n○ : 2024 \n- 1 (DDN)\n- 1 (IBM, Tape Library)\n- (L4 4 )\n- 2 \n458,134,200\n- : 2,506,210,000 \n- : 15 \n(2026.10.1. ~ 2027.12.31)\n○ : 2025 \n- 1 (DDN)\n- 1 (IBM, Tape Library)\n- (L3 2 , 10G L2 18 , 1G L3 16 )\n- 2 \n589,238,407\n- : 3,976,669,800 \n- : 13 \n(2026.12.1. ~ 2027.12.31)\n (V.A.T. ) 1,047,372,607\n \n○ \n- \n- \n446,307,567\n- , \n- :\n405,734,152 (...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "8a9b54e96a4574a05cdec6d6",
+      "fileName": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+      "extension": ".hwpx",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01733186/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01733186/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01733186/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01733186-000/제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01733186-000/converted/제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01733186-000/converted/제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).pdf",
+      "pageCount": 68,
+      "textLength": 12300,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "2026. 7.\n \n \n \n (042)869-0714\n (042)869-0925\n \nⅠ . 1\n1. 1\n2. 1\n3. 2\n4. 3\n5. 3\nⅡ . 5\n1. 5\n2. 9\nⅢ . 13\n1. 13\n2. 13\n3. 14\n4. 14\nⅣ . 15\n1. 15\n2. 17\n3. 18\nⅤ . 44\n1. 44\n2. 49\n3. 50\n4. 51\n 1 \n 2 \n 3 \n 4 \n 5 \nⅠ . \n1. \n . : \n . \n1) : 2026 10 1 ~ 2027 12 31 \n 1 :‘26.10.01~‘26.12.31, 2 :‘27.01.01~‘27.12.31\n , \n ( 1 :‘24.04.01~‘26.12.31, 2 \n:‘27.01.01~‘28.12.31)\n \n \n 2026.10.1 \n2) : \n( )\n , , KISTI \n \n3) : 1,500,000,000 ( )\n 1 : 228,000,000 , 2 : 1,272,000,000 \n4) : / \n- , \n- ․ \n- \n- , \n2. \n . \n1) ( ) 24 365 \n- , \n \n- \n2) ( ) \n- IT \n \n . \n1) ( ) \n- \n- \n- \n2) ( ) \n- \n- , \n3. \n . ( KISTI) \n \n . \no : (29 ), (6 ), \n / / / · (190 ) \no : L2 (18 ), L3 (18 ), L4 (4 ), IB (12 ), \n(4 ), 1G (2 ), 10G (2 ), SAN(1 )\no : (4 ), (15 )\no : KVM (3 ), Busway(2 )\n . \n- 3 \n . \n- , ( )\n- \n (PXE kickstart, KiREA ) \n- OS SW ( , , )\n (SLURM), Lustre, (Kubernetes), Spark, repo(conda, pypi ) ES \n \n S/W Level 1∼ 3( ) \n , Level 3( ) , , \n ( ) \n- ( )\n- \n- \n- 5 \n : 2027 12 31 (KISTI )\n4. \n . \n- 24 365 \n- \n . \n- \n- \n- \n5. \n . 10 , , (PM) , \n KISTI \n .\n , \n , , \n . KISTI \n , , \n , .\n . KISTI \n , .\nⅡ . \n1. \n . \n1) \n . \no \n \n \nDDN ES200NVX2-S 2024.11.29. 2 \nDDN ES400NVX2-Turbo 2024.11.29. 8 \nDDN ES400X2-S 2025.11.30. 1 \nDDN ES400X3 2025.11.30. 3 \nDDN SS9024 2024.11.29. 5 \nDDN SS9024 2025.11.30. 10 \n DELL ML3 LTO9 2024.11.29. 1 \nDELL PowerEdge R6615 2024.11.29. 1 \nHPE DL385 Gen11 2025.11.30. 3 \nIBM TS4500 2025.11.30. 1 \n / \n /\n / \n · \nDELL PowerEdge R7625 2024.11.29. 63 \nDELL PowerEdge R750 2024.07.31 1 \nHPE DL365 Gen11 2025.11.30. 56 \nHPE DL385 Gen11 2025.11.30. 65 \nHPE XD685 2025.11.30. 4 \nHPE MSA 2070 2025.11.30. 1 \no \n \n \nCISCO C9200L-48T-4X-E 2025.11.30. 16 L3 \nCISCO N9K-C93180YC-FX3 2025.11.30. 18 L2 \nCISCO N9K-C9336C-FX2 2025.11.30. 2 L3 \nHPE SN6620C Fibre Channel\nSwitch 2025.11.30. 1 SAN\nNVIDIA QM9700 2025.11.30. 2 IB \nNVIDIA QM9700 Quantum-2 2024.11.29. 2 IB \nNVIDIA QM9790 2025.11.30. 5 IB \nNVIDIA QM9790 Quantum-2 2024.11.29. 3 IB \nSECUI BLUEMAX NFG 2100 2025.11.30. 2 \n \nAhnLab TrusGuard 500C 2024.11.29. 2 \nSECUI PAS-K5200 2024.11.29. 4 L4 \n DELL S4148F-ON 2024.11.29. 2 10G \n DELL N3248TE-ON 2024.11.29. 2 1G \no \n \n \nRittal LCP 53KW 2024.11.29. 1 LCP\nRittal LCP CW Cooling Unit 2025.11.30. 3 LCP\n \nRittal 5511.12 Rack 2024.11.29. 2 \nRittal 5511.12 Rack 2025.11.30. 4 \nRittal TS IT 42U Rack 2024.11.29. 3 \nRittal TS IT 42U Rack 2025.11.30. 6 \no \n \nKVM\nATEN CL5716N 19\" LCD 1U\nKVM 2024.11.29. 1 KVM \nATEN KL1516AN KVM Switch 2025.11.30. 2 KVM \nBusway\nSchenieder BusDuct System 2024.11.29. 1 BUSway\nSchneider Electric BUS Duct 2025.11.30. 1 BUSway\n \n \n . \n- 3 \n 3 \no \n- / 13.6 PiB (Usable )\n- LTO-9 Tape 700 \no \n- CPU 2,752 \n- GPU Rpeak 2,680 TFlops (FP64 Tensor Core )\no \n- 11 \no \n- 400Gbps \n2. \n . .\n   \n \n• ( ) \n• \n• H/W \n• \n \n \n• ( ) \n• Certification \n• \n• ( )\n \n \n• \n• Bug \n• Q&A\n• \n• 9 X 5 \n \n Tool \n• Incident Tool \n• , , Alert\n• DB Health Check\n• \n• H/W Transfer Platform S/W Patch File \n• 24 \n• \n• \n . \n1) ( , , , ) \n \n . .\n2) \n .\n3) (EOSL\n(End of Service Life) EOS (End of Support)) \n \n , .\n . \n1) , ,\n .\n2) .\n3) .\n . \n1) ( , ) \n , .\n2) .\n \n \n09 ~ 18 \n18 ~ 9 \n( , )\n \n \n( )\n \n \n( )\nH/W 1 6 3 6\nS/W , \n \n \n1 8 3 8\n (9 X 5 \n )\n , KISTI \n .\n※ SXM GPU [18 ~ 9 ] , [9 ~ 18 ] \n \n3) 99.9% ( , KISTI ( \n , , ) ).\n (%) =\n 99.9% , \n .\n ) 99.9% \n- 1,500 20 \n( : 2,904 , 30 )\n· = 30 ×24 = 720 \n· = 20 ×1500 /2904 = 10.33 \n· = {(720 -10.33 ) / 720 } × 100% = 98.57%\n· = × 1.25/1000 × 10.33 /24 \n4) “ ” .\n ) : 7 50 / : 7 \n5) 24 \n , \n .\n6) .\n , HW, SW \n .\n7) , , \n , .\n . \n1) “ ” (1.25/1000)( \n 75 , “ ” \n18 ) ( ) (24 ) .\n ) - : 9 6 - : 1.25/1000 - : , H/W -\n : 16 40 - : 16 -\n : 10 \n : (( × )÷24 )× \n : (96,000,000 ×0.00125)÷24 )×10 = 50,000 \n2) .\n3) ․ \n ․ .\n . \n1) 1 \n .\n2) . ( , \n SXM GPU )\n3) .\nⅢ . \n1. \n . \n- \n \n . \n- \n . \n- \n . \n- \n2. \n . \n- \n- \n . \n- ‘ ’ \n- ( ) \n . \n- , , \n , \n . \n- \n , \n3. \n 1\n( )\n \n( )\n 2\n( )\n : : : \n- \n- , \n- \n- \n- \n- \n- \n- \n \n- \n- \n \n- \n- \n- \n- \n4. \n \n1\n \n \n 2026. 7. \n2\n \n \n \n2026. 7. 2026. 10.\n ,\n \n3 2027. 12. 31 \n \nⅣ . \n1. \n . \n \n \n \n \n \n \n H/W, S/W \n \n , \n \n / / \n \n \n \n \n \n , , \n / \n - ,\n , , \n \n \n , , , \n \n \n \n \n \n ( ) - \n \n \n \n \n \n \n / \n \n \n \nH/W, S/W , \n \n- , , \n \n , \n \n \n \n \n ․ \n . \n1) : ~ 2027 12 31 (KISTI )\n2) 5 \n KISTI , KISTI \n \n3) ( )\n- \n- HPE , DDN , DELL IBM \n ( ), , IT \n \n4) \n- 1 \n- 1 \n- 1 (KOSA )\n2. \n \n -MPR\n(Maintenance Project Requirement)\n , \n , \n7 \n -MHR\n(Maintenance Human Requirement)\n , \n \n4 \n -SER\n(Security Requirement)\n 4 \n -COR\n(Constraint Requirement)\n 1 \n -SMR\n(SLA Mgmt. requirement)\n 2 \n -PMR\n(Project Management Requirement)\n \n \n10 \n \n3. \n . \n MPR-001\n \n \n \n \n , \n \n1. KISTI (H/W, S/W) \n , KISTI .\n2. .\n1) \n2) \n3) / , , \n4) On-Call \n5) / \n6) (24 × 7 ) / \n7) \n8) \n9) \n10) S/W , , \n11) HW , \n12) Account \n13) \n14) \n15) \n3. (24 ×365 ) \n .\n4. KISTI \n .\n1) ( ) \n .\n5. KISTI , , ․ \n \n . .\n1) KISTI \n .\n2) KISTI \n .\n \n \n MPR-002\n \n \n \n \n \n \n1. KISTI \n .\n2. KISTI 3 \n .\n3. KISTI \n .\n \n \n MPR-003\n \n \n \n \n \n 1. \n .\n1) , \n KISTI \n .\n2) KISTI \n “ ” \n “ ( 1 ), ( \n 6 ), ” \n , 99.9% \n .( , KISTI .)\n3) \n \n .\n4) \n KISTI 1 . \n 7 \n .\n5) 1 \n .\n6) KISTI \n . 1 \n \n .\n- \n- \n- \n- \n- \n- \n- , \n- \n- KISTI \n7) KISTI \n .\n8) KISTI \n \n .\n2. \n .\n1) , , \n , \n .\n2) KISTI , KISTI\n . , \n , \n .\n3) \n .\n4) \n KISTI KISTI \n .\n5) KISTI \n ․ \n KISTI \n .\n3. \n KISTI \n , KISTI \n .\n4. \n .\n1) ( ) : , , \n2) : , , , , \n3) : \n4) : \n5) ( )\n6) \n7) , , \n8) \n9) ( )\n10) \n \n5. \nKISTI , ,\n \n KISTI . \n KISTI \n .\n , \n \n MPR-004\n \n \n \n \n \n 1. \n , ․ . \n , (EOSL (End of Service Life)\n EOS (End of Support)) \n .\n2. 1 \n , \n .\n3. \n . ( , SXM GPU \n )\n4. .\n5. ( ) \nKISTI \n .\n1) \n2) \n3) \n4) (EOSL (End of Service Life) EOS (End of Support)) \n5) (MTBF, MTTR )\n6) ( )\n7) \n6. \n , \n . , \n 2 \n .\n7. KISTI \n , .\n \n \n MPR-005\n \n \n \n \n \n 1. \n KISTI \n .\n1) KISTI \n .\n2) KISTI \n .\n3) KISTI \n \n .\n4) KISTI \n \n .\n5) \n KISTI \n .\n6) \n , ( \n , , , ) KISTI \n .\n7) \n KISTI .\n2. “ ” \n \nKISTI KISTI \n , KISTI KISTI \n “ ” \n .\n3. \n .\n1) KISTI \n2) \n3) ( )\n4) \n ( , , ) \n \n MPR-006\n \n \n \n \n \n \n1. , \n \n .\n \n \n MPR-007\n \n \n \n \n \n \n- KISTI \n .\n2. KISTI \n KISTI \n \n1) , \n \nKISTI .\n2) , , , , , ( \n , ) .\n3) \n .\n3. KISTI ․ ․ \n .\n4. KISTI ․ \n \n( ) .\n1) \n ․ .\n5. \n .\n , \n \n . ( )\n MHR-001\n \n \n \n 1. \n .\n2. KISTI \n . , KISTI .\n3. KISTI , \n , \n KISTI \n , , \n KISTI .\n4. , \n , , , \n , KISTI \n .\n5. KISTI \n , SW \n \n .\n6. \n .\nITSQF \n \n \n \nIT 1 \nIT 4 / \n 5\n ITSQF , \n 2 10 \n7. \n .\n \nIT \n∘ 5 \n \n ∘ \n(Unix/Linux)\n \nIT \n∘ 3 \n \n \n8. \n KISTI .\n9. , \n \n , .\n \n10. \n( , ) 10 \n .\n , , \n \n MHR-002\n \n \n \n \n \n 1. , \n .\n2. \n 2) · \n 3) \n 4) \n3. ( ) \n , (PM) \n .\n 1) (PM) : 1 \n - · , · \n , ( , , ) \n .\n - .\n - , .\n - .\n 2) IT : 1 \n - \n , \n , 1 .\n 3) IT : 4 \n - , \n , / \n 4 .\n4. \n .\n1) ( )\n2) ( , )\n3) ( )\n4) , \n5) \n6) \n7) \n8) \n9) ( , KISTI \n )\n10) \n11) \n \n12) \n13) \n14) \n15) \n5. .\n 1) 100% ( ) , \n .\n 2) , \n \n .\n 3) .\n6. KISTI \n .\n7. KISTI \n , \n 15 , 5 , \n \n .\n8. \n KISTI \n \n . \n \n .\n \n \n MHR-003\n \n \n \n \n \n \n1. \nKISTI , , \n .\n2. ( , ) \n .\n3. KISTI \n ․ \n .\n \n \n MHR-004\n · \n \n \n \n · \n \n1. \n KISTI \n ( ) \n .\n2. \n , \n \n .\n3. KISTI \n , KISTI \n .\n1) \n2) \n3) \n4) \n5) KISTI \n \n4. KISTI , KISTI \n \n KISTI \n .\n \n \n . \n SER-001\n \n \n \n \n \n \n1. KISTI \n KISTI .\n2. \n .\n3. KISTI \n .\n4. , , \n , ″ ″ , \n , ″ ″ 63 , 64 \n .\n5. \n , \n .( , 1 KISTI \n )\n6. KISTI \n “ ” , \n “ ” \n . , \n “ ” “ ” .\n7. KISTI \n , KISTI , \n , .\n8. , KISTI \n , , \n KISTI .\n9. \n .\n10. \n \n , \n ․ .\n , \n \n SER-002\n \n \n \n \n \n1. \n .\n1) \n- ․ ․ \n \n- KISTI PC S/W \n2) \n- \n , \n- , \n \n3) / \n- \n \n- S/W \n- (PC, , , ) \n ( · ) KISTI , \n KISTI \n- PC 12 ․ \n- (3 9 , 2 \n 10 )\n- · (CCTV· ) \n- PC 1 “ PC ” \n- , , \n \n2. KISTI \n , .\n SER-003\n \n \n \n \n \n 1. \n 76 1 3 \n76 , \n .\n1) IP \n2) \n3) \n4) \n5) \n6) \n7) (IPS) \n \n8) 9 1 \n \n9) 2 1 \n10) 4 7 3 \n11) KISTI \n2. KISTI \n , , · \n .\n3. .\n \n SER-004\n \n \n \n \n \n \n1. [ 3] \n , .\n \n \n . \n COR-001\n \n \n \n \n \n \n1. KISTI \n \n , .\n1) KISTI \n2) KISTI \n3) \n4) KISTI \n5) KISTI , , \n KISTI \n6) KISTI \n \n7) KISTI \n8) , , \n9) ( ) \n \n \n10) KISTI \n \n2. “ \n ” 72 “ ” .\n3. KISTI \n .\n1) KISTI , ,\n \n2) KISTI \n \n3) KISTI \nKISTI \n . \n SMR-001\n \n \n \n \n \n \n1. ( \n SLA(Service Level Agreement) ) , \n KISTI .\n2. KISTI \n .\n3. , , , \n , KISTI \n .\n1) \n2) \n3) \n4) \n5) \n6) ( )\n7) \n8) \n4. KISTI , \n , \n .\n \n SMR-002\n \n \n \n \n \n 1. SLA \n 1 . KISTI \n .\n2. \n , KISTI .\n3. \n .\n4. KISTI \n . \n KISTI .\n \n \n . \n PMR-001\n \n \n \n \n ⋅ \n \n1. ⋅ \n \n2. 24 \n .\n3. \n , .\n \n \n PMR-002\n \n \n \n \n \n \n1. \n , \n .\n \n \n PMR-003\n \n \n \n \n \n \n1. \n \n .\n1) \n2) 3 \n , \n \n PMR-004\n \n \n \n \n \n \n1. , \n .\n- : / \n2. ․ \n , , \n ( ) .\n3. 1 \n .\n4. \n .\n , 12 \n \n \n PMR-005\n \n \n \n \n \n \n1. .\n , , \n \n1) ( , )\n2) , , , \n3) \n4) \n \n \n PMR-006\n · \n \n \n \n · \n \n1. \n \n , .\n2. \n 30 \n .\n3. , \n , \n .\n , .\n \n \n PMR-007\n \n \n \n \n \n \n1. \n .\n , 15 \n .\n \n \n PMR-008\n \n \n \n \n \n \n1. 20 \n .\n2. \n .\n3. , , \n .\n KISTI \n , , \n \n PMR-009\n \n \n \n \n \n 1. KISTI \n .\n1) KISTI \n2) , \n \n3) \n2. 1 2) KISTI \n , , \n “ \n ” .\n \n \n PMR-010\n \n \n \n \n \n \n1. \n .\n2. \n .\n3. ‘ \n ’ .\n , \n \nⅤ . \n1. \n . : / \n . \n1) , \n2) ․ \n3) , \n4) · \n . : \n1) 12 14 \n \n2) ( :1468) \n3) ( :0036)\n4) 27 76 \n( )\n5) 20 \n ( ) \n ( ‘ \n: ’ )\n6) 9 10 \n [ ( : 8111189901)] \n \n7) 2 · 2 \n < · · \n > \n8) 48 4 14 \n .\n9) \n \n . : ( 5 10% \n )\n 9 \n . : \n : \n , , · \n .\n . \n1) ( ) 50 \n ( ) / (✔ ) \n .\n2) ( ) 50 , 47 1 2 ·\n 3 · , \n ( ) \n , \n※ 13 ( 2. )\n . = (90 ) + (10 )\n 5 \n . : ( 721 , 2024. 9. 13) \n . : ( 721 , 2024. 9. 13) \n . : \n ( : 20 , 10 ) \n \n 1 1 , \n \n . : ( 721 , 2024. 9. 13) \n . : ( 721 , 2024.\n9. 13) \n . 7 6 \n2. \n . \n \n - \n- [ . ] \n3 3\n \n \n \n \n \n , , \n .\n15\n25\n , \n .\n3\n , , \n .\n2\n \n .\n5\n , \n , , , \n15 30\n .\n \n \n , ,\n \n .\n15\n \n \n .\n5\n20\n \n .\n3\n \n .\n2\n \n , , \n , \n .\n10\n \n \n \n \n \n .\n5\n15 \n \n . , \n .\n5\n \n \n , \n .\n5\n \n \n , \n .\n3\n7\n , , \n .\n4\n \n . ( 9 3 1 )\n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0 100%\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB- 95%\nB+, B0, B- B- B+, B0, B- 90%\nCCC+ C CCC+ 70%\n* \n[ ]\n1. 2 8 3 \n 335 3 \n , , \n . , \n .\n2. , \n . , \n .\n3. 1 , \n . , \n \n .\n4. 7 \n . \n , . , \n , ( \n , ) .( \n )\n5. , \n .\n( ) (A ×A )+(B ×B )…\n6. .\n2. \n . : \n . \n1) \n- KISTI ․ ․ \n \n .\n- KISTI .\n- , \n .( )\n2) \n- 3 , KISTI \n .\n- .\n- \n .\n3) \n- KISTI ․ ․ \n \n .\n . \n1) , \n .\n2) 16 , 17 , \n \n3) , \n .\n4) . , \n \n5) ( \n / / / DB, ) , \n . \n .\n6) \n .\n7) \n .\n8) , , \n .\n9) \n .\n3. ( )\n . .\n□ 100 (50 ) ( )\n* 100 \n . , \n .\n . , .\n . .\n . “ ” . , , \n , , \n .\n4. \n . KISTI .\n . , \n .\n※ KISTI \n . \n .\n . \n .\n 1\n \nⅠ . \n1. \n2. \n3. \nⅡ . \n1. ( 2. ‘ ’ )\n2. \n3. ( 2. ‘ ’ )\nⅢ . \n1. \n2. \n3. \nⅣ . \n1. ( ) ( 2. ‘ ’ )\n2. \n3. \n4. \nⅤ . \n1. \n2. \n3. \nⅥ . \n※ “ ” \n \nI. \n1. \n2. \n3. \n- .\n- .\nII. \n1. \n2. \n3. \n- , 3 , \n .\n- ( ) .\n- .\nIII. \n1. \n2. \n3. \n- .\n- , .\n- .\nIV. \n1. \n2. \n3. \n4. \n- .\n- , , , .\n- , , , , .\n- .\n- ( , , , , ) \n .\nV. \n1. \n2. \n3. \n- .\n- .\n- , .\n- .\nVI. - .\n 2\n \n \n . \n . / \n . \n . ( )\n . \n . \n . \n< >\n \n \n \n \n \n ( )\n \n . / \n< >\n( : )\n M-2 M-1 M \n \n \n \n \n \n \n \n※ M : \n< >\n \n , .\n .\n .\n .\n . \n< >\n \n \n \n \n \n \n0000 00 0000 00 \n . \n ( )\n 1 ( ) ․ \n ․ \n .\n1. \n2. \n 2 ( ) , , .\n1. ○ ○ ○\n2. \n3. \n 3 ( ) .\n1. ○○○ ( )\n2. ○○○ ( )\n3. ○○○ ( )\n4. ○○○ ( )\n5. ○○○ ( )\n ○○○ .\n 3 , \n .\n 4 ( ) , . , \n 3 .\n 5 ( ) < 1 > \n .\n 6 ( ) .\n 7 ( ) \n .\n 8 ( ) < 11 > , \n .\n1. ○○○ ( ) ○○ , ○○○, ○○○\n2. ○○○ ○○ , ○○○, ○○○\n3. ○○○ ○○ , ○○○, ○○○\n4. ○○○ ○○ , ○○○, ○○○\n 9 ( ) .\n1. ○○○ %\n2. ○○○ %\n3. ○○○ %\n4. ○○○ %\n 1 1 . , \n .\n1. \n2. , , \n \n , .\n 10 ( ) < 9 > \n .\n 11 ( ․ ) 3 .\n 12 ( ) 1 \n . , < 3 > \n .\n1. \n2. , , \n \n3. , , < 76 >\n 1 6 \n 1 .\n , , , , \n , \n \n .\n 2 < 9 > \n .\n < 10 > .\n 13 ( ) \n .\n 14 ( ) \n .\n .\n ○ \n 1 , 1 .\n20 \n○ ○ ○ ( )\n○ ○ ○ ( )\n○ ○ ○ ( )\n○ ○ ○ ( )\n . \n \n \n \n , \n , \n .\n \n \n \n \n ( )\n \n \n \n \n \n ( )\n \n \n \n \n \n ( )\n \n \n \n . \n ( 26 )\n※ [ ] √ .\n 14 \n \n \n \n \n \n \n[ ] [ ] \n \n \n \n \n \n( ※ )\n \n \n( ※ )\n \n \n( ※ )\n \n \n \n ( ※ )\n 50 3 .\n \n ( )\n \n \n \n \n \n \n \n : \n210mm×297mm[ 80g/ ]\n 3\n \n< > \n \n \n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n◦ \n◦ \n \n◦ \n \n◦ \n \n 1. \n . \n . \n . ․ \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P \n . · \n . \n . PC \n . PC \n◦ \n \n◦ \n \n◦ \n \n . \n . ( )\n \n \n1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n◦ \n \n◦ \n / \n◦ \n \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n◦ \n \n◦ / \n \n \n ▶\n \n \n▶ ▶\n \n \n□ \n1. < 3> A~D \n \n \nA B C D \n 1 1 2 3 \n \n( ) 500 300 100 \n※ A 76 \n2. , \n 1 \n3. \n 4\n \n< >\n \n ( ) \n .\n1. .\n2. \n .\n3. \n .\n4. \n .\n \n :\n( ) :\n : ( )\n :\n :\n( ) ( ) :\n : ( )\n :\n< >\n \n ( , , , ) \n .\n1. \n .\n2. \n .\n3. .\n . 4 1 2 5 ( )\n . 99 ( ) 127 ( )\n \n \n ( )\n \n ( )\n( )\n< >\n \n .\n1. \n .\n2. , .\n3. \n , .\n \n :\n :\n : ( )\n :\n( ) :\n : ( )\n< >\n \n , \n .\n1. ․ \n .\n2. , , ․ ( , \n ) .\n3. ‘ ’ .\n4. ( ) \n \n , \n .\n \n :\n( ) :\n : ( )\n :\n :\n( ) :\n : ( )\n 4",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "2026. 7.\n \n \n \n (042)869-0714\n (042)869-0925\n \nⅠ . 1\n1. 1\n2. 1\n3. 2\n4. 3\n5. 3\nⅡ . 5\n1. 5\n2. 9\nⅢ . 13\n1. 13\n2. 13\n3. 14\n4. 14\nⅣ . 15\n1. 15\n2. 17\n3. 18\nⅤ . 44\n1. 44\n2. 49\n3. 50\n4. 51\n 1 \n 2 \n 3 \n 4 \n 5 \nⅠ . \n1. \n . : \n . \n1) : 2026 10 1 ~ 2027 12 31 \n 1 :‘26.10.01~‘26.12.31, 2 :‘27.01.01~‘27.12.31\n , \n ( 1 :‘24.04.01~‘26.12.31, 2 \n:‘27.01.01~‘28.12.31)\n \n \n 20...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "□ : \n□ \n \nH/W( )\n \n○ : 2024 \n- 1 (DDN)\n- 1 (IBM, Tape Library)\n- (L4 4 )\n- 2 \n458,134,200\n- : 2,506,210,000 \n- : 15 \n(2026.10.1. ~ 2027.12.31)\n○ : 2025 \n- 1 (DDN)\n- 1 (IBM, Tape Library)\n- (L3 2 , 10G L2 18 , 1G L3 16 )\n- 2 \n589,238,407\n- : 3,976,669,800 \n- : 13 \n(2026.12.1. ~ 2027.12.31)\n (V.A.T. ) 1,047,372,607\n \n○ \n- \n- \n446,307,567\n- , \n- :\n405,734,152 (VAT )\n (V.A.T. ) 1,493,680,174\n□ \n ( ) ( ) (M/M) ( ) \n * 320,738,460\n- IT 15 1 5,170,016 77,550,240\n- IT 15 4 4,053,137 243,188,220\n \n( 15%)\n48,110,769 ① X 15%\n \n( + 10%)\n36,884,923 ( ① + ② ) X 10%\n ① + ② + ③ 405,734,152\n* 2026 SW",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01733186-000",
+    "sourceFile": "산출내역서.hwp",
+    "generatedAt": "2026-09-28T13:40:19.090446",
+    "match": {
+      "noticeId": "R26BK01733186-000",
+      "bidNtceNo": "R26BK01733186",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01733186-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01733186-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01733186-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "SER-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": "1. KISTI KISTI . 3. KISTI 4. , ,",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": ". - ․ ․ - KISTI PC S/W",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": ", .",
+          "name": ", .",
+          "detail": "76 1 3 76 , . 1) IP",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": ".",
+          "name": ".",
+          "detail": "1. [ 3]",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": "1. KISTI , . 1) KISTI 2) KISTI 4) KISTI 5) KISTI , ,",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": "⋅ 1. ⋅ 2. 24",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": ", .",
+          "name": ", .",
+          "detail": ". ⋅ 1. ⋅ 2. 24 .",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": ".",
+          "name": ".",
+          "detail": ".",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-004",
+          "requirement": ",",
+          "name": ",",
+          "detail": ". - : / 2. ․ , , ( ) . 3. 1",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-005",
+          "requirement": ", 12",
+          "name": ", 12",
+          "detail": "1. . , , 1) ( , ) 2) , , ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-006",
+          "requirement": ", , ,",
+          "name": ", , ,",
+          "detail": "· · , . .",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-007",
+          "requirement": ", .",
+          "name": ", .",
+          "detail": ".",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-008",
+          "requirement": ".",
+          "name": ".",
+          "detail": "1. 20 3. , ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-009",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "1. KISTI . 1) KISTI 2) , 2. 1 2) KISTI",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-010",
+          "requirement": "” .",
+          "name": "” .",
+          "detail": ". . 3. ‘ ’ . ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01733186-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "전자파일 제출 매체, 원본/사본 구분 확인",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 5개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "220",
+          "score": 15.0,
+          "weight": 15.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "220 15점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "X",
+          "score": 15.0,
+          "weight": 15.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "X 15점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "X",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "X 10점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "5",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "5 10점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "BBB0",
+          "score": 100.0,
+          "weight": 100.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "BBB0 100점"
+        }
+      ],
+      "totals": {
+        "score": 150.0,
+        "weight": 150.0,
+        "gradeA": 3,
+        "gradeB": 2,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01733186-000",
+    "generatedAt": "2026-09-28T13:40:44.056582",
+    "sourceAnalysisAt": "2026-09-28T13:40:19.090446",
+    "projectName": "",
+    "sourceFile": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+    "requirementSourceFiles": [
+      "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "SER-001",
+        "name": "1. KISTI",
+        "detail": "KISTI . 2. . 3. KISTI .",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "1.",
+        "detail": ". 1) ․ ․ KISTI PC S/W 2)",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "1.",
+        "detail": "76 1 3 76 , . 1) IP 2)",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "1. [ 3]",
+        "detail": ", . .",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": "1. KISTI",
+        "detail": ", . 1) KISTI 2) KISTI 3) 4) KISTI",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "⋅",
+        "detail": "1. ⋅ 2. 24 . 3. , .",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "1.",
+        "detail": ", .",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "1.",
+        "detail": ". 1) 2) 3 ,",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-004",
+        "name": "1. ,",
+        "detail": ". / 2. ․ , , ( ) .",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-005",
+        "name": "1. .",
+        "detail": ", , 1) ( , ) 2) , , , 3) 4)",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-006",
+        "name": "·",
+        "detail": "· 1. , . 2. 30",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-007",
+        "name": "1.",
+        "detail": ". , 15 .",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-008",
+        "name": "1. 20",
+        "detail": ". 2. . 3. , , .",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-009",
+        "name": "1. KISTI",
+        "detail": ". 1) KISTI 2) , 3) 2. 1 2) KISTI",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-010",
+        "name": "1.",
+        "detail": ". 2. . 3. ‘ ’ .",
+        "source": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "220",
+        "score": 15.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 5,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "220 15점"
+      },
+      {
+        "scoreItem": "X",
+        "score": 15.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 5,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "X 15점"
+      },
+      {
+        "scoreItem": "X",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 3,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "X 10점"
+      },
+      {
+        "scoreItem": "5",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 3,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "5 10점"
+      },
+      {
+        "scoreItem": "BBB0",
+        "score": 100.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 33,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "BBB0 100점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "COR-001"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-001",
+              "PMR-002",
+              "PMR-003",
+              "PMR-004",
+              "PMR-005",
+              "PMR-006",
+              "PMR-007",
+              "PMR-008",
+              "PMR-009",
+              "PMR-010"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 15,
+      "mappedRequirements": 15,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}
