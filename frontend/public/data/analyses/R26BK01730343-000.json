@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01730343",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-28T13:22:57.093692",
+  "analyzedAt": "2026-10-05T13:43:24.641005",
   "status": "completed",
   "source": {
     "fileName": "강원대학교 AI기반 원격교육 학습역량 진단 시스템 구축 사업_최종.hwpx",
@@ -91,7 +91,7 @@
   "proposalSheets": {
     "id": "R26BK01730343-000",
     "sourceFile": "강원대학교 AI기반 원격교육 학습역량 진단 시스템 구축 사업_최종.hwpx",
-    "generatedAt": "2026-09-28T13:22:56.639468",
+    "generatedAt": "2026-10-05T13:43:24.341914",
     "match": {
       "noticeId": "R26BK01730343-000",
       "bidNtceNo": "R26BK01730343",
@@ -840,8 +840,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01730343-000",
-    "generatedAt": "2026-09-28T13:22:57.093669",
-    "sourceAnalysisAt": "2026-09-28T13:22:56.639468",
+    "generatedAt": "2026-10-05T13:43:24.640983",
+    "sourceAnalysisAt": "2026-10-05T13:43:24.341914",
     "projectName": "『AI기반 원격교육 학습역량 진단 시스템』 구축 사업 제안 요청서 주관기관 강원대학교",
     "sourceFile": "강원대학교 AI기반 원격교육 학습역량 진단 시스템 구축 사업_최종.hwpx",
     "requirementSourceFiles": [

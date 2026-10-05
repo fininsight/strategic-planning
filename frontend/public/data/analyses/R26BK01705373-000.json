@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01705373",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-28T13:34:05.514694",
+  "analyzedAt": "2026-10-05T13:53:11.474181",
   "status": "completed",
   "source": {
     "fileName": "2. 제안요청서(세네갈 AI 전환 센터 구축을 통한 디지털 역량 강화 사업 PMC 용역).hwp",
@@ -91,7 +91,7 @@
   "proposalSheets": {
     "id": "R26BK01705373-000",
     "sourceFile": "2. 제안요청서(세네갈 AI 전환 센터 구축을 통한 디지털 역량 강화 사업 PMC 용역).hwp",
-    "generatedAt": "2026-09-28T13:33:03.190082",
+    "generatedAt": "2026-10-05T13:52:31.700359",
     "match": {
       "noticeId": "R26BK01705373-000",
       "bidNtceNo": "R26BK01705373",
@@ -475,8 +475,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01705373-000",
-    "generatedAt": "2026-09-28T13:34:05.514676",
-    "sourceAnalysisAt": "2026-09-28T13:33:03.190082",
+    "generatedAt": "2026-10-05T13:53:11.474163",
+    "sourceAnalysisAt": "2026-10-05T13:52:31.700359",
     "projectName": "",
     "sourceFile": "2. 제안요청서(세네갈 AI 전환 센터 구축을 통한 디지털 역량 강화 사업 PMC 용역).hwp",
     "requirementSourceFiles": [

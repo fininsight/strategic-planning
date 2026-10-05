@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01738503",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-28T13:31:08.920786",
+  "analyzedAt": "2026-10-05T13:48:03.566897",
   "status": "completed",
   "source": {
     "fileName": "2. 예산 산출내역서.zip",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01738503-000",
     "sourceFile": "2. 예산 산출내역서.zip",
-    "generatedAt": "2026-09-28T13:31:08.095540",
+    "generatedAt": "2026-10-05T13:48:03.052722",
     "match": {
       "noticeId": "R26BK01738503-000",
       "bidNtceNo": "R26BK01738503",
@@ -1873,8 +1873,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01738503-000",
-    "generatedAt": "2026-09-28T13:31:08.920735",
-    "sourceAnalysisAt": "2026-09-28T13:31:08.095540",
+    "generatedAt": "2026-10-05T13:48:03.566872",
+    "sourceAnalysisAt": "2026-10-05T13:48:03.052722",
     "projectName": "KNU 통합 AI 포털시스템 1단계 구축 사업 주관부서 강원대학교 정보화본부",
     "sourceFile": "공고_제안요청서.hwpx",
     "requirementSourceFiles": [

@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01736987",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-28T13:39:15.860044",
+  "analyzedAt": "2026-10-05T13:58:26.592205",
   "status": "completed",
   "source": {
     "fileName": "(제안요청서)_국세청 AI 시스템 구축 ISMP 수립_구매협의반영.hwpx",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01736987-000",
     "sourceFile": "(제안요청서)_국세청 AI 시스템 구축 ISMP 수립_구매협의반영.hwpx",
-    "generatedAt": "2026-09-28T13:39:14.989122",
+    "generatedAt": "2026-10-05T13:58:26.069813",
     "match": {
       "noticeId": "R26BK01736987-000",
       "bidNtceNo": "R26BK01736987",
@@ -890,8 +890,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01736987-000",
-    "generatedAt": "2026-09-28T13:39:15.860020",
-    "sourceAnalysisAt": "2026-09-28T13:39:14.989122",
+    "generatedAt": "2026-10-05T13:58:26.592185",
+    "sourceAnalysisAt": "2026-10-05T13:58:26.069813",
     "projectName": "국세청 AI 시스템 구축 ISMP 수립 주관기관 국세청",
     "sourceFile": "(제안요청서)_국세청 AI 시스템 구축 ISMP 수립_구매협의반영.hwpx",
     "requirementSourceFiles": [

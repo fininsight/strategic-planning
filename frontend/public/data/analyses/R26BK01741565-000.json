@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01741565",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-28T13:32:07.656258",
+  "analyzedAt": "2026-10-05T13:48:57.263197",
   "status": "completed",
   "source": {
     "fileName": "[제안요청서] 희귀질환_변이추출_지원용역_제안요청서.hwpx",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01741565-000",
     "sourceFile": "[제안요청서] 희귀질환_변이추출_지원용역_제안요청서.hwpx",
-    "generatedAt": "2026-09-28T13:32:07.296560",
+    "generatedAt": "2026-10-05T13:48:57.025480",
     "match": {
       "noticeId": "R26BK01741565-000",
       "bidNtceNo": "R26BK01741565",
@@ -954,8 +954,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01741565-000",
-    "generatedAt": "2026-09-28T13:32:07.656233",
-    "sourceAnalysisAt": "2026-09-28T13:32:07.296560",
+    "generatedAt": "2026-10-05T13:48:57.263179",
+    "sourceAnalysisAt": "2026-10-05T13:48:57.025480",
     "projectName": "국가통합바이오빅데이터구축사업 전장유전체 기반 희귀질환 변이 추출 지원 용역 주관기관 한국보건산업진흥원",
     "sourceFile": "[제안요청서] 희귀질환_변이추출_지원용역_제안요청서.hwpx",
     "requirementSourceFiles": [

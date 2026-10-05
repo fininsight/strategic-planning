@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01726242",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-28T13:38:13.127635",
+  "analyzedAt": "2026-10-05T13:57:30.900600",
   "status": "completed",
   "source": {
     "fileName": "붙임1_공고문_연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.pdf",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01726242-000",
     "sourceFile": "붙임1_공고문_연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.pdf",
-    "generatedAt": "2026-09-28T13:37:48.763145",
+    "generatedAt": "2026-10-05T13:57:15.730831",
     "match": {
       "noticeId": "R26BK01726242-000",
       "bidNtceNo": "R26BK01726242",
@@ -778,8 +778,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01726242-000",
-    "generatedAt": "2026-09-28T13:38:13.127615",
-    "sourceAnalysisAt": "2026-09-28T13:37:48.763145",
+    "generatedAt": "2026-10-05T13:57:30.900580",
+    "sourceAnalysisAt": "2026-10-05T13:57:15.730831",
     "projectName": "",
     "sourceFile": "붙임2. 제안요청서_ 연암공과대학교 AI Agent 성과관리 및 회계.구매 시스템 구축.hwp",
     "requirementSourceFiles": [

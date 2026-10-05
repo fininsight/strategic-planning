@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01733186",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-28T13:40:44.056600",
+  "analyzedAt": "2026-10-05T13:59:43.363095",
   "status": "completed",
   "source": {
     "fileName": "산출내역서.hwp",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01733186-000",
     "sourceFile": "산출내역서.hwp",
-    "generatedAt": "2026-09-28T13:40:19.090446",
+    "generatedAt": "2026-10-05T13:59:27.843430",
     "match": {
       "noticeId": "R26BK01733186-000",
       "bidNtceNo": "R26BK01733186",
@@ -623,8 +623,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01733186-000",
-    "generatedAt": "2026-09-28T13:40:44.056582",
-    "sourceAnalysisAt": "2026-09-28T13:40:19.090446",
+    "generatedAt": "2026-10-05T13:59:43.363076",
+    "sourceAnalysisAt": "2026-10-05T13:59:27.843430",
     "projectName": "",
     "sourceFile": "제안요청서_바이오 빅데이터 플랫폼 스토리지 및 컴퓨팅 시스템 유지보수(한국과학기술정보연구원).hwpx",
     "requirementSourceFiles": [

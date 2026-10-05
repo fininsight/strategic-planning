@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01736325",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-09-28T13:36:47.447335",
+  "analyzedAt": "2026-10-05T13:56:17.458039",
   "status": "completed",
   "source": {
     "fileName": "2. 소요예산 산출내역서.hwp",
@@ -175,7 +175,7 @@
   "proposalSheets": {
     "id": "R26BK01736325-000",
     "sourceFile": "2. 소요예산 산출내역서.hwp",
-    "generatedAt": "2026-09-28T13:35:11.546627",
+    "generatedAt": "2026-10-05T13:55:15.009349",
     "match": {
       "noticeId": "R26BK01736325-000",
       "bidNtceNo": "R26BK01736325",
@@ -1287,8 +1287,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01736325-000",
-    "generatedAt": "2026-09-28T13:36:47.447313",
-    "sourceAnalysisAt": "2026-09-28T13:35:11.546627",
+    "generatedAt": "2026-10-05T13:56:17.458020",
+    "sourceAnalysisAt": "2026-10-05T13:55:15.009349",
     "projectName": "",
     "sourceFile": "붙임1. 제안요청서(수정본).hwp",
     "requirementSourceFiles": [
