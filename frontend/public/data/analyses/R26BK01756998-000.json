@@ -1,0 +1,1013 @@
+{
+  "bidNtceNo": "R26BK01756998",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-10-12T13:55:56.884928",
+  "status": "completed",
+  "source": {
+    "fileName": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01756998-000/2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+    "pageCount": 97,
+    "textLength": 18628,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+      "extension": ".hwp",
+      "size": 1224192,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "be27b5c53416c61d59ccf4e5",
+      "fileName": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01756998/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01756998/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01756998/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01756998-000/2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01756998-000/converted/2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01756998-000/converted/2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.pdf",
+      "pageCount": 97,
+      "textLength": 18628,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "‧AI \n 7 \n \n2026. 09.\n \n / e-mail\n \n ·AI \n / 02-6490-6766 ysjeong@uos.ac.kr\n \nⅠ . 1. 04 2. 04 3. 05 4. 06\nⅡ . 1. 07 2. 08 3. 09\nⅢ . \n1. 11 2. 11 3. 12 4. 13 5. 13\nⅣ . \n1. 14 2. 14 3. 15\nⅤ . \n1. 40\n2. 40\n3. 42\n4. 44\nⅥ . \n1. 49\n2. 52\nⅠ \n1. \n❍ : ‧AI 7 \n❍ : 2 \n❍ : 132,000 ( )\n※ 50 \n .\n※ SW .\n2. \n❍ \n\n- 4 , \n \n- 4 \n- \n- \n- AI Agent AI \n❍ \n- \n- AI \n- · \n- \n- 4 ‧AI \n- 2020 (1 ), 2021 100 , GPU 200 \n (2 ), 200Gb/s (3 ), GPU 130 (4 \n ), GPU 40 (5 ), AI GPU CPU 10 (6 ) \n . GPU . AI\nGPU CPU GPU 5 , \n .\n- 7 GPU \n .\n3. \n❍ GPU 5 \n- (GPU) 5 \n\n 7 ( )\n< >\n4. \n❍ \n❍ AI \n❍ \n❍ GPU \n❍ GPU GPU \nⅡ \n1. \n❍ ·AI (‘20.6.4)\n• 7 ( )\n- 185 (‘20.2.25)\n ·AI \n \n AI \n• , \n \n• \n \n• \n \n• AI \n \n• AI \n \n• \n( , )\n• , \n \n• \n \n• \n \n• \n \n \n• \n \n• ( \n , , ) \n \n• \n• -\n \n• ·AI \n \n• AI, \n \n• \n \n• \n ·AI \n• \n \n• \n \n• \n \n \n• \n \n- : ·AI 8 \n 4 \n .\n※ AI \n- : , , \n , · \n- A I : AI , AI \n \n- : ( , ), \n , \n- : HW SW , \n , \n- : · · · , ( \n , , ) , \n \n- : · , ·AI \n , \nAI \n- : , \n ·AI , \n \n- : · · , \n , · · \n \n2. \n❍ ·AI \n AI \n❍ CPU/GPU 116 \n- CPU/GPU 116 ( 1 )\n- 5 \n- 3 \n- ( ) 2 \n- CPU 2 \n- 1Gbps Switch 5 \n- 40Gbps Switch 2 \n- 200Gbps InfiniBand Switch 7 \n- 1 \n- SSD(M.2) 56 , SSD(S-ATA) 50 \n- GPU(A6000) 136 \n- GPU(A6000-Ada) 40 \n- 20 \n- 1 \n- UPS 10 \n- 15RT 1 \n- 30RT 3 \n3. \n❍ \n- 4 \n- , \n- , , , , · \n \n- , AI \n- AI \n❍ \n- . AI GPU CPU \n GPU 5 GPU \n- GPU GPU \n \n- \nⅢ \n1. \n❍ \n- ·AI \n- \n❍ \n- \n- · \n- \n- · \n- · \n2. \n❍ \n- AI GPU \n- AI GPU \n- 7 \n \n❍ \n- \n \n- CPU GPU GPU GPU \n- 6 \n❍ \n- GPU 5 GPU GPU \n- HPC 200Gb/s \n \n3. \n❍ \n ·AI \n ·AI \n \n‣ \n‣ \n‣ IP \n \n‣ \n‣ \n ( )\n‣ ( 7 1~7 \n‣ \n❍ \n \n \n \n·AI \n \n \n 1 ~ 7 CPU/GPU 116 \n GPU 5 \n4. \n M M+1 M+2 M+3 M+4 M+5 M+6 M+7 M+8 M+9 M+10 M+11 M+12\n \n \n \n \n \n \n \n \n \n \n \n \n※ “ ” “ ” .\n5. \n❍ : \n❍ : \n❍ : \nⅣ \n1. \n❍ HW \n- GPU 5 : GPU GPU \n2. \n3. \n . \n ( (ID) ) \n –ECR\n(Equipment\nComposition\nRequirement)\n- , , \n 2\n –SFR (System\nFunction Requirement)\n- \n ( ) \n3\n –PER (PErformance\nRequirement) - , , 1\n \n(SIR, System Interface\nRequirement &\nUIR, User Interface\nRequirement)\n- \n 1\n –DAR (DAta\nRequirement)\n- , \n , 0\n –TER (TEst\nRequirement)\n- \n \n- , , , \n ( )\n2\n –SER (SEcurity\nRequirement)\n- ,\n 1\n –QUR (QUality\nRequirement)\n- , \n \n- , , , , \n1\n –COR\n(COnstraint\nRequirement)\n- , , ․ ․ ․ \n 3\n –PMR\n(Project Management\nRequirement)\n- \n 5\n –PSR\n(Project Support\nRequirement)\n- ( \n , ) 5\n -MAR\n(Maintenance\nRequirement)\n- 2\n -MHR\n(Maintenance HR\nRequirement)\n- 0\n -CSR\n(ConSulting\nRequirement)\n- \n 0\n -ENR - , 0\n(ENgineering\nRequirement)\n \n . \n \n \n \n(ECR)\nECR-001 HW \nECR-002 GPU\n \n(SFR)\nSFR-001 Linux Kernel Tuning\nSFR-002 SLURM JOB Scheduler \nSFR-003 AI Deep Learning \n \n(PER) PER-001 GPU \n \n(SIR, UIR) SIR-001 \n \n(TER)\nTER-001 \nTER-002 \n \n(SER) SER-001 \n \n(QUR) QUR-001 \n \n(COR)\nCOR-001 \nCOR-002 \nCOR-003 \n \n \n(PMR)\nPMR-001 \nPMR-002 \nPMR-003 \nPMR-004 \nPMR-005 \n \n \n(PSR)\nPSR-001 \nPSR-002 \nPSR-003 \nPSR-004 \nPSR-005 \n \n \n(MAR)\nMAR-001 \nMAR-002 \n . \n1) \n ECR-001\n HW \n \n \n \n HW \n \n \n❍ , , \n❍ \n , \n \n❍ S/W , \n \n❍ H/W \n \n❍ , 1 \n \n❍ 3 \n \n❍ \n❍ (OS), S/W \n❍ \n❍ \n \n \n❍ , , , \n❍ , \n ❍ -\n ECR-002\n GPU\n \n \n \n GPU\n \n \n❍ : GPU\n❍ : 5 \n❍ :\nType of GPU : Blackwell GB202\n- CUDA Cores : 24,064\n- Tensor Cores : 752\n- RT Cores : 188\nSingle-precision performance (FP32) 120 TFLOPS\nPeak FP4 AI PFLOPS 4 PFLOPS\nRT Core performance 355 TFLOPS\nMemory bandwidth 1597 GB/s\nGPU memory 96 GB GDDR7 with ECC\n ❍ , \n \n❍ \n❍ \n- : G494-ZB4-AAP2\n- CPU: AMD EPYC 9755\n- MEM: DDR5-4800 ECC/REG 64G\n- SSD: 960G U.2 NVMe\n- PowerSupply: 4x3000W 80 PLUS Titanium redundant power supplies\n❍ ( )\n❍ cluster \n2) \n SFR-001\n Linux Kernel Tuning\n \n \n \n Linux Kernel Tuning \n \n \n❍ : GPU \n❍ \n❍ GPU kernel module kernel module \n❍ VESA framebuffer \n❍ SWAP file SWAP partition \n❍ CPU core GPU \n ❍ -\n ❍ \n SFR-002\n SLURM JOB Scheduler \n \n \n \n SLURM JOB Scheduler \n \n \n❍ : GPU \n❍ SLURM QOS \n❍ SLURM GPU \n❍ SLURM GPU Job \n ❍ -\n \n❍ SLURM QOS \n❍ SLURM JOB Scheduler \n SFR-003\n AI Deep Learning \n \n \n \n AI/Deep Learning \n \n \n❍ : GPU \n❍ GPU kernel drive \n❍ CUDA Deep Learning (module \n )\n❍ ANACONDA3 , (module \n )\n❍ Tensorflow Deep Learning (GPU )\n❍ Deep Learning program CPU, GPU, GPU \n , Memory , Network , NFS \n \n❍ \n ❍ ( )\n \n❍ Tensorflow GPU \n❍ \n3) \n PER-001\n GPU \n \n \n \n \n \n \n❍ : GPU\n❍ \n- NCCL RDMA 20GB/s (out-of-place bw)\n- \nH/W S/W \n ❍ \n ❍ -\n4) \n SIR-001\n \n \n \n \n \n \n \n❍ 1 /2 /3 /4 /5 /6 \n- 7 1 /2 /3 /4 /5 /6 \n \n ❍ -\n ❍ -\n5) \n TER-001\n \n \n \n \n \n \n \n❍ \n- GPU 5 \n❍ , , , , \n ❍ \n ❍ -\n TER-002\n \n \n \n \n \n \n \n❍ / , / \n \n❍ \n , \n · \n❍ \n ❍ \n ❍ -\n6) \n SER-001\n \n \n \n \n \n \n \n❍ \n , · \n \n❍ \n \n ❍ \n ❍ -\n7) \n QUR-001\n \n \n \n \n \n \n \n❍ .\n❍ \n , \n .\n❍ .\n❍ ( ) \n \n .\n❍ DB ( ) .\n \n❍ ( )\n❍ ( )\n ❍ -\n8) \n COR-001\n \n \n \n \n \n \n \n❍ · ( ) \n \n❍ , \n .\n※ \n ❍ -\n ❍ -\n COR-002\n \n \n \n \n \n \n \n❍ SW .\n❍ · ( ) \n .\n- ( 12) , ( \n 15) .\n- \n .\n- · , \n .\n- , ( )\n .\n❍ , SW \n ( ) \n .\n❍ S/W \n \n❍ ( )\n❍ ( ( ))\n ❍ -\n COR-003\n \n \n \n \n \n \n \n❍ ․ ․ ․ ․ \n , ( ) , \n .\n❍ [ 9] “ ” \n❍ [ 10] “ ” \n \n❍ , ( ) , , \n , ( )\n❍ ( )\n❍ ( )\n❍ , , , , < >\n❍ < >\n❍ ( , , ), \n \n ❍ -\n9) \n PMR-001\n \n \n \n \n \n \n \n❍ .\n❍ , \n .\n❍ \n .\n❍ , \n ( ) .\n❍ ( ) ( ) \n .\n \n❍ ( , )\n❍ \n ❍ -\n PMR-002\n \n \n \n \n ( ) \n \n \n❍ , \n .\n❍ ‘ , , ’ \n ( ) .\n※ ( ) ‘ ’ \n ❍ \n ❍ -\n PMR-003\n \n \n \n \n SW \n \n \n❍ , SW \n SW , \n .\n- ,\n ‘ \n ’, ‘SW ’ , , \n ‘ ’ ( ) . ※ \n \n- ,\n ‘ ’ ( ) \n , , , , \n .\n❍ , , , , \n .\n❍ , , , \n • \n ( ( ) ) \n .\n❍ / / (※ ) \n , \n❍ , \n \n \n❍ ( , )\n※ \n❍ ( )\n❍ / / \n ❍ -\n PMR-004\n \n \n \n \n \n \n \n❍ ‘EA ’ ( ) .\n- ‘EA ’ EA ( ) \n ( ) .\n※‘EA ’ ‘ ’ \n- ‘EA ’ ‘ ’ ‘ EA ’(T.2133-\n1179) ( ) , ( ) \n .\n※ ‘EA ’ \n❍ ( ) \n ( , ( , ) \n ) EA \n ( ) .\n※ EA : EA (T.2133-1179)\n \n❍ EA \n❍ EA (※ EA )\n ❍ -\n PMR-005\n \n \n \n \n \n \n \n .\n- (※ )\n- ( , , ) \n( ※ SW )\n- EA (※ )\n- SW (※ , )\n- (※ )\n- \n (SW ) \n ․ , ( , \n ) .\n※ ‘ ’ ‘ ’ \n \n \n- \n․ \n- 10 \n․ \n※ ‘ ( )’ \n[ 5] , \n , , ( ), ,\n , , \n .\n· 1 , 1 \n- 14 \n․ ( (CD, USB ) 3 )\n- ( )\n․ : ( (CD, USB ) 3 )\n※ 15 ,\n \n※ ( ) \n※ \n \n , \n ( ) \n \n \n ( , )\n※ \n EA \n SW ( )\n PMR-003, PMR-004\n10) \n PSR-001\n \n \n \n \n \n \n \n ( ) \n .\n , \n 1 .\n- \n- \n- \n .\n- ( , )\n- , , , \n , \n .\n \n , .\n ❍ \n ❍ -\n PSR-002\n \n \n \n \n \n \n \n❍ \n .\n❍ , , \n .\n- \n( , )\n- \n- \n- ( )\n❍ \n , .\n❍ , , S/W \n \n ❍ \n ❍ -\n PSR-003\n \n \n \n \n \n \n \n❍ , .\n❍ \n .\n❍ \n \n❍ 3 \n .\n❍ H/W, S/W , , 24 \n ( ( )) \n , S/W \n .\n❍ , ( ) .( \n , )\n \n❍ ( )\n❍ ( )\n ❍ -\n PSR-004\n \n \n \n \n \n \n \n❍ ( ) \n .\n ❍ \n ❍ -\n PSR-005\n \n \n \n \n \n \n \n○ \n \n \n11) \n MAR-001\n \n \n \n \n \n \n \n❍ GPU 5 .\n ❍ -\n ❍ MAR-002\n MAR-002\n \n \n \n \n \n \n \n❍ ( ) .\n※ .\n❍ , \n , ( ) \n .\n ❍ -\n ❍ -\nⅤ \n1. \n . : \n❍ 43 44 “ \n ” \n → → →\n → → \n❍ \n- ( )\n- ( )\n- · ( )\n . : \n . ( ) \n❍ \n2. \n❍ : \n❍ : (http://www.seoul.go.kr) \n ( , http://www.g2b.go.kr)\n❍ : \n❍ \n- : \n \n \n① ( ) 1 (* )\n② ( ) 1 (* )\n③ 1 (* )\n , , \n \n , PDF \n , 300MB , \n \n PDF ‘ ’ \n31 ( ) \n , PDF ( , \n ) \n• \n※ \n- ( ) \n- ( ) ( ) \n- ( ) .\n❍ \n- ( ) : ·AI \n- ( ) : 02-6490-6766 ( : )\n- E-Mail( ) :\n❍ \n- ( ) (e- ) . , \n ( ) ( ) \n .( )\n- .\n : \n , e- \n . \n- , \n .\n- , .\n- pdf .\n- .\n3. \n . \n❍ ‘ ’[ 3] , \n ( ), \n · ( ) \n1) \n❍ \n- : 90 ( 20 , 70 )\n- : 10 \n❍ \n- (100 ) = (90 ) + (10 )\n2) \n❍ ( ) [ 5] ‘ ’ \n※ [ 18] ‘ ’ \n❍ “ ” , “ ” [ \n 6] ‘ ’ \n❍ \n- 4 5 \n3) \n❍ “ ” [ 7] ‘ ’ \n \n- \n . \n❍ 85% \n , .\n❍ , 1 \n .\n❍ .\n . \n❍ : \n❍ : ( ( ) )\n- ( ) > > \n※ · \n , .\n❍ : 30 ( 20 , 10 )\n❍ : \n❍ \n- ( ) ( ) (PM) , \n(PM) ( ) \n※ \n※ ( , , ) \n ( )\n- ( ) \n \n- .\n- .\n4. \n . \n❍ “ Ⅳ . ” “ ” “ ” \n .\n❍ 3 , \n .\n❍ , \n .\n❍ \n .\n❍ ․ ․ \n .\n❍ ( ) ( ) \n .\n- ‘ ’ .\n- ( ) , \n .\n❍ \n , .\n . \n❍ .\n- \n ( ) , \n .\n , ( , ) \n , \n .\n- ( ) ( \n ) “ ” .\n- ( ) 56\n ( ) .\n- ( ) 3 , , \n , \n , “ ” \n .\n- 59 \n , ( ) \n .\n- \n .\n- 54 1 · \n 30 \n .\n- · \n \n , .\n- 3 \n .\n- 76 1 3 \n 92 2 3 .\n1. \n2. \n . \n❍ .\n- ( ) 1 ( , 1 \n ( ) ) , \n .\n- ( \n ) .\n- (HW, SW) .\n※ , , , ( \n 713 15 )\n- .\n※ \n . \n❍ , \n .\n❍ \n .\n❍ \n , . , \n , \n \n .\n . \n❍ 20 HW .\n . \n❍ , \n .\n❍ \n .\n❍ ․ , \n .\n❍ , \n .\n❍ \n , ( ) .\n❍ \n \n .\n❍ , ( ) \n , , \n .\nⅥ \n1. \n . \n❍ , , \n ( ) \n .\n❍ , \n .\n . \n❍ \n .\n- , .\n- , , \n , \n \n- , \n \n .\n- , \n .\n- \n .\n❍ “[ 1] ” “[ 2] ” \n , “[ 2] ” \n .\n- “[ 16] ” \n- , , \n .\n❍ , \n .\n❍ A4 3hole .\n※ , \n- 200 (100 ) \n- ( , ( ) )\n- ‘ ’ , \n( PDF )\n※ [ 14] \n※ .\n❍ A4 , A4 .\n※ , \n❍ , \n .\n❍ , .\n❍ 70 , , \n[ 14] ‘ ’ .\n❍ .\n- “ ”, “ ”, “ ” \n , .\n2. \n . \n1) \n2) \n3) \n4) \n5) \n6) \n7) \n8) ITSQF \n9) \n10) \n[ 1] \n[ 2] \n[ 3] \n11) \n12) \n . \n1) \n2) ( 3 )\n3) ( 3 )\n4) \n5) \n6) \n7) \n8) \n9) \n10) \n11) \n12) \n13) \n14) \n15) \n16) \n17) \n18) \n19) \n20) \n \n[ 1]\n \n§ \n \nⅠ . \n1. \n2. \n3. \n4. \nⅡ . \n1. \n2. GPU 3. (SFR) \nⅢ . \n1. \n2. \nⅣ . \n1. \n2. \n3. \n4. \n5. \n6. \nⅤ . \n1. \n2. \n3. \n4. \nⅥ . \n[ 2]\n \n \n§ . \n . 16\nⅠ . \n1. \n. , \n. 3 \n 1\n 2\n2. . \n3. . 3 ( ) \n 3\n 4\n4. \n. ( 4 \n 4 1 4 ( \n ) )\n \nⅡ . \n1. \n. \n※ \n2. GPU . \n3. (SFR) . \nⅢ . \n1. \n․ ( ) , \n \n※ )\n2. \n․ \n( , , , )\n․ , , \n․ \n※ \nⅣ . \n1. ․ , , ( ), , \n \n2. \n․ , , , \n․ \n3. ․ ( , , \n , , , )\n4. ․ 5\n5. ․ , \n 6\n 7\n6. \n․ \n․ OS BUG \n․ 24 \n․ \nⅤ . \n1. \n․ \n( , , , )\n2. \n․ , , \n․ \n3. ․ , \n4. \n․ \n․ \nⅥ . ․ \n 17\n( )\n ) 1. ( ) , , ( ) \n ( PDF )\n[ 3]\n ·AI 7 \n \n 1 ( ) ·AI 7 \n .\n1. 43 ( ) 44 ( \n )\n2. ( )\n3. ( )\n4. ( )\n 2 ( ) .\n1. ‘ ’ \n .\n2. ‘ ’ \n .\n 3 ( ) ·AI 7 \n , .\n 4 ( ) ① , \n 90/100 10/100 . [ 4] .\n② , \n , .\n③ (20 ) 7 \n [ ] , ( ), , \n [ 5] .\n④ (70 ) \n . \n ․ 2 . , [ 6]\n .\n⑤ (10 ) ( ) , \n , 7 \n[ 1] [ 7] .\n⑥ ( ) \n . , ․ ( ․\n ) .\n 5 ( ) ① \n 85% .\n② \n 2 , \n .\n③ ( ) ( \n ) .\n 6 ( ) 5 \n .\n 7 ( ) ① 5 , \n .\n② \n .\n③ .\n 8 ( ) , , , \n \n .\n 9 ( ) ① \n ( ) .\n② \n ( ) \n . , \n .\n 10 ( ) 15 , , , \n 10 .\n 11 ( ) .\n 12 ( ) ① 10 .\n② 11 \n ․ , , \n .\n 13 ( ) ,\n .\n[ 4]\n ( ) \n \n 100\n \n \n \n \n \n \n∘ ITSQF 6\n20 5\n ∘ 3 3\n ∘ 3 3\n ∘ 6\n \n \n∘ \n∘ \n2\n \n \n \n∘ \n∘ , \n∘ , \n15\n70 6\n \n \n∘ ( \n )\n20\n \n \n∘ / 20\n \n \n∘ ( , , \n )\n∘ \n∘ \n∘ \n∘ \n8\n \n \n∘ \n∘ \n7\n \n \n ∘ 10 7\n[ 5]\n \n ( ) \nA. \n \n∘ ITSQF 6\n \n \nB. ∘ : 3 ( ) 3 \nC. ∘ : 3 ( ) 3 \nD. ∘ 6 \nE. \n∘ \n∘ \n2 \n \n※ ( ) \n ( \n )\n20\nA. \n : (1 ) ( 5 )\n : \n- ‘ ’ = ( × ) \n- = (6 ) × ( / )\n ITSQF \n \n ( ) , , \n \n※ , \n ( )\n \n \nIT IT \nInfrastructure /\n SW /IT \n 3 \n3 \n5 \n5 3 \n3 \n5 \n5 3 \n3 \n5 \n5 \n \n \n \n1 1 2 3 1 2 3 4 1 2 4 6\n※ ITSQF ‘[ 8] ITSQF \n .\nB. \n : ( ) 3 ( ) \n ( ) \n※ : GPU , IT \n※ , ( ) , \n \n .\n : \n- ( ) ( )\n \n․ ‘ ’ = ( ( ) / ) × 100\n 100% \n80% \n~\n100% \n60% \n~\n80% \n40% \n~\n60% \n40%\n \n \n( )\n (%) 100 90 80 70 60 0\n \n :3\n3 2.7 2.4 2.1 1.8 0\nC. \n : 3 ( ) , \n 1 ( ) \n※ : GPU , IT \n※ , ( ) , \n \n .\n : \n- , \n \n \n( )\n (%) 100 90 80 70 60 0\n (%) 10 20 40 20 10\n[ ]\n \n \n \n \n \n2,3 1 1 (1) 12 1 3 5 2 1\n4 1 1 1 1 13 1 3 5 3 1\n5 1 1 2 1 14 1 3 6 3 1\n6 1 1 2 1 1 15 2 3 6 3 1\n7 1 1 3 1 1 16 2 3 6 3 2\n8 1 2 3 1 1 17 2 3 7 3 2\n9 1 2 3 2 1 18 2 4 7 3 2\n10 1 2 4 2 1 19 2 4 7 4 2\n11 1 2 5 2 1 20 2 4 8 4 2\n※ , \nD. \n \n․ 2 4 5 \n 9 26 ( ) ( \n ) 1 ․ \n .\n \n \n \n \n : 6.0\nAAA\nAA+, AA0, AA-\nA+\nA0\nA-\nBBB+\nBBB0\n-\nA1\nA2+\nA20\nA2-\nA3+\nA30\nAAA\nAA+, AA0, AA-\nA+\nA0\nA-\nBBB+\nBBB0\n6.0\nBBB-,BB+,BB0,BB- A3-,B+,B0 BBB-,BB+,BB0,BB- 5.7\nB+, B0, B- B- B+, B0, B- 5.4\nCCC+ C CCC+ 4.2\n ) 1. ( ) \n , ‘ ’ \n2. \n . , \n \n .\n3. 7 \n . \n , \n .( )\n4. \n \n5. .\n 8 \nE. \n : / / \n※ , \n : \n- / / \n ( , )\n[ 6]\n \n \n \n , \n \n \n \n- \n- \n- \n- \n5\n15 - - 5\n \n- \n- \n- \n- ( ) \n5\n - 20 20\n※ \n \n※ \n※ GPU \n※ ( : \n )\n Hardware/Software\n \n- SFR-001 .\n※ \n \n .\n- SFR-002 \nSLURM .\n10\n20\n- / module \n \n .\n※ \n10\n \n \n \n- \n- \n- \n2\n8\n - - 1\n - 2\n - 1\n - 2\n \n \n - , , - 3\n7\n \n \n- , , \n- \n \n4\n \n 5 ( , , , , ) , \n , ‘ ’ .\n \n \n( )\n (%) 100 90 80 70 60 0\n※ , \n .\n[ 7]\n \n○ \n① ( \n .) 100 80 \n· = × ( / )\n※ 1. , 100 80 \n 100 80 .\n2. 100 80 30% \n .\n[ 8]\n ITSQF \n‘ ·AI 5 ‘ \n IT (ITSQF) ’SW ‘( \n ) Infrastructure , SW , IT ,\nIT , IT .\n※ \n\n※ \n[ 9]\n \n 26 , \n 26 ( , , ) .\n※ ‘ ’ \n .\n○ ( , , ) , \n · \n1. \n . .\n . · \n \n .\n- \n- \n- \n- \n- \n2. \n2-1. \n . .\n . .\n . , ( ) \n .\n2-2. · \n . CCTV, \n .\n . PC, , \n .\n . .\n . PC .\n . USB .\n . PC (ID, ) .\n . \n .\n※ , (PC, ), , , DBMS, , \n , \n .\n . PC, · \n .\n2-3. · \n . ( ) . , \n .\n . (ID) .\n . .\n . ‘root’ \n , .\n . .\n . .\n . PM \n .\n . PC , \n .\n . AP( , ) , PC\n .\n . (WiFi, LTE ) .\n . PC (Driver ) .\n . PC .\n2-4. \n . , ․\n .\n . ,P2P , , \n .\n . , \n . , \n .\n . , PC \n · .( PC )\n . · · \n .\n3. \n . PC S/W \n , .\n※ S/W ( “ > > \n ” ‘ ’ \n . \n .\n[ 10]\n \n① [ 1] \n [ 2] .\n② , , , , [ \n3] ‘ ’ , \n 92 \n .\n③ \n , .\n④ \n , .\n< 1> \n< 2> \n< 3> \n< 1>\n \n \n \n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n◦ \n◦ \n \n◦ \n \n◦ \n \n \n1. \n . \n . \n . ․ \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P \n \n . · \n . \n . PC \n . PC \n . \n . ( )\n◦ \n \n◦ \n \n◦ \n \n \n \n1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n◦ \n \n◦ \n / \n \n◦ \n \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n◦ \n \n◦ / \n \n< 2>\n \n1. A~D \n \n \nA B C D \n 1 1 2 3 \n \n \n 5% 3% 1% \n* \n* < 1> \n2. , \n* 1 \n3. \n< 3>\n \n1. ․ IP \n2. \n3. \n4. · \n5. \n6. \n7. (IPS) \n \n8. 9 1 \n \n9. 2 1 \n10. 4 7 3 \n11. \n[ 11]\n \n \n( )\n ·AI 7 \n .\n○ ·AI 7 \n , ( , , , ) \n , \n3 \n2. \n .\n3. , \n .\n4. , \n .\n5. .\n6. .\n . 4 1 2 5 ( )\n . 98 , 99 , 113 127 \n \n :\n( ) :\n : ( )\n :\n :\n( ) :\n : ( )\n :\n \n \n( )\n ·AI 7 \n .\n☐ ·AI 7 \n , ( , , , ) \n , 3\n .\n2. \n .\n3. , \n .\n4. .\n . 4 1 2 5 ( )\n . 98 , 99 , 113 127 \n \n :\n( ) :\n : ( )\n :\n :\n( ) :\n : ( )\n :\n \n \n( )\n ·AI 7 \n .\n1. ·AI 7 \n , 3 · ( , , , ) \n .\n2. \n .\n3. \n .\n . 4 1 2 5 ( )\n . 98 , 99 , 113 127 \n4. .\n \n :\n( ) :\n : ( )\n :\n :\n( ) :\n : ( )\n :\n \n \n( )\n ·AI 7 \n .\n◦ ·AI 7 \n , 3 · ( , , , ) \n .\n2. \n .\n3. \n .\n . 4 1 2 5 ( )\n . 98 , 99 , 113 127 \n \n :\n( ) :\n : ( )\n :\n :\n( ) :\n : ( )\n :\n[ 12]\n[ ] , [ ] \n ·AI 7 \n 2026 \n□ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n□ \n \n / / \n \n \n \n \n , , \n · .\n \n \n \n 2.1\n \n \n \n \n- HTML 4.01/HTML 5, CSS 2.1\n- XHTML 1.0\n- XML 1.0, XSL 1.0\n- ECMAScript 3rd\n \n- 1.0 (KICS.KO-10.0307)\n \n (KS X ISO/IEC 20000)/ ITIL v3\n \n \nIPv4\nIPv6\n□ \n \n / / \n \n \n \n , \n · \n .\n \n \n \n- SOAP 1.2, WSDL 2.0, XML 1.0\n- UDDI v3\n- RESTful\n \n- UML 2.0/BPMN 1.0\n- ebXML/BPEL 2.0/XPDL 2.0\n : XML 1.0\n : UDDI v3, WSDL 2.0\n□ \n \n / / \n \n \n \n \n \n \n \n \n IPv4 IPv6 \n .\n , \n \n .\n \n \n : H.320~H.324, H.310\n : VoIP\n- H.323\n- SIP\n- Megaco(H.248)\n \n \n ( ) :\n- POSIX.0\n- UNIX\n- Windows Server\n- Linux\n \n- android\n- IOS\n- Windows Phone\n \n DBMS\n- RDBMS\n- ORDBMS\n- OODBMS\n- MMDBMS\n ITIL v3 / ISO20000\n : \n□ \n \n / / \n \n \n \n .\n , , , \n .\n \n \n “ ” \n .\n \n .\n \n \n \n \n \n \n : HTML 4.01\n - JSP 2.1\n- ASP.net\n- PHP\n- ( )\n \n- C\n- C++\n- Java\n- C#\n- ( )\n \n :\n- XMI 2.0\n- SOAP 1.2\n \n- EUC-KR\n- UTF-8( , UTF-8 )\n□ \n \n / \n / \n \n \n \n \n \n \n \n \n \n . “ ”,“ \n ”,“ ” “ ” .\n \n .\n \n ․ .\n \n \n \n \n ( )\n- \n · ( )\n \n \n \n \n \n \n ( )\n- PKI \n- SSO \n- \n- (DRM) \n- \n- \n- \n- \n- DB \n- (9 ) \n- \n CC ( CC )\n- ( ) \n- ( ) ( )\n- \n- \n- DDos \n- \n- \n- \n- ( )\n- \n- \n- \n- \n- (PC )\n- \n- ( , \n )\n- \n- \n- DB \n- \n- USB( )\n- ( \n )\n- \n- \n- CC \n ( · ) \n- · ( )\n \n- (CSAP) \n- · \n \n \n \n \n- \n- \n- \n- \n- \n- \n- \n- \n- \n \n- \n- ( )\n- ( )\n- \n※ ‘ \n \n[ 1]\n \n□ \n \n \n \n \n \n \n ( )\n□ \n□ \n \nIT \n \n \n SW \n \n \n \nIT \n \n \n \n5 \n5 \n3 \n1 \n “SW “( ) SW \n(ITSQF ) \n “ ”, “ ” OOO .( , )\n ) , \n[ 2]\n ( 3 )\n : ( : )\n 20 20 20 \n \n \n \n S/W \nH/W \n \n \n \n( / )\n \n( / )\n \n \n \n \n )1. , .\n2. , , ‘ ’ .\n[ 3]\n ( 3 )\n . \n :\n ① \n \n \n② \n( : )\n \n③ ( \n )\n④ \n \n \n⑤\n \n \n \n \n )1. : ( ) .\n※ : 3 GPU , IT \n※ “ ” (※ )\n2. : .\n3. : ( , ) .\n4. : .\n5. [ 4] ( ) ‘ \n ’ , ‘ ’ \n \n※ , \n※ 0 .\n . \n \n \n \n \n~\n \n20 . .\n~\n20 . .\n \n( )\n \n \n1. \n2. \n[ 4]\n \n1. \n2. ( : %)\n3. \n4. \n5. \n6. \n※ \n .\n20 \n :\n :\n :\n .\n20 \n :\n :\n :\n[ 5]\n \n \n , , ITSQF , \n \n , , ITSQF \n \n , \n , ITSQF , \n \n , \n , ITSQF , \n \n , \n , ITSQF , \n \n , \n , ITSQF \n \n◎ : \n※ SW \n ) 1. .\n2. .\n3. .\n4. ITSQF [ 8] ITSQF \n .\n5. “ ” .\n( , )\n[ 6]\n \n \n \n( )\nITSQF \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n )1. ( ) .\n2. ITSQF [ 8] ITSQF .\n3. , ITSQF .\n4. “ ( )” ‘ ’ .\n※ ‘ ’ ‘ ( )’ \n※ , \n .\n[ 7]\n \n \n( )\n \nITSQF(IT ) ITSQF(IT ) \n \n( ) ( )\n %\n \n \n \n( . . )\n \n \n( )\n )1. .\n2. .\n3. .\n4. ( ) , \n .\n5. ITSQF ITSQF \n .\n6. ‘ ’ ‘ ’, ‘ A’, ‘ B’ .\n- ‘ ’ ‘ ’ , \n() \n- , \n .\n※ , , () \n7. 0 .\n[ 8]\n \n* .\n \n \n \n \n \n \n \n \n \n \n( ) \n \n \n \n \n \n \n \n ( , ) (5/100) \n .\n \n \n \n .\n :\n :\n \n .\n : \n ( ) ( ․ ) ( ․ \n ) .\n : 1. 1 \n2. 1 \n3. \n : \n ( ) \n[ 9]\n \n \n \n \n \n 20 \n \n \n ( ) \n \n \n \n \n \n \n \n \n \n \n \n ∙ ∙ \n ( , ) \n .\n : 1 . ( 10 )\n : \n20 \n ( ) \n[ 10]\n \n \n \n \n (VAT ) ( )\n \n \n \n .\n : \n20 \n :\n : :\n : ( )\n ( ) :\n \n[ 11]\n ( )\n 1 [ ] , , , \n , , , \n .\n1. :\n2. :\n3. :\n 2 [ ] , , .\n1. : ○○○\n2. :\n3. :\n 3 [ ] ① .\n1.○○○ ( : : )\n2.○○○ ( : : )\n② ○○○ .\n③ 3 , \n .\n 4 [ ] , . , \n 3 .\n 5 [ ] 1 , \n .\n 6 [ ] .\n 7 [ ] \n .\n 8 [ ] Ⅲ -7 , \n .\n1. ○○○ ( ) : ○○ , ○○○, ○○○\n2. ○○○ : ○○ , ○○○, ○○○\n 9 [ ] ① .\n1. ○○○: %\n2. ○○○: %\n② 1 . , \n .\n1. \n2. , , \n \n③ , .\n 10 [ ] 9 \n .\n 11 [ , ] 3 .\n 12 [ ] ① \n . , 3 \n .\n1. \n2. , , \n \n3. , , \n92 1 6 \n② 1 \n . , , , \n , \n \n .\n③ 2 9 \n .\n④ 10 .\n 13 [ ] \n .\n 14 [ ] ① \n .\n② .\n ○ \n .\n20 \n○○○ ( )\n○○○ ( )\n[ 12]\n \n \n \n , \n , \n \n .\n20 \n \n \n \n ( )\n \n \n \n \n \n ( )\n \n \n \n \n \n ( )\n \n \n[ 13]\n \n \n \n , OECD \n ·AI \n 7 ( ․ \n ) \n1. , , \n .\n \n ( ) \n 2 , \n 11 \n 1 1 , \n \n 5 7 , \n \n .\n2. ․ ․ ( ) ․ \n ․ ( ) \n , 1 \n .\n1) 2 : 2 \n2) 1 2 : 1 \n3) 1 1 : 6 \n4) 1 : 3 \n3. , , ( \n ) 30 2 \n , , \n ․ .\n4. ․ ( ) \n \n ․ ( ․ \n ) ( \n ) \n , \n ( ) \n .\n5. , , , \n , , .\n6. ( , , \n ) , \n .\n7. \n .\n1) \n2) \n \n3) ․ \n4) ․ \n5) 10% \n .\n , \n , , \n ․ \n .\n20 . . .\n : ○○○ ○○○ ( )\n[ 14]\n \n 3 \n \n3.5 3 \n3 3 \n 2 \n ·AI \n 7 \n- -\n \n▪ ·AI 7 : 20 ( )\n▪ : 22 ( )\n※ ‘ ·AI 7 ’( : , : 24) \n . .\n \n 3 \n \n3.5 3 \n3 3 \n 2 \n ·AI \n 7 \n- -\n ·AI 7 : 30 ( )\n- : 22 ( )\n[ 15]\n[ ] , [ ] \n ·AI 7 \n 2026 \n□ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n□ \n \n / / \n \n \n \n \n \n \n \n \n \n \n , , \n · .\n \n \n \n 2.1\n \n \n \n \n- HTML 4.01/HTML 5, CSS 2.1\n- XHTML 1.0\n- XML 1.0, XSL 1.0\n- ECMAScript 3rd\n \n- 1.0 (KICS.KO-10.0307)\n \n \n (KS X ISO/IEC 20000)/ ITIL v3\n \n \nIPv4\nIPv6\n□ \n \n / / \n \n \n \n , \n · \n .\n \n \n \n- SOAP 1.2, WSDL 2.0, XML 1.0\n- UDDI v3\n- RESTful\n \n- UML 2.0/BPMN 1.0\n- ebXML/BPEL 2.0/XPDL 2.0\n : XML 1.0\n : UDDI v3, WSDL 2.0\n□ \n \n / / \n \n \n \n IPv4 IPv6 \n .\n , \n \n .\n \n \n : H.320~H.324, H.310\n : VoIP\n- H.323\n- SIP\n- Megaco(H.248)\n \n \n ( ) :\n- POSIX.0\n- UNIX\n- Windows Server\n- Linux\n \n- android\n- IOS\n- Windows Phone\n \n DBMS\n- RDBMS\n- ORDBMS\n- OODBMS\n- MMDBMS\n ITIL v3 / ISO20000\n : \n□ \n \n / / \n \n \n \n .\n , , , \n .\n \n \n “ ” \n .\n \n .\n \n \n \n \n \n \n : HTML 4.01\n - JSP 2.1\n- ASP.net\n- PHP\n- ( )\n \n \n- C\n- C++\n- Java\n- C#\n- ( )\n \n :\n- XMI 2.0\n- SOAP 1.2\n \n- EUC-KR\n- UTF-8( , UTF-8 )\n□ \n \n / \n / \n \n \n \n \n \n \n \n \n \n . “ ”,“ \n ”,“ ” “ ” .\n \n .\n \n ․ .\n \n \n \n \n ( )\n- \n · ( )\n \n \n \n \n \n \n ( )\n- PKI \n- SSO \n- \n- (DRM) \n- \n- \n- \n- \n- DB \n- (9 ) \n- \n CC ( CC )\n- ( ) \n- ( ) ( )\n- \n- \n- DDos \n- \n- \n- \n- ( )\n- \n- \n- \n- \n- (PC )\n- \n- ( , \n )\n- \n- \n- DB \n- \n- USB( )\n- ( \n )\n- \n- \n- CC \n ( · ) \n- · ( )\n \n- (CSAP) \n- · \n \n \n \n \n- \n- \n- \n- \n- \n- \n- \n- \n- \n \n- \n- ( )\n- ( )\n- \n※ ‘ \n[ 16]\n \n \n \n \n \n( )\n \n \n \n \n \n )1. ‘ ’ , \n ( , \n () )\n2. ‘ ’ ( )\n3. ○ X \n[ 17]\n \n \n \n( )\n \n \n )1. .\n■ [ 4 ]\n[ 18]\n \n ○○ \n ITSQF ( ) ( ) \nA. \n \n \n \n○○ %\n○○ %\n○○ %\nB. \n \n \n( 3 )\n20 \n( : , )\n20 \n( : , )\n20 \n( : , )\n \n( : , )\n \n \n( : )\n \n \nC. \n \n \n( 3 )\n \nD. \n \n \n \n \n \n \n \n \nE. \n \n · \n· \n \n / / \nO / X O / X\n※ , \n )1. .\n2. 3 , .\n- [ 3] .\n3. .\n- [ 6] .\n4. (%) .\n5. .\n[ 19]\n \n ·AI 7 \n ․ ․ \n .\n1. \n( · ) .\n2. ․ ․ ․ ․ ․ · · \n , , , .\n3. , \n , , \n .\n4. ․ , \n , .\n5 \n , .\n6. ․ , \n , , \n .\n20 . . .\n : o o o o o o ( )\n[ 20]\n \n \n .\n , .\n: ( )\n: ( )\n( ) , \n , \n .\n20 \n :\n :\n : ( )",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "‧AI \n 7 \n \n2026. 09.\n \n / e-mail\n \n ·AI \n / 02-6490-6766 ysjeong@uos.ac.kr\n \nⅠ . 1. 04 2. 04 3. 05 4. 06\nⅡ . 1. 07 2. 08 3. 09\nⅢ . \n1. 11 2. 11 3. 12 4. 13 5. 13\nⅣ . \n1. 14 2. 14 3. 15\nⅤ . \n1. 40\n2. 40\n3. 42\n4. 44\nⅥ . \n1. 49\n2. 52\nⅠ \n1. \n❍ : ‧AI 7 \n❍ : 2 \n❍ : 132,000 ( )\n※ 50 \n .\n※ SW .\n2. \n❍ \n\n- 4 , \n \n- 4 \n- \n- \n- AI Agent AI \n❍ \n- \n- AI \n- · \n- \n- 4 ‧AI...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "‧AI \n 7 \n \n2026. 09.\n \n / e-mail\n \n ·AI \n / 02-6490-6766 ysjeong@uos.ac.kr\n \nⅠ . 1. 04 2. 04 3. 05 4. 06\nⅡ . 1. 07 2. 08 3. 09\nⅢ . \n1. 11 2. 11 3. 12 4. 13 5. 13\nⅣ . \n1. 14 2. 14 3. 15\nⅤ . \n1. 40\n2. 40\n3. 42\n4. 44\nⅥ . \n1. 49\n2. 52\nⅠ \n1. \n❍ : ‧AI 7 \n❍ : 2 \n❍ : 132,000 ( )\n※ 50 \n .\n※ SW .\n2. \n❍ \n\n- 4 , \n \n- 4 \n- \n- \n- AI Agent AI \n❍ \n- \n- AI \n- · \n- \n- 4 ‧AI \n- 2020 (1 ), 2021 100 , GPU 200 \n (2 ), 200Gb/s (3 ), GPU 130 (4 \n ), GPU 40 (5 ), AI GPU CPU 10 (6 ) \n . GPU . AI\nGPU CPU GPU 5 , \n .\n- 7 GPU \n .\n3. \n❍ GPU 5 \n- (GPU) 5 \n\n 7 ( )\n< >\n4. \n❍ \n❍ AI \n❍ \n❍ GPU \n❍ GPU GPU \nⅡ \n1. \n❍ ·AI (‘20.6.4)\n• 7 ( )\n- 185 (‘20.2.25)\n ·AI \n \n AI \n• , \n \n• \n \n• \n \n• AI \n \n• AI \n \n• \n( , )\n• , \n \n• \n \n• \n \n• \n \n \n• \n \n• ( \n , , ) \n \n• \n• -\n \n• ·AI \n \n• AI, \n \n• \n \n• \n ·AI \n• \n \n• \n \n• \n \n \n• \n \n- : ·AI 8 \n 4 \n .\n※ AI \n- : , , \n , · \n- A I : AI , AI \n \n- : ( , ), \n , \n- : HW SW , \n , \n- : · · · , ( \n , , ) , \n \n- : · , ·AI \n , \nAI \n- : , \n ·AI , \n \n- : · · , \n , · · \n \n2. \n❍ ·AI \n AI \n❍ CPU/GPU 116 \n- CPU/GPU 116 ( 1 )\n- 5 \n- 3 \n- ( ) 2 \n- CPU 2 \n- 1Gbps Switch 5 \n- 40Gbps Switch 2 \n- 200Gbps InfiniBand Switch 7 \n- 1 \n- SSD(M.2) 56 , SSD(S-ATA) 50 \n- GPU(A6000) 136 \n- GPU(A6000-Ada) 40 \n- 20 \n- 1 \n- UPS 10 \n- 15RT 1 \n- 30RT 3 \n3. \n❍ \n- 4 \n- , \n- , , , , · \n \n- , AI \n- AI \n❍ \n- . AI GPU CPU \n GPU 5 GPU \n- GPU GPU \n \n- \nⅢ \n1. \n❍ \n- ·AI \n- \n❍ \n- \n- · \n- \n- · \n- · \n2. \n❍ \n- AI GPU \n- AI GPU \n- 7 \n \n❍ \n- \n \n- CPU GPU GPU GPU \n- 6 \n❍ \n- GPU 5 GPU GPU \n- HPC 200Gb/s \n \n3. \n❍ \n ·AI \n ·AI \n \n‣ \n‣ \n‣ IP \n \n‣ \n‣ \n ( )\n‣ ( 7 1~7 \n‣ \n❍ \n \n \n \n·AI \n \n \n 1 ~ 7 CPU/GPU 116 \n GPU 5 \n4. \n M M+1 M+2 M+3 M+4 M+5 M+6 M+7 M+8 M+9 M+10 M+11 M+12\n \n \n \n \n \n \n \n \n \n \n \n \n※ “ ” “ ” .\n5. \n❍ : \n❍ : \n❍ : \nⅣ \n1. \n❍ HW \n- GPU 5 : GPU GPU \n2. \n3. \n . \n ( (ID) ) \n –ECR\n(Equipment\nComposition\nRequirement)\n- , , \n 2\n –SFR (System\nFunction Requirement)\n- \n ( ) \n3\n –PER (PErformance\nRequirement) - , , 1\n \n(SIR, System Interface\nRequirement &\nUIR, User Interface\nRequirement)\n- \n 1\n –DAR (DAta\nRequirement)\n- , \n , 0\n –TER (TEst\nRequirement)\n- \n \n- , , , \n ( )\n2\n –SER (SEcurity\nRequirement)\n- ,\n 1\n –QUR (QUality\nRequirement)\n- , \n \n- , , , , \n1\n –COR\n(COnstraint\nRequirement)\n- , , ․ ․ ․ \n 3\n –PMR\n(Project Management\nRequirement)\n- \n 5\n –PSR\n(Project Support\nRequirement)\n- ( \n , ) 5\n -MAR\n(Maintenance\nRequirement)\n- 2\n -MHR\n(Maintenance HR\nRequirement)\n- 0\n -CSR\n(ConSulting\nRequirement)\n- \n 0\n -ENR - , 0\n(ENgineering\nRequirement)\n \n . \n \n \n \n(ECR)\nECR-001 HW \nECR-002 GPU\n \n(SFR)\nSFR-001 Linux Kernel Tuning\nSFR-002 SLURM JOB Scheduler \nSFR-003 AI Deep Learning \n \n(PER) PER-001 GPU \n \n(SIR, UIR) SIR-001 \n \n(TER)\nTER-001 \nTER-002 \n \n(SER) SER-001 \n \n(QUR) QUR-001 \n \n(COR)\nCOR-001 \nCOR-002 \nCOR-003 \n \n \n(PMR)\nPMR-001 \nPMR-002 \nPMR-003 \nPMR-004 \nPMR-005 \n \n \n(PSR)\nPSR-001 \nPSR-002 \nPSR-003 \nPSR-004 \nPSR-005 \n \n \n(MAR)\nMAR-001 \nMAR-002 \n . \n1) \n ECR-001\n HW \n \n \n \n HW \n \n \n❍ , , \n❍ \n , \n \n❍ S/W , \n \n❍ H/W \n \n❍ , 1 \n \n❍ 3 \n \n❍ \n❍ (OS), S/W \n❍ \n❍ \n \n \n❍ , , , \n❍ , \n ❍ -\n ECR-002\n GPU\n \n \n \n GPU\n \n \n❍ : GPU\n❍ : 5 \n❍ :\nType of GPU : Blackwell GB202\n- CUDA Cores : 24,064\n- Tensor Cores : 752\n- RT Cores : 188\nSingle-precision performance (FP32) 120 TFLOPS\nPeak FP4 AI PFLOPS 4 PFLOPS\nRT Core performance 355 TFLOPS\nMemory bandwidth 1597 GB/s\nGPU memory 96 GB GDDR7 with ECC\n ❍ , \n \n❍ \n❍ \n- : G494-ZB4-AAP2\n- CPU: AMD EPYC 9755\n- MEM: DDR5-4800 ECC/REG 64G\n- SSD: 960G U.2 NVMe\n- PowerSupply: 4x3000W 80 PLUS Titanium redundant power supplies\n❍ ( )\n❍ cluster \n2) \n SFR-001\n Linux Kernel Tuning\n \n \n \n Linux Kernel Tuning \n \n \n❍ : GPU \n❍ \n❍ GPU kernel module kernel module \n❍ VESA framebuffer \n❍ SWAP file SWAP partition \n❍ CPU core GPU \n ❍ -\n ❍ \n SFR-002\n SLURM JOB Scheduler \n \n \n \n SLURM JOB Scheduler \n \n \n❍ : GPU \n❍ SLURM QOS \n❍ SLURM GPU \n❍ SLURM GPU Job \n ❍ -\n \n❍ SLURM QOS \n❍ SLURM JOB Scheduler \n SFR-003\n AI Deep Learning \n \n \n \n AI/Deep Learning \n \n \n❍ : GPU \n❍ GPU kernel drive \n❍ CUDA Deep Learning (module \n )\n❍ ANACONDA3 , (module \n )\n❍ Tensorflow Deep Learning (GPU )\n❍ Deep Learning program CPU, GPU, GPU \n , Memory , Network , NFS \n \n❍ \n ❍ ( )\n \n❍ Tensorflow GPU \n❍ \n3) \n PER-001\n GPU \n \n \n \n \n \n \n❍ : GPU\n❍ \n- NCCL RDMA 20GB/s (out-of-place bw)\n- \nH/W S/W \n ❍ \n ❍ -\n4) \n SIR-001\n \n \n \n \n \n \n \n❍ 1 /2 /3 /4 /5 /6 \n- 7 1 /2 /3 /4 /5 /6 \n \n ❍ -\n ❍ -\n5) \n TER-001\n \n \n \n \n \n \n \n❍ \n- GPU 5 \n❍ , , , , \n ❍ \n ❍ -\n TER-002\n \n \n \n \n \n \n \n❍ / , / \n \n❍ \n , \n · \n❍ \n ❍ \n ❍ -\n6) \n SER-001\n \n \n \n \n \n \n \n❍ \n , · \n \n❍ \n \n ❍ \n ❍ -\n7) \n QUR-001\n \n \n \n \n \n \n \n❍ .\n❍ \n , \n .\n❍ .\n❍ ( ) \n \n .\n❍ DB ( ) .\n \n❍ ( )\n❍ ( )\n ❍ -\n8) \n COR-001\n \n \n \n \n \n \n \n❍ · ( ) \n \n❍ , \n .\n※ \n ❍ -\n ❍ -\n COR-002\n \n \n \n \n \n \n \n❍ SW .\n❍ · ( ) \n .\n- ( 12) , ( \n 15) .\n- \n .\n- · , \n .\n- , ( )\n .\n❍ , SW \n ( ) \n .\n❍ S/W \n \n❍ ( )\n❍ ( ( ))\n ❍ -\n COR-003\n \n \n \n \n \n \n \n❍ ․ ․ ․ ․ \n , ( ) , \n .\n❍ [ 9] “ ” \n❍ [ 10] “ ” \n \n❍ , ( ) , , \n , ( )\n❍ ( )\n❍ ( )\n❍ , , , , < >\n❍ < >\n❍ ( , , ), \n \n ❍ -\n9) \n PMR-001\n \n \n \n \n \n \n \n❍ .\n❍ , \n .\n❍ \n .\n❍ , \n ( ) .\n❍ ( ) ( ) \n .\n \n❍ ( , )\n❍ \n ❍ -\n PMR-002\n \n \n \n \n ( ) \n \n \n❍ , \n .\n❍ ‘ , , ’ \n ( ) .\n※ ( ) ‘ ’ \n ❍ \n ❍ -\n PMR-003\n \n \n \n \n SW \n \n \n❍ , SW \n SW , \n .\n- ,\n ‘ \n ’, ‘SW ’ , , \n ‘ ’ ( ) . ※ \n \n- ,\n ‘ ’ ( ) \n , , , , \n .\n❍ , , , , \n .\n❍ , , , \n • \n ( ( ) ) \n .\n❍ / / (※ ) \n , \n❍ , \n \n \n❍ ( , )\n※ \n❍ ( )\n❍ / / \n ❍ -\n PMR-004\n \n \n \n \n \n \n \n❍ ‘EA ’ ( ) .\n- ‘EA ’ EA ( ) \n ( ) .\n※‘EA ’ ‘ ’ \n- ‘EA ’ ‘ ’ ‘ EA ’(T.2133-\n1179) ( ) , ( ) \n .\n※ ‘EA ’ \n❍ ( ) \n ( , ( , ) \n ) EA \n ( ) .\n※ EA : EA (T.2133-1179)\n \n❍ EA \n❍ EA (※ EA )\n ❍ -\n PMR-005\n \n \n \n \n \n \n \n .\n- (※ )\n- ( , , ) \n( ※ SW )\n- EA (※ )\n- SW (※ , )\n- (※ )\n- \n (SW ) \n ․ , ( , \n ) .\n※ ‘ ’ ‘ ’ \n \n \n- \n․ \n- 10 \n․ \n※ ‘ ( )’ \n[ 5] , \n , , ( ), ,\n , , \n .\n· 1 , 1 \n- 14 \n․ ( (CD, USB ) 3 )\n- ( )\n․ : ( (CD, USB ) 3 )\n※ 15 ,\n \n※ ( ) \n※ \n \n , \n ( ) \n \n \n ( , )\n※ \n EA \n SW ( )\n PMR-003, PMR-004\n10) \n PSR-001\n \n \n \n \n \n \n \n ( ) \n .\n , \n 1 .\n- \n- \n- \n .\n- ( , )\n- , , , \n , \n .\n \n , .\n ❍ \n ❍ -\n PSR-002\n \n \n \n \n \n \n \n❍ \n .\n❍ , , \n .\n- \n( , )\n- \n- \n- ( )\n❍ \n , .\n❍ , , S/W \n \n ❍ \n ❍ -\n PSR-003\n \n \n \n \n \n \n \n❍ , .\n❍ \n .\n❍ \n \n❍ 3 \n .\n❍ H/W, S/W , , 24 \n ( ( )) \n , S/W \n .\n❍ , ( ) .( \n , )\n \n❍ ( )\n❍ ( )\n ❍ -\n PSR-004\n \n \n \n \n \n \n \n❍ ( ) \n .\n ❍ \n ❍ -\n PSR-005\n \n \n \n \n \n \n \n○ \n \n \n11) \n MAR-001\n \n \n \n \n \n \n \n❍ GPU 5 .\n ❍ -\n ❍ MAR-002\n MAR-002\n \n \n \n \n \n \n \n❍ ( ) .\n※ .\n❍ , \n , ( ) \n .\n ❍ -\n ❍ -\nⅤ \n1. \n . : \n❍ 43 44 “ \n ” \n → → →\n → → \n❍ \n- ( )\n- ( )\n- · ( )\n . : \n . ( ) \n❍ \n2. \n❍ : \n❍ : (http://www.seoul.go.kr) \n ( , http://www.g2b.go.kr)\n❍ : \n❍ \n- : \n \n \n① ( ) 1 (* )\n② ( ) 1 (* )\n③ 1 (* )\n , , \n \n , PDF \n , 300MB , \n \n PDF ‘ ’ \n31 ( ) \n , PDF ( , \n ) \n• \n※ \n- ( ) \n- ( ) ( ) \n- ( ) .\n❍ \n- ( ) : ·AI \n- ( ) : 02-6490-6766 ( : )\n- E-Mail( ) :\n❍ \n- ( ) (e- ) . , \n ( ) ( ) \n .( )\n- .\n : \n , e- \n . \n- , \n .\n- , .\n- pdf .\n- .\n3. \n . \n❍ ‘ ’[ 3] , \n ( ), \n · ( ) \n1) \n❍ \n- : 90 ( 20 , 70 )\n- : 10 \n❍ \n- (100 ) = (90 ) + (10 )\n2) \n❍ ( ) [ 5] ‘ ’ \n※ [ 18] ‘ ’ \n❍ “ ” , “ ” [ \n 6] ‘ ’ \n❍ \n- 4 5 \n3) \n❍ “ ” [ 7] ‘ ’ \n \n- \n . \n❍ 85% \n , .\n❍ , 1 \n .\n❍ .\n . \n❍ : \n❍ : ( ( ) )\n- ( ) > > \n※ · \n , .\n❍ : 30 ( 20 , 10 )\n❍ : \n❍ \n- ( ) ( ) (PM) , \n(PM) ( ) \n※ \n※ ( , , ) \n ( )\n- ( ) \n \n- .\n- .\n4. \n . \n❍ “ Ⅳ . ” “ ” “ ” \n .\n❍ 3 , \n .\n❍ , \n .\n❍ \n .\n❍ ․ ․ \n .\n❍ ( ) ( ) \n .\n- ‘ ’ .\n- ( ) , \n .\n❍ \n , .\n . \n❍ .\n- \n ( ) , \n .\n , ( , ) \n , \n .\n- ( ) ( \n ) “ ” .\n- ( ) 56\n ( ) .\n- ( ) 3 , , \n , \n , “ ” \n .\n- 59 \n , ( ) \n .\n- \n .\n- 54 1 · \n 30 \n .\n- · \n \n , .\n- 3 \n .\n- 76 1 3 \n 92 2 3 .\n1. \n2. \n . \n❍ .\n- ( ) 1 ( , 1 \n ( ) ) , \n .\n- ( \n ) .\n- (HW, SW) .\n※ , , , ( \n 713 15 )\n- .\n※ \n . \n❍ , \n .\n❍ \n .\n❍ \n , . , \n , \n \n .\n . \n❍ 20 HW .\n . \n❍ , \n .\n❍ \n .\n❍ ․ , \n .\n❍ , \n .\n❍ \n , ( ) .\n❍ \n \n .\n❍ , ( ) \n , , \n .\nⅥ \n1. \n . \n❍ , , \n ( ) \n .\n❍ , \n .\n . \n❍ \n .\n- , .\n- , , \n , \n \n- , \n \n .\n- , \n .\n- \n .\n❍ “[ 1] ” “[ 2] ” \n , “[ 2] ” \n .\n- “[ 16] ” \n- , , \n .\n❍ , \n .\n❍ A4 3hole .\n※ , \n- 200 (100 ) \n- ( , ( ) )\n- ‘ ’ , \n( PDF )\n※ [ 14] \n※ .\n❍ A4 , A4 .\n※ , \n❍ , \n .\n❍ , .\n❍ 70 , , \n[ 14] ‘ ’ .\n❍ .\n- “ ”, “ ”, “ ” \n , .\n2. \n . \n1) \n2) \n3) \n4) \n5) \n6) \n7) \n8) ITSQF \n9) \n10) \n[ 1] \n[ 2] \n[ 3] \n11) \n12) \n . \n1) \n2) ( 3 )\n3) ( 3 )\n4) \n5) \n6) \n7) \n8) \n9) \n10) \n11) \n12) \n13) \n14) \n15) \n16) \n17) \n18) \n19) \n20) \n \n[ 1]\n \n§ \n \nⅠ . \n1. \n2. \n3. \n4. \nⅡ . \n1. \n2. GPU 3. (SFR) \nⅢ . \n1. \n2. \nⅣ . \n1. \n2. \n3. \n4. \n5. \n6. \nⅤ . \n1. \n2. \n3. \n4. \nⅥ . \n[ 2]\n \n \n§ . \n . 16\nⅠ . \n1. \n. , \n. 3 \n 1\n 2\n2. . \n3. . 3 ( ) \n 3\n 4\n4. \n. ( 4 \n 4 1 4 ( \n ) )\n \nⅡ . \n1. \n. \n※ \n2. GPU . \n3. (SFR) . \nⅢ . \n1. \n․ ( ) , \n \n※ )\n2. \n․ \n( , , , )\n․ , , \n․ \n※ \nⅣ . \n1. ․ , , ( ), , \n \n2. \n․ , , , \n․ \n3. ․ ( , , \n , , , )\n4. ․ 5\n5. ․ , \n 6\n 7\n6. \n․ \n․ OS BUG \n․ 24 \n․ \nⅤ . \n1. \n․ \n( , , , )\n2. \n․ , , \n․ \n3. ․ , \n4. \n․ \n․ \nⅥ . ․ \n 17\n( )\n ) 1. ( ) , , ( ) \n ( PDF )\n[ 3]\n ·AI 7 \n \n 1 ( ) ·AI 7 \n .\n1. 43 ( ) 44 ( \n )\n2. ( )\n3. ( )\n4. ( )\n 2 ( ) .\n1. ‘ ’ \n .\n2. ‘ ’ \n .\n 3 ( ) ·AI 7 \n , .\n 4 ( ) ① , \n 90/100 10/100 . [ 4] .\n② , \n , .\n③ (20 ) 7 \n [ ] , ( ), , \n [ 5] .\n④ (70 ) \n . \n ․ 2 . , [ 6]\n .\n⑤ (10 ) ( ) , \n , 7 \n[ 1] [ 7] .\n⑥ ( ) \n . , ․ ( ․\n ) .\n 5 ( ) ① \n 85% .\n② \n 2 , \n .\n③ ( ) ( \n ) .\n 6 ( ) 5 \n .\n 7 ( ) ① 5 , \n .\n② \n .\n③ .\n 8 ( ) , , , \n \n .\n 9 ( ) ① \n ( ) .\n② \n ( ) \n . , \n .\n 10 ( ) 15 , , , \n 10 .\n 11 ( ) .\n 12 ( ) ① 10 .\n② 11 \n ․ , , \n .\n 13 ( ) ,\n .\n[ 4]\n ( ) \n \n 100\n \n \n \n \n \n \n∘ ITSQF 6\n20 5\n ∘ 3 3\n ∘ 3 3\n ∘ 6\n \n \n∘ \n∘ \n2\n \n \n \n∘ \n∘ , \n∘ , \n15\n70 6\n \n \n∘ ( \n )\n20\n \n \n∘ / 20\n \n \n∘ ( , , \n )\n∘ \n∘ \n∘ \n∘ \n8\n \n \n∘ \n∘ \n7\n \n \n ∘ 10 7\n[ 5]\n \n ( ) \nA. \n \n∘ ITSQF 6\n \n \nB. ∘ : 3 ( ) 3 \nC. ∘ : 3 ( ) 3 \nD. ∘ 6 \nE. \n∘ \n∘ \n2 \n \n※ ( ) \n ( \n )\n20\nA. \n : (1 ) ( 5 )\n : \n- ‘ ’ = ( × ) \n- = (6 ) × ( / )\n ITSQF \n \n ( ) , , \n \n※ , \n ( )\n \n \nIT IT \nInfrastructure /\n SW /IT \n 3 \n3 \n5 \n5 3 \n3 \n5 \n5 3 \n3 \n5 \n5 \n \n \n \n1 1 2 3 1 2 3 4 1 2 4 6\n※ ITSQF ‘[ 8] ITSQF \n .\nB. \n : ( ) 3 ( ) \n ( ) \n※ : GPU , IT \n※ , ( ) , \n \n .\n : \n- ( ) ( )\n \n․ ‘ ’ = ( ( ) / ) × 100\n 100% \n80% \n~\n100% \n60% \n~\n80% \n40% \n~\n60% \n40%\n \n \n( )\n (%) 100 90 80 70 60 0\n \n :3\n3 2.7 2.4 2.1 1.8 0\nC. \n : 3 ( ) , \n 1 ( ) \n※ : GPU , IT \n※ , ( ) , \n \n .\n : \n- , \n \n \n( )\n (%) 100 90 80 70 60 0\n (%) 10 20 40 20 10\n[ ]\n \n \n \n \n \n2,3 1 1 (1) 12 1 3 5 2 1\n4 1 1 1 1 13 1 3 5 3 1\n5 1 1 2 1 14 1 3 6 3 1\n6 1 1 2 1 1 15 2 3 6 3 1\n7 1 1 3 1 1 16 2 3 6 3 2\n8 1 2 3 1 1 17 2 3 7 3 2\n9 1 2 3 2 1 18 2 4 7 3 2\n10 1 2 4 2 1 19 2 4 7 4 2\n11 1 2 5 2 1 20 2 4 8 4 2\n※ , \nD. \n \n․ 2 4 5 \n 9 26 ( ) ( \n ) 1 ․ \n .\n \n \n \n \n : 6.0\nAAA\nAA+, AA0, AA-\nA+\nA0\nA-\nBBB+\nBBB0\n-\nA1\nA2+\nA20\nA2-\nA3+\nA30\nAAA\nAA+, AA0, AA-\nA+\nA0\nA-\nBBB+\nBBB0\n6.0\nBBB-,BB+,BB0,BB- A3-,B+,B0 BBB-,BB+,BB0,BB- 5.7\nB+, B0, B- B- B+, B0, B- 5.4\nCCC+ C CCC+ 4.2\n ) 1. ( ) \n , ‘ ’ \n2. \n . , \n \n .\n3. 7 \n . \n , \n .( )\n4. \n \n5. .\n 8 \nE. \n : / / \n※ , \n : \n- / / \n ( , )\n[ 6]\n \n \n \n , \n \n \n \n- \n- \n- \n- \n5\n15 - - 5\n \n- \n- \n- \n- ( ) \n5\n - 20 20\n※ \n \n※ \n※ GPU \n※ ( : \n )\n Hardware/Software\n \n- SFR-001 .\n※ \n \n .\n- SFR-002 \nSLURM .\n10\n20\n- / module \n \n .\n※ \n10\n \n \n \n- \n- \n- \n2\n8\n - - 1\n - 2\n - 1\n - 2\n \n \n - , , - 3\n7\n \n \n- , , \n- \n \n4\n \n 5 ( , , , , ) , \n , ‘ ’ .\n \n \n( )\n (%) 100 90 80 70 60 0\n※ , \n .\n[ 7]\n \n○ \n① ( \n .) 100 80 \n· = × ( / )\n※ 1. , 100 80 \n 100 80 .\n2. 100 80 30% \n .\n[ 8]\n ITSQF \n‘ ·AI 5 ‘ \n IT (ITSQF) ’SW ‘( \n ) Infrastructure , SW , IT ,\nIT , IT .\n※ \n\n※ \n[ 9]\n \n 26 , \n 26 ( , , ) .\n※ ‘ ’ \n .\n○ ( , , ) , \n · \n1. \n . .\n . · \n \n .\n- \n- \n- \n- \n- \n2. \n2-1. \n . .\n . .\n . , ( ) \n .\n2-2. · \n . CCTV, \n .\n . PC, , \n .\n . .\n . PC .\n . USB .\n . PC (ID, ) .\n . \n .\n※ , (PC, ), , , DBMS, , \n , \n .\n . PC, · \n .\n2-3. · \n . ( ) . , \n .\n . (ID) .\n . .\n . ‘root’ \n , .\n . .\n . .\n . PM \n .\n . PC , \n .\n . AP( , ) , PC\n .\n . (WiFi, LTE ) .\n . PC (Driver ) .\n . PC .\n2-4. \n . , ․\n .\n . ,P2P , , \n .\n . , \n . , \n .\n . , PC \n · .( PC )\n . · · \n .\n3. \n . PC S/W \n , .\n※ S/W ( “ > > \n ” ‘ ’ \n . \n .\n[ 10]\n \n① [ 1] \n [ 2] .\n② , , , , [ \n3] ‘ ’ , \n 92 \n .\n③ \n , .\n④ \n , .\n< 1> \n< 2> \n< 3> \n< 1>\n \n \n \n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n◦ \n◦ \n \n◦ \n \n◦ \n \n \n1. \n . \n . \n . ․ \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P \n \n . · \n . \n . PC \n . PC \n . \n . ( )\n◦ \n \n◦ \n \n◦ \n \n \n \n1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n◦ \n \n◦ \n / \n \n◦ \n \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n◦ \n \n◦ / \n \n< 2>\n \n1. A~D \n \n \nA B C D \n 1 1 2 3 \n \n \n 5% 3% 1% \n* \n* < 1> \n2. , \n* 1 \n3. \n< 3>\n \n1. ․ IP \n2. \n3. \n4. · \n5. \n6. \n7. (IPS) \n \n8. 9 1 \n \n9. 2 1 \n10. 4 7 3 \n11. \n[ 11]\n \n \n( )\n ·AI 7 \n .\n○ ·AI 7 \n , ( , , , ) \n , \n3 \n2. \n .\n3. , \n .\n4. , \n .\n5. .\n6. .\n . 4 1 2 5 ( )\n . 98 , 99 , 113 127 \n \n :\n( ) :\n : ( )\n :\n :\n( ) :\n : ( )\n :\n \n \n( )\n ·AI 7 \n .\n☐ ·AI 7 \n , ( , , , ) \n , 3\n .\n2. \n .\n3. , \n .\n4. .\n . 4 1 2 5 ( )\n . 98 , 99 , 113 127 \n \n :\n( ) :\n : ( )\n :\n :\n( ) :\n : ( )\n :\n \n \n( )\n ·AI 7 \n .\n1. ·AI 7 \n , 3 · ( , , , ) \n .\n2. \n .\n3. \n .\n . 4 1 2 5 ( )\n . 98 , 99 , 113 127 \n4. .\n \n :\n( ) :\n : ( )\n :\n :\n( ) :\n : ( )\n :\n \n \n( )\n ·AI 7 \n .\n◦ ·AI 7 \n , 3 · ( , , , ) \n .\n2. \n .\n3. \n .\n . 4 1 2 5 ( )\n . 98 , 99 , 113 127 \n \n :\n( ) :\n : ( )\n :\n :\n( ) :\n : ( )\n :\n[ 12]\n[ ] , [ ] \n ·AI 7 \n 2026 \n□ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n□ \n \n / / \n \n \n \n \n , , \n · .\n \n \n \n 2.1\n \n \n \n \n- HTML 4.01/HTML 5, CSS 2.1\n- XHTML 1.0\n- XML 1.0, XSL 1.0\n- ECMAScript 3rd\n \n- 1.0 (KICS.KO-10.0307)\n \n (KS X ISO/IEC 20000)/ ITIL v3\n \n \nIPv4\nIPv6\n□ \n \n / / \n \n \n \n , \n · \n .\n \n \n \n- SOAP 1.2, WSDL 2.0, XML 1.0\n- UDDI v3\n- RESTful\n \n- UML 2.0/BPMN 1.0\n- ebXML/BPEL 2.0/XPDL 2.0\n : XML 1.0\n : UDDI v3, WSDL 2.0\n□ \n \n / / \n \n \n \n \n \n \n \n \n IPv4 IPv6 \n .\n , \n \n .\n \n \n : H.320~H.324, H.310\n : VoIP\n- H.323\n- SIP\n- Megaco(H.248)\n \n \n ( ) :\n- POSIX.0\n- UNIX\n- Windows Server\n- Linux\n \n- android\n- IOS\n- Windows Phone\n \n DBMS\n- RDBMS\n- ORDBMS\n- OODBMS\n- MMDBMS\n ITIL v3 / ISO20000\n : \n□ \n \n / / \n \n \n \n .\n , , , \n .\n \n \n “ ” \n .\n \n .\n \n \n \n \n \n \n : HTML 4.01\n - JSP 2.1\n- ASP.net\n- PHP\n- ( )\n \n- C\n- C++\n- Java\n- C#\n- ( )\n \n :\n- XMI 2.0\n- SOAP 1.2\n \n- EUC-KR\n- UTF-8( , UTF-8 )\n□ \n \n / \n / \n \n \n \n \n \n \n \n \n \n . “ ”,“ \n ”,“ ” “ ” .\n \n .\n \n ․ .\n \n \n \n \n ( )\n- \n · ( )\n \n \n \n \n \n \n ( )\n- PKI \n- SSO \n- \n- (DRM) \n- \n- \n- \n- \n- DB \n- (9 ) \n- \n CC ( CC )\n- ( ) \n- ( ) ( )\n- \n- \n- DDos \n- \n- \n- \n- ( )\n- \n- \n- \n- \n- (PC )\n- \n- ( , \n )\n- \n- \n- DB \n- \n- USB( )\n- ( \n )\n- \n- \n- CC \n ( · ) \n- · ( )\n \n- (CSAP) \n- · \n \n \n \n \n- \n- \n- \n- \n- \n- \n- \n- \n- \n \n- \n- ( )\n- ( )\n- \n※ ‘ \n \n[ 1]\n \n□ \n \n \n \n \n \n \n ( )\n□ \n□ \n \nIT \n \n \n SW \n \n \n \nIT \n \n \n \n5 \n5 \n3 \n1 \n “SW “( ) SW \n(ITSQF ) \n “ ”, “ ” OOO .( , )\n ) , \n[ 2]\n ( 3 )\n : ( : )\n 20 20 20 \n \n \n \n S/W \nH/W \n \n \n \n( / )\n \n( / )\n \n \n \n \n )1. , .\n2. , , ‘ ’ .\n[ 3]\n ( 3 )\n . \n :\n ① \n \n \n② \n( : )\n \n③ ( \n )\n④ \n \n \n⑤\n \n \n \n \n )1. : ( ) .\n※ : 3 GPU , IT \n※ “ ” (※ )\n2. : .\n3. : ( , ) .\n4. : .\n5. [ 4] ( ) ‘ \n ’ , ‘ ’ \n \n※ , \n※ 0 .\n . \n \n \n \n \n~\n \n20 . .\n~\n20 . .\n \n( )\n \n \n1. \n2. \n[ 4]\n \n1. \n2. ( : %)\n3. \n4. \n5. \n6. \n※ \n .\n20 \n :\n :\n :\n .\n20 \n :\n :\n :\n[ 5]\n \n \n , , ITSQF , \n \n , , ITSQF \n \n , \n , ITSQF , \n \n , \n , ITSQF , \n \n , \n , ITSQF , \n \n , \n , ITSQF \n \n◎ : \n※ SW \n ) 1. .\n2. .\n3. .\n4. ITSQF [ 8] ITSQF \n .\n5. “ ” .\n( , )\n[ 6]\n \n \n \n( )\nITSQF \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n )1. ( ) .\n2. ITSQF [ 8] ITSQF .\n3. , ITSQF .\n4. “ ( )” ‘ ’ .\n※ ‘ ’ ‘ ( )’ \n※ , \n .\n[ 7]\n \n \n( )\n \nITSQF(IT ) ITSQF(IT ) \n \n( ) ( )\n %\n \n \n \n( . . )\n \n \n( )\n )1. .\n2. .\n3. .\n4. ( ) , \n .\n5. ITSQF ITSQF \n .\n6. ‘ ’ ‘ ’, ‘ A’, ‘ B’ .\n- ‘ ’ ‘ ’ , \n() \n- , \n .\n※ , , () \n7. 0 .\n[ 8]\n \n* .\n \n \n \n \n \n \n \n \n \n \n( ) \n \n \n \n \n \n \n \n ( , ) (5/100) \n .\n \n \n \n .\n :\n :\n \n .\n : \n ( ) ( ․ ) ( ․ \n ) .\n : 1. 1 \n2. 1 \n3. \n : \n ( ) \n[ 9]\n \n \n \n \n \n 20 \n \n \n ( ) \n \n \n \n \n \n \n \n \n \n \n \n ∙ ∙ \n ( , ) \n .\n : 1 . ( 10 )\n : \n20 \n ( ) \n[ 10]\n \n \n \n \n (VAT ) ( )\n \n \n \n .\n : \n20 \n :\n : :\n : ( )\n ( ) :\n \n[ 11]\n ( )\n 1 [ ] , , , \n , , , \n .\n1. :\n2. :\n3. :\n 2 [ ] , , .\n1. : ○○○\n2. :\n3. :\n 3 [ ] ① .\n1.○○○ ( : : )\n2.○○○ ( : : )\n② ○○○ .\n③ 3 , \n .\n 4 [ ] , . , \n 3 .\n 5 [ ] 1 , \n .\n 6 [ ] .\n 7 [ ] \n .\n 8 [ ] Ⅲ -7 , \n .\n1. ○○○ ( ) : ○○ , ○○○, ○○○\n2. ○○○ : ○○ , ○○○, ○○○\n 9 [ ] ① .\n1. ○○○: %\n2. ○○○: %\n② 1 . , \n .\n1. \n2. , , \n \n③ , .\n 10 [ ] 9 \n .\n 11 [ , ] 3 .\n 12 [ ] ① \n . , 3 \n .\n1. \n2. , , \n \n3. , , \n92 1 6 \n② 1 \n . , , , \n , \n \n .\n③ 2 9 \n .\n④ 10 .\n 13 [ ] \n .\n 14 [ ] ① \n .\n② .\n ○ \n .\n20 \n○○○ ( )\n○○○ ( )\n[ 12]\n \n \n \n , \n , \n \n .\n20 \n \n \n \n ( )\n \n \n \n \n \n ( )\n \n \n \n \n \n ( )\n \n \n[ 13]\n \n \n \n , OECD \n ·AI \n 7 ( ․ \n ) \n1. , , \n .\n \n ( ) \n 2 , \n 11 \n 1 1 , \n \n 5 7 , \n \n .\n2. ․ ․ ( ) ․ \n ․ ( ) \n , 1 \n .\n1) 2 : 2 \n2) 1 2 : 1 \n3) 1 1 : 6 \n4) 1 : 3 \n3. , , ( \n ) 30 2 \n , , \n ․ .\n4. ․ ( ) \n \n ․ ( ․ \n ) ( \n ) \n , \n ( ) \n .\n5. , , , \n , , .\n6. ( , , \n ) , \n .\n7. \n .\n1) \n2) \n \n3) ․ \n4) ․ \n5) 10% \n .\n , \n , , \n ․ \n .\n20 . . .\n : ○○○ ○○○ ( )\n[ 14]\n \n 3 \n \n3.5 3 \n3 3 \n 2 \n ·AI \n 7 \n- -\n \n▪ ·AI 7 : 20 ( )\n▪ : 22 ( )\n※ ‘ ·AI 7 ’( : , : 24) \n . .\n \n 3 \n \n3.5 3 \n3 3 \n 2 \n ·AI \n 7 \n- -\n ·AI 7 : 30 ( )\n- : 22 ( )\n[ 15]\n[ ] , [ ] \n ·AI 7 \n 2026 \n□ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n□ \n \n / / \n \n \n \n \n \n \n \n \n \n \n , , \n · .\n \n \n \n 2.1\n \n \n \n \n- HTML 4.01/HTML 5, CSS 2.1\n- XHTML 1.0\n- XML 1.0, XSL 1.0\n- ECMAScript 3rd\n \n- 1.0 (KICS.KO-10.0307)\n \n \n (KS X ISO/IEC 20000)/ ITIL v3\n \n \nIPv4\nIPv6\n□ \n \n / / \n \n \n \n , \n · \n .\n \n \n \n- SOAP 1.2, WSDL 2.0, XML 1.0\n- UDDI v3\n- RESTful\n \n- UML 2.0/BPMN 1.0\n- ebXML/BPEL 2.0/XPDL 2.0\n : XML 1.0\n : UDDI v3, WSDL 2.0\n□ \n \n / / \n \n \n \n IPv4 IPv6 \n .\n , \n \n .\n \n \n : H.320~H.324, H.310\n : VoIP\n- H.323\n- SIP\n- Megaco(H.248)\n \n \n ( ) :\n- POSIX.0\n- UNIX\n- Windows Server\n- Linux\n \n- android\n- IOS\n- Windows Phone\n \n DBMS\n- RDBMS\n- ORDBMS\n- OODBMS\n- MMDBMS\n ITIL v3 / ISO20000\n : \n□ \n \n / / \n \n \n \n .\n , , , \n .\n \n \n “ ” \n .\n \n .\n \n \n \n \n \n \n : HTML 4.01\n - JSP 2.1\n- ASP.net\n- PHP\n- ( )\n \n \n- C\n- C++\n- Java\n- C#\n- ( )\n \n :\n- XMI 2.0\n- SOAP 1.2\n \n- EUC-KR\n- UTF-8( , UTF-8 )\n□ \n \n / \n / \n \n \n \n \n \n \n \n \n \n . “ ”,“ \n ”,“ ” “ ” .\n \n .\n \n ․ .\n \n \n \n \n ( )\n- \n · ( )\n \n \n \n \n \n \n ( )\n- PKI \n- SSO \n- \n- (DRM) \n- \n- \n- \n- \n- DB \n- (9 ) \n- \n CC ( CC )\n- ( ) \n- ( ) ( )\n- \n- \n- DDos \n- \n- \n- \n- ( )\n- \n- \n- \n- \n- (PC )\n- \n- ( , \n )\n- \n- \n- DB \n- \n- USB( )\n- ( \n )\n- \n- \n- CC \n ( · ) \n- · ( )\n \n- (CSAP) \n- · \n \n \n \n \n- \n- \n- \n- \n- \n- \n- \n- \n- \n \n- \n- ( )\n- ( )\n- \n※ ‘ \n[ 16]\n \n \n \n \n \n( )\n \n \n \n \n \n )1. ‘ ’ , \n ( , \n () )\n2. ‘ ’ ( )\n3. ○ X \n[ 17]\n \n \n \n( )\n \n \n )1. .\n■ [ 4 ]\n[ 18]\n \n ○○ \n ITSQF ( ) ( ) \nA. \n \n \n \n○○ %\n○○ %\n○○ %\nB. \n \n \n( 3 )\n20 \n( : , )\n20 \n( : , )\n20 \n( : , )\n \n( : , )\n \n \n( : )\n \n \nC. \n \n \n( 3 )\n \nD. \n \n \n \n \n \n \n \n \nE. \n \n · \n· \n \n / / \nO / X O / X\n※ , \n )1. .\n2. 3 , .\n- [ 3] .\n3. .\n- [ 6] .\n4. (%) .\n5. .\n[ 19]\n \n ·AI 7 \n ․ ․ \n .\n1. \n( · ) .\n2. ․ ․ ․ ․ ․ · · \n , , , .\n3. , \n , , \n .\n4. ․ , \n , .\n5 \n , .\n6. ․ , \n , , \n .\n20 . . .\n : o o o o o o ( )\n[ 20]\n \n \n .\n , .\n: ( )\n: ( )\n( ) , \n , \n .\n20 \n :\n :\n : ( )",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01756998-000",
+    "sourceFile": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+    "generatedAt": "2026-10-12T13:54:30.960462",
+    "match": {
+      "noticeId": "R26BK01756998-000",
+      "bidNtceNo": "R26BK01756998",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01756998-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01756998-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01756998-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A43hole . ※, - 200 (100 ) - (, ( ) ) - ‘ ’, ( PDF ) ※ [ 14] ※ . ❍ A4, A4 . ※, ❍, . ❍, . ❍ 70,, [ 14] ‘ ’ . ❍ . - “ ”, “ ”, “ ”, . 2. . 1) 2) 3) 4) 5) 6) 7) 8) ITSQF 9) 10) [ 1] [ 2] [ 3]",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "USB ) 3 ) - ( ) ․ : ( (CD, USB ) 3 ) ※ 15, ※ ( ) ※, ( ) (, ) ※ EA SW ( ) PMR-003, PMR-00410) PSR-001 ( ) ., 1 . - - - . - (, ) -,,,, ., . ❍ ❍ -",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "ECR-001",
+          "requirement": "HW",
+          "name": "HW",
+          "detail": "HW",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-002",
+          "requirement": "HW",
+          "name": "HW",
+          "detail": "GPU",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-001",
+          "requirement": "SFR",
+          "name": "SFR",
+          "detail": "Linux Kernel Tuning",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-002",
+          "requirement": "Linux Kernel Tuning",
+          "name": "Linux Kernel Tuning",
+          "detail": "SLURM JOB Scheduler",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-003",
+          "requirement": "AI Deep Learning",
+          "name": "AI Deep Learning",
+          "detail": "AI Deep Learning",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-001",
+          "requirement": "PER) GPU",
+          "name": "PER) GPU",
+          "detail": "GPU",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-001",
+          "requirement": "TER",
+          "name": "TER",
+          "detail": "ECR-002 GPU (SFR) SFR-001 Linux Kernel Tuning SFR-002 SLURM JOB Scheduler SFR-003 AI Deep Learning (PER) PER-001 GPU (SIR, UIR) SIR-001",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-002",
+          "requirement": "TER",
+          "name": "TER",
+          "detail": "(SFR) SFR-001 Linux Kernel Tuning SFR-002 SLURM JOB Scheduler SFR-003 AI Deep Learning (PER) PER-001 GPU (SIR, UIR) SIR-001",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "TER",
+          "name": "TER",
+          "detail": "SFR-001 Linux Kernel Tuning SFR-002 SLURM JOB Scheduler SFR-003 AI Deep Learning (PER) PER-001 GPU (SIR, UIR) SIR-001 (SER)",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "SFR-002 SLURM JOB Scheduler SFR-003 AI Deep Learning (PER) PER-001 GPU (SIR, UIR) SIR-001 (TER) (QUR)",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": "COR",
+          "name": "COR",
+          "detail": "(PER) PER-001 GPU (SIR, UIR) SIR-001 (TER) (SER) SER-001 (QUR) QUR-001",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": "COR",
+          "name": "COR",
+          "detail": "(SIR, UIR) SIR-001 (TER) (SER) SER-001 (QUR) QUR-001",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-003",
+          "requirement": "COR",
+          "name": "COR",
+          "detail": "(TER) (SER) SER-001 (QUR) QUR-001",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "(SER) SER-001 (QUR) QUR-001 (COR)",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "(SER) SER-001 (QUR) QUR-001 (COR)",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "(QUR) QUR-001 (COR)",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-004",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "(COR)",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-005",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "PMR",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": "PSR",
+          "name": "PSR",
+          "detail": "(PMR)",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": "PSR",
+          "name": "PSR",
+          "detail": "(PMR)",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-003",
+          "requirement": "PSR",
+          "name": "PSR",
+          "detail": "PSR",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-004",
+          "requirement": "PSR",
+          "name": "PSR",
+          "detail": "PSR",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-005",
+          "requirement": "PSR",
+          "name": "PSR",
+          "detail": "(MAR) MAR-001 MAR-002",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01756998-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ") 3 )\n- ( )\n․ : ( (CD, USB ) 3 )\n※ 15 ,\n \n※ ( ) \n※ \n \n , \n ( ) \n \n \n ( , )\n※ \n EA \n SW ( )\n PMR-003, PMR-004\n10) \n PSR-",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 3개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "100",
+          "score": 100.0,
+          "weight": 100.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "100 100점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "100 80",
+          "score": 30.0,
+          "weight": 30.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "100 80 30점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "D \n \n \nA B C D \n 1 1 2 3",
+          "score": 5.0,
+          "weight": 5.0,
+          "grade": "C",
+          "strategy": "누락 방지 중심으로 증빙과 기본 요건 확인",
+          "detail": "D \n \n \nA B C D \n 1 1 2 3 5점"
+        }
+      ],
+      "totals": {
+        "score": 135.0,
+        "weight": 135.0,
+        "gradeA": 2,
+        "gradeB": 0,
+        "gradeC": 1
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01756998-000",
+    "generatedAt": "2026-10-12T13:55:56.884907",
+    "sourceAnalysisAt": "2026-10-12T13:54:30.960462",
+    "projectName": "",
+    "sourceFile": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+    "requirementSourceFiles": [
+      "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "ECR-001",
+        "name": "HW",
+        "detail": "HW ❍ , , ❍ , ❍ S/W ,",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-002",
+        "name": "GPU",
+        "detail": "GPU ❍ : GPU ❍ : 5 ❍ Type of GPU : Blackwell GB202",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-001",
+        "name": "Linux Kernel Tuning",
+        "detail": "Linux Kernel Tuning ❍ : GPU ❍ ❍ GPU kernel module kernel module ❍ VESA framebuffer",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-002",
+        "name": "SLURM JOB Scheduler",
+        "detail": "SLURM JOB Scheduler ❍ : GPU ❍ SLURM QOS ❍ SLURM GPU ❍ SLURM GPU Job",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-003",
+        "name": "AI Deep Learning",
+        "detail": "AI/Deep Learning ❍ : GPU ❍ GPU kernel drive ❍ CUDA Deep Learning (module )",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-001",
+        "name": "GPU",
+        "detail": "❍ : GPU ❍ NCCL RDMA 20GB/s (out-of-place bw) H/W S/W ❍",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-001",
+        "name": "(TER)",
+        "detail": "7 1 /2 /3 /4 /5 /6 ❍ ❍ 5)",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-001",
+        "name": "TER-001",
+        "detail": "GPU 5 ❍ , , , , ❍ ❍",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-002",
+        "name": "TER-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "SER-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "(COR)",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": "COR-001",
+        "detail": "· ( ) ❍ , . ※ ❍ ❍",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": "COR-002",
+        "detail": "❍ · ( ) . ( 12) , ( 15) . .",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-003",
+        "name": "(PMR)",
+        "detail": ", ( ) , . ❍ [ 9] “ ” ❍ [ 10] “ ” ❍ , ( ) , ,",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "PMR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "PMR-002",
+        "detail": "❍ , . ❍ ‘ , , ’ ( ) . ※ ( ) ‘ ’",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "PMR-003",
+        "detail": "❍ , SW SW , . , ‘",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-004",
+        "name": "PMR-004",
+        "detail": "‘EA ’ EA ( ) ( ) . ※‘EA ’ ‘ ’ ‘EA ’ ‘ ’ ‘ EA ’(T.2133 1179) ( ) , ( )",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-005",
+        "name": "(PSR)",
+        "detail": "(※ ) ( , , ) ( ※ SW ) EA (※ ) SW (※ , )",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "PSR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": "PSR-002",
+        "detail": ". ❍ , , . ( , ) ( )",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-003",
+        "name": "PSR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-004",
+        "name": "PSR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-005",
+        "name": "(MAR)",
+        "detail": "11) MAR-001 ❍ GPU 5 . ❍ ❍ MAR-002",
+        "source": "2. 제안요청서(도시과학빅데이터·AI연구원)_7차 클러스터 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "100",
+        "score": 100.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 37,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "100 100점"
+      },
+      {
+        "scoreItem": "100 80",
+        "score": 30.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 11,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "100 80 30점"
+      },
+      {
+        "scoreItem": "D A B C D 1 1 2 3",
+        "score": 5.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 2,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "D A B C D 1 1 2 3 5점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [
+              "ECR-001",
+              "ECR-002"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "SFR-001",
+              "SFR-002",
+              "SFR-003",
+              "SIR-001"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "PER-001",
+              "TER-001",
+              "TER-002",
+              "SER-001",
+              "QUR-001",
+              "COR-001",
+              "COR-002",
+              "COR-003"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-001",
+              "PMR-002",
+              "PMR-003",
+              "PMR-004",
+              "PMR-005"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-001",
+              "PSR-002",
+              "PSR-003",
+              "PSR-004",
+              "PSR-005"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 24,
+      "mappedRequirements": 24,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

@@ -1,0 +1,904 @@
+{
+  "bidNtceNo": "R26BK01759843",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-10-12T14:16:14.566252",
+  "status": "completed",
+  "source": {
+    "fileName": "과업지시서.hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01759843-000/과업지시서.hwp",
+    "pageCount": 31,
+    "textLength": 5084,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "과업지시서.hwp",
+      "extension": ".hwp",
+      "size": 94208,
+      "kindCode": ""
+    },
+    {
+      "fileName": "입찰공고문.pdf",
+      "extension": ".pdf",
+      "size": 488842,
+      "kindCode": ""
+    },
+    {
+      "fileName": "제안요청서.hwp",
+      "extension": ".hwp",
+      "size": 158208,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "8d5406b12d2d2ea37fc4fbb4",
+      "fileName": "과업지시서.hwp",
+      "extension": ".hwp",
+      "docType": "과업지시서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01759843/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01759843/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01759843/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01759843-000/과업지시서.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01759843-000/converted/과업지시서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01759843-000/converted/과업지시서.pdf",
+      "pageCount": 31,
+      "textLength": 5084,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "[ VR \n ]\n2026. 10.\n \n \nⅠ . 1\n1. 1\n2. 1\n3. 1\n4. 1\nⅡ . 2\n1. 2\n2. 2\nⅢ . \nⅣ . \nⅤ . \nⅥ . \nⅠ \n1. \n VR \n2. \n · (ODA)* \n(KORKYT ATA University) VR \n \n* 2022-14 \n VR , , \n \n3. \n : ~ 2027 8 31 ( )\n : 104,879,540 ( , (26 12 73,415 ,\n 31,463 ), ODA ( ) , \n )\n4. \n VR \n (25 , 1 ) \n \n \nII \n1. \n VR 1 .\n VR HMD 6DoF .\n VR PC VR (Standalone) \n .\n VR , , PC , \n .\n AI 1 .\n VR .\n (’25 ) \n .\n , , .\n2. \n . \n ( )\n (ECR,\nEquipment Composition\nRequirement)\n \n 3\n -SER\n(Security Requirement)\n \n , \n \n1\n -QLR\n(Quality Requirement)\n \n , 1\n -PMR\n(Project Management\nRequirement)\n \n 4\n -PSR\n(Project Support Requirement)\n \n 1\n (5 ) 10\n . \n \n \n \n \nHW/SW \n(ECR)\nECR-01\n PC, GPU \n \nECR-02\n VR \n \nECR-03 (SW, HW)\n (SER) SER-001 \n (QLR) QLR-01 \n (PMR)\nPMR-01 \nPMR-02 \nPMR-03 \nPMR-04 ( )\nPSR-01 (PSR)\n . \n1) HW/SW (ECR)\n HW \n ECR-01\n PC, GPU \n \n \n . PC / \n \n \n \n \n • 400TCA\n10 \nCPU • I7 10700 (10 , )\nM/B • intel H410 , (H470, H510)\nRAM • MEM : 16GB(DDR4 8GB*2)\nHDD\n• SSD : M.2 NVMe 500GB\n• HDD : 1TB\n • RTX 2060 D6 6GB \nwifi &\nBluetooth /\nPower\n• PCLe\n• 600W Power Supply\nCASE • (W173, H356, D411)\n \n \nOS • Windows 10 or 11 Pro\n \n• 24 - IPS\n• \n• 1920 x 1080(FHD)\n• 0.7454mm 75Hz\n• 5ms(GTG) ( ) 250cd\n• 1,000:1 (VESA) 75 x\n75mm\n• ( x x ) 612x456x204mm\n• HDMI 1 \n \n HW \n ECR-02\n VR \n \n \n . VR HMD\n \nVR\nHMD\n• Meta Quest 3S\n‐ : Snapdragon XR2 Gen 2\n‐ 1 : 8 GB LPDDR5 SDRAM\n‐ 2 : 128 NVMe \n‐ : 2 x 1832 x 1920 / 90-120Hz LCD\n‐ : \n‐ : 96°, 90°\n‐ IPD : 58 / 63 / 68 mm\n‐ \n‐ : 6DoF\n‐ 1 : RGB ( 2 ),\n‐ 2 : ( 4 )\n‐ : Li-lon 4,324 mAh\n‐ : Meta Horizon OS\n‐ : 514g\n‐ : USB Type-C x 1\n‐\n‐ : 130 x 70 x 62 mm, 103g\n30 \n \n HW \n ECR-03\n (SW)\n \n \n . AI \n \nAgent • \n1 \nPlatform • ( ) . \nManager • , , , \nAnalyzer • AI \nRHM • \n \n• SW\n• PC—WEB —DB \n• 3Tier WAS Agent \n• \n • AI 1 \n \n• \n• Agent \n• Agent . \n \n• Web \n• 5 \n• , , , , \n \n• , \n• \n• \n• \n• , ( ) \n• , , AI \n• Agent 1 , Manager 1 , Platform 1 , RHM 1\n ,\nAnalyzer 1 \n \n2) (SER)\n \n SER-01\n \n \n \n1. ,\n \n2. \n3. \n 3 \n4. \n \n ( ) \n \n< >\n1. IP \n2. \n3. \n4. \n5. \n* \n* ( 118 ) 56 \n6. \n7. IPS \n8. 9 1 \n \n9. 2 2 \n10. 4 , 7 3 \n \n3) (QLR)\n \n TER-01\n \n \n \n1. \n \n2. ( ) \n \n4) (PMR)\n \n PMR-01\n \n \n \n‐ .\n \n1 15 \n2 7 \n3 \n4 \n5 ( ) \n ( , ) · \n , ( 15 ) \n .\n2-1. \n .\n2-2. .\n3. , , \n .\n4. (PM) \n , .\n5. \n , \n .\n \n \n PMR-02\n \n \n \n• .\n• .\n• · · ( , , , , , , · \n , ) .\n• , · · \n .\n \n \n PMR-03\n \n \n \n1. , \n .\n1-1. / \n1-2. / \n2. , / .\n2-1. \n2-2. , , , \n2-3. \n \n \n PMR-04\n ( )\n \n \n1. ( ) \n .\n2. 14 .\n2-1. , , , \n .\n2-2. , , \n .\n3. ( ) , \n , ( ) \n .\n4. ( ) ( ) .\n \n5) (PSR)\n \n PSR-01\n \n \n \n1. \n .\n2. ( ) 1 .\n3. .\n4. ,\n .\n5. , ,\n .\n6. \n , \n .\n7. \n .\n7-1. , ( , ), , \n7-2. \n7-3. \n7-4. \n8. ( ) .\n \nⅢ \n1. \n . , , \n . , \n \n . , \n \n2. \n . \n . , \n \n . ( \nA4 ) , \n \n . , PDF \n* · 1 PDF \n* 10 \n . , \n \n . , \n . , ,\n \n . ‘ ’ , ‘ , ,\n ’ , \n \n . \n · · \n . \n . \n \n3. \n . , \n \n . , \n \n . , \n . \n \n . \n \n . \n . \n . , \n , \n . \n4. \n \n1. , , , \n2. \n2.1 , 3 \n2.2 \n2.3 \n2.4 , \n3. HW/SW \n3.1 HW \n3.2 SW SW( SW) \n4. \n4.1 / \n4.2 \n4.3 \n4.4 \n4.5 \n5. \n5.1 , , \n5.2 \n \n6. , / , \nⅣ \n . , , , , \n \n . USB \n \n1 15 / \n \n \n3\n2 7 / \n \n \n3\n3 · / \n \n \n3\n4\n \n \n / \n \n \n3\n5\n \n , \n / \n \n \n3\n6 ( ) / \n \n \n3\n7 ( ) ( ) / \n \n \n3\nⅤ \n1. \n . : \n1) , \n . \n1) 43 43 2 ‘ \n ’ \n2) ( / )\n- · \n ( 43 )\n3) 409 ( \n2019.3.5.) ‘ ’ \n . : \n1) 12 ( ) \n 14 ( ) \n \n2) ( 2019-5 ) \n (G2B ) \n ( , :1468) \n4) 27 76 ( \n ) \n5) \n , \n , , \n6) 24 2 ( \n ) \n ( 2017-7 ) \n7) 2 \n* · · ( ) ( \n )\n8) ( ) \n2. \n . \n1) : (90%), (10%)\n2) = + \n . \n1) , \n( 492 , 2020.4.20., ) \n2) \n 5 ( ) ‘[ 3] \n ’ , \n . 1 · \n \n3) \n \n4) 1 1 \n , (90 ) \n85% (76.5 ) \n5) , \n6) \n . \n1) 85% \n2) \n \n3) 2 \n , \n \n4) \n5) , ( \n )\n6) \n※ [ 3] ‘ ’ \n3 : \n . \n , \n \n \n \n . ( ) \n . : \n 3 \n※ : 02)970-9198, : white@seoultech.ac.kr\n . \n* · 1 PDF \n* 10 \nⅥ \n[ 1] \n[ 1] \n[ 2] 3 \n[ 3] \n[ 4] \n[ 5] \n[ 6] \n[ 7] \n[ 1]\n \n \n \n(85)\n (15)\n1) 5\n2) 5\n3) 5\n (10) 1) 3 10\nHW/SW \n (50)\n1) HW/SW 40\n \n 0 \n2) , , , 10\n \n (10)\n1) 5\n2) , AS 5\n \n \n(15)\n \n(10)\n1) ODA 10\n 6 \n1 8 \n2 10 \n (5) 1) 5\n [ ]\n \n \n※ 90 \n \n \n \n \n \n \n \n \nAAA\nAA+, AA0,\nAA-\nA+\nA0\nA-\nA1\nA2+\nA20\nA2-\nAAA\n( AAA )\nAA+, AA0, AA-\n( AA+, AA0, AA- )\nA+\n( A+ )\nA0\n( A0 )\nA-\n( A- )\n5\nBBB+ A3+\nBBB+\n( BBB+ )\n4.75\nBBB0 A30\nBBB0\n( BBB0 )\n4.75\nBBB- A3-\nBBB-\n( BBB- )\n4.75\nBB+, BB0 B+\nBB+, BB0\n( BB+, BB0 )\n4.75\nBB- B0\nBB-\n( BB- )\n4.5\nB+, B0, B- B-\nB+, B0, B-\n( B+, B0, B- )\n4.5\nCCC+ C \nCCC+ \n( CCC+ )\n4.25\n* \n1. 4 1 1 \n 335 3 \n , \n , . , \n \n .\n2. \n , .\n3. \n \n .\n4. 7 \n . \n , \n .( )\n[ 1]\n \n \n \n \n \n \n ( )\n \n[ 2]\n 3 \n :\n( : )\n 2022 2023 2024 \n \n \n○○ \n○○ \n○○ \n○○ \n \n[ 3]\n \n \n \n( : )\n \n※ 1. : ( )\n2. : \n3. : \n4. ( ) 1 \n , ( ) 1 \n[ 4]\n \n \n ( ) \n \n \n \n \n \n \nVR \n \n \n \n \n \n \n \n ( )\n \n \n \n2026 \n : ( ) ( : )\n : (Fax : )\n : :\n※ SW (SWIT) .\n[ 5]\n \n \n \n \n \n \n \n / □ , □ (%) %\n \n \n \n( )\n \n※ “ ” ( ) ( \n )\n※ , 13 ( ) \n ( ) ( \n )\n※ , , \n \n[ 6]\n ( )\n 2025 00 00 VR \n .\n1. VR \n .\n2. \n .\n3. .\n4. .\n2026 00 00 \n : □ \n※ .\n ( )\n :\n :\n : ( )\n ( )\n :\n :\n : ( )\n ( )\n 2024 00 00 VR \n .\n1. VR \n .\n2. .\n3. .\n . 4 1 2 ․ 5 ( )\n . 99 ( ) 127 ( )\n . 80 ( )\n . 9 ( ) 13 ( )\n4. \n . \n . \n . ( )\n . \n2026 00 00 \n : □ \n※ .\n ( )\n :\n :\n : ( )\n ( )\n :\n :\n : ( )\n[ 7]\n ․ \n VR \n , \n ' ' ‘ 23 \n 15 ’ .\n \n .\n2026 \n❑ ( )\n▪ ( ) ▪ \n▪ ▪ \n▪ e-mail ▪ \n \n \n▫ ․ : VR \n \n▫ : \n- , , , , , , \n▫ : ( )\n▫ 15 2 4 , \n \n□ .\n2026. . .\n○ ○ ○ ( )\n※ .",
+      "analysis": {
+        "docType": "과업지시서",
+        "summary": "[ VR \n ]\n2026. 10.\n \n \nⅠ . 1\n1. 1\n2. 1\n3. 1\n4. 1\nⅡ . 2\n1. 2\n2. 2\nⅢ . \nⅣ . \nⅤ . \nⅥ . \nⅠ \n1. \n VR \n2. \n · (ODA)* \n(KORKYT ATA University) VR \n \n* 2022-14 \n VR , , \n \n3. \n : ~ 2027 8 31 ( )\n : 104,879,540 ( , (26 12 73,415 ,\n 31,463 ), ODA ( ) , \n )\n4. \n VR \n (25 , 1 ) \n \n \nII \n1. \n VR 1 .\n VR HMD 6DoF .\n VR PC VR (Standalone) \n .\n VR , , PC , \n .\n AI 1 .\n VR ....",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "99b3d82b59961841e46dbf22",
+      "fileName": "입찰공고문.pdf",
+      "extension": ".pdf",
+      "docType": "입찰공고문",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01759843/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01759843/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01759843/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01759843-000/입찰공고문.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01759843-000/입찰공고문.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01759843-000/입찰공고문.pdf",
+      "pageCount": 5,
+      "textLength": 6615,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "서울과학기술대학교 산학협력단 공고 제 2 0 2 6 – 6 8 호 \n일반용역 일반용역 일반용역 일반용역 일반용역 일반용역 일반용역 일반용역 일반용역 입찰 입찰 입찰 입찰 입찰 입찰 입찰 입찰 입찰 공고 공고 공고 공고 공고 공고 공고 공고 공고 ( ( ( ( ( ( ( ( ( 전자입찰 전자입찰 전자입찰 전자입찰 전자입찰 전자입찰 전자입찰 전자입찰 전자입찰 ) ) ) ) ) ) ) ) ) 일반용역 입찰 공고 ( 전자입찰 ) \n1. 1. 1. 1. 입찰에 입찰에 입찰에 입찰에 부치는 부치는 부치는 부치는 사항 사항 사항 사항 1. 입찰에 부치는 사항 \n 가 . 건 명 : 카자흐스탄 크즐오르다 대학교 인공지능 단과대학 내 V R 실습실 장비 \n설치사업 구축 \n 나 . 용역내용 : 「 제안요청서 」 참조 \n 다 . 용역기간 : 계약일 ~ 2 0 2 7 . 8 . 3 1 . ( 본사업 일정에 따라 변동 가능 ) \n 라 . 사업예산 : 금 1 0 4 , 8 7 9 , 5 4 0 원 ( 부가세 포함 ) \n ※ 계 약 금 은 분 할 지 급 ( 2 6 년 1 2 월 7 0 % , 납 품 완 료 후 3 0 % ) 하 며 , O D A 사 업 ( 본 사 업 ) 의 일 정 에 따 \n라 지 급 계 획 변 동 가 능 \n 마 . 계약방법 : 제한 ( 총액 ) 경쟁 입찰 \n 바 . 낙찰자 결정방법 : 협상에 의한 계약 \n2. 2. 2. 2. 입찰 입찰 입찰 입찰 참가자격 참가자격 참가자격 참가자격 2. 입찰 참가자격 \n◐ 다음 각 호의 자격을 모두 갖춘 자이어야 합니다 . \n 가 . 「 국가를 당사자로 하는 계약에 관한 법률 」 시행령 제 12 조 ( 경쟁입찰의 참가자격 ) \n및 동법 시행규칙 제 14 조 ( 입찰참가자격요건의 증명 ) 규정에 의한 경쟁입찰 참가 \n자격을 갖춘 사업자 \n 나 . 국가종합전자조달시스템 ( 이하 나라장터 ) 경쟁입찰참가자격 등록을 한 자여야 하며 , \n입찰참가등록을 하지 않은 자는 「 국가종합전자조달시스템 입찰참가자격등록규정 」 에 따라 \n개찰일 전일까지 조달청에 입찰참가등록을 하여야 합니다 . \n ※ 개찰 당일 나라장터에 등록한 자는 「 국가종합전자조달시스템 전자입찰특별유의서 」 \n제 4 조 규정 및 입찰공고문에 따라 무효 처리합니다 . \n다 . 국가종합전자조달시스템 입찰참가자격등록규정 ( 제 2019-5 호 ) 에 의하여 반드시 입 \n찰일 전일까지 나라장터 (G2B 시스템 ) 에 입찰 「 소프트웨어산업 진흥법 」 에 의한 \n소프트웨어사업자 ( 컴퓨터관련서비스사업 , 업종코드 :1468) 로 입찰참가 등록업체 \n 라 . 「 중소기업기본법 」 제 2 조에 따른 중소기업자 \n * 소 기 업 · 소 상 공 인 · 중 소 기 업 의 경 우 입 찰 등 록 시 확 인 서 제 출 ( 서 류 제 출 마 감 일 까 지 발 \n급 된 것 으 로 유 효 기 간 내 있 어 야 함 ) \n 마 . 「 국가를 당사자로 하는 계약에 관한 법률 」 제 27 조 및 동법 시행령 제 76 조 ( 부정 \n당업자의 입찰참가자격 제한 ) 에 해당되지 않는 업체 \n 바 . 본 사업은 공동수급계약을 불허하며 , 별도의 하도급을 허용하지 않음 \n 사 . 본 사업은 「 소프트웨어산업 진흥법 」 제 24 조의 제 2 항 ( 중소 소프트웨어사업자의 사 \n업 참여 지원 ) 에 따라 「 대기업인 소프트웨어사업자가 참여할 수 있는 사업금액의 \n하한 」 ( 과학기술정보통신부 고시 제 2017-7 호 ) 에 의거 대기업 참여제한 사업임 \n \n3. 3. 3. 3. 제안서 제안서 제안서 제안서 제출 제출 제출 제출 / / / / 평가 평가 평가 평가 일시 일시 일시 일시 및 및 및 및 장소 장소 장소 장소 3. 제안서 제출 / 평가 일시 및 장소 \n 가 . 제안서 제출 기간 : 2 0 2 6 . 1 0 . 7 . ( 수 ) 1 5 : 0 0 ∼ 2 0 2 6 . 1 1 . 1 7 . ( 화 ) 1 0 : 0 0 \n 나 . 제안서 제출 장소 : 국가종합전자조달시스템 나라장터 \n (e- 발주시스템 : http://rfp.g2b.go.kr) \n 다 . 제안서 평가 : 2 0 2 6 . 1 1 . 1 8 . ( 수 ) 예정 \n4. 4. 4. 4. 제출서류 제출서류 제출서류 제출서류 ( ( ( ( 전자제출 전자제출 전자제출 전자제출 ) ) ) ) 4. 제출서류 ( 전자제출 ) \n 가 . 제안서 \n 나 . 평가 참고자료 등 제안관련 제출서류 및 기타 제안요청서의 제출요청자료 \n * 각각의 제안서 파일은 가급적 하나로 제출하되 여러 개일 경우 순번을 적용하여 제출 \n * 증빙자료는 제안서에 첨부 제출 \n 다 . 나라장터에서 출력한 조달청 경쟁입찰참가자격등록증 1 부 \n - 입찰참가자격은 반드시 2026/11/16 18:00 까지 등록 및 갱신하여야 하며 기간 내 등록 및 갱신하 \n지 않아 발 생하는 불이익은 입찰자의 책임입니다 . \n 라 . 법인등기부등본 1 부 ( 개인사업자인 경우 사업자등록증 ) \n - 입찰무효사항인 ‘ 상호 또는 법인의 명칭 ’ 및 ‘ 대표자 ( 수인의 대표자가 있는 경우에는 대표자 전원 ) 의 성명 ' \n확 인용 \n 마 . 대리인 위임장 및 재직증명서 1 부 \n5. 5. 5. 5. 낙찰자 낙찰자 낙찰자 낙찰자 결정 결정 결정 결정 및 및 및 및 예정가격 예정가격 예정가격 예정가격 5. 낙찰자 결정 및 예정가격 \n 가 . 「 협상에 의한 계약체결 기준 ( 기획재정부 계약예규 제 492 호 , 2020.4.20., 일부개정 ) 」 에 \n의거 기술평가와 가격평가를 실시하여 종합평가점수로 평가함 \n - 평가비율 : 기술평가 (90%) 및 가격평가 (10%) \n - 종합평가 점수 = 기술평가 점수 + 가격평가 점수 \n 나 . 기술평가 점수는 최고점수 1 개와 최저점수 1 개를 제외하고 , 나머지 점수를 산술평 \n균한 점수 (90 점 만점 ) 가 기술평가 분야 배점한도의 85% 이상 (76.5 점 ) 인 자를 협상 \n적격자로 선정함 \n 다 . 기술평가 점수가 기술평가 분야 배점 한도의 85% 이상인 자를 우선협상 적격자로 선정함 \n 라 . 협상 순위는 협상적격자의 기술평가 점수와 가격평가 점수를 합산하여 합산 점수의 \n고득점 순에 따라 결정함 \n 마 . 종합평가 결과 동일한 최고점수를 얻은 업체가 2 개 이상일 경우에는 기술평가점수 \n의 순위에 따르고 , 기술평가점수가 동일한 경우에는 기술평가 배점이 큰 평가항목 \n에서 높은 점수를 얻은 자를 우선 협상대상자로 정함 \n 바 . 선순위 업체와 협상이 이루어지면 차순위 업체와는 협상 미실시 \n 사 . 선정결과는 서면으로 통보하며 , 미 선정업체에 대한 통보는 생략 ( 제안사는 평가결 \n과에 대해 일체의 이의를 제기할 수 없음 ) \n 아 . 낙찰자는 낙찰 후 1 0 일 이내에 계약을 체결하여야 하며 , 정당한 사유없이 계약을 \n체결하지 않을 경우 부정당업체 제재 등 불이익을 받을 수 있습니다 . \n6. 6. 6. 6. 입찰 입찰 입찰 입찰 참가신청 참가신청 참가신청 참가신청 제출서류 제출서류 제출서류 제출서류 6. 입찰 참가신청 제출서류 \n 가 . 본 입찰은 전자입찰로만 진행되므로 한 번 제출한 입찰서는 취소하거나 수정할 수 \n없습니다 . 다만 , 「 국가종합전자조달시스템 전자입찰특별유의서 」 제 1 3 조 규정에 따라 \n입찰의 취소를 신청할 수 있으며 , 취소의사를 표시한 입찰자는 해당 건에 대해 \n재입찰 할 수 없습니다 . \n 나 . 입찰서는 반드시 나라장터를 이용한 전자입찰로만 제출해야 하며 입찰서 제출기간 \n중에는 2 4 시간 제출이 가능합니다 . \n 다 . 전자입찰서 제출마감 시간에 장애가 발생할 수 있으므로 가능한 1 시간 전에는 \n투찰을 완료해주시기 바라며 , 나라장터 웹 송신함에서 확인하여주시기 바랍니다 . \n 라 . 반드시 나라장터 ( w w w . g 2 b . g o . k r ) 의 “ 입찰정보 ” 를 이용하여 제출하여야 합니다 . \n7. 7. 7. 7. 입찰보증금 입찰보증금 입찰보증금 입찰보증금 납부 납부 납부 납부 및 및 및 및 국고귀속 국고귀속 국고귀속 국고귀속 7. 입찰보증금 납부 및 국고귀속 \n 가 . 입찰보증금은 「 국가를 당사자로 하는 계약에 관한 법률 시행령 」 제 3 7 조 , 「 국가를 당사자로 하는 \n계약에 관한 법률 시행규칙 」 제 4 3 조 , 「 ( 계약예규 ) 용역입찰유의서 」 제 6 조 규정에 의하여 \n면제하되 , 지급확약은 입찰보증금 납부확약이 명기된 입찰서 제출로 갈음합니다 . 나라 \n장터를 이용하여 제출하는 전자입찰서에는 입찰보증금 납부확약 내용이 포함되어 있 \n으며 , 입찰서 송신시 지급각서를 제출한 것으로 간주합니다 . \n 나 . 입찰보증금의 귀속 등에 관하여는 「 국가를 당사자로 하는 계약에 관한 법률 시행령 」 \n제 3 8 조 규정에 의합니다 . \n8. 8. 8. 8. 입찰서 입찰서 입찰서 입찰서 제출 제출 제출 제출 및 및 및 및 개찰 개찰 개찰 개찰 8. 입찰서 제출 및 개찰 \n 가 . 제출기간 : 2 0 2 6 . 1 0 . 7 . ( 수 ) 1 5 : 0 0 ∼ 2 0 2 6 . 1 1 . 1 7 . ( 화 ) 1 0 : 0 0 \n 나 . 개찰일시 : 2 0 2 6 . 1 1 . 1 9 . ( 목 ) 1 1 : 0 0 예정 \n 다 . 개찰장소 : 서울과학기술대학교 산학협력단 입찰집행관 P C \n9. 9. 9. 9. 입찰의 입찰의 입찰의 입찰의 무효 무효 무효 무효 9. 입찰의 무효 \n 가 . 「 국가를 당사자로 하는 계약에 관한 법률 시행령 」 제 3 9 조 및 동법률 시행규칙 제 \n4 4 조 , 「 ( 계약예규 ) 용역입찰유의서 」 , 「 국가종합전자조달시스템 전자입찰특별유의서 」 에 \n의합니다 . \n 나 . 입찰참가자격등록상의 상호 및 대표자 ( 수인대표인 경우 대표자 전원의 성명을 모 \n두 등재 , 각자 대표도 해당 ) 가 법인등기부등본상의 상호 , 대표자와 다른 경우에는 \n입찰 참가자격등록증을 변경등록하고 입찰에 참여하여야 하며 , 변경등록하지 않 \n고 참여한 입찰은 무효입찰임을 알려드리오니 주의하시기 바랍니다 . \n 다 . 입찰참가자격의 판단기준일은 입찰참가자격등록일 마감일 ( 기준일이 정해져 있는 \n경우에는 해당일 ) 이며 마감일 ( 일시가 정해져 있는 경우에는 해당 일시 ) 까지 참가 \n자격을 갖추지 않은 경우 무효입찰임을 알려드리오니 주의하시기 바랍니다 . \n 라 . 국가계약법 시행규칙 제 4 4 조 및 용역입찰유의서 제 1 2 조에 정한 입찰무효 해당여 \n부 확인을 위하여 등록정보 확인을 위한 서류 ( 법인등기부등본 , 입찰대리인임을 \n확인할 수 있는 서류 , 관련되는 면허 등을 증명하는 서류 등 ) 를 요청하는 경우 , \n낙찰대상자는 관계서류를 수요기관으로 제출하여야 합니다 . \n10. 10. 10. 10. 청렴계약 청렴계약 청렴계약 청렴계약 이행준수 이행준수 이행준수 이행준수 10. 청렴계약 이행준수 \n 가 . 본 입찰에 참가하는 자는 청렴계약 이행을 위한 「 청렴계약입찰 특별유의서 」 및 \n「 청렴계약 특수조건 」 을 숙지하여 입찰에 참가하여야 합니다 . \n 나 . 본 입찰에 참가하는 자는 모두 청렴계약이행각서를 제출한 것으로 간주하며 , \n 최종 낙찰자로 선정된 자는 계약체결 시 청렴계약이행각서를 제출하여야 합니다 . \n11. 11. 11. 11. 기타사항 기타사항 기타사항 기타사항 11. 기타사항 \n 가 . 본 사업인 국제협력 선도대학 육성 · 지원사업 ( O D A ) 의 일정에 따라 사업기간 및 \n사업예산이 변동될 수 있으며 , 계약체결일 이후 2 년간 분할하여 지급합니다 . ( 2 6 \n년 1 2 월 7 0 % , 납품 완료 후 3 0 % ) ) \n 나 . 심사결과는 협상적격자에 한해 제안서 평가 이후 통보 예정입니다 . \n 다 . 제출된 서류는 일체 반환하지 않습니다 . \n 라 . 현장설명은 생략하며 과업지시서 열람으로 갈음 합니다 . \n 마 . 본 입찰에 참가하고자 하는 자는 「 국가종합전자조달시스템 전자입찰특별유의서 」 , \n「 국가종합전자조달시스템 조달업체이용약관 」 , 「 ( 계약예규 ) 용역계약일반조건 」 , 「 용역계 \n약특수조건 」 등 기타 입찰에 필요한 사항을 입찰 전에 숙지하여야 하며 , 숙지하지 못한 \n책임은 입찰자에게 있습니다 . \n 바 . 전자입찰 참가 희망자는 전산장비 준비부족 등의 사유로 인하여 전자입찰 등록 및 투찰이 \n곤란할 경우에는 투찰시간 마감 2 4 시간 이전에 나라장터 콜센터 ( ☎ 1 5 8 8 - 0 8 0 0 ) 또는 \n나라장터 홈페이지 ( w w w . g 2 b . g o . k r ) 로 문의하시기 바라며 , 장애발생에도 문의하지 않아 \n발생되는 모든 책임은 입찰 참가자에게 있습니다 . \n 사 . 입찰에 참가하고자 하는 자는 반드시 입찰등록사항과 법인등기부등본 ( 법인 ) 및 \n사업자등록증 ( 개인 ) 상 대표자 ( 대표자가 다수인 경우 전부 ) , 주소 , 상호 등이 일치하는지 \n확인 후 입찰에 참가하시기 바랍니다 . \n 아 . 문의사항 \n 1 ) 입찰 • 계약에 관한 사항 : 산학협력단 연구지원 3 팀 남궁백 ( ☏ 0 2 - 9 7 0 - 9 1 9 8 ) \n 2 ) 용역에 관한 세부사항 : ｢ 붙임 제안요청서 ｣ 참조 \n문의 : 김재수 교수 ( T . 0 1 0 - 7 3 7 0 - 6 7 0 6 ,  j s k i m @ s e o u l t e c h . a c . k r ) \n 3 ) 나라장터 시스템 안내 : 나라장터 콜센터 ( ☏ 1 5 8 8 - 0 8 0 0 ) \n \n위와 같이 공고합니다 . \n2 0 2 6 년 1 0 월 7 일 \n서울과학기술대학교산학협력단계약관",
+      "analysis": {
+        "docType": "입찰공고문",
+        "summary": "가 . 건 명 : 카자흐스탄 크즐오르다 대학교 인공지능 단과대학 내 V R 실습실 장비 \n설치사업 구축 \n 나 . 용역내용 : 「 제안요청서 」 참조 \n 다 . 용역기간 :",
+        "checklist": [
+          "등록을 한 자여야 하며 , \n입찰참가등록을 하지 않은 자는 「 국가종합전자조달시스템 입찰참가자격등록규정 」 에 따라 \n개찰일 전일까지 조달청에 입찰참가등록을 하여야 합니다 . \n ※ 개찰 당일 나라장터에 등록한 자는 「 국가종합전자조달시스템 전자입찰특별유의서 」 \n제 4 조 규정 및 입찰공고문에 따라 무효 처리합니다 . \n다 . 국가종합전자조달시스템 입찰참가자격등록규정 ( 제 2019-5 호 ) 에 의하여 반드시 입 \n찰일 전일까지 나라장터 (G2B 시스템 )...",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "한도의 85% 이상인 자를 우선"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "2",
+      "attachmentKey": "184174f16097f4e02891a421",
+      "fileName": "제안요청서.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01759843/000/files/2",
+      "originalFileUrl": "/api/notices/R26BK01759843/000/original-files/2",
+      "pdfUrl": "/api/notices/R26BK01759843/000/files/2",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01759843-000/제안요청서.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01759843-000/converted/제안요청서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01759843-000/converted/제안요청서.pdf",
+      "pageCount": 22,
+      "textLength": 4981,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "VR \n2026. 10.\n \nⅠ \n1. \n . : VR \n \n . : ~ 2027 8 31 ( )\n . : 104,879,540 ( )\n※ (26 12 70%, 30%) , ODA ( ) \n . : ( ) ( )\n . : \n2. \n . · (ODA)* \n(KORKYT ATA Kyzylorda University) VR \n .\n* 2022-14 \n . VR , , \n \n3. \n . VR \n . (20 , 1 ) \n . \nⅡ \n1. \n . VR 2027 8\n \n2. \n . \n \n , \n ( )\n \n- \n- \n- \n \n \n . \n \n \n( , )\n \n \n \n( )\n , \n ( , )\n \n( )\n ( ) , \n \n \n - - / \n3. \n \n \n \n \n2026 2027 2028 2029\n \n \n1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4\n \n \n \n / \n \n \n / \n \n \n \n \n / \n \n※ \n \nⅢ \n1. \n \n VR 1 .\n VR . ( \n )\n (’25 ) \n .\n , , .\n VR \n (20 , 1 ) \n \nPC VR 1 \n2. \n . \n \n \n \n \nHW/SW \n(ECR)\nECR-01 PC \nECR-02\n VR \n \nECR-03 (SW, HW)\n (SER) SER-001 \n (QLR) QLR-01 \n (PMR)\nPMR-01 \nPMR-02 ( )\nPMR-03 \nPMR-04 ( )\n (PSR) PSR-01 \n . \n1) (ECR)\n \n ECR-01\n PC \n \n \n . PC / \n \n \n \n \n • 400TCA\n20 \nCPU • I7 10700 (10 , )\nM/B • intel H410 , (H470, H510)\nRAM • MEM : 16GB(DDR4 8GB*2)\nHDD\n• SSD : M.2 NVMe 500GB\n• HDD : 1TB\n • RTX 2060 D6 6GB \nwifi &\nBluetooth /\nPower\n• PCLe\n• 600W Power Supply\nCASE • (W173, H356, D411)\n \n \nOS • Windows 10 or 11 Pro\n \n• 24 - IPS\n• \n• 1920 x 1080(FHD)\n• 0.7454mm 75Hz\n• 5ms(GTG) ( ) 250cd\n• 1,000:1 (VESA) 75 x\n75mm\n• ( x x ) 612x456x204mm\n• HDMI 1 \n \n \n \n ECR-02\n VR \n \n \n . VR - HMD ( )\n \n \nVR\n• : 2K ( : 2064×2208 ),\n90~120Hz \n• : (Inside-out) \n— \n• : PC ( ) vs \n ( · ) — \n• : ( \n )\n• , 10~15% \n( · )\n30 \n . VR - \n \n \nVR\n• · : HMD ( ), \n 1 \n \n \n ECR-03\n (SW, HW)\n \n \n . AI \n \nAgent • \n1 \nPlatform • ( ) . \nManager • , , , \nAnalyzer • AI \nRHM • \n \n• SW\n• PC—WEB —DB \n• 3Tier WAS Agent \n• \n • AI 1 \n \n• \n• Agent \n• Agent . \n \n• Web \n• 5 \n• , , , , \n \n• , \n• \n• \n• \n• , ( ) \n• , , AI \n• Agent 1 , Manager 1 , Platform 1 , RHM 1\n ,\nAnalyzer 1 \n . HW( )\n \n3S core \nSR143 S4\nServer\n• 3 3S core \n• Intel Intel® Xeon® 2.6GHz 1U 1Way Server\n• DDR5 32GB*2\n• M.2 Nvme 500GB\n• 3.5\" 4TB SATA3 6G 7.2k Enterprise W *2\n• RAID \n• OS : Rockey 8.x\n1 \n \n2) (SER)\n \n SER-01\n \n \n \n1. , \n \n2. \n3. \n 3 \n4. \n❍ ‧ ( ) \n※ \n< >\n1. IP \n2. \n3. \n4. \n5. \n* \n* ( 118 ) 56 \n6. \n7. IPS \n8. 9 1 \n \n9. 2 2 \n10. 4 , 7 3 \n \n3) (QLR)\n \n TER-01\n \n \n \n1. \n \n2. ( ) \n \n4) (PMR)\n \n PMR-01\n \n \n \n• .\n \n1 15 \n2 7 \n3 \n4 \n5 ( ) \n• ( , ) · , \n ( 15 ) .\n2-1. .\n2-2. .\n3. , , \n .\n4. (PM) \n , .\n5. \n , \n .\n \n \n PMR-02\n \n \n \n◦ .\n◦ .\n◦ · · ( , , , , , , · , \n ) .\n◦ , · · \n .\n \n \n PMR-03\n \n \n \n1. , \n .\n1-1. / \n1-2. / \n2. , / .\n2-1. \n2-2. , , , \n2-3. \n \n \n PMR-04\n ( )\n \n \n1. ( ) \n .\n2. 14 .\n2-1. , , , \n .\n2-2. , , \n .\n3. ( ) , ,\n ( ) \n .\n4. ( ) ( ) .\n \n5) (PSR)\n \n PSR-01\n \n \n \n1. \n .\n2. ( ) 1 .\n3. .\n4. ,\n .\n5. , , \n .\n6. \n , .\n7. .\n7-1. , ( , ), , \n7-2. \n7-3. \n7-4. \n8. ( ) .\n \n3. \n . , , , , \n \n . USB \n \n1 15 \n2 7 \n3 \n4 \n5 ( ) \n6 ( ) \nⅣ \n1. \n . , , \n . , \n \n . , \n \n2. \n . \n . , \n \n . ( \nA4 ) , \n \n . , PDF \n* · 1 PDF \n* 10 \n . , \n \n . , \n . , ,\n \n . ‘ ’ , ‘ , ,\n ’ , \n \n . \n · · \n . \n . \n \n3. \n . , \n \n . , \n \n . , \n . \n \n . \n \n . \n . \n .\n . , \n , \n . \n4. \n \n1. , , , , \n2. \n2.1 , 3 \n2.2 \n2.3 \n2.4 , \n3. HW/SW \n3.1 HW \n3.2 SW SW( SW) \n4. \n4.1 / \n4.2 \n4.3 \n4.4 \n4.5 \n5. \n5.1 , , \n5.2 \n \n6. , / , \nⅤ \n1. \n . : \n1) , \n . \n1) 43 43 2 ‘ \n ’ \n2) ( / )\n- · \n ( 43 )\n3) 409 ( \n2019.3.5.) ‘ ’ \n . : \n1) 12 ( ) \n 14 ( ) \n \n2) ( 2019-5 ) \n (G2B ) \n ( , :1468) \n3) , \n , \n4) 24 2 ( \n ) \n ( 2017-7 ) \n5) 2 \n* · · ( ) ( \n )\n6) ( ) \n2. \n . \n1) : (90%), (10%)\n2) = + \n . \n1) , \n( 492 , 2020.4.20., ) \n2) \n 5 ( ) ‘[ 1] \n ’ , \n . 1 · \n \n3) \n \n4) 1 1 \n , (90 ) \n85% (76.5 ) \n5) , \n6) \n . \n1) 85% \n2) \n \n3) 2 \n , \n \n4) \n5) , ( \n )\n6) \n※ [ 2] ‘ ’ \n3 : \n . \n , \n \n \n \n . ( ) \n . : LUPIC \n※ : 02)970-9377, : 010-7370-6706 : jskim@seoultech.ac.kr\n . \n . , PDF \n1) · 1 PDF \n2) 10 \n . ( ) , /\n \nⅥ \n[ 1] \n[ 1] \n[ 2] 3 \n[ 3] \n[ 4] \n[ 5] \n[ 6] \n[ 7] \n[ 1]\n \n \n \n(85)\n (15)\n1) 5\n2) 5\n3) 5\n (10) 1) 3 10\nHW/SW \n (50)\n1) HW/SW 40\n \n 0 \n2) , , , 10\n \n (10)\n1) 5\n2) , AS 5\n \n \n(15)\n \n(10)\n1) ODA 10\n 6 \n1 8 \n2 10 \n (5) 1) 5 [ ] \n \n \n \n \n \n \n \n \n \nAAA\nAA+, AA0,\nAA-\nA+\nA0\nA-\nA1\nA2+\nA20\nA2-\nAAA\n( AAA )\nAA+, AA0, AA-\n( AA+, AA0, AA- )\nA+\n( A+ )\nA0\n( A0 )\nA-\n( A- )\n100%\nBBB+ A3+\nBBB+\n( BBB+ )\n95%\nBBB0 A30\nBBB0\n( BBB0 )\n95%\nBBB- A3-\nBBB-\n( BBB- )\n95%\nBB+, BB0 B+\nBB+, BB0\n( BB+, BB0 )\n95%\nBB- B0\nBB-\n( BB- )\n90%\nB+, B0, B- B-\nB+, B0, B-\n( B+, B0, B- )\n90%\nCCC+ C \nCCC+ \n( CCC+ )\n85%\n* \n1. 4 1 1 \n 335 3 \n , \n , . , \n \n .\n2. \n , .\n3. \n \n .\n4. 7 \n . \n , \n .( )\n[ 1]\n \n \n \n \n \n \n ( )\n \n[ 2]\n 3 \n :\n( : )\n 2023 2024 2025 \n \n \n○○ \n○○ \n○○ \n○○ \n \n[ 3]\n \n \n \n( : )\n \n※ 1. : ( )\n2. : \n3. : \n4. ( ) 1 \n , ( ) 1 \n[ 4]\n \n \n ( ) \n \n \n \n \n \n \n VR \n \n \n \n \n \n \n \n \n ( )\n \n \n \n2026 \n : ( ) ( : )\n : (Fax : )\n : :\n※ SW (SWIT) .\n[ 5]\n \n \n \n \n \n \n \n / □ , □ (%) %\n \n \n \n( )\n \n※ “ ” ( ) ( \n )\n※ , 13 ( ) \n ( ) ( \n )\n※ , , \n \n[ 6]\n ( )\n 2026 00 00 VR \n .\n1. VR \n .\n2. \n .\n3. .\n4. .\n2026 00 00 \n : □ \n※ .\n ( )\n :\n :\n : ( )\n ( )\n :\n :\n : ( )\n ( )\n 2024 00 00 VR \n .\n1. VR \n .\n2. .\n3. .\n . 4 1 2 ․ 5 ( )\n . 99 ( ) 127 ( )\n . 80 ( )\n . 9 ( ) 13 ( )\n4. \n . \n . \n . ( )\n . \n2026 00 00 \n : □ \n※ .\n ( )\n :\n :\n : ( )\n ( )\n :\n :\n : ( )\n[ 7]\n ․ \n VR \n ,\n ' ' ‘ 23 \n 15 ’ .\n \n .\n2026 \n❑ ( )\n▪ ( ) ▪ \n▪ ▪ \n▪ e-mail ▪ \n \n \n▫ ․ : VR \n \n▫ : \n- , , , , , , \n▫ : ( )\n▫ 15 2 4 , \n \n□ .\n2026. . .\n○ ○ ○ ( )\n※ .",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "VR \n2026. 10.\n \nⅠ \n1. \n . : VR \n \n . : ~ 2027 8 31 ( )\n . : 104,879,540 ( )\n※ (26 12 70%, 30%) , ODA ( ) \n . : ( ) ( )\n . : \n2. \n . · (ODA)* \n(KORKYT ATA Kyzylorda University) VR \n .\n* 2022-14 \n . VR , , \n \n3. \n . VR \n . (20 , 1 ) \n . \nⅡ \n1. \n . VR 2027 8\n \n2. \n . \n \n , \n ( )\n \n- \n- \n- \n \n \n . \n \n \n( , )\n \n \n \n( )\n , \n ( , )\n \n( )\n ( ) , \n \n \n - - / \n3....",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "[ VR \n ]\n2026. 10.\n \n \nⅠ . 1\n1. 1\n2. 1\n3. 1\n4. 1\nⅡ . 2\n1. 2\n2. 2\nⅢ . \nⅣ . \nⅤ . \nⅥ . \nⅠ \n1. \n VR \n2. \n · (ODA)* \n(KORKYT ATA University) VR \n \n* 2022-14 \n VR , , \n \n3. \n : ~ 2027 8 31 ( )\n : 104,879,540 ( , (26 12 73,415 ,\n 31,463 ), ODA ( ) , \n )\n4. \n VR \n (25 , 1 ) \n \n \nII \n1. \n VR 1 .\n VR HMD 6DoF .\n VR PC VR (Standalone) \n .\n VR , , PC , \n .\n AI 1 .\n VR .\n (’25 ) \n .\n , , .\n2. \n . \n ( )\n (ECR,\nEquipment Composition\nRequirement)\n \n 3\n -SER\n(Security Requirement)\n \n , \n \n1\n -QLR\n(Quality Requirement)\n \n , 1\n -PMR\n(Project Management\nRequirement)\n \n 4\n -PSR\n(Project Support Requirement)\n \n 1\n (5 ) 10\n . \n \n \n \n \nHW/SW \n(ECR)\nECR-01\n PC, GPU \n \nECR-02\n VR \n \nECR-03 (SW, HW)\n (SER) SER-001 \n (QLR) QLR-01 \n (PMR)\nPMR-01 \nPMR-02 \nPMR-03 \nPMR-04 ( )\nPSR-01 (PSR)\n . \n1) HW/SW (ECR)\n HW \n ECR-01\n PC, GPU \n \n \n . PC / \n \n \n \n \n • 400TCA\n10 \nCPU • I7 10700 (10 , )\nM/B • intel H410 , (H470, H510)\nRAM • MEM : 16GB(DDR4 8GB*2)\nHDD\n• SSD : M.2 NVMe 500GB\n• HDD : 1TB\n • RTX 2060 D6 6GB \nwifi &\nBluetooth /\nPower\n• PCLe\n• 600W Power Supply\nCASE • (W173, H356, D411)\n \n \nOS • Windows 10 or 11 Pro\n \n• 24 - IPS\n• \n• 1920 x 1080(FHD)\n• 0.7454mm 75Hz\n• 5ms(GTG) ( ) 250cd\n• 1,000:1 (VESA) 75 x\n75mm\n• ( x x ) 612x456x204mm\n• HDMI 1 \n \n HW \n ECR-02\n VR \n \n \n . VR HMD\n \nVR\nHMD\n• Meta Quest 3S\n‐ : Snapdragon XR2 Gen 2\n‐ 1 : 8 GB LPDDR5 SDRAM\n‐ 2 : 128 NVMe \n‐ : 2 x 1832 x 1920 / 90-120Hz LCD\n‐ : \n‐ : 96°, 90°\n‐ IPD : 58 / 63 / 68 mm\n‐ \n‐ : 6DoF\n‐ 1 : RGB ( 2 ),\n‐ 2 : ( 4 )\n‐ : Li-lon 4,324 mAh\n‐ : Meta Horizon OS\n‐ : 514g\n‐ : USB Type-C x 1\n‐\n‐ : 130 x 70 x 62 mm, 103g\n30 \n \n HW \n ECR-03\n (SW)\n \n \n . AI \n \nAgent • \n1 \nPlatform • ( ) . \nManager • , , , \nAnalyzer • AI \nRHM • \n \n• SW\n• PC—WEB —DB \n• 3Tier WAS Agent \n• \n • AI 1 \n \n• \n• Agent \n• Agent . \n \n• Web \n• 5 \n• , , , , \n \n• , \n• \n• \n• \n• , ( ) \n• , , AI \n• Agent 1 , Manager 1 , Platform 1 , RHM 1\n ,\nAnalyzer 1 \n \n2) (SER)\n \n SER-01\n \n \n \n1. ,\n \n2. \n3. \n 3 \n4. \n \n ( ) \n \n< >\n1. IP \n2. \n3. \n4. \n5. \n* \n* ( 118 ) 56 \n6. \n7. IPS \n8. 9 1 \n \n9. 2 2 \n10. 4 , 7 3 \n \n3) (QLR)\n \n TER-01\n \n \n \n1. \n \n2. ( ) \n \n4) (PMR)\n \n PMR-01\n \n \n \n‐ .\n \n1 15 \n2 7 \n3 \n4 \n5 ( ) \n ( , ) · \n , ( 15 ) \n .\n2-1. \n .\n2-2. .\n3. , , \n .\n4. (PM) \n , .\n5. \n , \n .\n \n \n PMR-02\n \n \n \n• .\n• .\n• · · ( , , , , , , · \n , ) .\n• , · · \n .\n \n \n PMR-03\n \n \n \n1. , \n .\n1-1. / \n1-2. / \n2. , / .\n2-1. \n2-2. , , , \n2-3. \n \n \n PMR-04\n ( )\n \n \n1. ( ) \n .\n2. 14 .\n2-1. , , , \n .\n2-2. , , \n .\n3. ( ) , \n , ( ) \n .\n4. ( ) ( ) .\n \n5) (PSR)\n \n PSR-01\n \n \n \n1. \n .\n2. ( ) 1 .\n3. .\n4. ,\n .\n5. , ,\n .\n6. \n , \n .\n7. \n .\n7-1. , ( , ), , \n7-2. \n7-3. \n7-4. \n8. ( ) .\n \nⅢ \n1. \n . , , \n . , \n \n . , \n \n2. \n . \n . , \n \n . ( \nA4 ) , \n \n . , PDF \n* · 1 PDF \n* 10 \n . , \n \n . , \n . , ,\n \n . ‘ ’ , ‘ , ,\n ’ , \n \n . \n · · \n . \n . \n \n3. \n . , \n \n . , \n \n . , \n . \n \n . \n \n . \n . \n . , \n , \n . \n4. \n \n1. , , , \n2. \n2.1 , 3 \n2.2 \n2.3 \n2.4 , \n3. HW/SW \n3.1 HW \n3.2 SW SW( SW) \n4. \n4.1 / \n4.2 \n4.3 \n4.4 \n4.5 \n5. \n5.1 , , \n5.2 \n \n6. , / , \nⅣ \n . , , , , \n \n . USB \n \n1 15 / \n \n \n3\n2 7 / \n \n \n3\n3 · / \n \n \n3\n4\n \n \n / \n \n \n3\n5\n \n , \n / \n \n \n3\n6 ( ) / \n \n \n3\n7 ( ) ( ) / \n \n \n3\nⅤ \n1. \n . : \n1) , \n . \n1) 43 43 2 ‘ \n ’ \n2) ( / )\n- · \n ( 43 )\n3) 409 ( \n2019.3.5.) ‘ ’ \n . : \n1) 12 ( ) \n 14 ( ) \n \n2) ( 2019-5 ) \n (G2B ) \n ( , :1468) \n4) 27 76 ( \n ) \n5) \n , \n , , \n6) 24 2 ( \n ) \n ( 2017-7 ) \n7) 2 \n* · · ( ) ( \n )\n8) ( ) \n2. \n . \n1) : (90%), (10%)\n2) = + \n . \n1) , \n( 492 , 2020.4.20., ) \n2) \n 5 ( ) ‘[ 3] \n ’ , \n . 1 · \n \n3) \n \n4) 1 1 \n , (90 ) \n85% (76.5 ) \n5) , \n6) \n . \n1) 85% \n2) \n \n3) 2 \n , \n \n4) \n5) , ( \n )\n6) \n※ [ 3] ‘ ’ \n3 : \n . \n , \n \n \n \n . ( ) \n . : \n 3 \n※ : 02)970-9198, : white@seoultech.ac.kr\n . \n* · 1 PDF \n* 10 \nⅥ \n[ 1] \n[ 1] \n[ 2] 3 \n[ 3] \n[ 4] \n[ 5] \n[ 6] \n[ 7] \n[ 1]\n \n \n \n(85)\n (15)\n1) 5\n2) 5\n3) 5\n (10) 1) 3 10\nHW/SW \n (50)\n1) HW/SW 40\n \n 0 \n2) , , , 10\n \n (10)\n1) 5\n2) , AS 5\n \n \n(15)\n \n(10)\n1) ODA 10\n 6 \n1 8 \n2 10 \n (5) 1) 5\n [ ]\n \n \n※ 90 \n \n \n \n \n \n \n \n \nAAA\nAA+, AA0,\nAA-\nA+\nA0\nA-\nA1\nA2+\nA20\nA2-\nAAA\n( AAA )\nAA+, AA0, AA-\n( AA+, AA0, AA- )\nA+\n( A+ )\nA0\n( A0 )\nA-\n( A- )\n5\nBBB+ A3+\nBBB+\n( BBB+ )\n4.75\nBBB0 A30\nBBB0\n( BBB0 )\n4.75\nBBB- A3-\nBBB-\n( BBB- )\n4.75\nBB+, BB0 B+\nBB+, BB0\n( BB+, BB0 )\n4.75\nBB- B0\nBB-\n( BB- )\n4.5\nB+, B0, B- B-\nB+, B0, B-\n( B+, B0, B- )\n4.5\nCCC+ C \nCCC+ \n( CCC+ )\n4.25\n* \n1. 4 1 1 \n 335 3 \n , \n , . , \n \n .\n2. \n , .\n3. \n \n .\n4. 7 \n . \n , \n .( )\n[ 1]\n \n \n \n \n \n \n ( )\n \n[ 2]\n 3 \n :\n( : )\n 2022 2023 2024 \n \n \n○○ \n○○ \n○○ \n○○ \n \n[ 3]\n \n \n \n( : )\n \n※ 1. : ( )\n2. : \n3. : \n4. ( ) 1 \n , ( ) 1 \n[ 4]\n \n \n ( ) \n \n \n \n \n \n \nVR \n \n \n \n \n \n \n \n ( )\n \n \n \n2026 \n : ( ) ( : )\n : (Fax : )\n : :\n※ SW (SWIT) .\n[ 5]\n \n \n \n \n \n \n \n / □ , □ (%) %\n \n \n \n( )\n \n※ “ ” ( ) ( \n )\n※ , 13 ( ) \n ( ) ( \n )\n※ , , \n \n[ 6]\n ( )\n 2025 00 00 VR \n .\n1. VR \n .\n2. \n .\n3. .\n4. .\n2026 00 00 \n : □ \n※ .\n ( )\n :\n :\n : ( )\n ( )\n :\n :\n : ( )\n ( )\n 2024 00 00 VR \n .\n1. VR \n .\n2. .\n3. .\n . 4 1 2 ․ 5 ( )\n . 99 ( ) 127 ( )\n . 80 ( )\n . 9 ( ) 13 ( )\n4. \n . \n . \n . ( )\n . \n2026 00 00 \n : □ \n※ .\n ( )\n :\n :\n : ( )\n ( )\n :\n :\n : ( )\n[ 7]\n ․ \n VR \n , \n ' ' ‘ 23 \n 15 ’ .\n \n .\n2026 \n❑ ( )\n▪ ( ) ▪ \n▪ ▪ \n▪ e-mail ▪ \n \n \n▫ ․ : VR \n \n▫ : \n- , , , , , , \n▫ : ( )\n▫ 15 2 4 , \n \n□ .\n2026. . .\n○ ○ ○ ( )\n※ .",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "가 . 건 명 : 카자흐스탄 크즐오르다 대학교 인공지능 단과대학 내 V R 실습실 장비 \n설치사업 구축 \n 나 . 용역내용 : 「 제안요청서 」 참조 \n 다 . 용역기간 : 계약일 ~ 2 0 2 7 . 8 . 3 1 . ( 본사업 일정에 따라 변동 가능 ) \n 라 . 사업예산 : 금 1 0 4 , 8 7 9 , 5 4 0 원 ( 부가세 포함 ) \n ※ 계 약 금 은 분 할 지 급 ( 2 6 년 1 2 월 7 0 % , 납 품 완 료 후 3 0 % ) 하 며 ,..."
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01759843-000",
+    "sourceFile": "과업지시서.hwp",
+    "generatedAt": "2026-10-12T14:16:01.417991",
+    "match": {
+      "noticeId": "R26BK01759843-000",
+      "bidNtceNo": "R26BK01759843",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01759843-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01759843-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "용역 공고",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01759843-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "요건의 증명 ) 규정에 의한 경쟁입찰 참가 \n자격을 갖춘 사업자 \n 나 . 국가종합전자조달시스템 ( 이하 나라장터 ) 경쟁입찰참가자격 등록을 한 자여야 하며 , \n입찰참가등록을 하지 않은 자는 「 국가종합전자조달시스템 입찰참가자격등록규정 」 에 따라 \n개찰일 전일까지 조달청에 입찰참가등록을 하여야 합니다 . \n ※ 개찰 당일 나라장터에 등록한 자는 「 국가종합전자조달시스템 전자입찰특별유의서 」 \n제 4 조 규정 및 입찰공고문에 따라 무효 처리합니다 . \n다 . 국가종합전자조달시스템 입찰참가자격등록규정 ( 제 2019-5 호 ) 에 의하여 반드시 입 \n찰일 전일까지 나라장터 (G2B 시스템 ) 에 입찰 「 소프트웨어산업 진흥법 」 에 의한 \n소프트웨어사업자 ( 컴퓨터관련서비스사업 , 업종코드 :1468) 로 입찰참가 등록업체 \n 라 . 「 중소기업기본법 」 제 2 조에 따른 중소기업자 \n * 소 기 업 · 소 상 공 인 · 중 소 기 업 의 경 우 입 찰 등 록 시 확 인 서 제 출 ( 서 류 제 출 마 감 일 까 지 발 \n급 된 것 으 로 유 효 기 간 내 있 어 야 함 ) \n 마 . 「 국가를 당사자로 하는 계약에 관한 법률 」 제 27 조 및 동법 시행령 제 76 조 ( 부정 \n당업자의 입찰참가자격 제한 ) 에 해당되지 않는 업체 \n 바 . 본 사업은 공동수급계약을 불허하며 , 별도의 하도급을 허용하지 않음 \n 사 . 본 사업은 「 소프트웨어산업 진흥법 」 제 24 조의 제 2 항 ( 중소 소프트웨어사업자의 사 \n업 참여 지원 ) 에 따라 「 대기업인 소프트웨어사업자가 참여할 수 있는 사업금액의 \n하한 」 ( 과학기술정보통신부 고시 제 2017-7 호 ) 에 의거 대기업 참여제한 사업임",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "제한 ( 총액 ) 경쟁 입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "기술평가와 가격평가를 실시하여 종합평가점수로 평가함 - 평가비율 : 기술평가 (90%) 및 가격평가 (10%) - 종합평가 점수 = 기술평가 점수 + 가격평가 점수 나 . 기술평가 점수는 최고점수 1 개와 최저점수 1 개를 제외하고, 나머지 점수를 산술평 균한 점수 (90 점 만점 ) 가 기술평가 분야 배점한도의 85% 이상 (76.5 점 ) 인 자를 협상 적격자로 선정함 다 . 기술평가 점수가 기술평가 분야 배점 한도의 85% 이상인 자를 우선협상 적격자로 선정함 라 . 협상 순위는 협상적격자의 기술평가 점수와 가격평가 점수를 합산하여 합산 점수의 고득점 순에 따라 결정함 마 . 종합평가 결과 동일한 최고점수를 얻은 업체가 2 개 이상일 경우에는 기술평가점수 의 순위에 따르고, 기술평가점수가 동일한 경우에는 기술평가 배점이 큰 평가항목 에서 높은 점수를 얻은 자를 우선 협상대상자로 정함 바 . 선순위 업체와 협상이 이루어지면 차순위 업체와는 협...",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "제한 ( 총액 ) 경쟁 입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "제한 ( 총액 ) 경쟁 입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "금 104, 879, 540 원 ( 부가세 포함 ) ※ 계 약 금 은 분 할 지 급 ( 26 년 12 월 70 %, 납 품 완 료 후 30 % ) 하 며, O D A 사 업 ( 본 사 업 ) 의 일 정 에 따 라 지 급 계 획 변 동 가 능 마 . 계약방법 : 제한 ( 총액 ) 경쟁 입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "및 사업예산이 변동될 수 있으며, 계약체결일 이후 2 년간 분할하여 지급합니다 . ( 26 년 12 월 70 %, 납품 완료 후 30 % ) ) 나 . 심사결과는 협상적격자에 한해 제안서 평가 이후 통보 예정입니다 . 다 . 제출된 서류는 일체 반환하지 않습니다 . 라 . 현장설명은 생략하며 과업지시서 열람으로 갈음 합니다 . 마 . 본 입찰에 참가하고자 하는 자는 「 국가종합전자조달시스템 전자입찰특별유의서 」, 「 국가종합전자조달시스템 조달업체이용약관 」, 「 ( 계약예규 ) 용역계약일반조건 」, 「 용역계 약특수조건 」 등 기타 입찰에 필요한 사항을 입찰 전에 숙지하여야 하며, 숙지하지 못한 책임은 입찰자에게 있습니다 . 바 . 전자입찰 참가 희망자는 전산장비 준비부족 등의 사유로 인하여 전자입찰 등록 및 투찰이 곤란할 경우에는 투찰시간 마감 24 시간 이전에 나라장터 콜센터 ( ☎ 1588 - 0800 ) 또는 나라장터 홈페이지 ( w w w . g 2 b . g o . k r...",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "금 104, 879, 540 원 ( 부가세 포함 ) ※ 계 약 금 은 분 할 지 급 ( 26 년 12 월 70 %, 납 품 완 료 후 30 % ) 하 며, O D A 사 업 ( 본 사 업 ) 의 일 정 에 따 라 지 급 계 획 변 동 가 능 마 . 계약방법 : 제한 ( 총액 ) 경쟁 입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "및 사업예산이 변동될 수 있으며, 계약체결일 이후 2 년간 분할하여 지급합니다 . ( 26 년 12 월 70 %, 납품 완료 후 30 % ) ) 나 . 심사결과는 협상적격자에 한해 제안서 평가 이후 통보 예정입니다 . 다 . 제출된 서류는 일체 반환하지 않습니다 . 라 . 현장설명은 생략하며 과업지시서 열람으로 갈음 합니다 . 마 . 본 입찰에 참가하고자 하는 자는 「 국가종합전자조달시스템 전자입찰특별유의서 」, 「 국가종합전자조달시스템 조달업체이용약관 」, 「 ( 계약예규 ) 용역계약일반조건 」, 「 용역계 약특수조건 」 등 기타 입찰에 필요한 사항을 입찰 전에 숙지하여야 하며, 숙지하지 못한 책임은 입찰자에게 있습니다 . 바 . 전자입찰 참가 희망자는 전산장비 준비부족 등의 사유로 인하여 전자입찰 등록 및 투찰이 곤란할 경우에는 투찰시간 마감 24 시간 이전에 나라장터 콜센터 ( ☎ 1588 - 0800 ) 또는 나라장터 홈페이지 ( w w w . g 2 b . g o . k r...",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "제한 ( 총액 ) 경쟁 입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "협상에 의한 계약, 종합평가",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "기술평가와 가격평가를 실시하여 종합평가점수로 평가함 \n - 평가비율 : 기술평가 (90%) 및 가격평가 (10%) \n - 종합평가 점수 = 기술평가 점수 + 가격평가 점수 \n 나 . 기술평가 점수는 최고점수 1 개와 최저점수 1 개를 제외하고 , 나머지 점수를 산술평 \n균한 점수 (90 점 만점 ) 가 기술평가 분야 배점한도의 85% 이상 (76.5 점 ) 인 자를 협상 \n적격자로 선정함 \n 다 . 기술평가 점수가 기술평가 분야 배점 한도의 85% 이상인 자를 우선협상 적격자로 선정함 \n 라 . 협상 순위는 협상적격자의 기술평가 점수와 가격평가 점수를 합산하여 합산 점수의 \n고득점 순에 따라 결정함 \n 마 . 종합평가 결과 동일한 최고점수를 얻은 업체가 2 개 이상일 경우에는 기술평가점수 \n의 순위에 따르고 , 기술평가점수가 동일한 경우에는 기술평가 배점이 큰 평가항목 \n에서 높은 점수를 얻은 자를 우선 협상대상자로 정함 \n 바 . 선순위 업체와 협상이 이루어지면 차순위 업체와는 협상 미실시 \n 사 . 선정결과는 서면으로 통보하며 , 미 선정업체에 대한 통보는 생략 ( 제안사는 평가결 \n과에 대해 일체의 이의를 제기할 수 없음 ) \n 아 . 낙찰자는 낙찰 후 1 0 일 이내에 계약을 체결하여야 하며 , 정당한 사유없이 계약을 \n체결하지 않을 경우 부정당업체 제재 등 불이익을 받을 수 있습니다 . \n6. 6. 6. 6. 입찰 입찰 입찰...",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4 ), ., PDF * · 1 PDF * 10 ., ., .,, . ‘ ’, ‘,, ’, . · · . . 3. ., ., ., . . . . .,, . 4. 1.,,, 2. 2.1, 32.22.32.4,",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "나라장터 ) 경쟁입찰참가자격 등록을 한 자여야 하며, 입찰참가등록을 하지 않은 자는 「 국가종합전자조달시스템 입찰참가자격등록규정 」 에 따라 개찰일 전일까지 조달청에 입찰참가등록을 하여야 합니다 . ※ 개찰 당일 나라장터에 등록한 자는 「 국가종합전자조달시스템 전자입찰특별유의서 」 제 4 조 규정 및 입찰공고문에 따라 무효 처리합니다 . 다 . 국가종합전자조달시스템 입찰참가자격등록규정",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "ECR-01",
+          "requirement": "ECR",
+          "name": "ECR",
+          "detail": "-PSR (Project Support Requirement) (5 ) 10 . HW/SW",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-02",
+          "requirement": "PC, GPU",
+          "name": "PC, GPU",
+          "detail": "(Project Support Requirement) (5 ) 10 . HW/SW (ECR)",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-03",
+          "requirement": "VR",
+          "name": "VR",
+          "detail": "(SW, HW)",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": ". HW/SW (ECR) PC, GPU VR ECR-03 (SW, HW)",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-01",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "PC, GPU VR ECR-03 (SW, HW) (SER) SER-001 (QLR) QLR-01",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-02",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "PC, GPU VR ECR-03 (SW, HW) (SER) SER-001 (QLR) QLR-01",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-03",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "VR ECR-03 (SW, HW) (SER) SER-001 (QLR) QLR-01",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-04",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "PMR",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-01",
+          "requirement": "PMR",
+          "name": "PMR",
+          "detail": "(PSR) .",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-01",
+          "requirement": "SER",
+          "name": "SER",
+          "detail": "1. , < >",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-01",
+          "requirement": "QLR",
+          "name": "QLR",
+          "detail": "* * ( 118 ) 56 7. IPS 8. 9 1 9. 2 2 10. 4 , 7 3",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [
+        {
+          "title": "실적·인증 요건",
+          "detail": "소프트웨어사업자 ( 컴퓨터관련서비스사업 , 업종코드 :1468) 로 입찰참가 등록업체",
+          "severity": "확인"
+        },
+        {
+          "title": "공동수급·하도급",
+          "detail": "공동수급계약을 불허하며 , 별도의 하도급을 허용하지 않음",
+          "severity": "확인"
+        },
+        {
+          "title": "감점·실격 조건",
+          "detail": "무효 처리합니다 .",
+          "severity": "확인"
+        }
+      ],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        },
+        {
+          "question": "공동수급 시 대표사 지분 또는 참여비율 제한이 있는지 확인해야 합니다.",
+          "reason": "공동수급 언급은 있으나 지분 요건은 자동 추출되지 않았습니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01759843-000",
+        "budget": "금 104, 879, 540 원 ( 부가세 포함 ) ※ 계 약 금 은 분 할 지 급 ( 26 년 12 월 70 %, 납 품 완 료 후 30 % ) 하 며, O D A 사 업 ( 본 사 업 ) 의 일 정 에 따 라 지 급 계 획 변 동 가 능 마 . 계약방법 : 제한 ( 총액 ) 경쟁 입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약",
+        "period": "및 사업예산이 변동될 수 있으며, 계약체결일 이후 2 년간 분할하여 지급합니다 . ( 26 년 12 월 70 %, 납품 완료 후 30 % ) ) 나 . 심사결과는 협상적격자에 한해 제안서 평가 이후 통보 예정입니다 . 다 . 제출된 서류는 일체 반환하지 않습니다 . 라 . 현장설명은 생략하며 과업지시서 열람으로 갈음 합니다 . 마 . 본 입찰에 참가하고자 하는 자는 「 국가종합전자조달시스템 전자입찰특별유의서 」, 「 국가종합전자조달시스템 조달업체이용약관 」, 「 ( 계약예규 ) 용역계약일반조건 」, 「 용역계 약특수조건 」 등 기타 입찰에 필요한 사항을 입찰 전에 숙지하여야 하며, 숙지하지 못한 책임은 입찰자에게 있습니다 . 바 . 전자입찰 참가 희망자는 전산장비 준비부족 등의 사유로 인하여 전자입찰 등록 및 투찰이 곤란할 경우에는 투찰시간 마감 24 시간 이전에 나라장터 콜센터 ( ☎ 1588 - 0800 ) 또는 나라장터 홈페이지 ( w w w . g 2 b . g o . k r...",
+        "deadline": "",
+        "method": "제한 ( 총액 ) 경쟁 입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약",
+        "contractMethod": "제한 ( 총액 ) 경쟁 입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약"
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: 제한 ( 총액 ) 경쟁 입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "법인등기부등본",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "( 개인사업자인 경우 사업자등록증 ) \n - 입찰무효사항인 ‘ 상호 또는 법인의 명칭 ’ 및 ‘ 대표자 ( 수인의 대표자가 있는 경우에는 대표자 전원 ) 의 성명 ' \n확 인용 \n 마 . 대리인 위임장 및",
+          "extra": ""
+        },
+        {
+          "no": 2,
+          "document": "사업자등록증",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ") \n - 입찰무효사항인 ‘ 상호 또는 법인의 명칭 ’ 및 ‘ 대표자 ( 수인의 대표자가 있는 경우에는 대표자 전원 ) 의 성명 ' \n확 인용 \n 마 . 대리인 위임장 및 재직증명서 1 부 \n5. 5. 5. 5.",
+          "extra": ""
+        },
+        {
+          "no": 3,
+          "document": "위임장",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "및 재직증명서 1 부 \n5. 5. 5. 5. 낙찰자 낙찰자 낙찰자 낙찰자 결정 결정 결정 결정 및 및 및 및 예정가격 예정가격 예정가격 예정가격 5. 낙찰자 결정 및 예정가격 \n 가 . 「 협상에 의한 계약체결 기",
+          "extra": ""
+        },
+        {
+          "no": 4,
+          "document": "재직증명서",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "5. 5. 5. 5. 낙찰자 낙찰자 낙찰자 낙찰자 결정 결정 결정 결정 및 및 및 및 예정가격 예정가격 예정가격 예정가격 5. 낙찰자 결정 및 예정가격 \n 가 . 「 협상에 의한 계약체결 기준 ( 기획재정",
+          "extra": ""
+        },
+        {
+          "no": 5,
+          "document": "제안서",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "나 . 평가 참고자료 등 제안관련 제출서류 및 기타 제안요청서의 제출요청자료 \n * 각각의 제안서 파일은 가급적 하나로 제출하되 여러 개일 경우 순번을 적용하여 제출 \n * 증빙자료는 제안서에 첨부 제출 \n 다",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 2개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "협상 적격자 평가",
+          "minor": "기술평가",
+          "score": 90.0,
+          "weight": 90.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "기술평가와 가격평가를 실시하여 종합평가점수로 평가함 \n - 평가비율 : 기술평가 (90%) 및 가격평가 (10%) \n - 종합평가 점수 = 기술평가 점수 + 가격평가 점수 \n 나 . 기술평가 점수는 최고점수 1 개와 최저점수 1 개를 제외하고 , 나머지 점수를 산술평 \n균한 점수 (90 점 만점 ) 가 기술평가 분야 배점한도의 85% 이상 (76.5 점 ) 인 자를 협상 \n적격자로 선정함 \n 다 . 기술평가 점수가 기술평가 분야 배점 한도의 85% 이상인 자를..."
+        },
+        {
+          "major": "평가항목",
+          "middle": "협상 적격자 평가",
+          "minor": "가격평가",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "기술평가와 가격평가를 실시하여 종합평가점수로 평가함 \n - 평가비율 : 기술평가 (90%) 및 가격평가 (10%) \n - 종합평가 점수 = 기술평가 점수 + 가격평가 점수 \n 나 . 기술평가 점수는 최고점수 1 개와 최저점수 1 개를 제외하고 , 나머지 점수를 산술평 \n균한 점수 (90 점 만점 ) 가 기술평가 분야 배점한도의 85% 이상 (76.5 점 ) 인 자를 협상 \n적격자로 선정함 \n 다 . 기술평가 점수가 기술평가 분야 배점 한도의 85% 이상인 자를..."
+        }
+      ],
+      "totals": {
+        "score": 100.0,
+        "weight": 100.0,
+        "gradeA": 1,
+        "gradeB": 1,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01759843-000",
+    "generatedAt": "2026-10-12T14:16:14.566233",
+    "sourceAnalysisAt": "2026-10-12T14:16:01.417991",
+    "projectName": "",
+    "sourceFile": "과업지시서.hwp",
+    "requirementSourceFiles": [
+      "과업지시서.hwp",
+      "제안요청서.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "ECR-01",
+        "name": "PC, GPU",
+        "detail": ". PC / • 400TCA 10 CPU • I7 10700 (10 , ) M/B • intel H410 , (H470, H510)",
+        "source": "과업지시서.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-02",
+        "name": "VR",
+        "detail": ". VR - HMD ( ) VR • : 2K ( : 2064×2208 ), 90~120Hz • : (Inside-out)",
+        "source": "과업지시서.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-03",
+        "name": "(SW, HW)",
+        "detail": ". AI Agent • 1 Platform • ( ) . Manager • , , ,",
+        "source": "과업지시서.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "(QLR) QLR-01",
+        "detail": "(PMR)",
+        "source": "과업지시서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-01",
+        "name": "PMR-01",
+        "detail": "1 15 2 7 3 4 5 ( )",
+        "source": "과업지시서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-02",
+        "name": "PMR-02",
+        "detail": "• . • · · ( , , , , , , · , ) . • , · · .",
+        "source": "과업지시서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-03",
+        "name": "PMR-03",
+        "detail": ". 1-1. / 1-2. / 2. , / . 2-1.",
+        "source": "과업지시서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-04",
+        "name": "( )",
+        "detail": "1. ( ) . 2. 14 . 2-1. , , , .",
+        "source": "과업지시서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-01",
+        "name": "(PSR)",
+        "detail": ". 2. ( ) 1 . 3. . 4. , .",
+        "source": "과업지시서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-01",
+        "name": "1. ,",
+        "detail": "2. 3. 3 4. ❍ ‧ ( )",
+        "source": "과업지시서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-01",
+        "name": "1.",
+        "detail": "2. ( ) 4) (PMR)",
+        "source": "과업지시서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "기술평가",
+        "score": 90.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 45,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "기술평가와 가격평가를 실시하여 종합평가점수로 평가함 - 평가비율 : 기술평가 (90%) 및 가격평가 (10%) - 종합평가 점수 = 기술평가 점수 + 가격평가 점수 나 . 기술평가 점수는 최고점수 1 개와 최저점수 1 개를 제외하고 , 나머지 점수를 산술평 균한 점수 (90 점 만점 ) 가 기술평가 분야 배점한도의 85% 이상 (76.5 점 ) 인 자를 협상 적격자로 선정함 다 . 기술평가 점수가 기술평가 분야 배점 한도의 85% 이상인 자를..."
+      },
+      {
+        "scoreItem": "가격평가",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 5,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "기술평가와 가격평가를 실시하여 종합평가점수로 평가함 - 평가비율 : 기술평가 (90%) 및 가격평가 (10%) - 종합평가 점수 = 기술평가 점수 + 가격평가 점수 나 . 기술평가 점수는 최고점수 1 개와 최저점수 1 개를 제외하고 , 나머지 점수를 산술평 균한 점수 (90 점 만점 ) 가 기술평가 분야 배점한도의 85% 이상 (76.5 점 ) 인 자를 협상 적격자로 선정함 다 . 기술평가 점수가 기술평가 분야 배점 한도의 85% 이상인 자를..."
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [
+              "ECR-01",
+              "ECR-02",
+              "ECR-03"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "SER-001",
+              "SER-01",
+              "TER-01"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-01",
+              "PMR-02",
+              "PMR-03",
+              "PMR-04"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-01"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 11,
+      "mappedRequirements": 11,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

@@ -1,0 +1,1647 @@
+{
+  "bidNtceNo": "R26BK01751619",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-10-12T14:19:49.843915",
+  "status": "completed",
+  "source": {
+    "fileName": "산출내역서.pdf",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/산출내역서.pdf",
+    "pageCount": 1,
+    "textLength": 0,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "산출내역서.pdf",
+      "extension": ".pdf",
+      "size": 0,
+      "kindCode": ""
+    },
+    {
+      "fileName": "CDW구축 제안요청서 수정.hwp",
+      "extension": ".hwp",
+      "size": 0,
+      "kindCode": ""
+    },
+    {
+      "fileName": "CDW_용역과업개요.hwp",
+      "extension": ".hwp",
+      "size": 0,
+      "kindCode": ""
+    },
+    {
+      "fileName": "CDW 용역 계획서.pdf",
+      "extension": ".pdf",
+      "size": 0,
+      "kindCode": ""
+    },
+    {
+      "fileName": "CDW구축_입찰공고문.hwp",
+      "extension": ".hwp",
+      "size": 0,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "fa97ec31c2cd2aea1a2f2602",
+      "fileName": "산출내역서.pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01751619/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01751619/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01751619/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/산출내역서.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/산출내역서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/산출내역서.pdf",
+      "pageCount": 1,
+      "textLength": 0,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "첨부서류 파일입니다. 텍스트 추출 가능 여부를 확인한 뒤 세부 내용을 검토해야 합니다.",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "f4aeb099e4e69c34a4d0369d",
+      "fileName": "CDW구축 제안요청서 수정.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01751619/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01751619/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01751619/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/CDW구축 제안요청서 수정.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/converted/CDW구축 제안요청서 수정.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/converted/CDW구축 제안요청서 수정.pdf",
+      "pageCount": 63,
+      "textLength": 10087,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "CDW \n CDW \n \n2026. 09.\n \n AI \n062-670-6303\n \n \nⅠ . \n1. 1\n2. 1\n3. 2\n4. 3\nⅡ . \n1. 4\nⅢ . \n1. 6\n2. 6\n3. 8\n4. 9\nⅣ . \n1. 10\n2. 12\nⅤ . \n1. 39\n2. 40\n3. 40\n4. 42\n5. 46\n6. 47\n7. 50\n[ 1] 54\n 1. 55\n 2. ( 3 ) 56\n 3. 57\n 4. 58\n 5. 59\n 6. 60\n 7. 61\n[ 2] 63\n[ 3] 68\n[ 4] 69\nⅠ . \n1 \n○ : CDW \n○ : ~ 2030 12 31 (5 )\n※ CDW , “SW ” \n ( 2023-15 )\n[ 1] \n (CDW ) .\n○ : 1,070,500,000 (VAT , 5 )\n○ : ( )\n※ 43 43 2\n※ ( ) \n2 \n \n , \n \n \n · CDW \n \n AI \n \n3 \n \n○ (CDW:Clinical Data Warehouse) \n- CDW \n- \n- \n- OCS/EMR \n- \n- \n○ \n○ \n4 \n \n○ UI \n○ \n○ \n \n○ \n○ \n○ \n○ \n○ IRB \n○ \n IT \n○ Performance( , ) \n○ \n○ , \n \n○ CDW \nⅡ. \n1 \n \n○ \n- , \n○ \n- , , , , , , , , \n , \n- \n \n- \n- \n○ \n\n○ \n \n ) \n / 1977 1 ( 50 , 2027 )\n (2 )\n / 1140-23 · 062-670-6700\n \n 95 / 0 / ( ) 0 / 0 = 11 3 95\n \n \n ( ), , , ,\n , , \n / \n \nⅢ. \n1 \n \n◈ (CDW: Clinical Data Warehouse) \n◈ \n◈ CDW \n◈ AI · \n○ \n- EMR, OCS \n- CDW \n- \n○ \n- \n- \n- AI \n- \n2 \n / \n○ , , \n○ , , \n○ , , \n○ , , \n \n○ , ETL , \n○ \n○ , \n \n3 \n \n \n \n ( ) • \n \n• \n• / \n• \n ( )\n• , \n \n \n \n • \n• UI \n• \n• – - \n• \n \n \n \n \n4 \n \n○ : 2030 12 31 \n \n \n2026 2027 2028 2029 2030\n \n \n \n \n \n \n \n \n \n \n- \n- \n \n- \n- \n- / \n \n- / \n- \n HW/SW \n- / \n- \n- \n \n- \n- \n \n \n \nⅣ. \n1 \n \n \n (ECR)\nEquipment Composition\nRequirement\n H/W, S/W, N/W \n \n6\n (SFR)\nSystem Function\nRequirement\n \n ( ) \n16\n (PER)\nPerformance Requirement\n , , 2\n (SIR)\nSystem Interface\nRequirement\n \n \n1\n (DAR)\nData Requirement\n , ,\n \n1\n (TER)\nTest Requirement\n \n , , , \n2\n (SER)\nSecurity Requirement\n , \n \n5\n (QUR)\nQuality Requirement\n , \n , , , , \n2\n (COR)\nConstraint Requirement\n , , \n \n2\n (PMR)\nProject Management\nRequirement\n \n \n8\n (PSR)\nProject Support Requirement\n ( \n , )\n4\n2 \n \n ECR-001 \n ECR-002 PC\nECR-003 RACK & KVM\nECR-004 \nECR-005 DBMS S/W\nECR-006 HIS \n \n \n \nCDW \nSFR-001 \nSFR-002 EMR / \nSFR-003 ETL \n \n \nSFR-004 \nSFR-005 \nSFR-006 \nSFR-007 \n \n \nSFR-008 \nSFR-009 \nSFR-010 CDW \nSFR-011 \nSFR-012 \nSFR-013 \nSFR-014 \nSFR-015 \nSFR-016 \n \nPER-001 \nPER-002 DB \n SIR-001 \n DAR-001 \n \nVER-001 \nVER-002 \nVER-003 \n \nTER-001 \nTER-002 \n SER-001 \nSER-002 DB \nSER-003 \nSER-004 \nSER-005 / \n \nQUR-001 \nQUR-002 \n \nCOR-001 \nCOR-002 \n \n \nPMR-001 \nPMR-002 \nPMR-003 \nPMR-004 \nPMR-005 \nPMR-006 \nPMR-007 \nPMR-008 \n \n \nPSR-001 \nPSR-002 \nPSR-003 \nPSR-004 \n3 \n1. (Equipment Composition Requirement)\n \n ECR-001\n \n \n \n \n \n \n● CDW \n .\n● S/W S/W \n , S/W \n \n● , , , , , , \n ( , , ) .\n● , , \n .\n● S/W Version \nUpgrade .\n● S/W , \n .( )\n● CDW \n .\n● \n .\n● \n . \n H/W S/W HIS .\n \n ECR-002\n PC\n \n \n \n \n \n \n - : 3 , PC( ) 20 \n \n \n- RACK Type\n- CPU : 2.3GHz , 16Core * 2EA \n - 256GB \n \n \n- SSD 480GB * 2EA\n- SSD 3.84TB * 4EA \nI/O \n- PCI-Express 4 \n- NIC 1GE * 4Port \n- NIC 10GE * SFP 4Port * 2EA \n \n- : 1,300W PSU × 2 , \n- S/W \n \n \n \nPC\n \n- OS: Windows 11 Pro 64\n- CPU: 2.5GHz \n- : 16GB \n- SSD 512GB \n- 24\" \n \n ECR-003\n RACK & KVM\n \n \n RACK & KVM\n \n \n \nRACK - 42U RACK- (32A PDU 2EA) \nKVM\n- 8port \n- \n- 17 LCD TFT ( )\n \n ECR-004\n \n \n \n \n \n \n● 3 HCI ,\n .\n● 64 x86 , .\n● 3 , \n .\n● HCI , SAN \n 1 .\n● , , .\n● VLAN, NIC · · .\n● · , .\n● , 2 , .\n● · \n , .\n● · · \n .\n● · , \n .\n \n ECR-005\n DBMS S/W\n \n \n DBMS S/W\n \n \n● 64 Linux Windows Server \n , .\n● · , \n .\n● Range, List, Hash \n .\n● . \n · · .\n● , · , , , · \n .\n● DBMS DBMS , \n .\n● · , (PITR) \n .\n● , \n .\n● · , , .\n \n ECR-006\n HIS \n \n \n HIS \n \n \n● HIS CDW H/W S/W \nHIS .\n2. (System Function Requirement)\n . CDW \n \n SFR-001\n \n \n \n CDW \n \n \n● \n● \n● \n● EMR \n \n SFR-002\n EMR / \n \n \n EMR \n \n \n● \n● \n- \n- \n● \n \n SFR-003\n ETL \n \n \n ETL \n \n \n● \n● \n● ETL \n● ETL \n . \n \n SFR-004\n \n \n \n \n \n \n● \n- , , \n● \n● ( , , )\n \n SFR-005\n \n \n \n \n \n \n● \n● CDW \n● \n \n- (identification) : \n- (identifier) : , , , \n \n- (quasi-identifier) : , , , \n , \n \n- (de-identification) : \n \n- (anonymization) : , \n \n- (re-identification) : \n , , \n \n SFR-006\n \n \n \n \n \n \n● \n● \n● \n● (S/W )\n \n SFR-007\n \n \n \n \n \n● \n \n ) , , , \n● EMR, ODS, DW, ETL \n \n● EMR \n \n● \n● \n . \n \n SFR-008\n \n \n \n \n \n \n● \n● \n● \n● \n \n \n SFR-009\n \n \n \n \n \n \n● \n● , \n● \n \n SFR-010\n CDW \n \n \n CDW \n \n \n● \n● \n \n SFR-011\n \n \n \n \n \n \n● \n- \n- ( , , , )\n \n SFR-012\n \n \n \n \n \n \n● \n- \n- , \n- \n- \n- , \n- \n \n SFR-013\n \n \n \n \n \n \n● \n● , , \n● , , , \n● , \n● , , \n● \n● , \n● \n● , \n● \n● , \n● , , , \n● \n● \n \n SFR-014\n \n \n \n \n \n \n● \n- , , , \n- \n● \n- , , , , \n- , \n● , , , , , \n● \n- / / / \n● \n- , , \n- \n- \n- / \n- ( ) / \n- \n- , , \n \n SFR-015\n \n \n \n \n \n \n● \n- \n- \n- \n- \n(drag and drop, FUNNEL Chart )\n● \n- \n- \n- \n- \n- \n● QUERY \n \n SFR-016\n \n \n \n \n \n \n● UI & QUERY \n● / \n● , , , , , , , \n \n● (Line, Bar, Pie, Scatter,\nBoxplot, Funnel, Sankey, Treemap )\n● \n3. (Performance Requirement)\n \n PER-001\n \n \n \n \n ● \n ● \n● \n● ( ) \n , \n \n PER-002\n DB \n \n \n DB \n \n \n● \n● \n4. (System Interface Requirement)\n \n SIR-001\n \n \n \n \n \n \n● \n● \n5. (Data Requirement)\n \n DAR-001\n \n \n \n \n \n \n● EMR \n \n● DW \n \n● ( , , , ) \nDW \n● \n / \n6. \n \n VER-001\n \n \n \n \n \n \n● EMR , , \n● \n \n VER-002\n \n \n \n \n \n \n● EMR \n● DW, DM \n● \n \n VER-003\n \n \n \n \n \n \n● \n7. (Test Requirement)\n \n TER-001\n \n \n \n \n \n \n● , , \n● \n \n● , , / , / , \n \n● \n ( , ) \n \n \n TER-002\n \n \n \n \n \n● , / \n● \n- \n- ( ) \n \n- \n- \n● \n8. (Security Requirement)\n \n SER-001\n \n \n \n \n \n \n● ( , 2023. 1.)\n● ( , 2022.12)\n● ( , 2010. 1.)\n● ( , 2021. 5.)\n● ( , 2020.12)\n● ( 2020-2 )\n● ( )\n● \n● ( ) ,\n \n● \n .\n \n SER-002\n DB \n \n \n DB \n \n \n● \n \n- \n , \n- , , , , IP \n \n- “ ” \n \n● , \n- (DBA) \n- DB (Role) (Privilege) \n- DB , \nDB \n- DB Application Unix Prompt \n- DB DBA \n \n SER-003\n \n \n \n \n \n \n● , , \n , \n ( ) \n \n SER-004\n \n \n \n \n \n \n● \n- ․ IP \n- \n- \n- ( ) · \n- \n- \n- /IPS, / \n \n- 9 1 \n \n- 2 1 \n- \n \n SER-005\n / \n \n \n / \n \n \n● DB , \n \n● PC , 10 , DLP, \n , \n● PC \n● / \n● \n9. (Quality Requirement)\n \n QUR-001\n \n \n \n \n \n \n● \n● \n \n \n QUR-002\n \n \n \n \n \n \n● , \n baseline \n● ( ) \n \n● , , \n , \n● \n10. (Constraint Requirement)\n \n COR-001\n \n \n \n \n \n \n● / \n● , , \n \n● PC \n \n● , , \n \n● \n● \n \n \n COR-002\n \n \n \n \n \n \n● [ , , , , DB, ID] \n , \n11. (Project Management Requirement)\n \n PMR-001\n \n \n \n ( , ) \n \n \n● , , \n● \n- (PM) CDW PM \n \n● , \n , \n● \n- \n \n- \n- ( \n , ) \n1. , \n2. PC · \n3. , \n4. \n● · \n- \n , . \n , \n \n○ \n- , , , , \n \n \n PMR-002\n \n \n \n \n \n \n● , \n \n● , \n \n● \n ( ‘ ’) \n● \n \n PMR-003\n \n \n \n \n \n \n● \n .\n- , , \n \n \n PMR-004\n \n \n \n \n \n \n● , \n \n● 10% \n \n \n● \n● \n \n PMR-005\n \n \n \n \n \n \n● \n , , , \n \n● ( , ) \n● \n● , \n \n● , \n \n \n PMR-006\n \n \n \n \n \n \n● \n● \n● \n● \n \n \n PMR-007\n \n \n \n \n \n \n● , , , \n .\n● / / \n \n \n PMR-008\n \n \n \n \n \n \n● CDW \n , , \n● , , , \n \n● , ,\n \n12. (Project Support Requirement)\n \n PSR-001\n \n \n \n \n \n \n● \n \n● 3 SW \n , 1 \n \n● 24 \n● \n- 1 \n .\n- ( ), \n .\n \n PSR-002\n \n \n \n \n \n \n● , , \n .\n● \nS/W \n● \n \n PSR-003\n \n \n \n \n \n \n● ․ \n \n● \n● , , \n \n PSR-004\n \n \n \n \n \n \n● , \n \n● \n , \n \n● \nⅤ. \n1 \n○ 12 14 \n , \n \n○ 76 \n \n○ , \n (G2B) \n “ ”( , : 1468) \n \n○ 20 48 \n \n \n○ 2 · \n 2 \n · · ( : \n ) \n○ 3 600 CDW \n \n2 \n□ : \n○ 7 21 \n□ : \n○ “ ” ( )\n3 \n□ \n○ \n○ = (90%) + (10%)\n 9:1\n \n○ (90 ) (10 ) \n \n○ , \n , ( ) \n \n○ 85% \n□ – \n○ (90%) : \n- 49 2 \n ( ) ‘ ’ \n- 1 1 , \n \n- \n- 2\n \n- \n \n- 1 , 2 [ 4] 1 \n , \n \n- [ 4]( \n ) \n○ (10%) : \n□ \n○ \n- 1 \n- ,\n \n- \n○ , , , \n \n- \n○ \n○ \n \n- \n \n4 \n□ ( )\n○ 2026. 10. 07 (16:00) – 7 \n \n□ \n○ : \n \n / \n○ : ( 20 / 10 )\n○ \n- ( ) (PM) , \n \n- , , \n \n- \n- \n , \n○ \n- \n \n \n \n \n \n \n \n \n \n(14)\n \n .\n· \n7\n \n .\n· \n7\n \n \n(35)\n \n \n \n .\n· , , , , \n \n10\n \n .\n· , \n15\n \n , \n , .\n· , , , \n10\n \n \n(15)\n \n \n \n , \n .\n· , , , \n· \n10\n \n \n .\n· , , \n5\n \n \n(10)\n \n \n , , , \n .\n· , , , , , \n5\n \n , \n , .\n· , , , \n5\n \n \n(11)\n \n \n , \n .\n· , , , \n \n3\n \n , , , , \n .\n· , , \n3\n \n \n .\n· , \n3\n \n , , , .\n· , , , \n2\n \n(5)\n \n \n 3 CDW 3\n 2\n \n○ \n- (3 )\n \n 3 \nCDW \n▪ 2.5 3.0\n▪ 1.7 ~ 2.5 2.7\n▪ 1 ~ 1.7 2.4\n▪ 1 2.1\n< >\n 3 CDW . ( ( ) \n )\n [ 3] [ 4] \n .\n . , , \n . ( ) , , ( \n ) \n . \n . , , \n \n \n . \n .\n- (2 )\n \n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0\n2\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB- 1.9\nB+, B0, B- B- B+, B0, B- 1.8\nCCC+ C CCC+ 1.4\n< >\n 2 8 3 \n 335 3 , \n , \n . , \n .\n , \n . , \n .\n5 \n□ \n○ : \n○ : \n□ \n○ : \n6 \n□ ( )\n○ \n- : 200 \n \n- : 20 \n \n○ A4 , A4 \n \n○ \n○ , \n○ \n \n○ “ ” \n , , , \n \n○ , \n \n○ \n \n○ \n \n \n□ \nⅠ . \n1. \n2. \n3. \nⅡ . \n1. \n2. \n3. \nⅢ . \n1. \n2. \nⅣ . \n1. \n2. \nⅤ . \n1. \n2. \n3. \nⅥ . \n1. \n□ \n \nⅠ . \n1. \n , 3 (CDW \n ) , . ([ \n1,2,3,4] )\n- 3 (CDW ) \n 1\n 2\n 3\n 4\n2. \n .\n3. \n \n (PM, ) \n .([ 5] )\n- , , , , , ,\n , (M/M), \n , \n 5\nⅡ . \n1. , \n , .\n2. ( ) .\n3. \n , \n .\n , .\nⅢ . \n1. \n , , IT , \n , , , \n .\n2. .\nⅣ . \n1. , , , .\n2. , , , .\nⅤ . \n1. , , , .\n2. , , , , .\n3. , , .\nⅥ . \n1. \n7 \n□ \n○ , \n \n○ , \n \n○ \n \n○ , , \n \n○ \n- 12 14 \n \n- 12 \n \n- \n \n○ 54 , \n \n□ \n○ “ ,\n 16 ( )” 20 \n \n□ \n○ , , \n○ , \n , \n \n○ \n \n○ , \n ,\n \n○ \n , , \n \n○ , , \n , \n \n \n□ \n○ 3 \n , \n○ \n○ \n \n□ \n○ , \n \n○ 3 , , \n , \n- · 3 \n \n .\n□ \n○ 14 \n○ , , \n , \n \n○ 50 \n○ ( : 5 )\n- 4 1 \n \n \n- 5 1 \n , \n \n \n○ , \n- \n , \n \n- , \n \n- ( ) \n \n 1 \n 1 ( )\n 2 ( 3 ) ( )\n 3 ( )\n 4 ( )\n 5 ( )\n 6 ( )\n 7 ( )\n 1 \n \n \n \n \n \n \n ( )\n \n 2 ( 3 )\n ( 3 )\n( : )\n Y-2 Y-1 Y \n \n (A)\n (B)\n (C)\n \n \n \n \nH/W\nS/W\n \n \n \n \n (D)\n \n(D/A)\n \n(B+C)/A\n ( ) \n 3 \n \n( : )\n \n .\n .\n , , \n \n 4 \n \n \n \n \n \n( )\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2026 \n ( )\n \n \n \n , \n .\n 5 ( )\n \n \n \n ( ) SW ( ) \n ( ) ( )\n \n %\n \n ( ) \n ( ) ( \n )\n , 17 ( \n ) ( ) ( \n )\n , , \n \n , ( ) \n \n \n 6 \n \n \n \n \n \n 2026 -502 2026 \n CDW \n \n( ) ( )\n \n \n \n \n \n \n \n \n \n \n ( . . ) \n ( . . ) . ( ), \n ( . ) ( . . ) ( . ) \n .\n2026. . .\n ( ) : ( )\n \n 7 \n \n : CDW \n1. \n , \n .\n2. , \n ․ ․ \n .\n3. \n , \n .\n2026 \n :\n :\n : ( )\n \n< >\n ( )\n□ \n \n :\n○ ○ ○ \n ○ ○ ○ ( )\n \n□ ( )\n* , .\n 2 ( ※ )\n ( )\n1. [ 1] \n [ 2] \n .\n2. , , , , \n [ 3] ‘ ’ , \n 76 \n .\n3. \n , \n .\n4. \n , .\n< 1> \n< 2> \n< 3> \n< 1> \n \n \n \n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n◦ \n◦ \n \n◦ \n \n◦ \n \n \n1. \n . \n . \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P \n . · ( S/W )\n . \n . PC \n . PC \n . \n . ( )\n◦ \n \n◦ \n \n◦ \n \n \n \n1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n . \n . ADSL \n . (PC )\n◦ \n \n◦ \n / \n◦ \n \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n◦ \n◦ / \n \n . \n . ( ) \n . PC 32Bit , \n< 2> \n \n1. A~D \n \n \nA B C D \n 1 1 2 3 \n \n \n \n 5% 3% 1%\n* , \n* [ 1] \n2. , \n* ( ) 1 \n3. \n< 3> \n \n1. IP \n2. \n3. \n4. · \n5. ( · \n )\n6. \n7. (IPS) \n \n8. 9 1 \n \n9. 2 1 \n10. \n11. \n 3 \n ( )\n ( ) 20 20 \n .\n1. \n \n \n .\n2. \n , \n .\n3. .\n20 \n \n ( ) \n ( )\n 4 ( ※ )\n ( )\n ( ) , , · ( ) \n .\n1. ( ) ( )\n2. ( ) \n3. ( ) \n4. ( ) \n .\n \n \n / \n \n / \n \n< 4> ( 12 3 )\n \n1. 3 .\n2. 12 2 6 \n .\n3. 1 , 2 1 \n . , \n .\n4. 2 2 \n , 3 \n .\n5. 12 1 2 \n .",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "CDW \n CDW \n \n2026. 09.\n \n AI \n062-670-6303\n \n \nⅠ . \n1. 1\n2. 1\n3. 2\n4. 3\nⅡ . \n1. 4\nⅢ . \n1. 6\n2. 6\n3. 8\n4. 9\nⅣ . \n1. 10\n2. 12\nⅤ . \n1. 39\n2. 40\n3. 40\n4. 42\n5. 46\n6. 47\n7. 50\n[ 1] 54\n 1. 55\n 2. ( 3 ) 56\n 3. 57\n 4. 58\n 5. 59\n 6. 60\n 7. 61\n[ 2] 63\n[ 3] 68\n[ 4] 69\nⅠ . \n1 \n○ : CDW \n○ : ~ 2030 12 31 (5 )\n※ CDW , “SW ” \n ( 2023-15 )\n[ 1] \n (CDW ) .\n○ : 1,070,500,000 (...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "2",
+      "attachmentKey": "45def764b5ab797d1fb5e9b8",
+      "fileName": "CDW_용역과업개요.hwp",
+      "extension": ".hwp",
+      "docType": "과업지시서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01751619/000/files/2",
+      "originalFileUrl": "/api/notices/R26BK01751619/000/original-files/2",
+      "pdfUrl": "/api/notices/R26BK01751619/000/files/2",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/CDW_용역과업개요.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/converted/CDW_용역과업개요.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/converted/CDW_용역과업개요.pdf",
+      "pageCount": 4,
+      "textLength": 447,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "1. : AI \n (CDW) \n2. \n . \n○ EMR, OCS \n○ CDW \n○ \n . \n○ \n○ \n○ AI \n○ \n . \n○ \n○ \n . · CDW \n○ \n○ \n . AI \n○ CDW \n○ AI \n . \n○ UI \n○ \n . \n○ \n○ \n3. \n \n \n2026 2027 2028 2029 2030\n \n \n \n \n \n \n \n \n \n \n- \n- \n \n- \n- \n- / \n \n- / \n- \n HW/SW \n- / \n- \n- \n \n- \n- \n \n \n4. \n . (CDW:Clinical Data Warehouse) \n○ CDW \n \n○ OCS EMR \n \n○ DBMS , ETL \n \n . \n○ \n \n○ CDW \n \n○ \n \n . \n○ \n \n○ \n○ \n \n . \n○ EMR \n○ \n \n○ \n5. \n\n \n ( ) • \n \n• \n• / \n• \n ( )\n• \n , \n \n \n• \n• UI \n• \n• – - \n•",
+      "analysis": {
+        "docType": "과업지시서",
+        "summary": "1. : AI \n (CDW) \n2. \n . \n○ EMR, OCS \n○ CDW \n○ \n . \n○ \n○ \n○ AI \n○ \n . \n○ \n○ \n . · CDW \n○ \n○ \n . AI \n○ CDW \n○ AI \n . \n○ UI \n○ \n . \n○ \n○ \n3. \n \n \n2026 2027 2028 2029 2030\n \n \n \n \n \n \n \n \n \n \n- \n- \n \n- \n- \n- / \n \n- / \n- \n HW/SW \n- / \n- \n- \n \n- \n- \n \n \n4. \n . (CDW:Clinical Data Warehouse) \n○ CDW \n \n○ OCS EMR \n \n○ DBMS , ETL \n \n . \n○ \n \n○ CDW \n \n○ \n \n . \n○ \n \n○ \n○...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "3",
+      "attachmentKey": "b65e0b585fc9cb19c44f9901",
+      "fileName": "CDW 용역 계획서.pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01751619/000/files/3",
+      "originalFileUrl": "/api/notices/R26BK01751619/000/original-files/3",
+      "pdfUrl": "/api/notices/R26BK01751619/000/files/3",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/CDW 용역 계획서.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/CDW 용역 계획서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/CDW 용역 계획서.pdf",
+      "pageCount": 1,
+      "textLength": 969,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "- 256 -\n용역 계획서\n용역(연구)명 원광대 광주한방병원 CDW 구축(장기계속계약)\n용역(연구)\n책임자\n사업자\n등록번호 410-82-01589 기업명(기관명) 원광대학교광주한방병원 부서 진료국\n직위(급) 병원장 성명 이상관 연락처 062-670-6700\n기간 계약 후~ 2030.12. 소요예산\n2026년 180,000천원\n2027년 319,000천원\n2028년 241,000천원\n2029년 165,500천원\n2030년 165,000천원\n필요성\n¡ 질환별 임상데이터 체계적 수집과 활용을 위하여 CDW를 구축하고자 함\n목표 및 내용\n(1) CDW 아키텍처 설계\n -병원 기존 정보시스템(EHR, OCS, LIS 등) 분석\n - 데이터 수집–적재–분석 단계별 아키텍처 설계\n - 보안·접근 권한·비식별화 구조 반영\n - 대용량·시계열 데이터 처리를 고려한 구조 설계\n(2) CDM(Common Data Model) 설계\n - 질환 중심 임상데이터 요구사항 분석\n - 공통 데이터 요소 및 질환 특이 변수 정의\n - 표준 코드 체계(ICD/KCD, LOINC, ATC 등) 적용\n - 내부 데이터와 CDM 간 매핑 구조 설계\n(3) 데이터 흐름 및 관리 체계 정의\n - 데이터 정합성 및 품질 관리 프로세스 설계\n - 업데이트·확장·유지보수 고려 구조 설계\n - 향후 AI·분석 활용을 고려한 데이터 구조 제안\n수행방법\n - 요구사항 분석 및 현황진단\n - 아키텍처 초안 설계 및 협의\n - CDM 설계 및 데이터 매핑 정의\n - 내부 검토 및 피드백 반영\n - 최종 설계서 및 산출물 제출\n * 내부 연구진과 정기적인 협의체 운영으로 임상적 타당성과 실제 활용가능성 지속적으로 검증\n활용계획\n 본 용역 결과물은 CDW 구축 및 데이터 적재의 기준 문서와 질환별 임상데이터셋 구축의 표준 프레임으로 \n활용할 계획임\n수행기관 및 수행책임자 선정사유\n병원 정보시스템과 임상데이터 구조에 대한 이해가 깊으며 의료 CDW 구축 경험이 있음",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "- 256 -\n용역 계획서\n용역(연구)명 원광대 광주한방병원 CDW 구축(장기계속계약)\n용역(연구)\n책임자\n사업자\n등록번호 410-82-01589 기업명(기관명) 원광대학교광주한방병원 부서 진료국\n직위(급) 병원장 성명 이상관 연락처 062-670-6700\n기간 계약 후~ 2030.12. 소요예산\n2026년 180,000천원\n2027년 319,000천원\n2028년 241,000천원\n2029년 165,500천원\n2030년 165,000천원\n필요성\n¡ 질환별 임상데이터 체계적 수집과 활용을 위하여 CDW를 구축하고자 함\n목표 및 내용\n(1) CDW 아키텍처 설계\n -병원 기존 정보시스템(EHR, OCS, LIS 등) 분석\n - 데이터 수집–...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "4",
+      "attachmentKey": "0e47f29be2bc53c7f49f8c55",
+      "fileName": "CDW구축_입찰공고문.hwp",
+      "extension": ".hwp",
+      "docType": "입찰공고문",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01751619/000/files/4",
+      "originalFileUrl": "/api/notices/R26BK01751619/000/original-files/4",
+      "pdfUrl": "/api/notices/R26BK01751619/000/files/4",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/CDW구축_입찰공고문.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/converted/CDW구축_입찰공고문.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01751619-000/converted/CDW구축_입찰공고문.pdf",
+      "pageCount": 2,
+      "textLength": 350,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "1. : AI \n (CDW) \n2. \n . : AI \n (CDW) \n . : 1,070,500,000 ( , 5 )\n . : ~ 2030 12 31 (5 )\n3. \n . : \n . : ( 43\n )\n . : (90%) + (10%)\n . : ( )\n4. \n . 12 14 \n \n . 24 ( , :\n1468) \n . 20 , 48 \n ( )\n . · · \n \n5. ( )\n . : 2026 10 07 ( ) 16:00\n . : 7 \n . : \n6. \n . : (e- ) \n . :\n• 1 \n• ( ) 1 \n• 1 \n• · · 1 \n• ( , , 1 )\n . : 200 , PDF \n ( 200MB )\n7. \n . , \n . .",
+      "analysis": {
+        "docType": "입찰공고문",
+        "summary": "1. : AI \n (CDW) \n2. \n . : AI \n (CDW) \n . : 1,070,500,000 ( , 5 )\n . : ~ 2030 12 31 (5 )\n3. \n . : \n . : ( 43\n )\n . : (90%) + (10%)\n . : ( )\n4. \n . 12 14 \n \n . 24 ( , :\n1468) \n . 20 , 48 \n ( )\n . · · \n \n5. ( )\n . : 2026 10 07 ( ) 16:00\n . : 7 \n . : \n6. \n . : (e- ) \n . :\n• 1 \n• ( ) 1 \n• 1 \n• · · 1 \n• ( , , 1 )\n . : 200 , PDF \n ( 200MB )\n7. \n . , \n . .",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01751619-000",
+    "sourceFile": "산출내역서.pdf",
+    "generatedAt": "2026-10-12T14:19:27.826304",
+    "match": {
+      "noticeId": "R26BK01751619-000",
+      "bidNtceNo": "R26BK01751619",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01751619-000",
+      "projectName": "",
+      "keywords": [
+        ") 원광대학교광주한방병원 부서 진료국 직위(급) 병원장 성명 이상관 연락처 062-670-6700 기간 계약 후~ 2030.12. 소요예산",
+        "R26BK01751619-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "용역 공고",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": ") 원광대학교광주한방병원 부서 진료국 직위(급) 병원장 성명 이상관 연락처 062-670-6700 기간 계약 후~ 2030.12. 소요예산",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01751619-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "2026년 180,000천원",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": ") 원광대학교광주한방병원 부서 진료국 직위(급) 병원장 성명 이상관 연락처 062-670-6700 기간 계약 후~ 2030.12. 소요예산",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "2026년 180,000천원",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4, A4 ○ ○, ○ ○ “ ”,,, ○, ○ ○ □ Ⅰ . 1. 2. 3. Ⅱ . 1. 2. 3. Ⅲ . 1. 2. Ⅳ . 1. 2. Ⅴ . 1. 2. 3. Ⅵ . 1. □ Ⅰ . 1., 3 (CDW ), . ([ 1,2,3,4] ) - 3 (CDW ) 12342.",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "ECR-001",
+          "requirement": ",",
+          "name": ",",
+          "detail": "Requirement (PSR) Project Support Requirement",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": "PC",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-003",
+          "requirement": "PC",
+          "name": "PC",
+          "detail": "RACK & KVM",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-004",
+          "requirement": "RACK & KVM",
+          "name": "RACK & KVM",
+          "detail": "Project Support Requirement , ) ECR-002 PC",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-005",
+          "requirement": "DBMS S/W",
+          "name": "DBMS S/W",
+          "detail": "DBMS S/W",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-006",
+          "requirement": "HIS",
+          "name": "HIS",
+          "detail": "HIS",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-001",
+          "requirement": "CDW",
+          "name": "CDW",
+          "detail": "ECR-002 PC ECR-003 RACK & KVM ECR-005 DBMS S/W ECR-006 HIS",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-002",
+          "requirement": "CDW",
+          "name": "CDW",
+          "detail": "EMR /",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-003",
+          "requirement": "ETL",
+          "name": "ETL",
+          "detail": "ETL",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-004",
+          "requirement": "ETL",
+          "name": "ETL",
+          "detail": "ECR-003 RACK & KVM ECR-005 DBMS S/W ECR-006 HIS CDW SFR-002 EMR /",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-005",
+          "requirement": "ETL",
+          "name": "ETL",
+          "detail": "ECR-005 DBMS S/W ECR-006 HIS CDW SFR-002 EMR /",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-006",
+          "requirement": "ETL",
+          "name": "ETL",
+          "detail": "ECR-005 DBMS S/W ECR-006 HIS CDW SFR-002 EMR /",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-007",
+          "requirement": "ETL",
+          "name": "ETL",
+          "detail": "ECR-006 HIS CDW SFR-002 EMR /",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-008",
+          "requirement": "ETL",
+          "name": "ETL",
+          "detail": "CDW SFR-002 EMR /",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-009",
+          "requirement": "ETL",
+          "name": "ETL",
+          "detail": "SFR-002 EMR /",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-010",
+          "requirement": "ETL",
+          "name": "ETL",
+          "detail": "CDW",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-011",
+          "requirement": "CDW",
+          "name": "CDW",
+          "detail": "SFR-003 ETL",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-012",
+          "requirement": "CDW",
+          "name": "CDW",
+          "detail": "CDW",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-013",
+          "requirement": "CDW",
+          "name": "CDW",
+          "detail": "CDW",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-014",
+          "requirement": "CDW",
+          "name": "CDW",
+          "detail": "CDW",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-015",
+          "requirement": "CDW",
+          "name": "CDW",
+          "detail": "CDW",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-016",
+          "requirement": "CDW",
+          "name": "CDW",
+          "detail": "CDW",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-001",
+          "requirement": "CDW",
+          "name": "CDW",
+          "detail": "CDW",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-002",
+          "requirement": "DB",
+          "name": "DB",
+          "detail": "DB",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-001",
+          "requirement": "SIR-001",
+          "name": "SIR-001",
+          "detail": "VER-001",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-001",
+          "requirement": "VER-003",
+          "name": "VER-003",
+          "detail": "PER-002 DB SIR-001 VER-001 VER-002",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-002",
+          "requirement": "VER-003",
+          "name": "VER-003",
+          "detail": "PER-002 DB SIR-001 VER-001 VER-002",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "VER-003",
+          "name": "VER-003",
+          "detail": "PER-002 DB SIR-001 VER-001 VER-002",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": "DB",
+          "name": "DB",
+          "detail": "DB",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "DB",
+          "name": "DB",
+          "detail": "VER-001 VER-002 VER-003",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": "DB",
+          "name": "DB",
+          "detail": "VER-001 VER-002 VER-003",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-005",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": "/",
+          "name": "/",
+          "detail": "VER-003 SER-002 DB",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": "/",
+          "name": "/",
+          "detail": "SER-002 DB",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": "/",
+          "name": "/",
+          "detail": "SER-002 DB",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": "/",
+          "name": "/",
+          "detail": "SER-002 DB",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": "/",
+          "name": "/",
+          "detail": "SER-002 DB",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-004",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-005",
+          "requirement": "PMR-005",
+          "name": "PMR-005",
+          "detail": "PMR-005",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-006",
+          "requirement": "PMR-006",
+          "name": "PMR-006",
+          "detail": "PMR-006",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-007",
+          "requirement": "PMR-007",
+          "name": "PMR-007",
+          "detail": "PMR-007",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-008",
+          "requirement": "PMR-008",
+          "name": "PMR-008",
+          "detail": "PMR-008",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": "PSR-001",
+          "name": "PSR-001",
+          "detail": "PSR-001",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": "PSR-002",
+          "name": "PSR-002",
+          "detail": "PSR-002",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-003",
+          "requirement": "PSR-003",
+          "name": "PSR-003",
+          "detail": "PSR-003",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-004",
+          "requirement": "PSR-004",
+          "name": "PSR-004",
+          "detail": "PSR-004",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": ") 원광대학교광주한방병원 부서 진료국 직위(급) 병원장 성명 이상관 연락처 062-670-6700 기간 계약 후~ 2030.12. 소요예산",
+        "noticeNumber": "R26BK01751619-000",
+        "budget": "2026년 180,000천원",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "전자파일 제출 매체, 원본/사본 구분 확인",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 1개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "D \n \n \nA B C D \n 1 1 2 3",
+          "score": 5.0,
+          "weight": 5.0,
+          "grade": "C",
+          "strategy": "누락 방지 중심으로 증빙과 기본 요건 확인",
+          "detail": "D \n \n \nA B C D \n 1 1 2 3 5점"
+        }
+      ],
+      "totals": {
+        "score": 5.0,
+        "weight": 5.0,
+        "gradeA": 0,
+        "gradeB": 0,
+        "gradeC": 1
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01751619-000",
+    "generatedAt": "2026-10-12T14:19:49.843897",
+    "sourceAnalysisAt": "2026-10-12T14:19:27.826304",
+    "projectName": "",
+    "sourceFile": "CDW구축 제안요청서 수정.hwp",
+    "requirementSourceFiles": [
+      "CDW구축 제안요청서 수정.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "ECR-001",
+        "name": "ECR-001",
+        "detail": ". ● S/W S/W , S/W ● , , , , , , ( , , ) .",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-002",
+        "name": "PC",
+        "detail": "3 , PC( ) 20 RACK Type CPU : 2.3GHz , 16Core * 2EA 256GB SSD 480GB * 2EA",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-003",
+        "name": "RACK & KVM",
+        "detail": "RACK & KVM RACK - 42U RACK- (32A PDU 2EA) KVM 8port 17 LCD TFT ( )",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-004",
+        "name": "ECR-004",
+        "detail": ". ● 64 x86 , . ● 3 , . ● HCI , SAN",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-005",
+        "name": "DBMS S/W",
+        "detail": "DBMS S/W ● 64 Linux Windows Server , . ● · , .",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-006",
+        "name": "HIS",
+        "detail": "HIS ● HIS CDW H/W S/W HIS . 2. (System Function Requirement) . CDW",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-001",
+        "name": "SFR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-002",
+        "name": "EMR /",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-003",
+        "name": "ETL",
+        "detail": "ETL ● ● ● ETL ● ETL",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-004",
+        "name": "SFR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-005",
+        "name": "SFR-005",
+        "detail": "● CDW ● (identification) (identifier) : , , , (quasi-identifier) : , , ,",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-006",
+        "name": "SFR-006",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-007",
+        "name": "SFR-007",
+        "detail": ") , , , ● EMR, ODS, DW, ETL ● EMR ● ●",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-008",
+        "name": "SFR-008",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-009",
+        "name": "SFR-009",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-010",
+        "name": "CDW",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-011",
+        "name": "SFR-011",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-012",
+        "name": "SFR-012",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-013",
+        "name": "SFR-013",
+        "detail": "● , , ● , , , ● , ● , , ●",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-014",
+        "name": "SFR-014",
+        "detail": ", , , ● , , , , , ● , , , , ,",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-015",
+        "name": "SFR-015",
+        "detail": "(drag and drop, FUNNEL Chart ) ● ● QUERY",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-016",
+        "name": "SFR-016",
+        "detail": "● / ● , , , , , , , ● (Line, Bar, Pie, Scatter, Boxplot, Funnel, Sankey, Treemap ) ●",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-001",
+        "name": "PER-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-002",
+        "name": "DB",
+        "detail": "DB ● ● 4. (System Interface Requirement)",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-001",
+        "name": "SIR-001",
+        "detail": "● 5. (Data Requirement)",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-001",
+        "name": "VER-001",
+        "detail": "● DW ● ( , , , ) DW ● /",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-001",
+        "name": "TER-001",
+        "detail": "● ● , , / , / , ● ( , )",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-002",
+        "name": "TER-002",
+        "detail": "● ( ) ● 8. (Security Requirement)",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "SER-001",
+        "detail": "● ( , 2022.12) ● ( , 2010. 1.) ● ( , 2021. 5.) ● ( , 2020.12) ● ( 2020-2 )",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "DB",
+        "detail": "DB ● , , , , , IP “ ”",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "SER-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "SER-004",
+        "detail": "․ IP ( ) · /IPS, / 9 1 2 1",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-005",
+        "name": "/",
+        "detail": "/ ● DB , ● PC , 10 , DLP, , ● PC",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "QUR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": "QUR-002",
+        "detail": "baseline ● ( ) ● , , , ●",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": "COR-001",
+        "detail": "● , , ● PC ● , , ● ●",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": "COR-002",
+        "detail": ", 11. (Project Management Requirement)",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "PMR-001",
+        "detail": "● , , ● (PM) CDW PM ● , ,",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "PMR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "PMR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-004",
+        "name": "PMR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-005",
+        "name": "PMR-005",
+        "detail": ", , , ● ( , ) ● ● , ● ,",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-006",
+        "name": "PMR-006",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-007",
+        "name": "PMR-007",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-008",
+        "name": "PMR-008",
+        "detail": ", , ● , , , ● , , 12. (Project Support Requirement)",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "PSR-001",
+        "detail": "● 3 SW , 1 ● 24 ● 1",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": "PSR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-003",
+        "name": "PSR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-004",
+        "name": "3",
+        "detail": "1. (Equipment Composition Requirement)",
+        "source": "CDW구축 제안요청서 수정.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "D A B C D 1 1 2 3",
+        "score": 5.0,
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 50,
+        "mappedRequirementCodes": [
+          "PSR-001",
+          "PSR-002",
+          "PSR-003",
+          "PSR-004"
+        ],
+        "source": "배점표",
+        "detail": "D A B C D 1 1 2 3 5점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [
+              "ECR-001",
+              "ECR-002",
+              "ECR-003",
+              "ECR-004",
+              "ECR-005",
+              "ECR-006"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "SFR-001",
+              "SFR-002",
+              "SFR-003",
+              "SFR-004",
+              "SFR-005",
+              "SFR-006",
+              "SFR-007",
+              "SFR-008",
+              "SFR-009",
+              "SFR-010",
+              "SFR-011",
+              "SFR-012",
+              "SFR-013",
+              "SFR-014",
+              "SFR-015",
+              "SFR-016",
+              "SIR-001",
+              "DAR-001"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "PER-001",
+              "PER-002",
+              "TER-001",
+              "TER-002",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "SER-005",
+              "QUR-001",
+              "QUR-002",
+              "COR-001",
+              "COR-002"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-001",
+              "PMR-002",
+              "PMR-003",
+              "PMR-004",
+              "PMR-005",
+              "PMR-006",
+              "PMR-007",
+              "PMR-008"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-001",
+              "PSR-002",
+              "PSR-003",
+              "PSR-004"
+            ],
+            "recommendedPages": 50
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 49,
+      "mappedRequirements": 49,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}
