@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01762068",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-10-12T13:52:46.922648",
+  "analyzedAt": "2026-10-19T12:57:54.782582",
   "status": "completed",
   "source": {
     "fileName": "(제안요청서) KNU 통합 AI 포털시스템 1단계 구축 사업 감리 용역.hwpx",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01762068-000",
     "sourceFile": "(제안요청서) KNU 통합 AI 포털시스템 1단계 구축 사업 감리 용역.hwpx",
-    "generatedAt": "2026-10-12T13:52:46.412735",
+    "generatedAt": "2026-10-19T12:57:54.197174",
     "match": {
       "noticeId": "R26BK01762068-000",
       "bidNtceNo": "R26BK01762068",
@@ -723,8 +723,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01762068-000",
-    "generatedAt": "2026-10-12T13:52:46.922621",
-    "sourceAnalysisAt": "2026-10-12T13:52:46.412735",
+    "generatedAt": "2026-10-19T12:57:54.782565",
+    "sourceAnalysisAt": "2026-10-19T12:57:54.197174",
     "projectName": "KNU 통합 AI 포털시스템 1단계 구축 사업 감리 용역 주관부서 강원대학교 정보화본부",
     "sourceFile": "(제안요청서) KNU 통합 AI 포털시스템 1단계 구축 사업 감리 용역.hwpx",
     "requirementSourceFiles": [

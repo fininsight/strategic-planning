@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01753412",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-10-12T14:03:20.638951",
+  "analyzedAt": "2026-10-19T13:01:25.009064",
   "status": "completed",
   "source": {
     "fileName": "긴급입찰사유서_AI 맞춤형 교수학습 플랫폼 고도화.hwp",
@@ -175,7 +175,7 @@
   "proposalSheets": {
     "id": "R26BK01753412-000",
     "sourceFile": "긴급입찰사유서_AI 맞춤형 교수학습 플랫폼 고도화.hwp",
-    "generatedAt": "2026-10-12T14:01:03.692395",
+    "generatedAt": "2026-10-19T12:58:59.727943",
     "match": {
       "noticeId": "R26BK01753412-000",
       "bidNtceNo": "R26BK01753412",
@@ -1209,8 +1209,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01753412-000",
-    "generatedAt": "2026-10-12T14:03:20.638911",
-    "sourceAnalysisAt": "2026-10-12T14:01:03.692395",
+    "generatedAt": "2026-10-19T13:01:25.009038",
+    "sourceAnalysisAt": "2026-10-19T12:58:59.727943",
     "projectName": "시행일 : 원가계산 보고서 한국지능정보사회진흥원 AI 맞춤형 교수학습 플랫폼 고도화",
     "sourceFile": "수정 제안요청서.hwpx",
     "requirementSourceFiles": [
