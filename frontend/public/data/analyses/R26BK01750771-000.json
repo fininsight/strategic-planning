@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01750771",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-10-19T12:50:21.474148",
+  "analyzedAt": "2026-10-26T12:48:33.877276",
   "status": "completed",
   "source": {
     "fileName": "입찰공고서_2026년 권역책임의료기관 AI 기반 진료시스템 지원 서비스 도입 및 통합 플랫폼 용역.pdf",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01750771-000",
     "sourceFile": "입찰공고서_2026년 권역책임의료기관 AI 기반 진료시스템 지원 서비스 도입 및 통합 플랫폼 용역.pdf",
-    "generatedAt": "2026-10-19T12:50:20.659275",
+    "generatedAt": "2026-10-26T12:48:32.985869",
     "match": {
       "noticeId": "R26BK01750771-000",
       "bidNtceNo": "R26BK01750771",
@@ -692,8 +692,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01750771-000",
-    "generatedAt": "2026-10-19T12:50:21.474131",
-    "sourceAnalysisAt": "2026-10-19T12:50:20.659275",
+    "generatedAt": "2026-10-26T12:48:33.877255",
+    "sourceAnalysisAt": "2026-10-26T12:48:32.985869",
     "projectName": "2026년 권역책임의료기관 AI 기반 진료시스템 지원 서비스 도입 및 통합 플랫폼 용역 ○ 사업기간 : 2026. 12. 1. ~ 2027. 3.",
     "sourceFile": "제안요청서_2026년 권역책임의료기관 AI 기반 진료시스템 지원 서비스 도입 및 통합 플랫폼 용역.hwpx",
     "requirementSourceFiles": [

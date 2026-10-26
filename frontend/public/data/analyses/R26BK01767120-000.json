@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01767120",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-10-19T12:45:10.345656",
+  "analyzedAt": "2026-10-26T13:00:31.451775",
   "status": "completed",
   "source": {
     "fileName": "(제안요청서)2026. AI·빅데이터 플랫폼[아이모두] 교수·학습 지원 협업 플랫폼 사용권 구매 용역 제안요청서.hwp",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01767120-000",
     "sourceFile": "(제안요청서)2026. AI·빅데이터 플랫폼[아이모두] 교수·학습 지원 협업 플랫폼 사용권 구매 용역 제안요청서.hwp",
-    "generatedAt": "2026-10-19T12:44:23.485141",
+    "generatedAt": "2026-10-26T12:59:43.587034",
     "match": {
       "noticeId": "R26BK01767120-000",
       "bidNtceNo": "R26BK01767120",
@@ -668,8 +668,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01767120-000",
-    "generatedAt": "2026-10-19T12:45:10.345636",
-    "sourceAnalysisAt": "2026-10-19T12:44:23.485141",
+    "generatedAt": "2026-10-26T13:00:31.451754",
+    "sourceAnalysisAt": "2026-10-26T12:59:43.587034",
     "projectName": "",
     "sourceFile": "(제안요청서)2026. AI·빅데이터 플랫폼[아이모두] 교수·학습 지원 협업 플랫폼 사용권 구매 용역 제안요청서.hwp",
     "requirementSourceFiles": [

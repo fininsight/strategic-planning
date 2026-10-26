@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01756240",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-10-19T13:02:21.476732",
+  "analyzedAt": "2026-10-26T13:04:14.962647",
   "status": "completed",
   "source": {
     "fileName": "제안요청서(수정).hwpx",
@@ -91,7 +91,7 @@
   "proposalSheets": {
     "id": "R26BK01756240-000",
     "sourceFile": "제안요청서(수정).hwpx",
-    "generatedAt": "2026-10-19T13:02:20.968091",
+    "generatedAt": "2026-10-26T13:04:14.452476",
     "match": {
       "noticeId": "R26BK01756240-000",
       "bidNtceNo": "R26BK01756240",
@@ -1094,8 +1094,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01756240-000",
-    "generatedAt": "2026-10-19T13:02:21.476711",
-    "sourceAnalysisAt": "2026-10-19T13:02:20.968091",
+    "generatedAt": "2026-10-26T13:04:14.962624",
+    "sourceAnalysisAt": "2026-10-26T13:04:14.452476",
     "projectName": "AI 인프라 및 생성형 AI 구축 사업 주관기관 신용보증재단중앙회",
     "sourceFile": "제안요청서(수정).hwpx",
     "requirementSourceFiles": [

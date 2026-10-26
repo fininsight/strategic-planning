@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01775500",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-10-19T12:51:40.726062",
+  "analyzedAt": "2026-10-26T12:54:28.809212",
   "status": "completed",
   "source": {
     "fileName": "2. 입찰공고문(2027년 농식품 빅데이터 거래소(KADX) 운영 및 유지관리 사업).pdf",
@@ -259,7 +259,7 @@
   "proposalSheets": {
     "id": "R26BK01775500-000",
     "sourceFile": "2. 입찰공고문(2027년 농식품 빅데이터 거래소(KADX) 운영 및 유지관리 사업).pdf",
-    "generatedAt": "2026-10-19T12:51:31.515000",
+    "generatedAt": "2026-10-26T12:54:19.260390",
     "match": {
       "noticeId": "R26BK01775500-000",
       "bidNtceNo": "R26BK01775500",
@@ -1429,8 +1429,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01775500-000",
-    "generatedAt": "2026-10-19T12:51:40.726042",
-    "sourceAnalysisAt": "2026-10-19T12:51:31.515000",
+    "generatedAt": "2026-10-26T12:54:28.809187",
+    "sourceAnalysisAt": "2026-10-26T12:54:19.260390",
     "projectName": "2027년 농식품 빅데이터 거래소(KADX) 운영 및 유지관리 주관기관 한국농수산식품유통공사",
     "sourceFile": "3. 제안요청서 (2027년 농식품 빅데이터 거래소(KADX) 운영 및 유지관리).hwpx",
     "requirementSourceFiles": [

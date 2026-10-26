@@ -1,0 +1,3436 @@
+{
+  "bidNtceNo": "R26BK01780002",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-10-26T12:47:40.675900",
+  "status": "completed",
+  "source": {
+    "fileName": "긴급입찰 사유서.pdf",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01780002-000/긴급입찰 사유서.pdf",
+    "pageCount": 1,
+    "textLength": 383,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "긴급입찰 사유서.pdf",
+      "extension": ".pdf",
+      "size": 29024,
+      "kindCode": ""
+    },
+    {
+      "fileName": "산출 내역서.pdf",
+      "extension": ".pdf",
+      "size": 32158,
+      "kindCode": ""
+    },
+    {
+      "fileName": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+      "extension": ".hwp",
+      "size": 620544,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "693bda0f5ec51b04488cdae2",
+      "fileName": "긴급입찰 사유서.pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01780002/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01780002/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01780002/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01780002-000/긴급입찰 사유서.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01780002-000/긴급입찰 사유서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01780002-000/긴급입찰 사유서.pdf",
+      "pageCount": 1,
+      "textLength": 383,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "긴 급 입 찰 사 유 서\n□ 사업 개요\n ○ 사업명: 전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축\n ○ 주요 사업 내용\n - AI 기반 교과·비교과 운영 통합 플랫폼 개발 \n - 생성형 AI 연동 및 인프라 구축 \n - 실시간 다국어 자동 자막 및 번역 연동 서비스 구축\n - 데이터 정합성 검증, 보안성 검토 및 사용자 운영 매뉴얼 개발\n ○ 사업예산: 495,000,000원(VAT포함)\n ○ 사업기간: 계약일로부터 4개월\n ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약)\n□ 긴급입찰 사유\n - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 \n따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 \n입찰 추진이 필요함\n□ 공고기간: 10일",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "AI 기반 교과·비교과 운영 통합 플랫폼 개발 \n - 생성형 AI 연동 및 인프라 구축 \n - 실시간 다국어 자동 자막 및 번역 연동 서비스 구축\n - 데이터 정합성 검증, 보안성 검토 및 사용자 운영 매뉴얼 개발\n ○ 사업예산: 495,000,000원(VAT포함)\n ○ 사업기간:",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "8cb6b0d82335c2a022e90543",
+      "fileName": "산출 내역서.pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01780002/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01780002/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01780002/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01780002-000/산출 내역서.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01780002-000/산출 내역서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01780002-000/산출 내역서.pdf",
+      "pageCount": 1,
+      "textLength": 598,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "산출내역서\n건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축\nNo 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원)\n1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804 4 40,347,216\n2 SW기술자\nIT아키텍트\n(인프라 엔지니어: 인프라 \n설계,연계,장애 관리)\n11,103,230 2 22,206,460\n3 SW기술자\n응용SW개발자\n(백엔드 개발자: 모델구축 \n학습, 최적화, 환경 개발)\n10,285,676 4 41,142,704\n4 SW기술자 응용SW 개발자(프론트엔드 개발자) 10,285,676 ４ 41,142,704\n5 SW기술자\nUI/UX기획/개발자\n(프론트엔드　기획자:UI/UX \n구현, 대시보드 시각화)\n11,853,218 4 47,412,872\n6 SW기술자 UI/UX디자이너 5,159,246 4 20,636,984\n월평균 일수 (일) 20\n직접 인건비 합계 (원) 212,888,940\n제경비 (원) 112% 238,435,613\n기술료 (원) - - \n합계 (원)\n인건비+제경비+\n기술료 451,324,553\n부가세(10%) 45,132,455\n계산금액 496,457,008\n적용금액 495,000,000",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "산출내역서\n건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축\nNo 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원)\n1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804 4 40,347,216\n2 SW기술자\nIT아키텍트\n(인프라 엔지니어: 인프라 \n설계,연계,장애 관리)\n11,103,230 2 22,206,460\n3 SW기술자\n응용SW개발자\n(백엔드 개발자: 모델구축 \n학습, 최적화, 환경 개발)\n10,285,676 4 41,142,704\n4 SW기술자 응용SW 개발자(프론트엔드 개발자) 10,285,676 ４ 41,142,704\n5 SW기술자\nUI/UX기획/개발자\n(프론트엔드　기획자:UI/UX \n구현,...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "2",
+      "attachmentKey": "e68c616754b96b2ba11687a8",
+      "fileName": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01780002/000/files/2",
+      "originalFileUrl": "/api/notices/R26BK01780002/000/original-files/2",
+      "pdfUrl": "/api/notices/R26BK01780002/000/files/2",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01780002-000/제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01780002-000/converted/제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01780002-000/converted/제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.pdf",
+      "pageCount": 107,
+      "textLength": 22376,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI (e 2.0) \n \n2026. 10.\n \n \n \n \nmulti@jnu.ac.kr\n062-530-2338\n \nⅠ . 1\n1. 1\n2. 1\n3. 2\n4. 2\n5. 2\n6. 3\n . 3\n . 4\nⅡ . 5\n1. 5\n2. 7\n . 7\n . 7\n3. 13\n . 13\n . 15\n . 55\n . 56\n . 57\n . 59\n . 59\n . 63\n . 64\n . 67\n . 70\nⅢ . 72\n1. 72\n2. 73\n3. 73\n4. 74\n5. 74\n6. ‧ 75\n7. ( ) 75\nⅣ . 77\n1. 77\n2. 77\n3. 78\nⅤ . 81\n1. 81\n2. 81\n3. 82\n4. 83\n5. 83\n6. SW SW 84\n7. 84\n8. SW 84\n9. 84\n10. 85\n11. 85\nⅥ . 86\n1. 86\n2. 87\n3. 87\n4. 87\n5. 88\nⅦ . 90\n[ 1] 90\n[ 2] 92\n[ 3] 93\n[ 4] 94\n[ 5] 95\nⅧ . ( ) ( ) 96\n[ 1] 97\n[ 2] ( ) 98\n[ 3] 99\n[ 4] 101\n[ 5] 102\n[ 6] 104\n[ 7] 105\n[ 8] 107\n[ 9] 108\n[ 10] 109\n[ 11] 113\n[ 12] 114\nⅠ . \n1. \n❏ : AI (e 2.0) \n❏ : 120 \n❏ : 495,000,000 \n❏ : \n❏ : \n2. \n❏ ( ) \n \n❏ (AI ) AI AI \n \n❏ ( ) AI \n \n❏ ( ) \n❏ ( ) \n \n ( ) \n❏ ( ) · \n \n3. \n❏ AI (e 2.0) \n◦ AI , / , , , \n \n◦ AI ( ) , \n◦ AI ( 12 ) \n◦ · \n◦ LMS(App) LCMS( ) \n◦ ( , ), , , , , \n , \n◦ \n◦ ( , , ) \n \n◦ AI UI/UX \n◦ \n4. \n❏ AI · \n \n❏ AI \n \n❏ \n❏ · \n5. : 120 \n \n \n2026 \nM M+1 M+2 M+3 M+4\n \n \n \n \n \n \n \n \n( / )\n \n \n \n \n , \n \n \n6. \n . \n \n \n \n \n \n . \n \n \n∘ \n∘ \n∘ ( )\n∘ \n \n / \n \n∘ \n∘ \n∘ \n∘ ( )\n \n∘ AI \n∘ \n∘ \n∘ / \n∘ \nⅡ . \n1. \n \n◦ .\n◦ .\n◦ , , \n .\n◦ · .\n◦ , , \n .\n◦ \n .\n◦ , PM(Project Manager), , \n , , , , , \n .\n◦ , \n .\n◦ \n .\n◦ \n .\n◦ .\n \n◦ .\n- (Role) , CRUD(Creat, Read,\nUpdate, Delete) .\n- .\n- .\n◦ · , , \n .\n◦ · \n .\n◦ , \n .\n◦ \n , .\n◦ · .\n \n◦ .\n◦ .\n◦ .\n◦ , \n · .\n \n◦ , , , \n , .\n◦ , \n .\n \n◦ , S/W 12 \n .\n◦ \n .\n \n◦ \n , , \n , , · .\n◦ · , \n .\n2. \n . \n \nID\n \n \n Equipment Composition Requirement ECR-000 3\n System Function Requirement SFR-000 92\n Performance Requirement PER-000 2\n System Interface Requirement SIR-000 2\n Data Requirement DAR-000 6\n Test Requirement TER-000 1\n Security Requirement SER-000 9\n Quality Requirement QUR-000 3\n Constraint Requirement COR-000 5\n Project Management Requirement PMR-000 4\n Project Support Requirement PSR-000 4\n \n . \n \n \n \nECR-001 \nECR-002 CMS \nECR-003 S/W \n SFR-001 \nSFR-002 · \nSFR-003 , , \nSFR-004 \nSFR-005 \nSFR-006 ( ) \nSFR-007 \nSFR-008 \nSFR-009 \nSFR-010 \nSFR-011 \nSFR-012 \nSFR-013 \nSFR-014 \nSFR-015 \nSFR-016 \nSFR-017 (Universal Design)\nSFR-018 \nSFR-019 \nSFR-020 ( ) \nSFR-021 ( ) \nSFR-022 ( ) \nSFR-023 ( ) \nSFR-024 ( ) \nSFR-025 ( ) / \nSFR-026 ( ) \nSFR-027 ( ) / \nSFR-028 ( ) \nSFR-029 ( ) \nSFR-030 ( ) \nSFR-031 ( ) \nSFR-032 ( ) \nSFR-033 ( ) \nSFR-034 ( ) & & \nSFR-035 ( ) \nSFR-036 ( ) \nSFR-037 ( ) \nSFR-038 ( ) \nSFR-039 ( ) \nSFR-040 ( ) \nSFR-041 ( ) \nSFR-042 ( ) \nSFR-043 ( ) \nSFR-044 ( ) \nSFR-045 ( ) \nSFR-046 ( ) \nSFR-047 ( ) \nSFR-048 ( ) \nSFR-049 ( ) \nSFR-050 ( ) \nSFR-051 ( ) \nSFR-052 ( ) \nSFR-053 ( ) \nSFR-054 ( ) \nSFR-055 ( ) \nSFR-056 ( ) KOCW \nSFR-057 ( ) \nSFR-058 ( ) \nSFR-059 (MOOC) \nSFR-060 (MOOC) \nSFR-061 (MOOC) \nSFR-062 – CDN\nSFR-063 \nSFR-064 \nSFR-065 \nSFR-066 \nSFR-067 \nSFR-068 ( / )\nSFR-069 \nSFR-070 (DM)\nSFR-071 \nSFR-072 \nSFR-073 AI \nSFR-074 AI \nSFR-075 AI \nSFR-076 AI \nSFR-077 AI \nSFR-078 \nSFR-079 AI \nSFR-080 AI \nSFR-081 ( )\nSFR-082 AI \nSFR-083 AI Q&A \nSFR-084 AI \nSFR-085 AI \nSFR-086 AI \nSFR-087 AI LLM \nSFR-088 ( )\nSFR-089 \nSFR-090 ( ) \nSFR-091 ( ) \nSFR-092 ( ) UI/UX \n \nPER-001 \nPER-002 \n \nSIR-001 \nSIR-002 \n DAR-001 \nDAR-002 \nDAR-003 \nDAR-004 \nDAR-005 \nDAR-006 SQL \n TER-001 \n \nSER-001 \nSER-002 \nSER-003 \nSER-004 \nSER-005 \nSER-006 \nSER-007 \nSER-008 \nSER-009 \n \nQUR-001 \nQUR-002 \nQUR-003 \n \nCOR-001 \nCOR-002 \nCOR-003 \nCOR-004 \nCOR-005 \n \nPMR-001 \nPMR-002 \nPMR-003 \nPMR-004 \n \nPSR-001 \nPSR-002 \nPSR-003 \nPSR-004 \n3. \n . \n ECR-001\n \n \n \n \n \n \n \n○ , H/W ( \n )\n○ \n○ OS / WAS / DBMS \n \n \n \n( ) \nCPU\n(vcore)\nMEM\n(GB)\nDISK\n(GB)\n \n \n \n \n \n \nWEB/WAS 6 32 100 2\nDB 16 32 500 1\nCache 4 8 100 1\n 2 4 300 1\n 5\n \nS/W\nOS S/W 5\nWEB\nApache 1\nWEB 1\nDBMS\n S/W \n \n1\nDBMS 1\nCDN , VOD CDN\n \n-\n \n \nECR-002\n \n \nCMS \n \n \n \n \n \n \n \n \nCMS \n \n \n○ VOD CMS \n○ CDN \n- ( / / ) \n \n \n \n \n mp4 \n VOD CDN \n※ VOD CDN \n- CDN \n- URL \n- , / \n- HTTPS (SSL ), , HTTPS \n \n \n \n \n \n \n \nS/W\n- / / \n- H.264/AVC \n-\n(AVI/WMV/WMA/ASF/MPG/MPEG/MOV/MP4/M4V/MP3/FLV/MKV/OGG/WAV/RM/PCM/M2TS/SKM/K3G/3GP\n )\n- QUEUE \n- PC, \n- \n1\n \n \nS/W\n- (device) \n- RTSP, RTMP, HLS, MPEG-TS, NFS/AFS, ICY \n- \n- \n- \n1\n ECR-003\n S/W \n \n \n S/W \n( )\n \n \n○ \n- \n- / \n○ \n- CMS \n . \n SFR-001\n \n \n \n \n \n \n○ (IMS Global, ADL SCORM ) (Web ,\nSQL, ) \n○ \n- ( )\n- (KICS)\n- \n○ (SCORM, IMS ) \n \n○ (Active-X) \n( , , )\n○ (Device, Os, Browser) \n \n- Device : PC, Tablet PC, Mobile\n- OS : Windows, MacOS, Linux PC \niOS, Android, Windows Mobile \n- Browser : Internet Explorer 10, Firefox 5, Chrome 17, Safari 5,\nOpera9 \n○ “SFR-063” \n .\n SFR-002\n · \n \n \n · \n \n \n○ PC \n– \n– OS ( \n )\n○ , \n SFR-003\n , , \n \n \n , , \n \n \n○ , \n , \n \n○ , ( , ,\n , ), ( ), , \n \n \n○ \n- : , , , , , , , ,\n \n- \n- , \n- \n○ , \n \n○ 1 1 \n- / \n- \n- \n- \n- \n- \n○ ( ) \n \n SFR-004\n \n \n \n \n \n \n○ \n- \n- \n- (OpenCourseWare) \n- / \n- ( , , ) \n○ \n- \n- · \n○ (100% , , ) \n○ , , (Blended Learning), MOOC \n \n○ \n , \n \n \n○ , , , \n \n○ , \n \n- \n- \n○ \n SFR-005\n \n \n \n \n \n \n○ SSO (SSO \n 3 ), / \n \n○ , \n- \n- \n- IP, \n- \n- \n○ (Secure Sockets Layer:SSL) \n \n○ \n \n○ , 2 3 \n \n○ DB \n SFR-006\n ( ) \n \n \n ( ) \n \n \n○ (Mail, SMS ) \n○ \n- \n- ( , )\n○ LMS \n SFR-007\n \n \n \n \n \n \n○ \n○ , , , \n○ ( , , / )\n○ \n○ , \n( , )\n○ , \n ( . )\n SFR-008\n \n \n \n \n \n \n○ Data Migration \n○ DB \n \n- , , , , , , ,\n \n SFR-009\n \n \n \n \n \n \n○ (iOS / Android 2 )\n○ \n- / \n- PC / Mobile \n- App \n- \n○ \n○ \n- (SSL )\n- \n- \n- , , ( )\n○ PC \n \n○ PC \n \n○ , \n○ ( , ) (OTP), ,\nSMS, \n○ \n- \n- \n SFR-010\n \n \n \n \n \n \n○ \n- , \n○ PC \n○ 3,000 \n○ \n○ PC , \n \n○ , , \n○ , , , \n○ \n○ \n○ , , \n○ , , \n○ ( , ( , PC), IP, , , \n ) \n○ ( )\n○ \n○ \n○ \n○ ( )\n SFR-011\n \n \n \n \n ○ IT (UX) \n ○ ( ) \n○ Drag & Drop \n(Drag & Drop )\n○ (zip) \n○ \n○ Dropbox, Google Drive, Office365 \n○ \n , \n SFR-012\n \n \n \n \n \n \n○ \n- iCal Calendar (Google Calendar) \n- \n- , \n- ‘ ’ \n○ \n- (D-1)\n SFR-013\n \n \n \n \n \n \n○ ( , , , , ) \n◯ Latex( ) \n◯ LLM \n- : \n- : \n- : ( : ) \n- \n SFR-014\n \n \n \n \n \n \n○ \n \n○ PC/MAC \n \n○ , / , , \n , , \n \n○ \n- \n( , , , , )\n○ ( , , ) ( , , HTML\n )\n○ \n○ ( ) , \n○ \n SFR-015\n \n \n \n \n \n \n \n○ , \n○ , \n \n○ ( , \n )\n SFR-016\n \n \n \n \n \n \n○ ( )\n- ( , , )\n- SMS, OTP, \n SFR-017\n (Universal Design)\n \n \n (Universal Design)\n \n \n○ , , , \n (UD) \n- , \n- / / LMS \n SFR-018\n \n \n \n \n \n \n○ \n- ( ) \n○ \n- , , , , , \n \n- , \n \n○ \n- ( , , )\n- \n SFR-019\n \n \n \n \n \n \n○ Code Share \n- 2 \n- , 0 \n- \n- ( ) \n- \n- \n \n SFR-020\n ( ) \n \n \n ( ) \n \n \n○ \n○ / / \n○ \n- \n \n- \n \n○ , , , , \n \n○ \n○ \n SFR-021\n ( ) \n \n \n ( ) \n \n \n○ AI , , , \n \n○ AI \n○ SCORM/ / / / ( , , ,\n ) \n○ , \n \n○ PBL(Problem Based Learning) \n \n \n○ (LD : Learning Design) \n○ / \n○ Flipped Learning, MOOC \n○ - , - , - \n (interactivity) \n \n SFR-022\n ( ) \n \n \n ( ) \n \n \n○ \n- , \n- \n- / \n- \n- \n- \n- \n- \n○ \n- \n- \n- , \n- \n SFR-023\n ( ) \n \n \n ( ) \n \n \n○ ( , , ) \n ( , , , O/X ) ( / ) \n \n- , “ . .” \n \n○ [ ] \n○ \n○ , (Youtube ) \n \n○ ( Random\n , Random , Random , IP , \n )\n○ \n SFR-024\n ( ) \n \n \n ( ) \n \n \n○ \n○ , \n \n○ PBL(Problem Based Learning) \n \n \n○ \n○ \n SFR-025\n ( ) / \n \n \n ( ) / \n \n \n○ , / \n○ , \n / \n- \n○ / \n- / , \n \n○ \n SFR-026\n ( ) \n \n \n ( ) \n \n \n○ Google Drive Youtube \n○ Dropbox, OneDrive \n SFR-027\n ( ) / \n \n \n ( ) / \n \n \n○ , \n- , ‘ ’ \n○ \n○ , \n / \n○ , \n SFR-028\n ( ) \n \n \n ( ) \n \n \n○ / ( / / / )\n○ \n○ \n○ \n○ \n( )\n SFR-029\n ( ) \n \n \n ( ) \n \n \n○ e-mail, , , SMS \n \n○ ( , , ) \n \n○ , , \n , / /SMS \n \n○ \n○ , \n○ \n SFR-030\n ( ) \n \n \n ( ) \n \n \n○ \n- / / \n- \n○ , \n / \n○ \n- \n \n- , , , , \n○ \n○ \n SFR-031\n ( ) \n \n \n ( ) \n \n \n○ / \n○ \n○ / \n○ Mobile/Tablet PC \n○ \n○ \n○ \n○ \n \n○ \n○ PC , \n \n○ \n- \n- ( , , , )\n- \n○ · \n○ \n- , \n \n○ · ( Push )\n○ · \n SFR-032\n ( ) \n \n \n ( ) \n \n \n○ / \n○ , \n○ / \n○ / /ABC \n○ ( , , , )\n○ \n○ \n○ \n○ \n○ \n○ \n○ , , , \n \n○ , , , \n \n○ \n \n○ , , \n○ \n \n SFR-033\n ( ) \n \n \n ( ) \n \n \n○ ( / ) / \n \n○ ( / ) \n \n○ \n \n○ , , \n \n○ \n○ / \n SFR-034\n ( ) & & \n \n \n ( ) & & \n \n \n○ \n- \n \n- , ( ), , , \n \n○ \n○ \n SFR-035\n ( ) \n \n \n ( ) \n \n \n○ / \n○ , , \n○ \n○ \n○ \n○ ( ) \n \n○ \n \n○ , , \n○ \n○ (txt, doc, pdf, ppt, hwp )\n○ , \n ( )\n○ \n○ \n SFR-036\n ( ) \n \n \n ( ) \n \n \n○ ( ) \n- \n- \n- ( / / / ) \n SFR-037\n ( ) \n \n \n ( ) \n \n \n○ : , ( , Q&A, 1:1, ), , , , , \n , , , \n○ : , URL , , , , / , \n SFR-038\n ( ) \n \n \n ( ) \n \n \n○ (HWP, DOC, PPT, XLS, PDF) HTML \n \n○ \n○ \n○ \n○ Youtube \n SFR-039\n ( ) \n \n \n ( ) \n \n \n○ \n○ \n○ / \n○ \n○ / \n○ 1:1 \n○ SMS/Mail \n○ SMS/Mail \n○ / \n \n○ \n○ \n SFR-040\n ( ) \n \n \n ( ) \n \n \n○ \n○ , , \n○ (To do list) \n○ \n○ \n○ \n○ \n○ \n SFR-041\n ( ) \n \n \n ( ) \n \n \n○ \n- \n- / / / \n SFR-042\n ( ) \n \n \n ( ) \n \n \n○ , , Q&A, \n \n○ \n○ 1:1 \n SFR-043\n ( ) \n \n \n ( ) \n \n \n○ \n○ \n○ \n○ / / \n○ \n SFR-044\n ( ) \n \n \n ( ) \n \n \n○ \n- : , , , , , , \n- \n○ \n○ \n SFR-045\n ( ) \n \n \n ( ) \n \n \n○ \n○ \n○ \n○ \n○ \n○ \n SFR-046\n ( ) \n \n \n ( ) \n \n \n○ \n○ \n○ \n○ \n○ ( , , , \n )\n○ ‘ ’ \n \n SFR-047\n ( ) \n \n \n ( ) \n \n \n○ \n○ \n○ \n○ \n○ / \n SFR-048\n ( ) \n \n \n ( ) \n \n \n○ HTML5 \n○ OS/ \n○ ( )/ \n○ / \n○ (CC) \n○ \n○ \n○ \n○ \n SFR-049\n ( ) \n \n \n ( ) \n \n \n○ \n○ ( ) \n○ \n SFR-050\n ( ) \n \n \n ( ) \n \n \n○ \n- \n- \n- ( / ) \n- / \n- DB \n○ / ( / ) \n SFR-051\n ( ) \n \n \n ( ) \n \n \n○ , \n○ \n○ \n○ , , \n○ \n○ , \n○ \n( )\n SFR-052\n ( ) \n \n \n ( ) \n \n \n○ \n○ , , \n○ \n○ \n○ \n○ \n SFR-053\n ( ) \n \n \n ( ) \n \n \n○ \n- / / \n○ \n○ / \n○ \n○ ( , HTML) \n○ \n SFR-054\n ( ) \n \n \n ( ) \n \n \n○ \n- ( , , , , , , , /\n , Device )\n- \n- \n- \n- ( , , , / , \n / , / , , , \n , , )\n- \n- / \n- \n- \n SFR-055\n ( ) \n \n \n ( ) \n \n \n○ \n- \n- CPU/Memory/Disk/Network \n○ SMS \n- SMS \n- SMS \n- CPU, Memory, Disk SMS \n SFR-056\n ( ) KOCW \n \n \n ( ) KOCW \n \n \n○ \n○ KOCW \n○ / \n SFR-057\n ( ) \n \n \n ( ) \n \n \n○ ( , / , \n , )\n○ ( , ) \n- , , , IP \n SFR-058\n ( ) \n \n \n ( ) \n \n \n○ \n○ \n○ ( , , ) \n SFR-059\n (MOOC) \n \n \n (MOOC) \n \n \n○ \n- / /SNS \n- \n- \n○ \n- > MOOC \n- \n- / \n- \n- \n- / \n○ \n- \n- \n- \n- ( / ) \n- \n- \n- \n- \n○ \n- ( PG , )\n- \n- \n○ \n- \n- / \n- \n- \n- \n- \n- ( , )\n○ \n- (Youtube )\n- (HTML, )\n- ( )\n○ \n- \n- \n- \n- \n○ \n- / \n- \n○ / \n SFR-060\n (MOOC) \n \n \n (MOOC) \n \n \n○ \n- / \n- / ( / / / )\n- ( / , )\n- ( / / / / )\n- ( ): / / / \n- ( , , , )\n- Adaptive Learning \n- \n- · \n- / \n- \n- \n- \n- \n- \n- \n- (PDF) , PDF \n○ \n- \n- / / \n- / / \n- / \n- \n- \n SFR-061\n (MOOC) \n \n \n (MOOC) \n \n \n○ \n- \n- ( , , )\n- \n○ ( )\n- \n- \n- \n- \n- \n○ \n- \n- / \n- / \n- ( / / / ) \n SFR-062\n – CDN\n \n \n – CDN\n \n \n○ CDN \n○ CMS(VOD) CDN .\n○ (CMS <–> CDN ) \n \n○ CDN \n SFR-063\n \n \n \n \n \n \n○ \n○ PC \n○ (PC )\n○ ( ) \n○ \n○ (1.0 ~ 2.0 )\n○ \n○ ( , ) \n- , \n○ , \n \n○ \n SFR-064\n \n \n \n \n \n \n◯ / \n◯ \n- / / SNS - - \n \n◯ \n- ( , Private) > MOOC( , Open) \n- / - \n- / ( / / / \n ) ( )- / \n◯ \n- - - ( / )\n- ( + , / , )\n- - , \n- \n◯ \n- \n- \n- \n◯ \n- - / \n- / \n- \n- \n- \n- \n- ( , )\n◯ \n- (Youtube )\n- (HTML, )\n- ( )\n◯ : \n- / \n- \n- \n- \n◯ \n- / \n- \n◯ / \n SFR-065\n \n \n \n \n \n \n◯ ( ) \n◯ , , \n (Todo List) \n◯ ( , , ) \n◯ : , , \n , \n◯ : , TASK \n \n◯ : \n \n SFR-066\n \n \n \n \n ◯ \n ◯ / ‘ ’ , \n \n◯ / ‘ ’ , \n \n◯ ( , , , ) \n \n◯ ( ) ( ), \n \n SFR-067\n \n \n \n \n \n \n◯ \n◯ ( : , ) \n \n◯ \n◯ , \n◯ ( ) \n \n SFR-068\n ( / )\n \n \n \n \n \n◯ ( , ) ,\nPC \n◯ / \n◯ - : , , , \n◯ - : \n◯ \n◯ PC , \n / / / \n◯ \n◯ ( : 1 ) ( : 2\n , 3 ) \n◯ ( : ) \n \n SFR-069\n \n \n \n / \n \n \n○ OS \n- (PC, , PC ) \n \n- IOS, Android OS \n- \n- , UI \n UI \n○ \n- PC \n- 14\n 2 \n- PC \n- , , \n- , \n- \n- PC \n- \n- \n- \n SFR-070\n (DM)\n \n \n \n \n \n◯ \n◯ (DM) , \n◯ UI/UX , \n \n◯ \n \n◯ , , , \n \n◯ , , \n \n◯ , \n \n SFR-071\n \n \n \n \n \n \n \n◯ \n◯ (DM) , \n◯ \n- \n- : \n- ( , , ) ( : n , n )\n- ( : )\n◯ : \n \n SFR-072\n \n \n \n \n \n \n◯ Zoom, Teams \n- , , \n- \n- URL ( )\n◯ \n- , , , \n- , \n◯ S/W \n◯ \n SFR-073\n AI \n \n \n \n \n \n◯ CMS , \n◯ 12 \n- .\n◯ \n- \n◯ \n- \n◯ AI ( \n )\n- \n SFR-074\n AI \n \n \n \n \n \n◯ \n◯ 12 \n- .\n◯ \n- \n- \n- , \n◯ \n- \n- AI \n- \n SFR-075\n AI \n \n \n ( ) , \n \n \n◯ ( ) ( /\n / ) \n◯ \n \n◯ \n- , , \n- , \n◯ ( ) \n◯ : \n◯ : \n◯ \n SFR-076\n AI \n \n \n AI \n \n \n◯ LMS \n◯ AI \n◯ , , \n \n◯ \n SFR-077\n AI \n \n \n AI \n \n \n◯ LMS , \n◯ , 4 \n◯ PC \n(QR )\n◯ STT .\n◯ / \n .\n◯ , \n SFR-078\n \n \n · , , \n \n \n◯ ( / ) / , \n \n◯ ( : , , ) \n \n◯ \n \n◯ , , , \n \n◯ · \n \n◯ , , \n \n◯ , \n \n◯ , \n \n SFR-079\n AI \n \n \n ( ) \n \n \n◯ / \n◯ , ( ), \n◯ ( ) \n◯ \n◯ ( , PDF, doc, ppt, ) \n \n◯ ( ) , \n \n◯ AI , \n \n SFR-080\n AI \n \n \n , AI \n \n \n◯ \n◯ ( , ) ( : , ) \n \n◯ \n◯ , \n◯ AI \n SFR-081\n ( )\n \n \n ( ) AI \n \n \n◯ , , \n \n◯ ' ' \n◯ AI ( , \n , AI )\n◯ \n◯ ( , , , ) \n \n◯ , \n◯ \n SFR-082\n A I \n \n \n AI \n \n \n○ LLM LLM \n- (LLM) , \n , \n○ , , \n○ \n- , \n \n○ ( · ), \n ( )\n○ \n- txt, docx, md, csv, html, htm, xlsx \n- RAG \n- , , \n○ RAG \n \n○ ( , ) ( ) \n○ \n○ \n SFR-083\n AI Q&A \n \n \n AI Q&A \n \n \n○ , , \n○ \n○ \n○ ( · ), \n \n○ FAQ \n○ ( , ) \n○ \n \n○ LLM ( , ) \n○ , \n \n○ , , , \n \n○ , \n \n○ \n○ ( ) \n○ \n \n SFR-084\n AI \n \n \n AI \n \n \n○ , , , \n \n- , , \n○ , , ↔ , \n \n- \n○ · \n \n SFR-085\n AI \n \n \n AI \n \n \n○ \n○ \n○ ( , , , , ) \n \n○ ( / ) ( ) \n○ ( , , , O/X ) / \n \n○ , \n○ \n○ ( ) \n○ \n SFR-086\n AI \n \n \n AI \n \n \n○ \n○ , , \n○ AI \n \n○ \n \n○ \n SFR-087\n AI LLM \n \n \n AI LLM \n \n \n○ LLM / \n○ LLM \n- AI \n- API (OpenAI, Anthropic, Google )\n○ RAG \n○ ( , ) \n○ AI \n○ AI ( , ) \n \n SFR-088\n \n \n \n \n \n \n○ LMS API \n- LMS / / / / \n◯ \n- LMS App \n- iOS/Android , , \n SFR-089\n \n \n \n \n \n \n○ LMS \n- LMS \n \n◯ PC \n- PC \n \n◯ \n◯ .\n- \n- / .\n- , , , \n◯ 1 .\n- 1 .\n◯ .\n- IP, , \n SFR-090\n ( ) \n \n \n ( ) \n \n \n○ \n- \n- ( ) \n- (SSO , SSL )\n◯ \n- ( )\n- \n- \n◯ \n- , , , \n SFR-091\n ( ) \n \n \n ( ) \n \n \n○ \n- \n- ( ) \n- (SSO , SSL )\n◯ \n- ( )\n- \n- \n◯ \n- , , \n \n SFR-092\n ( ) UI/UX \n \n \n ( ) UI/UX \n \n \n○ · , , , \n UI·UX \n \n◯ · · \n◯ \n . \n PER-001\n \n \n \n \n \n \n○ : 3 \n1) \n- 10,000 \n- ( 500KB ) \n- ( ) \n2) \n- 10 \n \n- ( 5,000 ) / / \n \n PER-002\n \n \n \n \n \n \n○ 3 \n \n○ \n 5 \n . \n SIR-001\n \n \n \n \n \n \n○ \n○ ( )\n○ \n○ \n- \n○ \n SIR-002\n \n \n \n \n \n \n○ , , \n○ \n \n . \n DAR-001\n \n \n \n \n \n \n○ , , , \n \n○ \n \n○ \n○ .\n DAR-002\n \n \n \n \n \n \n○ \n , ( ) \n \n DAR-003\n \n \n \n \n \n \n○ S/W DB \n \n- , , , \n \n- , , / \n \n- \n○ \n \n DAR-004\n \n \n \n \n \n \n○ , \n \n- \n○ \n , ․ \n \n○ \n- , \n DAR-005\n \n \n \n \n ○ , , \n - : DB \n- : 1 \n○ \n DAR-006\n SQL \n \n \n SQL \n \n \n○ \n○ DB ( , )\n○ DB ( )\n○ ( \n )\n . \n TER-001\n \n \n \n \n \n \n○ \n \n○ , , , , , \n \n○ \n \n○ \n \n . \n SER-001\n \n \n \n \n ○ \n - 5 10 \n- \n \n SER-002\n \n \n \n \n \n \n○ , , \n \n \n , \n- ( I-PIN, ) \n \n SSL \n \n SER-003\n \n \n \n \n \n \n○ ( , , , ) \n DB \n○ \n SER-004\n \n \n \n \n \n \n \n○ SQL , , , \n \n○ ‘ ’ \n< >\n• (SQL )\n• , , ( , \n )\n• ( )\n• ( , )\n• ( , )\n• API \n○ · \n \n- OWASP 10 \n- \n SER-005\n \n \n \n - \n \n \n○ PC \n- ( , \n ) SSL,\nTLS \n SER-006\n \n \n \n \n \n \n○ \n○ OS, \n○ SW ( )\n- \n○ , \n \n○ \n○ 3 , · \n \n○ \n○ \n SER-007\n \n \n \n \n \n \n (NIA)\n , \n \n . , 3 \n CISSP, CISA, SIS \n .\n \n- \n- , ( )\n- , \n- \n \n \n- \n- \n- ( \n )\n SER-008\n \n \n \n \n \n \n XML XML , XML , WS-Security, SAML \n .\n- : / ( ) \n .\n- : / (ARIA) \n .\n RSA(PKCS #1), RSAES-OAEP, RSASSA-PSS, \n .\n 2,048 .\n : ( ) \n .\n , , \n .\n- PC .\n IP PC .\n .\n SER-009\n \n \n \n \n \n \n ․ \n , \n< ‘ ’ >\n , , \n DB \n , \n \n \n . \n QUR-001\n \n \n \n \n \n \n○ , \n \n○ 24 \n QUR-002\n \n \n \n \n \n \n○ \n○ , \n○ \n- \n- 100% , \n , \n \n QUR-003\n \n \n \n \n \n \n○ : \n , , \n○ \n- 12 , \n 12 , , , \n .\n- : , \n \n○ .\n . \n COR-001\n \n \n \n \n \n \n○ \n \n- \n- \n- \n- , , \n COR-002\n \n \n \n \n \n \n○ W3C \n- W3C Markup Validation(http://validator.w3.org) \n- W3C CSS Validation(http://jigsaw.w3.org/css-validator) \n○ ( 2021-19\n ) \n- OS: Win, MAC, Linux \n- 3 (Chrome, Firefox, Opera, Edge ) \n○ Windows 8, 10 \n○ ActiveX \n○ “ \n2.1(KICS.OT-10.0003/R2)” \n COR-003\n \n \n \n \n \n \n○ \n- · ( )\n- ( )\n- ( )\n- 2.2( )\n- 2.1 ( )\n- ( )\n- · ( )\n- ( )\n- ( )\n- \n COR-004\n \n \n \n \n \n \n○ , · \n \n○ \n○ \n \n○ , · · \n \n○ 56 ( \n ) \n○ ( , , ), , , SW \n \n○ 3 \n \n COR-005\n \n \n \n \n \n \n○ , \n \n○ , \n \n○ ․ \n \n○ , , \n \n○ \n \n○ \n○ \n \n \n○ ( , , \n , ) , \n○ , \n \n○ / / / \n / / / / , \n \n . \n PMR-001\n \n \n \n \n \n \n○ (PM) \n○ \n PMR-002\n \n \n \n \n \n ○ \n , , , \n \n○ 14 , , \n \n○ ( ) \n , \n 30 \n○ ( ) ( 3 ) , \n , \n○ \n \n \n▪ \n▪ ( )\n2 \n \n▪ , \n▪ \n2 \n \n \n▪ Document Comment \n , \n (PSD ), \n2 \n ▪ 2 \n , , \n○ \n“ ” \n , PSD \n PMR-003\n \n \n \n \n \n \n○ · · \n , \n 3 · \n .\n○ \n .\n○ \n , \n .\n○ , \n · \n .\n○ PC· · · \n , \n .\n○ PC· \n .\n○ , IP , , , , \n , \n · · 3 .\n○ USB, , \n .\n○ \n , PC· · · \n .\n○ \n , \n .\n○ · \n . \n .\n- \n- ( )\n- ( )\n- \n- · ( )\n- \n- \n- · \n- ( · )\n- · \n- \n PMR-004\n \n \n \n \n \n \n○ , , \n \n○ \n○ \n \n○ \n \n○ , \n○ · \n \n . \n PSR-001\n \n \n \n \n \n \n○ \n ( ) \n1 \n○ \n , \n \n○ , \n \n○ \n○ 4 \n \n○ \n \n PSR-002\n \n \n \n \n \n \n○ / \n \n PSR-003\n \n \n \n \n \n \n○ \n \n○ , , \n , , \n \n○ \n○ \n \n○ \n○ \n \n○ \n PSR-004\n \n \n \n \n \n \n○ \n , \n○ \n \n○ , , , \n \n○ , \n \n○ , , , \n \nⅢ . \n1. \n❏ 10 \n .\n❏ \n .\n❏ .\n❏ \n .\n❏ , \n , , , \n , , \n , \n .\n❏ , \n .\n , \n .\n❏ , \n , .\n❏ \n \n .\n❏ \n .\n❏ \n \n .\n , ( ,\n ) ,\n .\n , .\n 3 , \n .\n ·\n .\n2. \n❏ 50 \n ( 4 )\n3. \n❏ , \n \n \n❏ : 10 ( )\n : \n · , \n ( ): \n ( , , , , , \n )\n❏ : ( ): \n( ) \n❏ : \n❏ \n .\n , \n , \n .\n4. \n❏ , \n \n❏ \n \n 1 \n 1 \n 1 \n ( ) 1 \n , \n5. \n❏ , \n .\n❏ , \n .\n \n .\n , \n .\n❏ .\n❏ , \n .\n6. \n❏ · , \n .\n❏ , \n , \n .\n❏ , \n .\n7. ( ) \n❏ .\n❏ , \n .\n❏ \n .\n❏ ( ) \n , , \n 36 2 .\n❏ ,\n .\n❏ \n .\n❏ , \n .\n❏ \n .\n❏ \n .\n \n \n ( ) \n \nⅣ . \n1. \n : ( ) , \n \n \n \n( \n \n \n )\n⇒\n \n \n \n⇒\n \n \n \n \n \n⇒\n \n \n \n \n⇒\n \n ⇒\n \n ⇒\n \n \n \n \n \n \n2. \n❏ 12 14 \n , 76 \n (G2B) \n [ :1468] \n 9 10 \n . ( : 8111159901)\n 2 2 \n ․ \n \n ( ) , 5 , \n 10% \n : \n : \n 48 4 31 \n \n 20 \n ( ) \n3. \n❏ \n 43 ( )\n ( 40 )\n ( ) ( 111 )\n❏ \n : (90%), (10%)\n = + \n 85% \n \n ( ) \n \n , \n \n \n❏ \n \n \n \n \n \n(20 )\n \n \n \n .\n \n .\n10\n \n \n \n \n .\n , \n ,\n .\n10\n \n(25 )\n \n \n \n . , \n .\n10\n \n \n \n , \n .\n , \n ,\n .\n10\n \n \n \n \n , \n .\n \n .\n5\n \n(15 )\n \n \n \n \n , \n .\n10\n \n \n : \n .\n : \n , .\n5\n \n \n(10 )\n \n \n , , , \n .\n \n , , \n .\n10\n \n \n(15 )\n \n \n \n \n .\n , \n .\n5\n \n \n , , \n .\n \n .\n5\n / \n .\n5\n (5 ) \n \n( )\n5\n 90\n※ < 1, 2> \n❏ \n❍ ( ) \n \n❍ \n . , 2 \n❏ \n❍ , , \n , \n❍ \nⅤ . \n1. \n❏ 1 \n \n2. \n❏ , ( \n“ ” ) . , \n \n .\n❏ \n \n❏ \n❍ , CCTV \n \n❍ ,\n , SW \n , HDD \n , · \n ( ) · \n❍ \n \n❍ , \n · \n❍ , USB \n \n❏ \n \n3. \n❏ \n . \n \n❏ 56 \n . 4 \n \n \n❏ \n \n❏ 3 \n \n❏ \n 76 92\n \n \n \n4. \n❏ , \n \n< >\n1. IP \n2. \n3. \n4. \n5. ( \n )\n6. \n7. (IPS) \n8. 9 1 \n9. 2 1 \n10. 4 5 \n5. \n❏ S/W \n , \n S/W \n S/W \n S/W \n❏ \n , \n \n6. SW SW \n❏ 56 ( \n ) \n❏‘ 35 37 ( )’ \n ( )\n7. \n❏ ‘ ( )’ 10 ( \n ) ‘ ’ ( \n )\n8. SW \n❏ 46 SW (SW \n ) \n❏ SW SW ( ‘SW \n ’ \n❏ SW \n❏ SW \n \n9. \n❏ \n ( ) 11 \n \n10. \n❏ 50 ( ) \n \n11. \n❏ \n❍ \n❍ ( )\nⅥ . \n1. \n❏ ( )\n- : PPT 50 ( A4 )\n- \n❏ \n , \n , \n❏ , \n 5 \n❏ , \n \n❏ , \n \n❏ , \n \n❏ , \n \n❏ \n , \n \n❏ .“ , , \n .” , \n \n❏ · · \n2. \n❏ · · \n , \n \n3. \n❏ : “ ” \n❏ : “ ” \n❏ \n❍ (PDF )\n❍ (PDF )\n❍ \n4. \n❏ 7 6 \n \n❏ : 7 \n \n❏ (PM) , 1 \n ( 1 , 1 )\n❏ ,\n \n❍ : 30 ( 20 , 10 )\n5. \n \nⅠ . \n1. , 3 , \n .\n2. .\n3. .\nⅡ . \n1. \n , , , \n . \n .\n2. ( \n ) .\n3. \n , \n . ( / ), Prototype \n .\n \n4. \n , \n .\n , .\nⅢ . \n1. , \n .\n2. , \n .\n3. , , , \n .\n4. , \n .\n5. .\nⅣ . \n1. , \n .\n2. \n \n .\n , \n .\nⅤ . \n1. , , , \n .\n2. , .\nⅥ . \n1. , , .\n2. , , \n .\n3. , , , , \n .\n4. , , , \n .\n5. , , \n .\n6. / .\nⅦ . \n 1. \n \n \n \n \n \n \n \nA B C D E\n \n \n \n \n(20 )\n \n \n \n \n \n \n10 10 9 8 7 6 \n \n \n .\n \n \n \n .\n \n \n \n \n \n \n .\n \n , \n \n \n , \n \n .\n10 10 9 8 7 6 \n \n \n(25 )\n \n \n \n \n \n . \n , \n \n .\n10 10 9 8 7 6\n \n \n \n \n \n \n \n , \n \n .\n \n , \n \n \n , \n \n .\n10 10 9 8 7 6 \n \n \n \n \n \n ,\n \n \n .\n \n \n \n \n .\n5 5 4.5 4 3.5 3 \n \n \n \n(15 )\n \n \n \n \n \n \n \n , \n \n .\n10 10 9 8 7 6 \n \n \n \n : \n \n \n5 5 4.5 4 3.5 3 \n \n \n .\n : \n \n , \n \n .\n \n \n(10 )\n \n \n \n , , \n , \n \n \n .\n \n \n \n , \n , \n \n .\n10 10 9 8 7 6 \n \n \n \n(15 )\n \n \n \n \n \n \n .\n \n \n , \n .\n5 5 4.5 4 3.5 3 \n \n \n \n , \n , \n \n .\n \n \n \n \n .\n5 5 4.5 4 3.5 3 \n \n \n / \n .\n5 5 4.5 4 3.5 3 \n \n (5 ) \n \n( \n )\n5 5 4.75 4.5 3.5 - \n \n 90\n 2. \n \n- \n \n \n \n \n \n \n \nAAA, AA+, AA0,\nAA-\nA+, A0, A-, BBB+,\nBBB0\nA1, A2+, A20, A2-,\nA3+,A30\nAAA, AA+, AA0,\nAA-, A+, A0, A-,\nBBB+, BBB0\nA 5.00\nBBB-, BB+, BB0,\nBB-\nA3-, B+, B0\nBBB-, BB+,\nBB0, BB-\nB 4.75\nB+, B0, B- B- B+, B0, B- C 4.50\nCCC+ C CCC+ D 3.50\n 2 8 3 \n 335 3 \n , , \n . , \n .\n , \n . , \n .\n- \n 3. \n\n 4. \n\n 5. \n\nⅧ .( ) ( )\n1. \n2. ( )\n3. \n4. \n5. \n6. \n7. \n8. \n9. \n10. \n11. \n12. \n13. \n[ 1]\n \n :\n , , , \n . , __________________ \n \n .\n · \n , \n \n .\n20 \n :\n :\n :\n : ( )\n \n[ 2]\n ( )\n __________________ \n .\n1. AI (e 2.0) \n .\n2. \n .\n3. \n .\n2026 \n :\n( ) : ( )\n :\n \n[ 3]\n \n AI (e 2.0) ( ) \n .\n1. AI (e 2.0) \n .\n2. \n .\n3. \n .\n . 4 1 2 · 5 ( )\n . 99 ( ) 127 ( )\n . 3 \n . .\n2026 \n :\n :\n : ( )\n- 1 -\n \n1) · IP \n2) \n3) · \n4) · \n5) \n( · )\n6) · \n7) \n8) 2 1 \n9) 4 16 3 \n10) \n- 2 -\n[ 4]\n \n [ 2] \n [ 3] \n . .\n ․ ․ , , [ \n 4] , \n 76 \n .\n \n , .\n \n , .\n \n , .\n[ 5]\n \n \n \n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n◦ \n◦ \n OO \n◦ \n \n◦ \n \n 1. \n . \n . \n . ․ \n . \n◦ \n OO \n◦ \n \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P \n \n . · \n . \n . PC \n . \n . ( )\n . , PC · \n . ( , , ) \n \n◦ \n \n \n \n1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n◦ \n OO \n◦ \n / \n \n◦ \n \n 1. \n . , \n . \n2. \n . \n . \n3. \n◦ \n \n◦ / \n \n . PC \n . \n[ 6]\n \n1. A~D \n \n \nA B C D \n 1 1 2 3 \n \n 5% 3% 1%\n* [ 2] \n2. , \n* 1 \n3. \n[ 7]\n \n ( “ ” ) ‘ ’( “ ” ) “ ” “ ” \n .\n 1 ( ) “ ” “ ” , “ ” “ ” \n .\n 2 ( ) , , \n ( 25 ) .\n 3 ( ) “ ” AI (e 2.0) \n .\n1. \n2. \n3. \n 4 ( ) “ ” “ ” “ ” \n 3 .\n “ ” “ ” “ ” .\n 5 ( ) “ ” 29 , 30 \n ( ) · .\n 6 ( ) “ ” \n 3 .\n “ ” \n 16 “ ” .\n 2 “ ” “ ” .\n 7 ( · ) “ ” “ ” , “ ” \n .\n1. \n2. \n3. \n4. · \n5. \n6. \n “ ” “ ” 1 , “ ” \n .\n “ ” · · · 1 1 \n“ ” , “ ” .\n 1 “ ” “ ” .\n 8 ( ) “ ” “ ” “ ” \n “ ” “ ” “ ” \n “ ” 3 “ ” .\n 1 3 “ ” “ ” \n “ ” .\n 2 , “ ” “ ” 1 .\n \n 77\n \n : ( ) : ( )\n[ 8]\n \n \n \n \n \n \n \n[ 9]\n \n \n \n \n \n \n( )\n \n )\n “ ” “ ” \n ( )\n \n \n \n[ 10]\n ( )\n 1 ( ) , \n ․ ․ ․ \n .\n1. :\n2. :\n3. :\n 2 ( ) , , .\n1. : \n2. :\n3. :\n 3 ( ) .\n1. ( : )\n2. ( : )\n .\n 3 , \n .\n 4 ( ) , . ,\n 3 ․ .\n 5 ( ) 1 ․ \n .\n 6 ( ) .\n , \n . < 2014.1.10.>\n 7 ( ) \n .\n 8 ( ) 11 , \n .\n1. ( ) : , , \n2. : , , \n 9 ( ) .\n1. : %\n2. : %\n 1 . , \n .\n1. \n2. , , , , ( \n ), \n \n , .\n 10 ( ) 9 \n .\n 10 2( ) , , , \n .\n , \n .\n 1 , \n , \n .\n 3 \n . , \n .\n[ 2012.4.2.]\n 11 ( ․ ) ․ 3 .\n 12 ( ) \n . , 3 \n .\n1. \n2. , , 10 2 \n < \n2012.4.2.>\n3. , , \n 76 1 6 \n 1 .\n , , , \n \n . < 2010.9.8.>\n 2 9 \n .\n 10 .\n 13 ( ) \n . , \n . < 2014.1.10.>\n 14 ( ) \n .\n .\n \n .\n \n ( )\n ( )\n[ 11]\n \n AI (e 2.0) \n1 .\n \n \n \n▢ \n◦ AI (e 2.0) \n- , , , \n▢ \n◦ \n- \n- \n◦ \n- , : , ( , ), \n- : , ( , ), , \n- : , , , , \n◦ \n- : 3 \n- : 4 \n- : .\n( , , )\n AI (e 2.0) \n .\n2026 \n ( )\n[ 12]\n ․ [ ∨ ] , [ ] \n AI (e 2.0) \n 2026. .\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n \n \n / / \n \n \n \n \n \n \n \n \n , , \n · .\n○\n \n \n \n- HTML 4.01/HTML 5, CSS 2.1\n○\n- XHTML 1.0 ○\n- XML 1.0, XSL 1.0 ○\n- ECMAScript 3rd ○\n- 2.1 ○\n \n \n \n \n- 1.0 (KICS.KO-10.0307)\n○\n (KS X ISO/IEC 20000)/ ITIL v3 ○\n \n \nIPv4 ○\nIPv6 ○\n \n \n / / \n \n \n \n \n \n \n \no , \n · \n .\n○\n \n \no \n- SOAP 1.2, WSDL 2.0, XML 1.0\n○\n- UDDI v3 ○ ※ \n - RESTful ○\no \n- UML 2.0/BPMN 1.0\n○\n- ebXML/BPEL 2.0/ XPDL 2.0 ○\n o : XML 1.0 ○\n o : UDDI v3, WSDL 2.0 ○\n \n \n / / \n \n \n \n \n \n \n \n \n IPv4 IPv6 \n .\n○\n , \n \n .\n○\n \n \no : H.320~H.324, H.310 ○\no : VoIP\n- H.323\n○\n- SIP ○\n- Megaco(H.248) ○\n \n \no ( ) :\n- POSIX.0\n○\n- UNIX ○\n- Windows Server ○\n- Linux ○\no \n- android\n○\n- IOS ○\n- Windows Phone ○\n \no DBMS\n- RDBMS\n○\n- ORDBMS ○\n- OODBMS ○\n- MMDBMS ○\n o ITIL v3 / ISO20000 ○\n o : ○\n \n \n / / \n \n \n \n \n \n \n \n \n . ○\n , , , \n .\n○\n \n \n “ ” \n .\n○\n \n .\n○\n \n \no : HTML 4.01 ○\no - JSP 2.1 ○\n- ASP.net ○\n- PHP ○\n- ( ) ○\n \n \n- C\n○\n- C++ ○\n- Java ○\n- C# ○\n- ( ) ○\n \no :\n- XMI 2.0\n○\n- SOAP 1.2 ○\no \n- EUC-KR\n○\n- UTF-8( , UTF-8 ) ○\n \n \n / / \n \n \n \n \n \n \n \n \no \n . “ ”,“ \n ”,“ ” “ ” .\n○\no \n . ○\n \n ․ . ○\n \n \n \n \n ( )\n- \n · ( )\n○\n \n \n \n ( \n )\n- PKI \n○\n- SSO ○\n- ․ ○\n- (DRM) ○\n- ○\n- ○\n- ○\n- ○\n- DB ○\n- (9 ) ○\n- ○\n CC ( CC )\n- ( ) ○\n- ( ) ( ) ○\n- ○\n- ○\n- DDos ○\n- ○\n- ○\n- ○\n- ( ) ○\n- ○\n- ○\n- ○\n- ○\n- (PC ) ○\n- ○\n- ( , \n ) ○\n- ○\n- ○\n- DB ○\n- ○\n- USB( ) ○\n- ( \n ) ○\n- ○\n- ○\n- CC ○\n ( · ) \n- · ( \n )\n○\n \n \n \n \n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n \n- ○\n- ( ) ○\n- ( ) ○\n- ○",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "AI (e 2.0) \n \n2026. 10.\n \n \n \n \nmulti@jnu.ac.kr\n062-530-2338\n \nⅠ . 1\n1. 1\n2. 1\n3. 2\n4. 2\n5. 2\n6. 3\n . 3\n . 4\nⅡ . 5\n1. 5\n2. 7\n . 7\n . 7\n3. 13\n . 13\n . 15\n . 55\n . 56\n . 57\n . 59\n . 59\n . 63\n . 64\n . 67\n . 70\nⅢ . 72\n1. 72\n2. 73\n3. 73\n4. 74\n5. 74\n6. ‧ 75\n7. ( ) 75\nⅣ . 77\n1. 77\n2. 77\n3. 78\nⅤ . 81\n1. 81\n2. 81\n3. 82\n4. 83\n5. 83\n6. SW SW 84\n7. 84\n8. SW 84\n9. 84\n10....",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "긴 급 입 찰 사 유 서\n□ 사업 개요\n ○ 사업명: 전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축\n ○ 주요 사업 내용\n - AI 기반 교과·비교과 운영 통합 플랫폼 개발 \n - 생성형 AI 연동 및 인프라 구축 \n - 실시간 다국어 자동 자막 및 번역 연동 서비스 구축\n - 데이터 정합성 검증, 보안성 검토 및 사용자 운영 매뉴얼 개발\n ○ 사업예산: 495,000,000원(VAT포함)\n ○ 사업기간: 계약일로부터 4개월\n ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약)\n□ 긴급입찰 사유\n - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 \n따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 \n입찰 추진이 필요함\n□ 공고기간: 10일",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "495,000,000원(VAT포함)",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01780002-000",
+    "sourceFile": "긴급입찰 사유서.pdf",
+    "generatedAt": "2026-10-26T12:46:28.534223",
+    "match": {
+      "noticeId": "R26BK01780002-000",
+      "bidNtceNo": "R26BK01780002",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01780002-000",
+      "projectName": "전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축 ○ 주요 사업 내용 - AI 기반 교과·비교과 운영 통합 플랫폼 개발 - 생성형 AI 연동 및 인프라 구축 - 실시간 다국어 자동 자막 및 번역 연동 서비스 구축 - 데이터 정합성 검증, 보안성 검토 및 사용자 운영 매뉴얼 개발 ○ 사업예산: 495,000,000원(VAT포함) ○ 사업기간: 계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니...",
+      "keywords": [
+        "전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축 ○ 주요 사업 내용 - AI 기반 교과·비교과 운영 통합 플랫폼 개발 - 생성형 AI 연동 및 인프라 구축 - 실시간 다국어 자동 자막 및 번역 연동 서비스 구축 - 데이터 정합성 검증, 보안성 검토 및 사용자 운영 매뉴얼 개발 ○ 사업예산: 495,000,000원(VAT포함) ○ 사업기간: 계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니...",
+        "R26BK01780002-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축 ○ 주요 사업 내용 - AI 기반 교과·비교과 운영 통합 플랫폼 개발 - 생성형 AI 연동 및 인프라 구축 - 실시간 다국어 자동 자막 및 번역 연동 서비스 구축 - 데이터 정합성 검증, 보안성 검토 및 사용자 운영 매뉴얼 개발 ○ 사업예산: 495,000,000원(VAT포함) ○ 사업기간: 계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니...",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01780002-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축 ○ 주요 사업 내용 - AI 기반 교과·비교과 운영 통합 플랫폼 개발 - 생성형 AI 연동 및 인프라 구축 - 실시간 다국어 자동 자막 및 번역 연동 서비스 구축 - 데이터 정합성 검증, 보안성 검토 및 사용자 운영 매뉴얼 개발 ○ 사업예산: 495,000,000원(VAT포함) ○ 사업기간: 계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니...",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "495,000,000원(VAT포함) ○ 사업기간: 계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니어: 인프라 설계,연계,장애 관리) 11,103,230222,206,4603 SW기술자 응용SW개발자 (백엔드 개발자: 모델구축 학습, 최적화, 환경 개발) 10,285,676441,142,7044 SW기술자 응용SW 개발자(프론트엔드 개발자) 10,285,676４41,142,7045 SW기술자 UI...",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니어: 인프라 설계,연계,장애 관리) 11,103,230222,206,4603 SW기술자 응용SW개발자 (백엔드 개발자: 모델구축 학습, 최적화, 환경 개발) 10,285,676441,142,7044 SW기술자 응용SW 개발자(프론트엔드 개발자) 10,285,676４41,142,7045 SW기술자 UI/UX기획/개발자 (프론트엔드 기획자:UI/UX 구...",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축 ○ 주요 사업 내용 - AI 기반 교과·비교과 운영 통합 플랫폼 개발 - 생성형 AI 연동 및 인프라 구축 - 실시간 다국어 자동 자막 및 번역 연동 서비스 구축 - 데이터 정합성 검증, 보안성 검토 및 사용자 운영 매뉴얼 개발 ○ 사업예산: 495,000,000원(VAT포함) ○ 사업기간: 계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니...",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "495,000,000원(VAT포함) ○ 사업기간: 계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니어: 인프라 설계,연계,장애 관리) 11,103,230222,206,4603 SW기술자 응용SW개발자 (백엔드 개발자: 모델구축 학습, 최적화, 환경 개발) 10,285,676441,142,7044 SW기술자 응용SW 개발자(프론트엔드 개발자) 10,285,676４41,142,7045 SW기술자 UI...",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니어: 인프라 설계,연계,장애 관리) 11,103,230222,206,4603 SW기술자 응용SW개발자 (백엔드 개발자: 모델구축 학습, 최적화, 환경 개발) 10,285,676441,142,7044 SW기술자 응용SW 개발자(프론트엔드 개발자) 10,285,676４41,142,7045 SW기술자 UI/UX기획/개발자 (프론트엔드 기획자:UI/UX 구...",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "AI 기반 교과·비교과 운영 통합 플랫폼 개발 \n - 생성형 AI 연동 및 인프라 구축 \n - 실시간 다국어 자동 자막 및 번역 연동 서비스 구축\n - 데이터 정합성 검증, 보안성 검토 및 사용자 운영 매뉴얼 개발\n ○ 사업예산: 495,000,000원(VAT포함)\n ○ 사업기간: 계약일로부터 4개월\n ○ 추진방법: 제한 경쟁",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "협상에 의한 계약",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4 ) - ❏,, ❏, 5 ❏, ❏, ❏, ❏, ❏, ❏ .“,, .”, ❏ · · 2. ❏ · ·, 3. ❏ : “ ” ❏ : “ ” ❏ ❍ (PDF ) ❍ (PDF ) ❍ 4. ❏ 76 ❏ : 7 ❏ (PM), 1 ( 1, 1 ) ❏, ❍ : 30 ( 20, 10",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "ECR-000",
+          "requirement": ".",
+          "name": ".",
+          "detail": ".",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-000",
+          "requirement": "System Function Requirement 92",
+          "name": "System Function Requirement 92",
+          "detail": "System Function Requirement 92",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-000",
+          "requirement": "Performance Requirement 2",
+          "name": "Performance Requirement 2",
+          "detail": "Performance Requirement 2",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-000",
+          "requirement": "Data Requirement 6",
+          "name": "Data Requirement 6",
+          "detail": "Data Requirement 6",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-000",
+          "requirement": "Data Requirement 6",
+          "name": "Data Requirement 6",
+          "detail": "Data Requirement 6",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-000",
+          "requirement": "Test Requirement 1",
+          "name": "Test Requirement 1",
+          "detail": "Test Requirement 1",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-000",
+          "requirement": "Quality Requirement 3",
+          "name": "Quality Requirement 3",
+          "detail": "Quality Requirement 3",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-000",
+          "requirement": "Quality Requirement 3",
+          "name": "Quality Requirement 3",
+          "detail": "Quality Requirement 3",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-000",
+          "requirement": "Constraint Requirement 5",
+          "name": "Constraint Requirement 5",
+          "detail": "Constraint Requirement 5",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-000",
+          "requirement": "Project Support Requirement 4",
+          "name": "Project Support Requirement 4",
+          "detail": "Project Support Requirement 4",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": "Data Requirement DAR-000 6 Test Requirement TER-000 1 Security Requirement SER-000 9 Quality Requirement QUR-000 3 Constraint Requirement COR-000 5 Project Management Requirement PMR-000 4 Project Support Requirement PSR-000 4",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-002",
+          "requirement": ".",
+          "name": ".",
+          "detail": "CMS",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-003",
+          "requirement": "CMS",
+          "name": "CMS",
+          "detail": "S/W",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-001",
+          "requirement": "S/W",
+          "name": "S/W",
+          "detail": "Quality Requirement QUR-000 3 Constraint Requirement COR-000 5 Project Management Requirement PMR-000 4 Project Support Requirement PSR-000 4 . ECR-002 CMS",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-002",
+          "requirement": "S/W",
+          "name": "S/W",
+          "detail": "·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-003",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": ", ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-004",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "Project Support Requirement PSR-000 4 . ECR-002 CMS ECR-003 S/W SFR-002 ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-005",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": ". ECR-002 CMS ECR-003 S/W SFR-002 ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-006",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": ", ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-007",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "ECR-002 CMS ECR-003 S/W SFR-002 ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-008",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "ECR-003 S/W SFR-002 ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-009",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "SFR-002 ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-010",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": "SFR-002 ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-011",
+          "requirement": ", ,",
+          "name": ", ,",
+          "detail": ", ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-012",
+          "requirement": "SFR-012",
+          "name": "SFR-012",
+          "detail": "SFR-012",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-013",
+          "requirement": "SFR-013",
+          "name": "SFR-013",
+          "detail": "SFR-013",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-014",
+          "requirement": "SFR-014",
+          "name": "SFR-014",
+          "detail": "SFR-014",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-015",
+          "requirement": "SFR-015",
+          "name": "SFR-015",
+          "detail": "SFR-015",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-016",
+          "requirement": "SFR-016",
+          "name": "SFR-016",
+          "detail": "SFR-016",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-017",
+          "requirement": "Universal Design",
+          "name": "Universal Design",
+          "detail": "Universal Design",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-018",
+          "requirement": "Universal Design",
+          "name": "Universal Design",
+          "detail": "Universal Design",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-019",
+          "requirement": "Universal Design",
+          "name": "Universal Design",
+          "detail": "Universal Design",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-020",
+          "requirement": "Universal Design",
+          "name": "Universal Design",
+          "detail": "Universal Design",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-021",
+          "requirement": "Universal Design",
+          "name": "Universal Design",
+          "detail": "Universal Design",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-022",
+          "requirement": "Universal Design",
+          "name": "Universal Design",
+          "detail": "Universal Design",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-023",
+          "requirement": "Universal Design",
+          "name": "Universal Design",
+          "detail": "Universal Design",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-024",
+          "requirement": "Universal Design",
+          "name": "Universal Design",
+          "detail": "Universal Design",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-025",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-026",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-027",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-028",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-029",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-030",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-031",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-032",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-033",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-034",
+          "requirement": "/",
+          "name": "/",
+          "detail": "( ) & &",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-035",
+          "requirement": "& &",
+          "name": "& &",
+          "detail": "& &",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-036",
+          "requirement": "& &",
+          "name": "& &",
+          "detail": "& &",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-037",
+          "requirement": "& &",
+          "name": "& &",
+          "detail": "& &",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-038",
+          "requirement": "& &",
+          "name": "& &",
+          "detail": "& &",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-039",
+          "requirement": "& &",
+          "name": "& &",
+          "detail": "& &",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-040",
+          "requirement": "& &",
+          "name": "& &",
+          "detail": "& &",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-041",
+          "requirement": "& &",
+          "name": "& &",
+          "detail": "& &",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-042",
+          "requirement": "& &",
+          "name": "& &",
+          "detail": "& &",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-043",
+          "requirement": "SFR-043",
+          "name": "SFR-043",
+          "detail": "SFR-043",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-044",
+          "requirement": "SFR-044",
+          "name": "SFR-044",
+          "detail": "SFR-044",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-045",
+          "requirement": "SFR-045",
+          "name": "SFR-045",
+          "detail": "SFR-045",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-046",
+          "requirement": "SFR-046",
+          "name": "SFR-046",
+          "detail": "SFR-046",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-047",
+          "requirement": "SFR-047",
+          "name": "SFR-047",
+          "detail": "SFR-047",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-048",
+          "requirement": "SFR-048",
+          "name": "SFR-048",
+          "detail": "SFR-048",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-049",
+          "requirement": "SFR-049",
+          "name": "SFR-049",
+          "detail": "SFR-049",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-050",
+          "requirement": "SFR-050",
+          "name": "SFR-050",
+          "detail": "SFR-050",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-051",
+          "requirement": "SFR-051",
+          "name": "SFR-051",
+          "detail": "SFR-051",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-052",
+          "requirement": "SFR-052",
+          "name": "SFR-052",
+          "detail": "SFR-052",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-053",
+          "requirement": "SFR-053",
+          "name": "SFR-053",
+          "detail": "SFR-053",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-054",
+          "requirement": "SFR-054",
+          "name": "SFR-054",
+          "detail": "SFR-054",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-055",
+          "requirement": "SFR-055",
+          "name": "SFR-055",
+          "detail": "SFR-055",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-056",
+          "requirement": "KOCW",
+          "name": "KOCW",
+          "detail": "KOCW",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-057",
+          "requirement": "KOCW",
+          "name": "KOCW",
+          "detail": "KOCW",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-058",
+          "requirement": "KOCW",
+          "name": "KOCW",
+          "detail": "KOCW",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-059",
+          "requirement": "KOCW",
+          "name": "KOCW",
+          "detail": "(MOOC)",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-060",
+          "requirement": "MOOC",
+          "name": "MOOC",
+          "detail": "MOOC",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-061",
+          "requirement": "MOOC",
+          "name": "MOOC",
+          "detail": "MOOC",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-062",
+          "requirement": "CDN",
+          "name": "CDN",
+          "detail": "CDN",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-063",
+          "requirement": "CDN",
+          "name": "CDN",
+          "detail": "SFR-056 ( ) KOCW SFR-059 (MOOC) SFR-060 (MOOC) SFR-061 (MOOC)",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-064",
+          "requirement": "CDN",
+          "name": "CDN",
+          "detail": "SFR-056 ( ) KOCW SFR-059 (MOOC) SFR-060 (MOOC) SFR-061 (MOOC)",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-065",
+          "requirement": "CDN",
+          "name": "CDN",
+          "detail": "SFR-059 (MOOC) SFR-060 (MOOC) SFR-061 (MOOC)",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-066",
+          "requirement": "CDN",
+          "name": "CDN",
+          "detail": "SFR-059 (MOOC) SFR-060 (MOOC) SFR-061 (MOOC)",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-067",
+          "requirement": "CDN",
+          "name": "CDN",
+          "detail": "SFR-059 (MOOC) SFR-060 (MOOC) SFR-061 (MOOC)",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-068",
+          "requirement": "/",
+          "name": "/",
+          "detail": "/",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-069",
+          "requirement": "/",
+          "name": "/",
+          "detail": "SFR-061 (MOOC) SFR-062 – CDN",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-070",
+          "requirement": "/",
+          "name": "/",
+          "detail": "(DM)",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-071",
+          "requirement": "DM",
+          "name": "DM",
+          "detail": "SFR-068 ( / )",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-072",
+          "requirement": "DM",
+          "name": "DM",
+          "detail": "SFR-068 ( / )",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-073",
+          "requirement": "DM",
+          "name": "DM",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-074",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-075",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-076",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-077",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-078",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "SFR-070 (DM)",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-079",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-080",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-081",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-082",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-083",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "Q&A",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-084",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-085",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-086",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-087",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "LLM",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-088",
+          "requirement": "AI LLM",
+          "name": "AI LLM",
+          "detail": "AI LLM",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-089",
+          "requirement": "AI LLM",
+          "name": "AI LLM",
+          "detail": "SFR-082 AI SFR-083 AI Q&A SFR-084 AI SFR-085 AI SFR-086 AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-090",
+          "requirement": "AI LLM",
+          "name": "AI LLM",
+          "detail": "AI LLM",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-091",
+          "requirement": "AI LLM",
+          "name": "AI LLM",
+          "detail": "AI LLM",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-092",
+          "requirement": "UI/UX",
+          "name": "UI/UX",
+          "detail": "UI/UX",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-001",
+          "requirement": "UI/UX",
+          "name": "UI/UX",
+          "detail": "SFR-085 AI SFR-086 AI SFR-087 AI LLM",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-002",
+          "requirement": "UI/UX",
+          "name": "UI/UX",
+          "detail": "SFR-086 AI SFR-087 AI LLM",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-001",
+          "requirement": "SIR-002",
+          "name": "SIR-002",
+          "detail": "SFR-092 ( ) UI/UX SIR-001",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-002",
+          "requirement": "SIR-002",
+          "name": "SIR-002",
+          "detail": "SFR-092 ( ) UI/UX SIR-001",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-003",
+          "requirement": "SIR-002",
+          "name": "SIR-002",
+          "detail": "SFR-092 ( ) UI/UX SIR-001",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-004",
+          "requirement": "SIR-002",
+          "name": "SIR-002",
+          "detail": "SFR-092 ( ) UI/UX SIR-001",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-005",
+          "requirement": "SIR-002",
+          "name": "SIR-002",
+          "detail": "SIR-001",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-006",
+          "requirement": "SQL",
+          "name": "SQL",
+          "detail": "SQL",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-001",
+          "requirement": "SQL",
+          "name": "SQL",
+          "detail": "SIR-001 SIR-002",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "SQL",
+          "name": "SQL",
+          "detail": "SIR-002",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": "SQL",
+          "name": "SQL",
+          "detail": "SQL",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "SQL",
+          "name": "SQL",
+          "detail": "SQL",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": "SQL",
+          "name": "SQL",
+          "detail": "SQL",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-005",
+          "requirement": "SQL",
+          "name": "SQL",
+          "detail": "SQL",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-006",
+          "requirement": "SQL",
+          "name": "SQL",
+          "detail": "SQL",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-007",
+          "requirement": "SQL",
+          "name": "SQL",
+          "detail": "SQL",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-008",
+          "requirement": "SER-008",
+          "name": "SER-008",
+          "detail": "SER-008",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-009",
+          "requirement": "SER-009",
+          "name": "SER-009",
+          "detail": "SER-009",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": "QUR-001",
+          "name": "QUR-001",
+          "detail": "QUR-001",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": "QUR-002",
+          "name": "QUR-002",
+          "detail": "QUR-002",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-003",
+          "requirement": "QUR-003",
+          "name": "QUR-003",
+          "detail": "QUR-003",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": "COR-001",
+          "name": "COR-001",
+          "detail": "COR-001",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": "COR-002",
+          "name": "COR-002",
+          "detail": "COR-002",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-003",
+          "requirement": "COR-003",
+          "name": "COR-003",
+          "detail": "COR-003",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-004",
+          "requirement": "COR-004",
+          "name": "COR-004",
+          "detail": "COR-004",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-005",
+          "requirement": "COR-005",
+          "name": "COR-005",
+          "detail": "COR-005",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": "PMR-001",
+          "name": "PMR-001",
+          "detail": "PMR-001",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "PMR-002",
+          "name": "PMR-002",
+          "detail": "PMR-002",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "PMR-003",
+          "name": "PMR-003",
+          "detail": "PMR-003",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-004",
+          "requirement": "PMR-004",
+          "name": "PMR-004",
+          "detail": "PMR-004",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": "PSR-001",
+          "name": "PSR-001",
+          "detail": "PSR-001",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": "PSR-002",
+          "name": "PSR-002",
+          "detail": "PSR-002",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-003",
+          "requirement": "PSR-003",
+          "name": "PSR-003",
+          "detail": "PSR-003",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-004",
+          "requirement": "PSR-004",
+          "name": "PSR-004",
+          "detail": "PSR-004",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [
+        {
+          "title": "일정 리스크",
+          "detail": "긴급입찰 사유서.pdf]",
+          "severity": "확인"
+        }
+      ],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축 ○ 주요 사업 내용 - AI 기반 교과·비교과 운영 통합 플랫폼 개발 - 생성형 AI 연동 및 인프라 구축 - 실시간 다국어 자동 자막 및 번역 연동 서비스 구축 - 데이터 정합성 검증, 보안성 검토 및 사용자 운영 매뉴얼 개발 ○ 사업예산: 495,000,000원(VAT포함) ○ 사업기간: 계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니...",
+        "agency": "",
+        "noticeNumber": "R26BK01780002-000",
+        "budget": "495,000,000원(VAT포함) ○ 사업기간: 계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니어: 인프라 설계,연계,장애 관리) 11,103,230222,206,4603 SW기술자 응용SW개발자 (백엔드 개발자: 모델구축 학습, 최적화, 환경 개발) 10,285,676441,142,7044 SW기술자 응용SW 개발자(프론트엔드 개발자) 10,285,676４41,142,7045 SW기술자 UI...",
+        "period": "계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니어: 인프라 설계,연계,장애 관리) 11,103,230222,206,4603 SW기술자 응용SW개발자 (백엔드 개발자: 모델구축 학습, 최적화, 환경 개발) 10,285,676441,142,7044 SW기술자 응용SW 개발자(프론트엔드 개발자) 10,285,676４41,142,7045 SW기술자 UI/UX기획/개발자 (프론트엔드 기획자:UI/UX 구...",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: 전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축 ○ 주요 사업 내용 - AI 기반 교과·비교과 운영 통합 플랫폼 개발 - 생성형 AI 연동 및 인프라 구축 - 실시간 다국어 자동 자막 및 번역 연동 서비스 구축 - 데이터 정합성 검증, 보안성 검토 및 사용자 운영 매뉴얼 개발 ○ 사업예산: 495,000,000원(VAT포함) ○ 사업기간: 계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니...",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ", , \n .\n○ \n , PC· · · \n .\n○ \n , \n .\n○ · \n . \n .\n- \n- ( )\n- ( )\n- \n- · ( )\n- \n- \n- · \n- ( · )\n- · \n- \n PMR-004",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 2개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "553\n부가세",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "553\n부가세 10점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "D \n \n \nA B C D \n 1 1 2 3",
+          "score": 5.0,
+          "weight": 5.0,
+          "grade": "C",
+          "strategy": "누락 방지 중심으로 증빙과 기본 요건 확인",
+          "detail": "D \n \n \nA B C D \n 1 1 2 3 5점"
+        }
+      ],
+      "totals": {
+        "score": 15.0,
+        "weight": 15.0,
+        "gradeA": 0,
+        "gradeB": 1,
+        "gradeC": 1
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01780002-000",
+    "generatedAt": "2026-10-26T12:47:40.675877",
+    "sourceAnalysisAt": "2026-10-26T12:46:28.534223",
+    "projectName": "전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축 ○ 주요 사업 내용 - AI 기반 교과·비교과 운영 통합 플랫폼 개발 - 생성형 AI 연동 및 인프라 구축 - 실시간 다국어 자동 자막 및 번역 연동 서비스 구축 - 데이터 정합성 검증, 보안성 검토 및 사용자 운영 매뉴얼 개발 ○ 사업예산: 495,000,000원(VAT포함) ○ 사업기간: 계약일로부터 4개월 ○ 추진방법: 제한 경쟁 입찰(협상에 의한 계약) □ 긴급입찰 사유 - 본 사업은 교육부 특성화지방대학(글로컬대학) 사업으로 사업일정에 따른 사업평가 및 회계기간내에 사업이 완료될 수 있도록 신속한 입찰 추진이 필요함 □ 공고기간: 10일 [산출 내역서.pdf] 산출내역서 건명 전남대학교 AI 기반 지능형 플랫폼(e클래스 2.0) 구축 No 분류 구분(역할) 단가(원) 투입공수(MM) 금액(원) 1 SW기술자 IT PM(프로젝트 총괄 관리) 10,086,804440,347,2162 SW기술자 IT아키텍트 (인프라 엔지니...",
+    "sourceFile": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+    "requirementSourceFiles": [
+      "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "ECR-000",
+        "name": "3",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-000",
+        "name": "92",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-000",
+        "name": "2",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-000",
+        "name": "2",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-000",
+        "name": "6",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-000",
+        "name": "1",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-000",
+        "name": "9",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-000",
+        "name": "3",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-000",
+        "name": "5",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-000",
+        "name": "4",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-000",
+        "name": "4",
+        "detail": ".",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-001",
+        "name": "ECR-001",
+        "detail": ") ○ ○ OS / WAS / DBMS ( ) CPU",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-002",
+        "name": "CMS",
+        "detail": "CMS ○ VOD CMS ○ CDN ( / / ) mp4",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-003",
+        "name": "S/W",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-001",
+        "name": "SFR-001",
+        "detail": "SQL, ) ○ ( ) (KICS) ○ (SCORM, IMS )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-002",
+        "name": "·",
+        "detail": "· ○ PC – – OS ( )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-003",
+        "name": ", ,",
+        "detail": ", , ○ , , ○ , ( , , , ), ( ), ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-004",
+        "name": "SFR-004",
+        "detail": "(OpenCourseWare) / ( , , ) ○ ·",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-005",
+        "name": "SFR-005",
+        "detail": "3 ), / ○ , IP, ○ (Secure Sockets Layer:SSL) ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-006",
+        "name": "( )",
+        "detail": "( ) ○ (Mail, SMS ) ○ ( , ) ○ LMS",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-007",
+        "name": "SFR-007",
+        "detail": "○ , , , ○ ( , , / ) ○ ○ , ( , )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-008",
+        "name": "SFR-008",
+        "detail": "○ DB , , , , , , ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-009",
+        "name": "SFR-009",
+        "detail": "○ / PC / Mobile App ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-010",
+        "name": "SFR-010",
+        "detail": ", ○ PC ○ 3,000 ○ ○ PC ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-011",
+        "name": "SFR-011",
+        "detail": "○ ( ) ○ Drag & Drop (Drag & Drop ) ○ (zip) ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-012",
+        "name": "SFR-012",
+        "detail": "iCal Calendar (Google Calendar) , ‘ ’ ○ (D-1)",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-013",
+        "name": "SFR-013",
+        "detail": "◯ Latex( ) ◯ LLM ( : )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-014",
+        "name": "SFR-014",
+        "detail": "○ PC/MAC ○ , / , , , , ○ ( , , , , )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-015",
+        "name": "SFR-015",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-016",
+        "name": "SFR-016",
+        "detail": "( , , ) SMS, OTP,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-017",
+        "name": "(Universal Design)",
+        "detail": "(Universal Design) ○ , , , (UD) , / / LMS",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-018",
+        "name": "SFR-018",
+        "detail": "( ) ○ , , , , , , ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-019",
+        "name": "SFR-019",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-020",
+        "name": "( )",
+        "detail": "( ) ○ ○ / / ○ ○ , , , ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-021",
+        "name": "( )",
+        "detail": "( ) ○ AI , , , ○ AI ○ SCORM/ / / / ( , , , )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-022",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-023",
+        "name": "( )",
+        "detail": "( ) ○ ( , , ) ( , , , O/X ) ( / ) , “ . .” ○ [ ]",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-024",
+        "name": "( )",
+        "detail": "( ) ○ ○ , ○ PBL(Problem Based Learning) ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-025",
+        "name": "( ) /",
+        "detail": "( ) / ○ , / ○ , / ○ /",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-026",
+        "name": "( )",
+        "detail": "( ) ○ Google Drive Youtube ○ Dropbox, OneDrive",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-027",
+        "name": "( ) /",
+        "detail": "( ) / ○ , , ‘ ’ ○ ○ ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-028",
+        "name": "( )",
+        "detail": "( ) ○ / ( / / / ) ○ ○ ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-029",
+        "name": "( )",
+        "detail": "( ) ○ e-mail, , , SMS ○ ( , , ) ○ , , , / /SMS",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-030",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-031",
+        "name": "( )",
+        "detail": "( ) ○ / ○ ○ / ○ Mobile/Tablet PC",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-032",
+        "name": "( )",
+        "detail": "( ) ○ / ○ , ○ / ○ / /ABC",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-033",
+        "name": "( )",
+        "detail": "( ) ○ ( / ) / ○ ( / ) ○ ○ , ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-034",
+        "name": "( ) & &",
+        "detail": "( ) & & ○ , ( ), , , ○ ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-035",
+        "name": "( )",
+        "detail": "( ) ○ / ○ , , ○ ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-036",
+        "name": "( )",
+        "detail": "( ) ○ ( ) ( / / / )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-037",
+        "name": "( )",
+        "detail": "( ) ○ : , ( , Q&A, 1:1, ), , , , , , , , ○ : , URL , , , , / ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-038",
+        "name": "( )",
+        "detail": "( ) ○ (HWP, DOC, PPT, XLS, PDF) HTML ○ ○ ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-039",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-040",
+        "name": "( )",
+        "detail": "( ) ○ ○ , , ○ (To do list) ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-041",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-042",
+        "name": "( )",
+        "detail": "( ) ○ , , Q&A, ○ ○ 1:1",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-043",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-044",
+        "name": "( )",
+        "detail": "( ) ○ , , , , , , ○ ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-045",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-046",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-047",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-048",
+        "name": "( )",
+        "detail": "( ) ○ HTML5 ○ OS/ ○ ( )/ ○ /",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-049",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-050",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-051",
+        "name": "( )",
+        "detail": "( ) ○ , ○ ○ ○ , ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-052",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-053",
+        "name": "( )",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-054",
+        "name": "( )",
+        "detail": "( ) ○ ( , , , , , , , / , Device ) ( , , , / ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-055",
+        "name": "( )",
+        "detail": "( ) ○ CPU/Memory/Disk/Network ○ SMS SMS",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-056",
+        "name": "( ) KOCW",
+        "detail": "( ) KOCW ○ ○ KOCW ○ /",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-057",
+        "name": "( )",
+        "detail": "( ) ○ ( , / , , ) ○ ( , ) , , , IP",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-058",
+        "name": "( )",
+        "detail": "( ) ○ ○ ○ ( , , )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-059",
+        "name": "(MOOC)",
+        "detail": "(MOOC) ○ / /SNS ○ > MOOC",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-060",
+        "name": "(MOOC)",
+        "detail": "(MOOC) ○ / / ( / / / ) ( / , )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-061",
+        "name": "(MOOC)",
+        "detail": "(MOOC) ○ ( , , ) ○ ( ) ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-062",
+        "name": "– CDN",
+        "detail": "– CDN ○ CDN ○ CMS(VOD) CDN . ○ (CMS <–> CDN ) ○ CDN",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-063",
+        "name": "SFR-063",
+        "detail": "○ PC ○ (PC ) ○ ( ) ○ ○ (1.0 ~ 2.0 )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-064",
+        "name": "SFR-064",
+        "detail": "◯ / / SNS ◯ ( , Private) > MOOC( , Open) /",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-065",
+        "name": "SFR-065",
+        "detail": "◯ , , (Todo List) ◯ ( , , ) ◯ : , , ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-066",
+        "name": "SFR-066",
+        "detail": "◯ / ‘ ’ , ◯ / ‘ ’ , ◯ ( , , , ) ◯ ( ) ( ),",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-067",
+        "name": "SFR-067",
+        "detail": "◯ ( : , ) ◯ ◯ , ◯ ( )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-068",
+        "name": "( / )",
+        "detail": "◯ ( , ) , PC ◯ / ◯ - : , , , ◯",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-069",
+        "name": "SFR-069",
+        "detail": "○ OS (PC, , PC ) IOS, Android OS , UI UI",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-070",
+        "name": "(DM)",
+        "detail": "◯ ◯ (DM) , ◯ UI/UX , ◯ ◯ , , ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-071",
+        "name": "SFR-071",
+        "detail": "◯ (DM) , ◯ ( , , ) ( : n , n ) ( : ) ◯",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-072",
+        "name": "SFR-072",
+        "detail": ", , URL ( ) ◯ , , , ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-073",
+        "name": "AI",
+        "detail": "◯ CMS , ◯ 12 . ◯ ◯",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-074",
+        "name": "AI",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-075",
+        "name": "AI",
+        "detail": "( ) , ◯ ( ) ( / / ) ◯ ◯",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-076",
+        "name": "AI",
+        "detail": "AI ◯ LMS ◯ AI ◯ , , ◯",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-077",
+        "name": "AI",
+        "detail": "AI ◯ LMS , ◯ , 4 ◯ PC (QR )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-078",
+        "name": "SFR-078",
+        "detail": "· , , ◯ ( / ) / , ◯ ( : , , ) ◯ ◯ , , , ◯ ·",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-079",
+        "name": "AI",
+        "detail": "( ) ◯ / ◯ , ( ), ◯ ( ) ◯",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-080",
+        "name": "AI",
+        "detail": ", AI ◯ ◯ ( , ) ( : , ) ◯ ◯ ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-081",
+        "name": "( )",
+        "detail": "( ) AI ◯ , , ◯ ' ' ◯ AI ( , , AI )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-082",
+        "name": "AI",
+        "detail": "AI ○ LLM LLM (LLM) , , ○ , ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-083",
+        "name": "AI Q&A",
+        "detail": "AI Q&A ○ , , ○ ○ ○ ( · ),",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-084",
+        "name": "AI",
+        "detail": "AI ○ , , , , , ○ , , ↔ , ○ ·",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-085",
+        "name": "AI",
+        "detail": "AI ○ ○ ○ ( , , , , ) ○ ( / ) ( )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-086",
+        "name": "AI",
+        "detail": "AI ○ ○ , , ○ AI ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-087",
+        "name": "AI LLM",
+        "detail": "AI LLM ○ LLM / ○ LLM AI API (OpenAI, Anthropic, Google )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-088",
+        "name": "( )",
+        "detail": "LMS / / / / ◯ LMS App iOS/Android , ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-089",
+        "name": "SFR-089",
+        "detail": "LMS ◯ PC PC ◯ ◯ .",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-090",
+        "name": "( )",
+        "detail": "( ) ○ ( ) (SSO , SSL ) ◯",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-091",
+        "name": "( )",
+        "detail": "( ) ○ ( ) (SSO , SSL ) ◯",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-092",
+        "name": "( ) UI/UX",
+        "detail": "( ) UI/UX ○ · , , , UI·UX ◯ · · ◯",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-001",
+        "name": "PER-001",
+        "detail": "1) 10,000 ( 500KB ) ( ) 2)",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-002",
+        "name": "PER-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-001",
+        "name": "SIR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-002",
+        "name": "SIR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-001",
+        "name": "DAR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-002",
+        "name": "DAR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-003",
+        "name": "DAR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-004",
+        "name": "DAR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-005",
+        "name": "DAR-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-006",
+        "name": "SQL",
+        "detail": "SQL ○ ○ DB ( , ) ○ DB ( ) ○ (",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-001",
+        "name": "TER-001",
+        "detail": "○ , , , , , ○ ○ .",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "SER-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "SER-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "SER-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "SER-004",
+        "detail": "○ ‘ ’ < > • (SQL ) • , , ( , )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-005",
+        "name": "SER-005",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-006",
+        "name": "SER-006",
+        "detail": "○ OS, ○ SW ( ) ○ , ○ ○ 3 , ·",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-007",
+        "name": "SER-007",
+        "detail": ", . , 3 CISSP, CISA, SIS . , ( )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-008",
+        "name": "SER-008",
+        "detail": ". / ( ) . / (ARIA) .",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-009",
+        "name": "SER-009",
+        "detail": ", < ‘ ’ > , , DB ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "QUR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": "QUR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-003",
+        "name": "QUR-003",
+        "detail": ", , ○ 12 , 12 , , , .",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": "COR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": "COR-002",
+        "detail": "W3C Markup Validation(http://validator.w3.org) W3C CSS Validation(http://jigsaw.w3.org/css-validator) ○ ( 2021-19 ) OS: Win, MAC, Linux",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-003",
+        "name": "COR-003",
+        "detail": "· ( ) ( ) ( ) 2.2( ) 2.1 ( )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-004",
+        "name": "COR-004",
+        "detail": "· ○ ○ ○ , · · ○ 56 ( )",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-005",
+        "name": "COR-005",
+        "detail": "○ , ○ ․ ○ , , ○ ○",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "PMR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "PMR-002",
+        "detail": ", , , ○ 14 , , ○ ( ) , 30",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "PMR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-004",
+        "name": "PMR-004",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "PSR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": "PSR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-003",
+        "name": "PSR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-004",
+        "name": "3.",
+        "detail": ", ○ ○ , , , ○ , ○ , , ,",
+        "source": "제안요청서_전남대학교 AI 기반 지능형 플랫폼(e클래스2.0) 구축.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "553 부가세",
+        "score": 10.0,
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "proposalType": "quantitative",
+        "recommendedPages": 33,
+        "mappedRequirementCodes": [
+          "ECR-000",
+          "ECR-001",
+          "ECR-002",
+          "ECR-003"
+        ],
+        "source": "배점표",
+        "detail": "553 부가세 10점"
+      },
+      {
+        "scoreItem": "D A B C D 1 1 2 3",
+        "score": 5.0,
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "proposalType": "quantitative",
+        "recommendedPages": 17,
+        "mappedRequirementCodes": [
+          "ECR-000",
+          "ECR-001",
+          "ECR-002",
+          "ECR-003"
+        ],
+        "source": "배점표",
+        "detail": "D A B C D 1 1 2 3 5점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [
+              "ECR-000",
+              "ECR-001",
+              "ECR-002",
+              "ECR-003"
+            ],
+            "recommendedPages": 50
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "SFR-000",
+              "SIR-000",
+              "DAR-000",
+              "SFR-001",
+              "SFR-002",
+              "SFR-003",
+              "SFR-004",
+              "SFR-005",
+              "SFR-006",
+              "SFR-007",
+              "SFR-008",
+              "SFR-009",
+              "SFR-010",
+              "SFR-011",
+              "SFR-012",
+              "SFR-013",
+              "SFR-014",
+              "SFR-015",
+              "SFR-016",
+              "SFR-017",
+              "SFR-018",
+              "SFR-019",
+              "SFR-020",
+              "SFR-021",
+              "SFR-022",
+              "SFR-023",
+              "SFR-024",
+              "SFR-025",
+              "SFR-026",
+              "SFR-027",
+              "SFR-028",
+              "SFR-029",
+              "SFR-030",
+              "SFR-031",
+              "SFR-032",
+              "SFR-033",
+              "SFR-034",
+              "SFR-035",
+              "SFR-036",
+              "SFR-037",
+              "SFR-038",
+              "SFR-039",
+              "SFR-040",
+              "SFR-041",
+              "SFR-042",
+              "SFR-043",
+              "SFR-044",
+              "SFR-045",
+              "SFR-046",
+              "SFR-047",
+              "SFR-048",
+              "SFR-049",
+              "SFR-050",
+              "SFR-051",
+              "SFR-052",
+              "SFR-053",
+              "SFR-054",
+              "SFR-055",
+              "SFR-056",
+              "SFR-057",
+              "SFR-058",
+              "SFR-059",
+              "SFR-060",
+              "SFR-061",
+              "SFR-062",
+              "SFR-063",
+              "SFR-064",
+              "SFR-065",
+              "SFR-066",
+              "SFR-067",
+              "SFR-068",
+              "SFR-069",
+              "SFR-070",
+              "SFR-071",
+              "SFR-072",
+              "SFR-073",
+              "SFR-074",
+              "SFR-075",
+              "SFR-076",
+              "SFR-077",
+              "SFR-078",
+              "SFR-079",
+              "SFR-080",
+              "SFR-081",
+              "SFR-082",
+              "SFR-083",
+              "SFR-084",
+              "SFR-085",
+              "SFR-086",
+              "SFR-087",
+              "SFR-088",
+              "SFR-089",
+              "SFR-090",
+              "SFR-091",
+              "SFR-092",
+              "SIR-001",
+              "SIR-002",
+              "DAR-001",
+              "DAR-002",
+              "DAR-003",
+              "DAR-004",
+              "DAR-005",
+              "DAR-006"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "PER-000",
+              "TER-000",
+              "SER-000",
+              "QUR-000",
+              "COR-000",
+              "PER-001",
+              "PER-002",
+              "TER-001",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "SER-005",
+              "SER-006",
+              "SER-007",
+              "SER-008",
+              "SER-009",
+              "QUR-001",
+              "QUR-002",
+              "QUR-003",
+              "COR-001",
+              "COR-002",
+              "COR-003",
+              "COR-004",
+              "COR-005"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-000",
+              "PMR-001",
+              "PMR-002",
+              "PMR-003",
+              "PMR-004"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-000",
+              "PSR-001",
+              "PSR-002",
+              "PSR-003",
+              "PSR-004"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 142,
+      "mappedRequirements": 142,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

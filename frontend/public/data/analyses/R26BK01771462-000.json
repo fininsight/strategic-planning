@@ -1,0 +1,1364 @@
+{
+  "bidNtceNo": "R26BK01771462",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-10-26T12:53:19.249106",
+  "status": "completed",
+  "source": {
+    "fileName": "2. 제안요청서(수정).hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01771462-000/2. 제안요청서(수정).hwp",
+    "pageCount": 68,
+    "textLength": 16726,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "2. 제안요청서(수정).hwp",
+      "extension": ".hwp",
+      "size": 2403840,
+      "kindCode": ""
+    },
+    {
+      "fileName": "긴급입찰사유.pdf",
+      "extension": ".pdf",
+      "size": 34772,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "36464455b08eea4bd0291b73",
+      "fileName": "2. 제안요청서(수정).hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01771462/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01771462/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01771462/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01771462-000/2. 제안요청서(수정).hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01771462-000/converted/2. 제안요청서(수정).pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01771462-000/converted/2. 제안요청서(수정).pdf",
+      "pageCount": 68,
+      "textLength": 16726,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI \n \n2026. 9.\n \n \n \n \n \n \n \n \n \n051-510-7\ngksmf7777@pu\n \n \n \n \n \n \n \nⅠ . \n1. 1\n2. 2\n3. 4\n4. 4\n5. 5\n6. 6\n7. 7\nⅡ . \n1. 8\n2. 9\n3. 10\n4. 13\n5. 13\nⅢ . \n1. 14\n2. 15\n . 15\n . 16\n . 26\n . 27\n . 28\n . 30\n . 32\n . 34\n . 35\n . 35\n . 36\nⅣ . \n1. 37\n2. 38\n3. 40\nⅤ. \n1. 46\n2. ( ) 46\n3. 48\n4. ( ) 51\nⅥ . \n1. 52\n2. 53\n3. 54\n4. SW 55\n[ 1] 56\n[ 2] 57\n[ 3] 59\n[ 4] 60\n[ 5] 61\n[ 6] 64\n5. 67\n6. 68\n7. 70\n8. S/W 70\n( ) 71\n[ 1] 72\n[ 2] ( ) 73\n[ 3] 74\n[ 4] 76\n[ 5] 78\n[ 6] 79\n[ 7] 80\n[ 8] 81\n[ 9] 85\n[ 10] · 86\n[ 11] 92\nⅠ \n1. \n . : AI \n . \n- , , , , \n \n \n- , , , , \n , · \n \n- AX , \n \n- 1 ,\n AI , GIS \n \n . \n- , , , \n \n- · \n \n- · · · · GIS \n \n- , , · · \n \n- AI \n \n . : 3 ( : 2027. 2. 12.)\n . :\n . :\n . : 2 , \n \n . : \n2. \n . Data Driven: \n1) · · · · · · \n \n2) - - - \n . Work Driven: \n1) · · · · \n2) \n . Impact Driven: \n1) · · · · \n \n2) · \n \n . Policy Driven: \n1) · · · · · · \n2) · · \n . Responsible AI: AI \n1) · · · \n2) AI · · · · \n . Sustainable & Open: \n1) \n2) · · · \n \n3) GIS·AI· \n \n3. \n . \n \n \n \n \n · · · \n \n · · · · · ·AI \n \n \nAX \n · \n · · \n \n \n \n · · \n · · · \n · · \n \n \n · · · \n \n \n \n · · · · · · \n \n · · · · · · \n . \n \n AX· (PNU IDC)\n \n ,\n AX \n \n (051-510-7079, 7227)\nDB AX· AX (051-510-7478)\nSSO AX· (051-510-7471)\n4. \n \n❶ · \n \n \n · · · \n · · \n \n❷ \n \n → · → · → → · → \n → · → \nERD \n \n❸ \n \n , , , , , , , , \n , 1 \n❹ \n \n · \n \n❺ AI .\n \n \n AI \nAI \n \n❻ \n GIS\n · \n \n \n \n❼ \n \n \n \n \n \n❽ \n \n - - - \n \n UAT \n \n❾ \n \n · · \n \n \n \n5. \n . \n1) , , , \n2) PC· · · \n . \n1) · · · · · · · · \n2) , , · \n . · \n1) · · · · · \n2) , · , , , · , · \n . \n1) · · · · · · · \n2) · · · \n . · \n1) , · · · · · \n2) · , GIS · · \n . AI · \n1) \n2) · · \n3) , , \n4) · \n . · · \n1) · · · · · · · \n2) · · · · \n3) · · · · \n6. \n \n \nM M+1 M+2\n \n \n \n \n \n \n \n \n \n \n \n , , \n , , \n \n , , \nDB , \n , , UI/UX \n , , \n \n , , \n \n , , \n , , , \n , , , \n , , , , \n , , , \n \n \n GIS \n AI \n \n \n \n \n , , , \n , \n / \n \nAI . \n \n \n \n \n (1 )\n7. \n . · · \n \n . , \n . · · · \n \n . AI · · \n . AX \n \nⅡ \n1. \n , · \n · · · · \n \n 9 9-1~9-6 \n \n · · \n \n · · \n · \n AX · ,\n · \n · · ·\n ·AI \n❍ AI · · · \n · · · \n ·DB · · · \n \n · · , , , ·\n , \n · · 12\n \n2. \n \n9-1 · \n \n · \n \n· \n- ( ) \n \n- ( ) \n- ( ) \n9-2\nBUSAN\nCREATIVE \n \n · \n · \n- ( ) \n \n- ( ) \n9-3 \n \n \n \n· \n- ( ) \n \n- ( ) \n \n9-4\n Aging In\nPlace(AIP) \n \n · · ·\n · \n- ( ) \n \n- ( ) \n \n9-5 Feed-\nforward \n \n \n · \n- ( ) \n \n- ( ) \n \n9-6\nHuman-UP \n \n \n · \n \n · \n- ( ) \n- ( ) \n \n- ( ) \n※ , \n3. \n . · \n1) · · \n2) , · · , · · \n3) - - - - - - \n . · \n1) · · · · \n2) · · · · \n3) · · · · \n4) · · · · \n . \n1) · · · · \n2) · · · \n3) · · · \n . · \n1) · · · · · · \n2) · · · · · \n3) · · · · · · \n . · \n1) · · · · \n2) · · · · \n3) · , · · · \n . · \n1) · · \n2) · · · · · \n3) · · \n . · GIS \n1) · · \n2) · \n3) · · · · · \n . AI \n1) \n2) · · · \n3) · · ·AI · \n4) AI AI · , \n · \n . · \n1) · · \n2) · · · \n3) · · \n . · · · · \n1) · · , · · · \n2) · · · \n3) · · · · · \n4) · · · · · \n . \n1) · · ·SNS · \n2) · · · · \n3) GIS· · · · \n4) , AI · · · \n4. \n \n → → → → → · \n 9-1~9-6 \n · · · \n · · · · · \n · · · \n · · · · · \n · · \n · \n5. \n , \n , , · , · , , , , , \n \n , · , , · , , , · , \n , , , , ,\nAI · , \n \n · , · · , · , , , · \n , , AI · , · , · , · \n< >\nⅢ \n1. \n \n -ECR\n(EquipmentCompositionRequirement)\n · · · 3\n - FUR\n(Functional Requirement)\n \n \n31\n -PER\n(Performance Requirement)\n , , , , \n \n4\n -INR\n(Interface Requirement)\n , , \n \n6\n -DAR\n(Data Requirement)\n , , , , , \n \n7\n -TER\n(Test Requirement)\n \n , \n5\n -SER\n(Security Requirement)\n · · \n \n8\n -QUR\n(Quality Requirement)\n , , , \n \n4\n -COR\n(Constraint Requirement)\n · · · \n \n2\n -PMR\n , , , , , \n \n4\n -PSR\n , , , , \n \n2\n2. \n . \n \n ECR-001\n , \n \n \n · · · \n \n \n \n☐ · ·DB· ·AI \n \n☐ · \n \n☐ · · ·AI \n \n☐ · · · · \n▷ · \n , · · \n▷ , , · , \n·DB· , \n▷ · · · , \n . \n \n ECR-002\n \n \n \n \n \n \n☐ · · \n☐ · · \n☐ · · · \n \n ECR-003\n \n \n \n , , , \n \n \n☐ DBMS, · , , , , AI \n☐ · · \n \n☐ · · · · \n \n☐ , , \n . \n \n FUR-001\n \n \n \n \n \n \n☐ · · · · · \n☐ · · · · · · · · \n☐ AX · SSO · \n \n☐ · · · · \n☐ , / , , \n☐ / SSO( ) \n☐ \n \n FUR-002\n \n \n \n , \n \n \n☐ , , , , \n , ( , ) \n☐ PC \n☐ · \n☐ · · · · \n☐ 3 · · \n☐ ( ) ( , , ) \n \n \n FUR-003\n \n \n \n \n \n \n☐ , , , , , \n☐ · · · · \n☐ · · · · · \n☐ \n \n FUR-004\n \n \n \n · · \n \n \n☐ , · · · · \n \n☐ · · · · · · · ·\n · \n☐ · · · , \n \n☐ · · · · · · \n☐ · · · · · · · · \n \n☐ · · · · \n \n☐ · ( , / , , ) \n☐ ( ) “ , , %, ” \n☐ , (RAW ) \n☐ (RAW) ( DB \n )\n☐ , . \n (RAW) ( ) \n☐ , , , , ,\n , ( ) \n☐ \n☐ ( ) ( ) \n☐ \n \n FUR-005\n \n \n \n \n \n \n☐ · · · · · · · · · · · \n \n☐ · · · · · · · · · · \n \n☐ · · · · · \n☐ · · · · · \n \n☐ , ( ) \n \n☐ “ , ” , \n , ( ), , \n☐ , ( ), ( ) \n☐ , ( ) \n☐ “ , , , , , , , , \n , , ” \n☐ ( ) “ , , , ” \n ( ) \n☐ ( ) \n☐ ( ) \n☐ ( ) \n☐ , , RAW \n \n \n FUR-006\n , , \n \n \n \n \n \n☐ , , · , \n☐ · · \n☐ · · \n☐ , , \n☐ \n \n FUR-007\n \n \n \n \n \n \n☐ , , , , \n☐ · · · · \n☐ · · \n☐ · · · \n☐ · \n☐ MY-PAGE , ( \n ) , \n☐ , ( ), , \n \n☐ \n \n FUR-008\n \n \n \n · · · · \n \n \n☐ , , , , , · \n☐ · · · \n☐ MOU, , , , \n☐ \n☐ , , , , , , \n \n☐ ( ), , , , \n☐ \n☐ 24( ) \n☐ ( ) \n ( , , , , , ) \n․ , , , , \n RAW( ) \n \n \n FUR-009\n , , \n \n \n \n \n \n☐ , , , , , , , \n☐ · · · · · · · \n☐ · · \n☐ \n \n FUR-010\n \n \n \n \n \n \n☐ · · · · · · · \n☐ · · · · \n☐ - - - - - \n☐ · \n \n FUR-011\n \n \n \n , \n \n \n☐ · · · · · · \n☐ , , , , , , \n☐ · · · · · \n☐ · \n \n FUR-012\n \n \n \n , , \n \n \n☐ · · · · · · · · · \n \n☐ \n☐ · · · · · · \n☐ · \n \n FUR-013\n , \n \n \n , \n \n \n☐ · · · · · · · · · · \n☐ · · · \n☐ AI \n☐ \n \n FUR-014\n , \n \n \n , \n \n \n☐ · · · · · · \n☐ · · · \n☐ · · \n☐ · \n \n FUR-015\n , \n \n \n \n \n \n☐ - - - - \n☐ , · , , , \n☐ \n☐ AI \n \n FUR-016\n \n \n \n , \n \n \n☐ · · · · · · · · \n☐ · · · \n☐ · \n \n☐ - - - - \n☐ · \n \n FUR-017\n , \n \n \n , , \n \n \n☐ · · · \n☐ · · \n☐ · · \n☐ · · \n \n FUR-018\n \n \n \n \n \n \n☐ - - - - \n☐ , · · \n☐ · · · \n☐ \n \n FUR-019\n \n \n \n , , \n \n \n☐ · · · · · \n☐ · · · · · · \n☐ · · \n☐ \n \n FUR-020\n , \n \n \n \n \n \n☐ · · · · · · \n☐ , , · \n☐ · \n☐ ·PDF· \n☐ ( ) \n \n \n FUR-021\n , \n \n \n \n \n \n☐ · · · · · · · \n☐ · · · · \n☐ , , \n☐ \n \n FUR-022\n , \n \n \n \n \n \n☐ · · · · · · · · \n☐ · · · · · · \n☐ · · \n☐ · \n \n FUR-023\n , \n \n \n \n \n \n☐ · · · · · \n☐ · · · · · \n☐ · · \n☐ - - - \n \n FUR-024\n , \n \n \n \n \n \n☐ · · · · · · \n☐ \n \n☐ \n☐ \n \n FUR-025\n \n \n \n \n \n \n☐ · · \n☐ \n☐ · · ·AI \n☐ · · \n \n FUR-026\n GIS \n \n \n , \n \n \n☐ · · · \n☐ · · · \n☐ · \n☐ · · · \n \n FUR-027\n \n \n \n , , , , \n \n \n☐ · · · \n☐ · · · · · \n☐ · · \n☐ · · \n \n FUR-028\n AI . \n \n \n , \n \n \n☐ · · · · \n \n☐ , , , \n☐ \n \n☐ · \n \n \n FUR-029\n AI · · · \n \n \n AI \n \n \n☐ · · · · \n☐ · · · · \n☐ · AI \n \n☐ AI · · \n \n FUR-030\n \n \n \n \n☐ \n☐ \n☐ · · · , , , \n \n☐ AI \n☐ · · · · · \n \n☐ · · \n \n FUR-031\n , \n \n \n \n \n \n☐ · · · · · \n☐ · \n☐ · · · · · · \n☐ · · ·AI · \n . \n \n PER-001\n \n \n \n , , \n \n \n☐ 3 , 5 \n☐ · ·AI \n☐ · · \n \n PER-002\n \n \n \n \n \n \n☐ \n☐ 5 · · \n☐ \n \n PER-003\n \n \n \n , , \n \n \n☐ · · · \n☐ · · \n☐ · · \n \n PER-004\n \n \n \n \n \n \n☐ · ·CPU· · ·DB \n☐ · · \n☐ \n . \n \n INR-001\n \n \n \n \n \n \n☐ · · · · \n☐ , , · \n☐ PC· · \n \n INR-002\n , \n \n \n \n \n \n☐ · · · \n☐ \n☐ \n \n INR-003\n , , \n \n \n \n \n \n☐ · · · · · \n☐ · · \n☐ · \n \n INR-004\n \n \n \n , \n \n \n☐ · · · \n☐ · · \n☐ · \n \n INR-005\n , \n \n \n AX \n \n \n☐ SSO· · · · AX \n \n☐ · · · · \n☐ · · \n \n \n INR-006\n \n \n \n \n \n \n☐ · · · · \n☐ · · · \n☐ \n . \n \n DAR-001\n ERD\n \n \n , \n \n \n☐ - - - - - - - - \n☐ · · · · \n \n☐ · · · \n \n☐ · · · · · \n \n DAR-002\n , , \n \n \n \n \n \n☐ · · · · \n☐ · · · · · · · · \n☐ · · \n \n☐ · · \n \n DAR-003\n \n \n \n , , \n \n \n☐ · · \n☐ · \n☐ · · · \n \n DAR-004\n \n \n \n , , , \n \n \n☐ · · · · \n☐ · · · \n☐ \n \n DAR-005\n , \n \n \n , , \n \n \n☐ · · · · \n☐ \n☐ · · \n☐ · · \n \n DAR-006\n AI , \n \n \n AI , , , \n \n \n☐ AI · \n☐ · · · · \n☐ · · · · \n☐ · \n \n DAR-007\n , , , \n \n \n \n \n \n☐ DB· · · · · \n☐ \n☐ · · · · · · \n☐ · \n . \n \n TER-001\n \n \n \n \n \n \n☐ · · · · · · · \n☐ · · \n☐ · · · \n \n TER-002\n , \n \n \n \n \n \n☐ · · · \n☐ , · , , · · , \n \n☐ · · \n☐ \n \n TER-003\n , \n \n \n , , \n \n \n☐ · · · \n☐ · \n☐ · · \n \n TER-004\n , , \n \n \n \n \n \n☐ · · · · · \n☐ · · \n☐ DB· · \n \n TER-005\n , \n \n \n \n \n \n☐ \n☐ · · · · \n☐ 0 \n . \n \n SER-001\n \n \n \n \n \n \n☐ · \n☐ · · · · \n☐ · · · · · \n \n SER-002\n , \n \n \n \n \n \n☐ · · · \n☐ \n☐ · · \n \n SER-003\n , , \n \n \n \n \n \n☐ \n☐ · · \n☐ · · \n \n SER-004\n \n \n \n \n \n \n☐ \n☐ \n☐ · · · · \n☐ · · · · \n \n SER-005\n \n \n \n \n \n \n☐ \n☐ SQL ·XSS·CSRF· · · · \n☐ · \n \n SER-006\n , , \n \n \n \n \n \n☐ · · · · \n☐ ·MIME· · \n☐ DB · · \n \n SER-007\n , , \n \n \n \n \n \n☐ · · · · · ·AI \n☐ · · \n☐ · · · · · \n \n SER-008\n \n \n \n \n \n \n☐ · ·DB· \n☐ · · · · · \n☐ \n . \n \n QUR-001\n , \n \n \n \n \n \n☐ \n☐ \n☐ · · \n \n QUR-002\n , \n \n \n \n \n \n☐ \n☐ · · · \n☐ \n \n QUR-003\n , \n \n \n \n \n \n☐ · · · · · · · · · \n \n☐ DB \n☐ · \n☐ GIS·AI · \n \n QUR-004\n , , \n \n \n \n \n \n☐ · · \n☐ - - - - \n☐ ·DB · · \n . \n \n COR-001\n , , \n \n \n \n \n \n☐ , , \n☐ · · · \n☐ · \n \n COR-002\n , , \n \n \n \n \n \n☐ · · · \n☐ · ·AI· · \n☐ AI · 3 \n . \n \n PMR-001\n , , \n \n \n , , \n \n \n☐ 10 \n☐ · · · · \n☐ · · · · · · \n☐ · · \n \n PMR-002\n , , \n \n \n , , \n \n \n☐ · · · · \n☐ · · · · \n☐ · ·AI · · \n \n PMR-003\n , , \n \n \n \n \n \n☐ · · · · \n☐ , · · · · · , , , \n \n☐ ·DB· · · · \n☐ \n \n PMR-004\n SW \n \n \n SW \n \n \n☐ 46 SW · \n☐ · SW (www.spir.kr) ‘SW ’\n \n☐ · \n☐ · \n . \n \n PSR-001\n , \n \n \n , \n \n \n☐ · · \n☐ · · · ·AI \n☐ · · · · · ·AI \n \n PSR-002\n , \n \n \n \n \n \n☐ 12 \n☐ · · · · \n☐ \n☐ · · · \nⅣ \n1. \n . : \n . : \n . : (90%), (10%)\n . \n1) \n2) 43 \n3) \n . \n1) \n2) ( ) , \n3) \n- \n- , ,\n \n4) \n2. \n . .\n1) , \n2) \n (G2B ) [ ( )\n(1468)] \n3) 14 \n , 76 ( ) \n4) ( : (8111159901)) \n5) 2 \n 2 \n ․ ․ ( \n ) \n . \n1) 48 4 \n \n2) 48 \n \n 20 (SW ‘ \n : ’ ) \n3) 20 48 \n 2 , 3 \n \n . ( ) , .\n1) , \n 12 ( ) 14 \n .\n2) 5 , 10% \n .\n- \n3) .\n4) ,\n .\n5) ( , , ) “ \n [ ]” 10 , \n .\n3. \n . \n1) \n : (90%), (10%)\n = + \n2) \n , \n , .\no · · , \n30 \n \n 90 85% \n .\n .\n3) \n 1 \n .\n , \n \n .\n ( ) .\n . \n1) \n \n \n \n \n ( 3 ) 10\n \n \n(3)\n .\n15\n \n(3)\n \n .\n \n(3)\n , \n .\n \n (3)\n \n .\n \n \n(3)\n , \n .\n \n \n \n(9)\n \n . .\n30\n \n(7)\n \n . \n .\n \n \n(7)\n , \n .\n \n(7)\n , , \n .\n \n \n(5)\n , \n . \n .\n15\n \n \n(5)\n , \n , \n .\n \n \n \n(5)\n : \n .\n : \n .\n \n \n \n(6)\n , ( ) , , \n . \n .\n※ , \n10\n \n(2)\n . \n .\n \n(2)\n , \n .\n \n \n \n(2)\n , \n 23 \n . \n .\n10\n \n(2)\n \n .\n \n(1)\n ,\n , .\n \n(2)\n , , , \n .\n \n(1)\n \n .\n \n(2) .\n2) \n (5 ) : \n \n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0\n 100% (5.00)\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB- 95% (4.75)\nB+, B0, B- B- B+, B0, B- 90% (4.50)\nCCC+ C CCC+ 70% (3.50)\n* \n[ ]\n 4 1 1 335 3\n , \n , \n . , \n .\n , \n .\n 1 , \n . , \n \n .\n 7 \n . \n , .( \n )\n , \n .\n( ) (A ×A )+(B ×B )…\n (5 )\n \n100% 100%(5.00)\n70% 100% 90%(4.50)\n40% 70% 80%(4.00)\n40% 70%(3.50)\n* 3 · , · \n . , 7 7 \n .\n[ ]\n \n .\n 9 8 1 .\n , .\n · , · \n , 5 .\n [ 6] [ 7] \n .\n- , , \n- , ( \n ), , ( ) , ( \n ) \n- \n- , , \n \n \n- \n .\n , \n .\n( ) {(A ×A )+(B ×B )…} \n . :“ ” \n1) .\n . \n1) :“ ” \n2) : (051) 510-7079\n . \n1) , \n .\n2) .\n3) .\n , ( ) \n4) , \n \n .\n5) , , \n , , , \n .\n6) \n \n .\n7) 12 14 , \n 12 .\n8) \n .\n . \n1) \n .\nⅤ \n1. \n , , \n . , \n \n , \n \n2. ( )\n A4 \n A4 , PDF · \n- 200 \n- (PDF) 200MB \n- \n 50 \n \n \n , \n \n , \n \n “ ” . , , \n , ,\n \n , \n \n , \n \n , \n , \n “ ” \n , \n \n , \n \n , \n \n 46 SW (SW \n ) \n3. \n , \n \n , , \n \n \n \n , \n \n \n \n , \n \n \n , \n . \n \n \n . , \n \n ,\n . , \n \n \n , \n \n , \n , \n \n \n 50 \n ( ) ( ) \n , \n 50 , 47 1 2 , 3 \n · , \n * \n , \n \n* 6 \n \n4. ( )\nⅠ . \n1. \n2. \nⅡ . \n1. \n2. \n3. \n4. \n5. \nⅢ . \n1. \n2. \n3. \n4. \nⅣ . \n1. \n2. \n3. \nⅤ . \n1. \n2. \n3. \nⅥ . \n1. \n2. \n3. \n4. \n5. \n6. \nⅦ . \n< > \n( : )\n \n \n( )\n \n \n \n \n \n \n \n \n \n \n \n \n(-)\n-\n-\n \n(12 )\n -1\n -1\n -2\n \n(7 )\n -1\n -2\n (Excel) (A4 - ) PDF \n \n \n , “ ” \nⅥ \n1. \n \n \n , , , , \n ‘ ’ \n , \n \n \n , \n \n \n2. \n · \n . \n , \n · , \n . \n \n , \n . , MSSQL DB SSO \n · \n · · , \n . \n , \n , · \n · \n . ·\n · 5 \n , \n \n · · , · · . \n , , , \n , · \n · . · \n \n · DB \n . MSSQL SSO \n \n · · . \n · · \n3. \n \n \n 56 ( \n ) \n4. SW \n SW , \n 4 \n SW .( )\n- SW , \n , \n \n- SW 3 \n \n- SW \n 76 1 3 \n 92 1 19 \n 1 \n \n [ 2] \n [ 3] \n .\n , , , , \n [ 4] ‘ ’ , \n 76 \n .\n \n , \n .\n \n , .\n 2 \n \n \n \n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n◦ \n◦ \n◦ \n \n◦ \n \n \n1. \n . \n . \n . ․ \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P \n \n . · \n . \n . PC \n . PC \n . \n . ( )\n◦ \n◦ \n \n◦ \n \n \n \n1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n◦ \n◦ \n / \n◦ \n \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n◦ \n \n◦ / \n \n 3 \n \n1. A~D \n \n \nA ( ) B ( ) C ( ) D ( )\n 1 1 2 3 \n \n 2% 1% 0.5%\n* [ 2] \n2. , \n* 1 \n3. \n 4 \n \n AI \n _______________ \n .\n IP \n \n \n \n \n( )\n \n \n \n \n \n* .\n20 \n __________ ○○○ ( )\n_______ ○○○ ( )\n_______ ○○○ ( )\n* \n \n 5 \n \n■ \n \n- [ 2~3] .\n- , \n .\n \n- , \n .\n- , ( )\n \n- , \n‘ ’ \n▪ ․ ․ \n \n- , ․ \n .\n▪ \n- ․ 40 4 \n' · \n- “ \n ” “ ” \n . ‘ \n ’ .\n■ \n , , IP , \n , .\n ‘ ( ) ’ \n ( ) ( ) ․ .\n ․ , \n , .\n \n PC ․ .\n \n . , , \n ․ .\n (P2P) \n , , \n .\n ․ ․ .\n■ \n .\n .\n ․PC , \n .\n ․PC PC \n PC .\n PC (CMOS) , , (10 ) \n 9 .\n■ ․ \n \n- (ID) \n .\n- \n- (ID) , , \n .\n- ․PC . , \n , \n ․PC .\n .\n■ \n USB ․ . , \n · \n■ \n , , \n \n 6 \n \n 50 ( ) ① \n ( “ ” ) .\n1. \n2. · \n② 1 .\n③ \n . .\n④ 1 3 , \n .\n \n 46 ( ) ① ~ ③ ( )\n④ \n ( ) , . \n .\n 47 ( ) ① \n .\n1. ( 43 3 )\n2. \n3. ② ~ ⑦ ( )\n \n 24 ( ) 50 2 “ ” .\n1. \n2. \n3. , , \n 24 2( ) 47 1 \n \n .\n 25 ( ) ① 47 1 1 \n . , \n .\n② 1 9 \n , 10 \n . 11 \n .\n③ 2 ( 2 \n 1 ) 12 \n . , \n 12 .\n1. 1 \n2. \n3. \n4. \n5. 57 \n6. 64 2 \n④ 1 2 \n .\n⑤ 1 2 \n , .\n⑥ 47 \n .\n⑦ \n44 3 .\n 26 ( ) ① 47 1 2 3 \n 13 \n , .\n② , 1 \n .\n③ 47 1 2 3 \n \n .\n④ 1 3 25 2 .\n⑤ 1 3 . ( ) \n 16 2 .\n 27 ( ) ① 47 1 2 \n 3 \n .\n1. \n2. \n② \n25 1 2 4 .\n③ 2 .\n 28 ( ) ① 47 5 ( 14 \n ) 15 \n . , .\n② 47 5 . \n 30 , ( ) 16 5 \n \n③ 1 14 \n .\n1. \n2. \n( ) \n 16 ( ) ① ~ ④ ( )\n⑤ 1 4 30 \n . \n , . < >\n 53 ( ) 16 \n .\n1. 16 1 3 1 \n .\n2. 1 \n ( \" \" ) . , 100 \n 10 .\n3. 2 \n .\n4. .\n5. \n \n 1 \n\n6. \n\n7. \n MSSQL SSO , \n · . \n \n(BMT) .\n< >\n \n \n \n1 DBMS \n \n ( )\n ( )\n \n \nMSSQL DB\n \n \nDBMS \n \n2 1 \n ( )\n ( )\n \n \n \n 84 2 1 \n \n3 1 \n ( )\n ( )\n \n \n \n 84 2 1 \n \n8. S/W : \n( ) \n1. \n2. ( )\n3. \n4. \n5. \n6. \n7. \n8. \n9. \n10. \n11. \n[ 1]\n \n :\n , , , \n . , __________________ \n \n .\n · \n , \n \n .\n20 \n :\n :\n :\n : ( )\n \n[ 2]\n ( )\n AI \n .\n1. AI \n .\n2. \n .\n3. \n .\n \n :\n( ) : ( )\n :\n \n[ 3]\n \n ____________ ( ) \n .\n1. ____________ \n .\n2. \n \n .\n3. \n .\n . 4 1 2 · 5 ( )\n . 99 ( ) 127 ( )\n . 2 2 \n . .\n \n :\n :\n : ( )\n- 1 -\n \n1) · IP \n2) \n3) · \n4) · \n5) \n( · )\n6) · \n7) \n8) 9 1 \n9) 2 1 \n10) 4 16 3 \n11) \n- 2 -\n[ 4]\n \n ( “ ” ) ________ ( “ ” ) “ ” \n “ ” .\n 1 ( ) “ ” “ ” , “ ” “ ” \n .\n 2 ( ) , , \n .\n 3 ( ) “ ” AI · · \n · .\n1. · , · \n2. \n 4 ( ) “ ” “ ” “ ” \n 3 .\n “ ” “ ” “ ” .\n 5 ( ) “ ” 29 , 30 \n ( ) · .\n 6 ( ) “ ” \n 3 .\n “ ” \n 16 “ ” .\n 2 “ ” “ ” .\n 7 ( · ) “ ” “ ” , “ ” \n .\n1. \n2. \n3. \n4. · \n5. \n6. \n “ ” “ ” 1 , “ ” \n .\n “ ” · · · 1 1 “ ”\n , “ ” .\n 1 “ ” “ ” .\n 8 ( ) “ ” “ ” “ ” \n “ ” “ ” “ ” \n “ ” 3 “ ” .\n 1 3 “ ” “ ” \n “ ” .\n 2 , “ ” “ ” 1 .\n \n 63 2\n \n \n○○ ○○ ○○ ○○ \n : ( ) : ( )\n[ 5]\n \n \n \n \n \n \n ( )\n \n[ 6]\n \n \n \n \n( )\n \n \n )\n “ ” “ ” \n ( )\n \n \n[ 7]\n \n \n ( ) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nISP/BPR ( )\nPMO/ ( )\n ( )\n ( )\n ( )\n \n \n \n \n \n \n \n \n \n \n \n \n \n : ( ) ( : )\n : (FAX : )\n : : ( )\n .\n .\n .\n[ 8]\n ( )\n 1 ( ) , \n ․ ․ ․ \n .\n1. :\n2. :\n3. :\n 2 ( ) , , .\n1. : \n2. :\n3. :\n 3 ( ) .\n1. ( : )\n2. ( : )\n .\n 3 , \n .\n 4 ( ) , . ,\n 3 ․ .\n 5 ( ) 1 ․ \n .\n 6 ( ) .\n , \n . < 2014.1.10.>\n 7 ( ) \n .\n 8 ( ) 11 , \n .\n1. ( ) : , , \n2. : , , \n 9 ( ) .\n1. : %\n2. : %\n 1 . , \n .\n1. \n2. , , , , ( \n ), \n \n , .\n 10 ( ) 9 \n .\n 10 2( ) , , , \n .\n , \n .\n 1 , \n , \n .\n 3 \n . , \n .\n[ 2012.4.2.]\n 11 ( ․ ) ․ 3 .\n 12 ( ) \n . , 3 \n .\n1. \n2. , , 10 2 \n < \n2012.4.2.>\n3. , , \n76 1 6 \n 1 . \n , , , \n \n . < 2010.9.8.>\n 2 9 \n .\n 10 .\n 13 ( ) \n . , \n . < 2014.1.10.>\n 14 ( ) \n .\n .\n \n .\n \n ( )\n ( )\n[ 9]\n \nAI 1 \n .\n \n \n \n▢ \n◦ AI \n- , , , \n▢ \n◦ \n- \n- \n◦ \n- , : , ( , ), \n- : , ( , ), , \n- : , , , , , , \n \n◦ \n- : 3 \n- : 2 \n- : .\n( , , )\n AI \n .\n2026 \n ( )\n[ 10]\n ․ [ √ ] , [ ] \n AI \n 2026. . .\n□ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n□ \n \n / / \n \n \n \n \n \n \n \n \n , , \n · .\n○\n \n \n \n- HTML Living Standard(HTML5)\n○\n- W3C CSS ○\n- DOM ECMAScript ○\n- JSON ○\n- SVG ○\n- ○\n- ○\n- 2.2 ○\n \n- · \n○\n (ISO/IEC 20000-1 ) ○\n \n \nIPv4 ○\nIPv6 ○\n□ \n \n / / \n \n \n \n \n \n \n \no , \n · \n .\n○\n \n \no \n- SOAP 1.2, WSDL 2.0, XML 1.0\n○\n- UDDI v3 ○ ※ \n - RESTful ○\no \n- UML 2.0/BPMN 1.0\n○\n- ebXML/BPEL 2.0/ XPDL 2.0 ○\n o : XML 1.0 ○\n o : UDDI v3, WSDL 2.0 ○\n□ \n \n / / \n \n \n \n \n \n \n \n \n IPv4 IPv6 \n .\n○\n , \n .\n○\n \n \no : H.320~H.324, H.310 ○\no : VoIP\n- H.323\n○\n- SIP ○\n- Megaco(H.248) ○\n \n \no ( ) :\n- POSIX.0\n○\n- UNIX ○\n- Windows Server ○\n- Linux ○\no \n- android\n○\n- IOS ○\n- Windows Phone ○\n \no DBMS\n- RDBMS\n○\n- ORDBMS ○\n- OODBMS ○\n- MMDBMS ○\n o ITIL v3 / ISO20000 ○\n o : ○\n□ \n \n / / \n \n \n \n \n \n \n \n \n . ○\n , , , \n .\n○\n \n \n “ ” \n .\n○\n \n .\n○\n \n \no : HTML 4.01 ○\no - JSP 2.1 ○\n- ASP.net ○\n- PHP ○\n- ( ) ○\n \n \n- C\n○\n- C++ ○\n- Java ○\n- C# ○\n- ( ) ○\n \no :\n- XMI 2.0\n○\n- SOAP 1.2 ○\no \n- EUC-KR\n○\n- UTF-8( , UTF-8 ) ○\n□ \n \n / / \n \n \n \n \n \n \n \n \no \n . “ ”,“ \n ”,“ ” “ ” .\n○\no · \n . ○\n \n ․ . ○\n \n \n \n \n ( )\n- \n · ( )\n○\n \n \n \n ( \n )\n- PKI \n○\n- SSO ○\n- ․ ○\n- (DRM) ○\n- ○\n- ○\n- ○\n- ○\n- DB ○\n- (9 ) ○\n- ○\n CC ( CC )\n- ( ) ○\n- ( ) ( ) ○\n- ○\n- ○\n- DDos ○\n- ○\n- ○\n- ○\n- ( ) ○\n- ○\n- ○\n- ○\n- ○\n- (PC ) ○\n- ○\n- ( , \n ) ○\n- ○\n- ○\n- DB ○\n- ○\n- USB( ) ○\n- ( \n ) ○\n- ○\n- ○\n- CC ○\n ( · ) \n- · ( \n )\n○\n \n \n \n \n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n \n- ○\n- ( ) ○\n- ( ) ○\n- ○\n[ 11]\n ( )\n SW \n \n \n \n \n \n \n / \n \nSW \nSW \n \nRFP / SW \n \n \n \n \n \n \n \n \n \n \n \n H/W \n \n SW \n \n \n \n \n SW \n \n \n SW \n SW \n \n \n \n SW \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n SW / \n SW \n \n SW \n SW \n \n \n SW",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "AI \n \n2026. 9.\n \n \n \n \n \n \n \n \n \n051-510-7\ngksmf7777@pu\n \n \n \n \n \n \n \nⅠ . \n1. 1\n2. 2\n3. 4\n4. 4\n5. 5\n6. 6\n7. 7\nⅡ . \n1. 8\n2. 9\n3. 10\n4. 13\n5. 13\nⅢ . \n1. 14\n2. 15\n . 15\n . 16\n . 26\n . 27\n . 28\n . 30\n . 32\n . 34\n . 35\n . 35\n . 36\nⅣ . \n1. 37\n2. 38\n3. 40\nⅤ. \n1. 46\n2. ( ) 46\n3. 48\n4. ( ) 51\nⅥ . \n1. 52\n2. 53\n3. 54\n4. SW 55\n[ 1] 56\n[ 2] 57\n[ 3] 59\n[ 4] 60\n[ 5] 61\n[ 6...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "6c8a16c86340976f13727303",
+      "fileName": "긴급입찰사유.pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01771462/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01771462/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01771462/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01771462-000/긴급입찰사유.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01771462-000/긴급입찰사유.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01771462-000/긴급입찰사유.pdf",
+      "pageCount": 1,
+      "textLength": 0,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "첨부서류 파일입니다. 텍스트 추출 가능 여부를 확인한 뒤 세부 내용을 검토해야 합니다.",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "AI \n \n2026. 9.\n \n \n \n \n \n \n \n \n \n051-510-7\ngksmf7777@pu\n \n \n \n \n \n \n \nⅠ . \n1. 1\n2. 2\n3. 4\n4. 4\n5. 5\n6. 6\n7. 7\nⅡ . \n1. 8\n2. 9\n3. 10\n4. 13\n5. 13\nⅢ . \n1. 14\n2. 15\n . 15\n . 16\n . 26\n . 27\n . 28\n . 30\n . 32\n . 34\n . 35\n . 35\n . 36\nⅣ . \n1. 37\n2. 38\n3. 40\nⅤ. \n1. 46\n2. ( ) 46\n3. 48\n4. ( ) 51\nⅥ . \n1. 52\n2. 53\n3. 54\n4. SW 55\n[ 1] 56\n[ 2] 57\n[ 3] 59\n[ 4] 60\n[ 5] 61\n[ 6] 64\n5. 67\n6. 68\n7. 70\n8. S/W 70\n( ) 71\n[ 1] 72\n[ 2] ( ) 73\n[ 3] 74\n[ 4] 76\n[ 5] 78\n[ 6] 79\n[ 7] 80\n[ 8] 81\n[ 9] 85\n[ 10] · 86\n[ 11] 92\nⅠ \n1. \n . : AI \n . \n- , , , , \n \n \n- , , , , \n , · \n \n- AX , \n \n- 1 ,\n AI , GIS \n \n . \n- , , , \n \n- · \n \n- · · · · GIS \n \n- , , · · \n \n- AI \n \n . : 3 ( : 2027. 2. 12.)\n . :\n . :\n . : 2 , \n \n . : \n2. \n . Data Driven: \n1) · · · · · · \n \n2) - - - \n . Work Driven: \n1) · · · · \n2) \n . Impact Driven: \n1) · · · · \n \n2) · \n \n . Policy Driven: \n1) · · · · · · \n2) · · \n . Responsible AI: AI \n1) · · · \n2) AI · · · · \n . Sustainable & Open: \n1) \n2) · · · \n \n3) GIS·AI· \n \n3. \n . \n \n \n \n \n · · · \n \n · · · · · ·AI \n \n \nAX \n · \n · · \n \n \n \n · · \n · · · \n · · \n \n \n · · · \n \n \n \n · · · · · · \n \n · · · · · · \n . \n \n AX· (PNU IDC)\n \n ,\n AX \n \n (051-510-7079, 7227)\nDB AX· AX (051-510-7478)\nSSO AX· (051-510-7471)\n4. \n \n❶ · \n \n \n · · · \n · · \n \n❷ \n \n → · → · → → · → \n → · → \nERD \n \n❸ \n \n , , , , , , , , \n , 1 \n❹ \n \n · \n \n❺ AI .\n \n \n AI \nAI \n \n❻ \n GIS\n · \n \n \n \n❼ \n \n \n \n \n \n❽ \n \n - - - \n \n UAT \n \n❾ \n \n · · \n \n \n \n5. \n . \n1) , , , \n2) PC· · · \n . \n1) · · · · · · · · \n2) , , · \n . · \n1) · · · · · \n2) , · , , , · , · \n . \n1) · · · · · · · \n2) · · · \n . · \n1) , · · · · · \n2) · , GIS · · \n . AI · \n1) \n2) · · \n3) , , \n4) · \n . · · \n1) · · · · · · · \n2) · · · · \n3) · · · · \n6. \n \n \nM M+1 M+2\n \n \n \n \n \n \n \n \n \n \n \n , , \n , , \n \n , , \nDB , \n , , UI/UX \n , , \n \n , , \n \n , , \n , , , \n , , , \n , , , , \n , , , \n \n \n GIS \n AI \n \n \n \n \n , , , \n , \n / \n \nAI . \n \n \n \n \n (1 )\n7. \n . · · \n \n . , \n . · · · \n \n . AI · · \n . AX \n \nⅡ \n1. \n , · \n · · · · \n \n 9 9-1~9-6 \n \n · · \n \n · · \n · \n AX · ,\n · \n · · ·\n ·AI \n❍ AI · · · \n · · · \n ·DB · · · \n \n · · , , , ·\n , \n · · 12\n \n2. \n \n9-1 · \n \n · \n \n· \n- ( ) \n \n- ( ) \n- ( ) \n9-2\nBUSAN\nCREATIVE \n \n · \n · \n- ( ) \n \n- ( ) \n9-3 \n \n \n \n· \n- ( ) \n \n- ( ) \n \n9-4\n Aging In\nPlace(AIP) \n \n · · ·\n · \n- ( ) \n \n- ( ) \n \n9-5 Feed-\nforward \n \n \n · \n- ( ) \n \n- ( ) \n \n9-6\nHuman-UP \n \n \n · \n \n · \n- ( ) \n- ( ) \n \n- ( ) \n※ , \n3. \n . · \n1) · · \n2) , · · , · · \n3) - - - - - - \n . · \n1) · · · · \n2) · · · · \n3) · · · · \n4) · · · · \n . \n1) · · · · \n2) · · · \n3) · · · \n . · \n1) · · · · · · \n2) · · · · · \n3) · · · · · · \n . · \n1) · · · · \n2) · · · · \n3) · , · · · \n . · \n1) · · \n2) · · · · · \n3) · · \n . · GIS \n1) · · \n2) · \n3) · · · · · \n . AI \n1) \n2) · · · \n3) · · ·AI · \n4) AI AI · , \n · \n . · \n1) · · \n2) · · · \n3) · · \n . · · · · \n1) · · , · · · \n2) · · · \n3) · · · · · \n4) · · · · · \n . \n1) · · ·SNS · \n2) · · · · \n3) GIS· · · · \n4) , AI · · · \n4. \n \n → → → → → · \n 9-1~9-6 \n · · · \n · · · · · \n · · · \n · · · · · \n · · \n · \n5. \n , \n , , · , · , , , , , \n \n , · , , · , , , · , \n , , , , ,\nAI · , \n \n · , · · , · , , , · \n , , AI · , · , · , · \n< >\nⅢ \n1. \n \n -ECR\n(EquipmentCompositionRequirement)\n · · · 3\n - FUR\n(Functional Requirement)\n \n \n31\n -PER\n(Performance Requirement)\n , , , , \n \n4\n -INR\n(Interface Requirement)\n , , \n \n6\n -DAR\n(Data Requirement)\n , , , , , \n \n7\n -TER\n(Test Requirement)\n \n , \n5\n -SER\n(Security Requirement)\n · · \n \n8\n -QUR\n(Quality Requirement)\n , , , \n \n4\n -COR\n(Constraint Requirement)\n · · · \n \n2\n -PMR\n , , , , , \n \n4\n -PSR\n , , , , \n \n2\n2. \n . \n \n ECR-001\n , \n \n \n · · · \n \n \n \n☐ · ·DB· ·AI \n \n☐ · \n \n☐ · · ·AI \n \n☐ · · · · \n▷ · \n , · · \n▷ , , · , \n·DB· , \n▷ · · · , \n . \n \n ECR-002\n \n \n \n \n \n \n☐ · · \n☐ · · \n☐ · · · \n \n ECR-003\n \n \n \n , , , \n \n \n☐ DBMS, · , , , , AI \n☐ · · \n \n☐ · · · · \n \n☐ , , \n . \n \n FUR-001\n \n \n \n \n \n \n☐ · · · · · \n☐ · · · · · · · · \n☐ AX · SSO · \n \n☐ · · · · \n☐ , / , , \n☐ / SSO( ) \n☐ \n \n FUR-002\n \n \n \n , \n \n \n☐ , , , , \n , ( , ) \n☐ PC \n☐ · \n☐ · · · · \n☐ 3 · · \n☐ ( ) ( , , ) \n \n \n FUR-003\n \n \n \n \n \n \n☐ , , , , , \n☐ · · · · \n☐ · · · · · \n☐ \n \n FUR-004\n \n \n \n · · \n \n \n☐ , · · · · \n \n☐ · · · · · · · ·\n · \n☐ · · · , \n \n☐ · · · · · · \n☐ · · · · · · · · \n \n☐ · · · · \n \n☐ · ( , / , , ) \n☐ ( ) “ , , %, ” \n☐ , (RAW ) \n☐ (RAW) ( DB \n )\n☐ , . \n (RAW) ( ) \n☐ , , , , ,\n , ( ) \n☐ \n☐ ( ) ( ) \n☐ \n \n FUR-005\n \n \n \n \n \n \n☐ · · · · · · · · · · · \n \n☐ · · · · · · · · · · \n \n☐ · · · · · \n☐ · · · · · \n \n☐ , ( ) \n \n☐ “ , ” , \n , ( ), , \n☐ , ( ), ( ) \n☐ , ( ) \n☐ “ , , , , , , , , \n , , ” \n☐ ( ) “ , , , ” \n ( ) \n☐ ( ) \n☐ ( ) \n☐ ( ) \n☐ , , RAW \n \n \n FUR-006\n , , \n \n \n \n \n \n☐ , , · , \n☐ · · \n☐ · · \n☐ , , \n☐ \n \n FUR-007\n \n \n \n \n \n \n☐ , , , , \n☐ · · · · \n☐ · · \n☐ · · · \n☐ · \n☐ MY-PAGE , ( \n ) , \n☐ , ( ), , \n \n☐ \n \n FUR-008\n \n \n \n · · · · \n \n \n☐ , , , , , · \n☐ · · · \n☐ MOU, , , , \n☐ \n☐ , , , , , , \n \n☐ ( ), , , , \n☐ \n☐ 24( ) \n☐ ( ) \n ( , , , , , ) \n․ , , , , \n RAW( ) \n \n \n FUR-009\n , , \n \n \n \n \n \n☐ , , , , , , , \n☐ · · · · · · · \n☐ · · \n☐ \n \n FUR-010\n \n \n \n \n \n \n☐ · · · · · · · \n☐ · · · · \n☐ - - - - - \n☐ · \n \n FUR-011\n \n \n \n , \n \n \n☐ · · · · · · \n☐ , , , , , , \n☐ · · · · · \n☐ · \n \n FUR-012\n \n \n \n , , \n \n \n☐ · · · · · · · · · \n \n☐ \n☐ · · · · · · \n☐ · \n \n FUR-013\n , \n \n \n , \n \n \n☐ · · · · · · · · · · \n☐ · · · \n☐ AI \n☐ \n \n FUR-014\n , \n \n \n , \n \n \n☐ · · · · · · \n☐ · · · \n☐ · · \n☐ · \n \n FUR-015\n , \n \n \n \n \n \n☐ - - - - \n☐ , · , , , \n☐ \n☐ AI \n \n FUR-016\n \n \n \n , \n \n \n☐ · · · · · · · · \n☐ · · · \n☐ · \n \n☐ - - - - \n☐ · \n \n FUR-017\n , \n \n \n , , \n \n \n☐ · · · \n☐ · · \n☐ · · \n☐ · · \n \n FUR-018\n \n \n \n \n \n \n☐ - - - - \n☐ , · · \n☐ · · · \n☐ \n \n FUR-019\n \n \n \n , , \n \n \n☐ · · · · · \n☐ · · · · · · \n☐ · · \n☐ \n \n FUR-020\n , \n \n \n \n \n \n☐ · · · · · · \n☐ , , · \n☐ · \n☐ ·PDF· \n☐ ( ) \n \n \n FUR-021\n , \n \n \n \n \n \n☐ · · · · · · · \n☐ · · · · \n☐ , , \n☐ \n \n FUR-022\n , \n \n \n \n \n \n☐ · · · · · · · · \n☐ · · · · · · \n☐ · · \n☐ · \n \n FUR-023\n , \n \n \n \n \n \n☐ · · · · · \n☐ · · · · · \n☐ · · \n☐ - - - \n \n FUR-024\n , \n \n \n \n \n \n☐ · · · · · · \n☐ \n \n☐ \n☐ \n \n FUR-025\n \n \n \n \n \n \n☐ · · \n☐ \n☐ · · ·AI \n☐ · · \n \n FUR-026\n GIS \n \n \n , \n \n \n☐ · · · \n☐ · · · \n☐ · \n☐ · · · \n \n FUR-027\n \n \n \n , , , , \n \n \n☐ · · · \n☐ · · · · · \n☐ · · \n☐ · · \n \n FUR-028\n AI . \n \n \n , \n \n \n☐ · · · · \n \n☐ , , , \n☐ \n \n☐ · \n \n \n FUR-029\n AI · · · \n \n \n AI \n \n \n☐ · · · · \n☐ · · · · \n☐ · AI \n \n☐ AI · · \n \n FUR-030\n \n \n \n \n☐ \n☐ \n☐ · · · , , , \n \n☐ AI \n☐ · · · · · \n \n☐ · · \n \n FUR-031\n , \n \n \n \n \n \n☐ · · · · · \n☐ · \n☐ · · · · · · \n☐ · · ·AI · \n . \n \n PER-001\n \n \n \n , , \n \n \n☐ 3 , 5 \n☐ · ·AI \n☐ · · \n \n PER-002\n \n \n \n \n \n \n☐ \n☐ 5 · · \n☐ \n \n PER-003\n \n \n \n , , \n \n \n☐ · · · \n☐ · · \n☐ · · \n \n PER-004\n \n \n \n \n \n \n☐ · ·CPU· · ·DB \n☐ · · \n☐ \n . \n \n INR-001\n \n \n \n \n \n \n☐ · · · · \n☐ , , · \n☐ PC· · \n \n INR-002\n , \n \n \n \n \n \n☐ · · · \n☐ \n☐ \n \n INR-003\n , , \n \n \n \n \n \n☐ · · · · · \n☐ · · \n☐ · \n \n INR-004\n \n \n \n , \n \n \n☐ · · · \n☐ · · \n☐ · \n \n INR-005\n , \n \n \n AX \n \n \n☐ SSO· · · · AX \n \n☐ · · · · \n☐ · · \n \n \n INR-006\n \n \n \n \n \n \n☐ · · · · \n☐ · · · \n☐ \n . \n \n DAR-001\n ERD\n \n \n , \n \n \n☐ - - - - - - - - \n☐ · · · · \n \n☐ · · · \n \n☐ · · · · · \n \n DAR-002\n , , \n \n \n \n \n \n☐ · · · · \n☐ · · · · · · · · \n☐ · · \n \n☐ · · \n \n DAR-003\n \n \n \n , , \n \n \n☐ · · \n☐ · \n☐ · · · \n \n DAR-004\n \n \n \n , , , \n \n \n☐ · · · · \n☐ · · · \n☐ \n \n DAR-005\n , \n \n \n , , \n \n \n☐ · · · · \n☐ \n☐ · · \n☐ · · \n \n DAR-006\n AI , \n \n \n AI , , , \n \n \n☐ AI · \n☐ · · · · \n☐ · · · · \n☐ · \n \n DAR-007\n , , , \n \n \n \n \n \n☐ DB· · · · · \n☐ \n☐ · · · · · · \n☐ · \n . \n \n TER-001\n \n \n \n \n \n \n☐ · · · · · · · \n☐ · · \n☐ · · · \n \n TER-002\n , \n \n \n \n \n \n☐ · · · \n☐ , · , , · · , \n \n☐ · · \n☐ \n \n TER-003\n , \n \n \n , , \n \n \n☐ · · · \n☐ · \n☐ · · \n \n TER-004\n , , \n \n \n \n \n \n☐ · · · · · \n☐ · · \n☐ DB· · \n \n TER-005\n , \n \n \n \n \n \n☐ \n☐ · · · · \n☐ 0 \n . \n \n SER-001\n \n \n \n \n \n \n☐ · \n☐ · · · · \n☐ · · · · · \n \n SER-002\n , \n \n \n \n \n \n☐ · · · \n☐ \n☐ · · \n \n SER-003\n , , \n \n \n \n \n \n☐ \n☐ · · \n☐ · · \n \n SER-004\n \n \n \n \n \n \n☐ \n☐ \n☐ · · · · \n☐ · · · · \n \n SER-005\n \n \n \n \n \n \n☐ \n☐ SQL ·XSS·CSRF· · · · \n☐ · \n \n SER-006\n , , \n \n \n \n \n \n☐ · · · · \n☐ ·MIME· · \n☐ DB · · \n \n SER-007\n , , \n \n \n \n \n \n☐ · · · · · ·AI \n☐ · · \n☐ · · · · · \n \n SER-008\n \n \n \n \n \n \n☐ · ·DB· \n☐ · · · · · \n☐ \n . \n \n QUR-001\n , \n \n \n \n \n \n☐ \n☐ \n☐ · · \n \n QUR-002\n , \n \n \n \n \n \n☐ \n☐ · · · \n☐ \n \n QUR-003\n , \n \n \n \n \n \n☐ · · · · · · · · · \n \n☐ DB \n☐ · \n☐ GIS·AI · \n \n QUR-004\n , , \n \n \n \n \n \n☐ · · \n☐ - - - - \n☐ ·DB · · \n . \n \n COR-001\n , , \n \n \n \n \n \n☐ , , \n☐ · · · \n☐ · \n \n COR-002\n , , \n \n \n \n \n \n☐ · · · \n☐ · ·AI· · \n☐ AI · 3 \n . \n \n PMR-001\n , , \n \n \n , , \n \n \n☐ 10 \n☐ · · · · \n☐ · · · · · · \n☐ · · \n \n PMR-002\n , , \n \n \n , , \n \n \n☐ · · · · \n☐ · · · · \n☐ · ·AI · · \n \n PMR-003\n , , \n \n \n \n \n \n☐ · · · · \n☐ , · · · · · , , , \n \n☐ ·DB· · · · \n☐ \n \n PMR-004\n SW \n \n \n SW \n \n \n☐ 46 SW · \n☐ · SW (www.spir.kr) ‘SW ’\n \n☐ · \n☐ · \n . \n \n PSR-001\n , \n \n \n , \n \n \n☐ · · \n☐ · · · ·AI \n☐ · · · · · ·AI \n \n PSR-002\n , \n \n \n \n \n \n☐ 12 \n☐ · · · · \n☐ \n☐ · · · \nⅣ \n1. \n . : \n . : \n . : (90%), (10%)\n . \n1) \n2) 43 \n3) \n . \n1) \n2) ( ) , \n3) \n- \n- , ,\n \n4) \n2. \n . .\n1) , \n2) \n (G2B ) [ ( )\n(1468)] \n3) 14 \n , 76 ( ) \n4) ( : (8111159901)) \n5) 2 \n 2 \n ․ ․ ( \n ) \n . \n1) 48 4 \n \n2) 48 \n \n 20 (SW ‘ \n : ’ ) \n3) 20 48 \n 2 , 3 \n \n . ( ) , .\n1) , \n 12 ( ) 14 \n .\n2) 5 , 10% \n .\n- \n3) .\n4) ,\n .\n5) ( , , ) “ \n [ ]” 10 , \n .\n3. \n . \n1) \n : (90%), (10%)\n = + \n2) \n , \n , .\no · · , \n30 \n \n 90 85% \n .\n .\n3) \n 1 \n .\n , \n \n .\n ( ) .\n . \n1) \n \n \n \n \n ( 3 ) 10\n \n \n(3)\n .\n15\n \n(3)\n \n .\n \n(3)\n , \n .\n \n (3)\n \n .\n \n \n(3)\n , \n .\n \n \n \n(9)\n \n . .\n30\n \n(7)\n \n . \n .\n \n \n(7)\n , \n .\n \n(7)\n , , \n .\n \n \n(5)\n , \n . \n .\n15\n \n \n(5)\n , \n , \n .\n \n \n \n(5)\n : \n .\n : \n .\n \n \n \n(6)\n , ( ) , , \n . \n .\n※ , \n10\n \n(2)\n . \n .\n \n(2)\n , \n .\n \n \n \n(2)\n , \n 23 \n . \n .\n10\n \n(2)\n \n .\n \n(1)\n ,\n , .\n \n(2)\n , , , \n .\n \n(1)\n \n .\n \n(2) .\n2) \n (5 ) : \n \n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0\n 100% (5.00)\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB- 95% (4.75)\nB+, B0, B- B- B+, B0, B- 90% (4.50)\nCCC+ C CCC+ 70% (3.50)\n* \n[ ]\n 4 1 1 335 3\n , \n , \n . , \n .\n , \n .\n 1 , \n . , \n \n .\n 7 \n . \n , .( \n )\n , \n .\n( ) (A ×A )+(B ×B )…\n (5 )\n \n100% 100%(5.00)\n70% 100% 90%(4.50)\n40% 70% 80%(4.00)\n40% 70%(3.50)\n* 3 · , · \n . , 7 7 \n .\n[ ]\n \n .\n 9 8 1 .\n , .\n · , · \n , 5 .\n [ 6] [ 7] \n .\n- , , \n- , ( \n ), , ( ) , ( \n ) \n- \n- , , \n \n \n- \n .\n , \n .\n( ) {(A ×A )+(B ×B )…} \n . :“ ” \n1) .\n . \n1) :“ ” \n2) : (051) 510-7079\n . \n1) , \n .\n2) .\n3) .\n , ( ) \n4) , \n \n .\n5) , , \n , , , \n .\n6) \n \n .\n7) 12 14 , \n 12 .\n8) \n .\n . \n1) \n .\nⅤ \n1. \n , , \n . , \n \n , \n \n2. ( )\n A4 \n A4 , PDF · \n- 200 \n- (PDF) 200MB \n- \n 50 \n \n \n , \n \n , \n \n “ ” . , , \n , ,\n \n , \n \n , \n \n , \n , \n “ ” \n , \n \n , \n \n , \n \n 46 SW (SW \n ) \n3. \n , \n \n , , \n \n \n \n , \n \n \n \n , \n \n \n , \n . \n \n \n . , \n \n ,\n . , \n \n \n , \n \n , \n , \n \n \n 50 \n ( ) ( ) \n , \n 50 , 47 1 2 , 3 \n · , \n * \n , \n \n* 6 \n \n4. ( )\nⅠ . \n1. \n2. \nⅡ . \n1. \n2. \n3. \n4. \n5. \nⅢ . \n1. \n2. \n3. \n4. \nⅣ . \n1. \n2. \n3. \nⅤ . \n1. \n2. \n3. \nⅥ . \n1. \n2. \n3. \n4. \n5. \n6. \nⅦ . \n< > \n( : )\n \n \n( )\n \n \n \n \n \n \n \n \n \n \n \n \n(-)\n-\n-\n \n(12 )\n -1\n -1\n -2\n \n(7 )\n -1\n -2\n (Excel) (A4 - ) PDF \n \n \n , “ ” \nⅥ \n1. \n \n \n , , , , \n ‘ ’ \n , \n \n \n , \n \n \n2. \n · \n . \n , \n · , \n . \n \n , \n . , MSSQL DB SSO \n · \n · · , \n . \n , \n , · \n · \n . ·\n · 5 \n , \n \n · · , · · . \n , , , \n , · \n · . · \n \n · DB \n . MSSQL SSO \n \n · · . \n · · \n3. \n \n \n 56 ( \n ) \n4. SW \n SW , \n 4 \n SW .( )\n- SW , \n , \n \n- SW 3 \n \n- SW \n 76 1 3 \n 92 1 19 \n 1 \n \n [ 2] \n [ 3] \n .\n , , , , \n [ 4] ‘ ’ , \n 76 \n .\n \n , \n .\n \n , .\n 2 \n \n \n \n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n◦ \n◦ \n◦ \n \n◦ \n \n \n1. \n . \n . \n . ․ \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P \n \n . · \n . \n . PC \n . PC \n . \n . ( )\n◦ \n◦ \n \n◦ \n \n \n \n1. \n . \n . \n2. \n . \n . \n3. \n . \n . \n4. \n . \n . \n . PC (CD, USB ) \n . \"1111\" \n . PC \n . \n◦ \n◦ \n / \n◦ \n \n \n1. \n . , \n . \n2. \n . \n . \n3. \n . PC \n . \n◦ \n \n◦ / \n \n 3 \n \n1. A~D \n \n \nA ( ) B ( ) C ( ) D ( )\n 1 1 2 3 \n \n 2% 1% 0.5%\n* [ 2] \n2. , \n* 1 \n3. \n 4 \n \n AI \n _______________ \n .\n IP \n \n \n \n \n( )\n \n \n \n \n \n* .\n20 \n __________ ○○○ ( )\n_______ ○○○ ( )\n_______ ○○○ ( )\n* \n \n 5 \n \n■ \n \n- [ 2~3] .\n- , \n .\n \n- , \n .\n- , ( )\n \n- , \n‘ ’ \n▪ ․ ․ \n \n- , ․ \n .\n▪ \n- ․ 40 4 \n' · \n- “ \n ” “ ” \n . ‘ \n ’ .\n■ \n , , IP , \n , .\n ‘ ( ) ’ \n ( ) ( ) ․ .\n ․ , \n , .\n \n PC ․ .\n \n . , , \n ․ .\n (P2P) \n , , \n .\n ․ ․ .\n■ \n .\n .\n ․PC , \n .\n ․PC PC \n PC .\n PC (CMOS) , , (10 ) \n 9 .\n■ ․ \n \n- (ID) \n .\n- \n- (ID) , , \n .\n- ․PC . , \n , \n ․PC .\n .\n■ \n USB ․ . , \n · \n■ \n , , \n \n 6 \n \n 50 ( ) ① \n ( “ ” ) .\n1. \n2. · \n② 1 .\n③ \n . .\n④ 1 3 , \n .\n \n 46 ( ) ① ~ ③ ( )\n④ \n ( ) , . \n .\n 47 ( ) ① \n .\n1. ( 43 3 )\n2. \n3. ② ~ ⑦ ( )\n \n 24 ( ) 50 2 “ ” .\n1. \n2. \n3. , , \n 24 2( ) 47 1 \n \n .\n 25 ( ) ① 47 1 1 \n . , \n .\n② 1 9 \n , 10 \n . 11 \n .\n③ 2 ( 2 \n 1 ) 12 \n . , \n 12 .\n1. 1 \n2. \n3. \n4. \n5. 57 \n6. 64 2 \n④ 1 2 \n .\n⑤ 1 2 \n , .\n⑥ 47 \n .\n⑦ \n44 3 .\n 26 ( ) ① 47 1 2 3 \n 13 \n , .\n② , 1 \n .\n③ 47 1 2 3 \n \n .\n④ 1 3 25 2 .\n⑤ 1 3 . ( ) \n 16 2 .\n 27 ( ) ① 47 1 2 \n 3 \n .\n1. \n2. \n② \n25 1 2 4 .\n③ 2 .\n 28 ( ) ① 47 5 ( 14 \n ) 15 \n . , .\n② 47 5 . \n 30 , ( ) 16 5 \n \n③ 1 14 \n .\n1. \n2. \n( ) \n 16 ( ) ① ~ ④ ( )\n⑤ 1 4 30 \n . \n , . < >\n 53 ( ) 16 \n .\n1. 16 1 3 1 \n .\n2. 1 \n ( \" \" ) . , 100 \n 10 .\n3. 2 \n .\n4. .\n5. \n \n 1 \n\n6. \n\n7. \n MSSQL SSO , \n · . \n \n(BMT) .\n< >\n \n \n \n1 DBMS \n \n ( )\n ( )\n \n \nMSSQL DB\n \n \nDBMS \n \n2 1 \n ( )\n ( )\n \n \n \n 84 2 1 \n \n3 1 \n ( )\n ( )\n \n \n \n 84 2 1 \n \n8. S/W : \n( ) \n1. \n2. ( )\n3. \n4. \n5. \n6. \n7. \n8. \n9. \n10. \n11. \n[ 1]\n \n :\n , , , \n . , __________________ \n \n .\n · \n , \n \n .\n20 \n :\n :\n :\n : ( )\n \n[ 2]\n ( )\n AI \n .\n1. AI \n .\n2. \n .\n3. \n .\n \n :\n( ) : ( )\n :\n \n[ 3]\n \n ____________ ( ) \n .\n1. ____________ \n .\n2. \n \n .\n3. \n .\n . 4 1 2 · 5 ( )\n . 99 ( ) 127 ( )\n . 2 2 \n . .\n \n :\n :\n : ( )\n- 1 -\n \n1) · IP \n2) \n3) · \n4) · \n5) \n( · )\n6) · \n7) \n8) 9 1 \n9) 2 1 \n10) 4 16 3 \n11) \n- 2 -\n[ 4]\n \n ( “ ” ) ________ ( “ ” ) “ ” \n “ ” .\n 1 ( ) “ ” “ ” , “ ” “ ” \n .\n 2 ( ) , , \n .\n 3 ( ) “ ” AI · · \n · .\n1. · , · \n2. \n 4 ( ) “ ” “ ” “ ” \n 3 .\n “ ” “ ” “ ” .\n 5 ( ) “ ” 29 , 30 \n ( ) · .\n 6 ( ) “ ” \n 3 .\n “ ” \n 16 “ ” .\n 2 “ ” “ ” .\n 7 ( · ) “ ” “ ” , “ ” \n .\n1. \n2. \n3. \n4. · \n5. \n6. \n “ ” “ ” 1 , “ ” \n .\n “ ” · · · 1 1 “ ”\n , “ ” .\n 1 “ ” “ ” .\n 8 ( ) “ ” “ ” “ ” \n “ ” “ ” “ ” \n “ ” 3 “ ” .\n 1 3 “ ” “ ” \n “ ” .\n 2 , “ ” “ ” 1 .\n \n 63 2\n \n \n○○ ○○ ○○ ○○ \n : ( ) : ( )\n[ 5]\n \n \n \n \n \n \n ( )\n \n[ 6]\n \n \n \n \n( )\n \n \n )\n “ ” “ ” \n ( )\n \n \n[ 7]\n \n \n ( ) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nISP/BPR ( )\nPMO/ ( )\n ( )\n ( )\n ( )\n \n \n \n \n \n \n \n \n \n \n \n \n \n : ( ) ( : )\n : (FAX : )\n : : ( )\n .\n .\n .\n[ 8]\n ( )\n 1 ( ) , \n ․ ․ ․ \n .\n1. :\n2. :\n3. :\n 2 ( ) , , .\n1. : \n2. :\n3. :\n 3 ( ) .\n1. ( : )\n2. ( : )\n .\n 3 , \n .\n 4 ( ) , . ,\n 3 ․ .\n 5 ( ) 1 ․ \n .\n 6 ( ) .\n , \n . < 2014.1.10.>\n 7 ( ) \n .\n 8 ( ) 11 , \n .\n1. ( ) : , , \n2. : , , \n 9 ( ) .\n1. : %\n2. : %\n 1 . , \n .\n1. \n2. , , , , ( \n ), \n \n , .\n 10 ( ) 9 \n .\n 10 2( ) , , , \n .\n , \n .\n 1 , \n , \n .\n 3 \n . , \n .\n[ 2012.4.2.]\n 11 ( ․ ) ․ 3 .\n 12 ( ) \n . , 3 \n .\n1. \n2. , , 10 2 \n < \n2012.4.2.>\n3. , , \n76 1 6 \n 1 . \n , , , \n \n . < 2010.9.8.>\n 2 9 \n .\n 10 .\n 13 ( ) \n . , \n . < 2014.1.10.>\n 14 ( ) \n .\n .\n \n .\n \n ( )\n ( )\n[ 9]\n \nAI 1 \n .\n \n \n \n▢ \n◦ AI \n- , , , \n▢ \n◦ \n- \n- \n◦ \n- , : , ( , ), \n- : , ( , ), , \n- : , , , , , , \n \n◦ \n- : 3 \n- : 2 \n- : .\n( , , )\n AI \n .\n2026 \n ( )\n[ 10]\n ․ [ √ ] , [ ] \n AI \n 2026. . .\n□ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n□ \n \n / / \n \n \n \n \n \n \n \n \n , , \n · .\n○\n \n \n \n- HTML Living Standard(HTML5)\n○\n- W3C CSS ○\n- DOM ECMAScript ○\n- JSON ○\n- SVG ○\n- ○\n- ○\n- 2.2 ○\n \n- · \n○\n (ISO/IEC 20000-1 ) ○\n \n \nIPv4 ○\nIPv6 ○\n□ \n \n / / \n \n \n \n \n \n \n \no , \n · \n .\n○\n \n \no \n- SOAP 1.2, WSDL 2.0, XML 1.0\n○\n- UDDI v3 ○ ※ \n - RESTful ○\no \n- UML 2.0/BPMN 1.0\n○\n- ebXML/BPEL 2.0/ XPDL 2.0 ○\n o : XML 1.0 ○\n o : UDDI v3, WSDL 2.0 ○\n□ \n \n / / \n \n \n \n \n \n \n \n \n IPv4 IPv6 \n .\n○\n , \n .\n○\n \n \no : H.320~H.324, H.310 ○\no : VoIP\n- H.323\n○\n- SIP ○\n- Megaco(H.248) ○\n \n \no ( ) :\n- POSIX.0\n○\n- UNIX ○\n- Windows Server ○\n- Linux ○\no \n- android\n○\n- IOS ○\n- Windows Phone ○\n \no DBMS\n- RDBMS\n○\n- ORDBMS ○\n- OODBMS ○\n- MMDBMS ○\n o ITIL v3 / ISO20000 ○\n o : ○\n□ \n \n / / \n \n \n \n \n \n \n \n \n . ○\n , , , \n .\n○\n \n \n “ ” \n .\n○\n \n .\n○\n \n \no : HTML 4.01 ○\no - JSP 2.1 ○\n- ASP.net ○\n- PHP ○\n- ( ) ○\n \n \n- C\n○\n- C++ ○\n- Java ○\n- C# ○\n- ( ) ○\n \no :\n- XMI 2.0\n○\n- SOAP 1.2 ○\no \n- EUC-KR\n○\n- UTF-8( , UTF-8 ) ○\n□ \n \n / / \n \n \n \n \n \n \n \n \no \n . “ ”,“ \n ”,“ ” “ ” .\n○\no · \n . ○\n \n ․ . ○\n \n \n \n \n ( )\n- \n · ( )\n○\n \n \n \n ( \n )\n- PKI \n○\n- SSO ○\n- ․ ○\n- (DRM) ○\n- ○\n- ○\n- ○\n- ○\n- DB ○\n- (9 ) ○\n- ○\n CC ( CC )\n- ( ) ○\n- ( ) ( ) ○\n- ○\n- ○\n- DDos ○\n- ○\n- ○\n- ○\n- ( ) ○\n- ○\n- ○\n- ○\n- ○\n- (PC ) ○\n- ○\n- ( , \n ) ○\n- ○\n- ○\n- DB ○\n- ○\n- USB( ) ○\n- ( \n ) ○\n- ○\n- ○\n- CC ○\n ( · ) \n- · ( \n )\n○\n \n \n \n \n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n \n- ○\n- ( ) ○\n- ( ) ○\n- ○\n[ 11]\n ( )\n SW \n \n \n \n \n \n \n / \n \nSW \nSW \n \nRFP / SW \n \n \n \n \n \n \n \n \n \n \n \n H/W \n \n SW \n \n \n \n \n SW \n \n \n SW \n SW \n \n \n \n SW \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n SW / \n SW \n \n SW \n SW \n \n \n SW",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01771462-000",
+    "sourceFile": "2. 제안요청서(수정).hwp",
+    "generatedAt": "2026-10-26T12:52:19.407037",
+    "match": {
+      "noticeId": "R26BK01771462-000",
+      "bidNtceNo": "R26BK01771462",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01771462-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01771462-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01771462-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4 A4, PDF · - 200 - (PDF) 200MB - 50,, “ ” .,,,,,,,, “ ”,,, 46 SW (SW ) 3.,,,,,, . .,, .,,",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "ECR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": ", · · · ☐ · ·DB· ·AI ☐ · ☐ · · ·AI ☐ · · · · ▷ ·",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-002",
+          "requirement": ".",
+          "name": ".",
+          "detail": "☐ · ·",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-003",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , , ☐ DBMS, · , , , , AI ☐ · · ☐ · · · · ☐ , , . FUR-001",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": ", , ☐ 3 , 5",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-002",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": "☐",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-003",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , ☐ · · ·",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-004",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": "· ·CPU· · ·DB ☐ · · . INR-001 ☐ · · · · ☐ , , ·",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": "ERD , ☐ - - - - - - - - ☐ · · · ·",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-002",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , ☐ · · · · ☐ · · · · · · · ·",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-003",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , ☐ · ·",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-004",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , , ☐ · · · ·",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-005",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , , ☐ · · · ·",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-006",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": "AI , AI , , , ☐ AI · ☐ · · · ·",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-007",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , , ☐ DB· · · · · ☐ · · · · · ·",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": "☐ · · · · · · ·",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-002",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", ☐ · · · ☐ , · , , · · ,",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-003",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , , ☐ · · ·",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-004",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , ☐ · · · · ·",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-005",
+          "requirement": "☐ DB",
+          "name": "☐ DB",
+          "detail": ", ☐ ☐ · · · ·",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": "☐ ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", ☐ · · ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", ,",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": "☐",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-005",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": "☐",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-006",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , ☐ · · · ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-007",
+          "requirement": "☐ DB",
+          "name": "☐ DB",
+          "detail": ", , ☐ · · · · · ·AI",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-008",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": "· ·DB· ☐ · · · · ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": ", ☐",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ",",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-003",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", ☐ · · · · · · · · · ☐ DB",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-004",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": ", , ☐ · · ☐ - - - -",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": ", , ☐ , ,",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , ☐ · · · ☐ · ·AI· ·",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": ", , , , ☐ 10 ☐ · · · ·",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , , , ☐ · · · ·",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", , ☐ · · · · ☐ , · · · · · , , ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-004",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": "SW SW ☐ 46 SW · ☐ · SW (www.spir.kr) ‘SW ’ ☐ ·",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": ", , ☐ · ·",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": "☐",
+          "name": "☐",
+          "detail": ", ☐ 12 ☐ · · · · ☐ · · · Ⅳ",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01771462-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "전자파일 제출 매체, 원본/사본 구분 확인",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 3개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "30 \n \n 90",
+          "score": 85.0,
+          "weight": 85.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "30 \n \n 90 85점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "BBB0",
+          "score": 100.0,
+          "weight": 100.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "BBB0 100점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "1 1 2 3",
+          "score": 2.0,
+          "weight": 2.0,
+          "grade": "C",
+          "strategy": "누락 방지 중심으로 증빙과 기본 요건 확인",
+          "detail": "1 1 2 3 2점"
+        }
+      ],
+      "totals": {
+        "score": 187.0,
+        "weight": 187.0,
+        "gradeA": 2,
+        "gradeB": 0,
+        "gradeC": 1
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01771462-000",
+    "generatedAt": "2026-10-26T12:53:19.249086",
+    "sourceAnalysisAt": "2026-10-26T12:52:19.407037",
+    "projectName": "",
+    "sourceFile": "2. 제안요청서(수정).hwp",
+    "requirementSourceFiles": [
+      "2. 제안요청서(수정).hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "ECR-001",
+        "name": ",",
+        "detail": "· · · ☐ · ·DB· ·AI ☐ · ☐ · · ·AI ☐ · · · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-002",
+        "name": "☐",
+        "detail": "· · ☐ · · ☐ · · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-003",
+        "name": ", , ,",
+        "detail": "☐ DBMS, · , , , , AI ☐ · · ☐ · · · · ☐ , , .",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-001",
+        "name": ", ,",
+        "detail": "☐ 3 , 5 ☐ · ·AI ☐ · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-002",
+        "name": "☐",
+        "detail": "☐ 5 · · ☐",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-003",
+        "name": ", ,",
+        "detail": "☐ · · · ☐ · · ☐ · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-004",
+        "name": "☐",
+        "detail": "· ·CPU· · ·DB ☐ · · ☐ . INR-001 ☐ · · · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-001",
+        "name": "ERD",
+        "detail": ", ☐ ☐ · · · · ☐ · · · ☐ · · · · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-002",
+        "name": ", ,",
+        "detail": "☐ · · · · ☐ · · · · · · · · ☐ · · ☐ · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-003",
+        "name": ", ,",
+        "detail": "☐ · · ☐ · ☐ · · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-004",
+        "name": ", , ,",
+        "detail": "☐ · · · · ☐ · · · ☐",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-005",
+        "name": ",",
+        "detail": ", , ☐ · · · · ☐ ☐ · · ☐ · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-006",
+        "name": "AI ,",
+        "detail": "AI , , , ☐ AI · ☐ · · · · ☐ · · · · ☐ ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-007",
+        "name": ", , ,",
+        "detail": "☐ DB· · · · · ☐ ☐ · · · · · · ☐ · .",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-001",
+        "name": "☐",
+        "detail": "· · · · · · · ☐ · · ☐ · · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-002",
+        "name": ",",
+        "detail": "☐ · · · ☐ , · , , · · , ☐ · · ☐",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-003",
+        "name": ",",
+        "detail": ", , ☐ · · · ☐ · ☐ · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-004",
+        "name": ", ,",
+        "detail": "☐ · · · · · ☐ · · ☐ DB· ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-005",
+        "name": ",",
+        "detail": "☐ ☐ · · · · ☐ 0 .",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "☐",
+        "detail": "· ☐ · · · · ☐ · · · · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": ",",
+        "detail": "☐ · · · ☐ ☐ · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": ", ,",
+        "detail": "☐ ☐ · · ☐ · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "☐",
+        "detail": "☐ ☐ · · · · ☐ · · · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-005",
+        "name": "☐",
+        "detail": "☐ SQL ·XSS·CSRF· · · · ☐ ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-006",
+        "name": ", ,",
+        "detail": "☐ · · · · ☐ ·MIME· · ☐ DB · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-007",
+        "name": ", ,",
+        "detail": "☐ · · · · · ·AI ☐ · · ☐ · · · · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-008",
+        "name": "☐",
+        "detail": "· ·DB· ☐ · · · · · ☐ .",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": ",",
+        "detail": "☐ ☐ ☐ · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": ",",
+        "detail": "☐ ☐ · · · ☐",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-003",
+        "name": ",",
+        "detail": "☐ · · · · · · · · · ☐ DB ☐ · ☐ GIS·AI ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-004",
+        "name": ", ,",
+        "detail": "☐ · · ☐ ☐ ·DB · · .",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": ", ,",
+        "detail": "☐ , , ☐ · · · ☐ ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": ", ,",
+        "detail": "☐ · · · ☐ · ·AI· · ☐ AI · 3 .",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": ", ,",
+        "detail": ", , ☐ 10 ☐ · · · · ☐ · · · · · · ☐ · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": ", ,",
+        "detail": ", , ☐ · · · · ☐ · · · · ☐ · ·AI · ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": ", ,",
+        "detail": "☐ · · · · ☐ , · · · · · , , , ☐ ·DB· · · · ☐",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-004",
+        "name": "SW",
+        "detail": "SW ☐ 46 SW · ☐ · SW (www.spir.kr) ‘SW ’ ☐ · ☐ ·",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": ",",
+        "detail": ", ☐ · · ☐ · · · ·AI ☐ · · · · · ·AI",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": ",",
+        "detail": "☐ 12 ☐ · · · · ☐ ☐ · · · Ⅳ",
+        "source": "2. 제안요청서(수정).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "30 90",
+        "score": 85.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 23,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "30 90 85점"
+      },
+      {
+        "scoreItem": "BBB0",
+        "score": 100.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 27,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "BBB0 100점"
+      },
+      {
+        "scoreItem": "1 1 2 3",
+        "score": 2.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 1,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "1 1 2 3 2점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [
+              "ECR-001",
+              "ECR-002",
+              "ECR-003"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "PER-001",
+              "PER-002",
+              "PER-003",
+              "PER-004",
+              "TER-001",
+              "TER-002",
+              "TER-003",
+              "TER-004",
+              "TER-005",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "SER-005",
+              "SER-006",
+              "SER-007",
+              "SER-008",
+              "QUR-001",
+              "QUR-002",
+              "QUR-003",
+              "QUR-004",
+              "COR-001",
+              "COR-002"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "DAR-001",
+              "DAR-002",
+              "DAR-003",
+              "DAR-004",
+              "DAR-005",
+              "DAR-006",
+              "DAR-007"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-001",
+              "PMR-002",
+              "PMR-003",
+              "PMR-004"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-001",
+              "PSR-002"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 39,
+      "mappedRequirements": 39,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}
