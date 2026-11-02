@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01771112",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-10-26T12:45:39.045519",
+  "analyzedAt": "2026-11-02T13:58:00.681823",
   "status": "completed",
   "source": {
     "fileName": "교육혁신본부 AX를 위한 AI 에이전트 플랫폼 구축 계획(안).pdf",
@@ -175,7 +175,7 @@
   "proposalSheets": {
     "id": "R26BK01771112-000",
     "sourceFile": "교육혁신본부 AX를 위한 AI 에이전트 플랫폼 구축 계획(안).pdf",
-    "generatedAt": "2026-10-26T12:45:37.298973",
+    "generatedAt": "2026-11-02T13:57:58.749660",
     "match": {
       "noticeId": "R26BK01771112-000",
       "bidNtceNo": "R26BK01771112",
@@ -1008,8 +1008,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01771112-000",
-    "generatedAt": "2026-10-26T12:45:39.045492",
-    "sourceAnalysisAt": "2026-10-26T12:45:37.298973",
+    "generatedAt": "2026-11-02T13:58:00.681793",
+    "sourceAnalysisAt": "2026-11-02T13:57:58.749660",
     "projectName": "교육혁신본부 AX를 위한 AI 에이전트 플랫폼 구축 사업",
     "sourceFile": "교육혁신본부 AX를 위한 AI 에이전트 플랫폼 구축 사업 제안요청서(261020).hwpx",
     "requirementSourceFiles": [

@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01777649",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-10-26T13:03:25.939840",
+  "analyzedAt": "2026-11-02T14:18:43.303111",
   "status": "completed",
   "source": {
     "fileName": "(제안요청서)27년 빅데이터·정보분석 운영 및 유지관리 사업_261023.hwpx",
@@ -175,7 +175,7 @@
   "proposalSheets": {
     "id": "R26BK01777649-000",
     "sourceFile": "(제안요청서)27년 빅데이터·정보분석 운영 및 유지관리 사업_261023.hwpx",
-    "generatedAt": "2026-10-26T13:03:24.708125",
+    "generatedAt": "2026-11-02T14:18:42.050215",
     "match": {
       "noticeId": "R26BK01777649-000",
       "bidNtceNo": "R26BK01777649",
@@ -1225,8 +1225,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01777649-000",
-    "generatedAt": "2026-10-26T13:03:25.939814",
-    "sourceAnalysisAt": "2026-10-26T13:03:24.708125",
+    "generatedAt": "2026-11-02T14:18:43.303067",
+    "sourceAnalysisAt": "2026-11-02T14:18:42.050215",
     "projectName": "’ 27년 빅데이터·정보분석 운영 및 유지관리 사업 주관기관 국 세 청",
     "sourceFile": "(제안요청서)27년 빅데이터·정보분석 운영 및 유지관리 사업_261023.hwpx",
     "requirementSourceFiles": [

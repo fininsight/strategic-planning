@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01780042",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-10-26T12:51:22.128893",
+  "analyzedAt": "2026-11-02T14:02:52.195280",
   "status": "completed",
   "source": {
     "fileName": "[붙임2] 제안요청서_2027년 수원시 빅데이터플랫폼 유지관리 용역_검토의견 반영.hwpx",
@@ -91,7 +91,7 @@
   "proposalSheets": {
     "id": "R26BK01780042-000",
     "sourceFile": "[붙임2] 제안요청서_2027년 수원시 빅데이터플랫폼 유지관리 용역_검토의견 반영.hwpx",
-    "generatedAt": "2026-10-26T12:51:21.499869",
+    "generatedAt": "2026-11-02T14:02:51.526701",
     "match": {
       "noticeId": "R26BK01780042-000",
       "bidNtceNo": "R26BK01780042",
@@ -978,8 +978,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01780042-000",
-    "generatedAt": "2026-10-26T12:51:22.128871",
-    "sourceAnalysisAt": "2026-10-26T12:51:21.499869",
+    "generatedAt": "2026-11-02T14:02:52.195250",
+    "sourceAnalysisAt": "2026-11-02T14:02:51.526701",
     "projectName": "2027년 수원시 빅데이터 플랫폼 유지관리 용역",
     "sourceFile": "[붙임2] 제안요청서_2027년 수원시 빅데이터플랫폼 유지관리 용역_검토의견 반영.hwpx",
     "requirementSourceFiles": [

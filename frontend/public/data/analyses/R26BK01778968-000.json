@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01778968",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-10-26T13:02:26.374735",
+  "analyzedAt": "2026-11-02T14:16:35.779129",
   "status": "completed",
   "source": {
     "fileName": "2. 예산산출내역서.pdf",
@@ -133,7 +133,7 @@
   "proposalSheets": {
     "id": "R26BK01778968-000",
     "sourceFile": "2. 예산산출내역서.pdf",
-    "generatedAt": "2026-10-26T13:02:25.805368",
+    "generatedAt": "2026-11-02T14:16:35.196429",
     "match": {
       "noticeId": "R26BK01778968-000",
       "bidNtceNo": "R26BK01778968",
@@ -860,8 +860,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01778968-000",
-    "generatedAt": "2026-10-26T13:02:26.374712",
-    "sourceAnalysisAt": "2026-10-26T13:02:25.805368",
+    "generatedAt": "2026-11-02T14:16:35.779091",
+    "sourceAnalysisAt": "2026-11-02T14:16:35.196429",
     "projectName": "바이오 빅데이터 플랫폼 통합운영실 위탁운영 및 유지관리(2차) 주관기관 KISTI(한국과학기술정보연구원)",
     "sourceFile": "공고_제안요청서.hwpx",
     "requirementSourceFiles": [
