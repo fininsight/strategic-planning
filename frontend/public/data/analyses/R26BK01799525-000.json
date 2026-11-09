@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01799525",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-11-02T13:56:52.339814",
+  "analyzedAt": "2026-11-09T14:09:51.262280",
   "status": "completed",
   "source": {
     "fileName": "입찰공고문.zip",
@@ -91,7 +91,7 @@
   "proposalSheets": {
     "id": "R26BK01799525-000",
     "sourceFile": "입찰공고문.zip",
-    "generatedAt": "2026-11-02T13:56:52.335393",
+    "generatedAt": "2026-11-09T14:09:51.260070",
     "match": {
       "noticeId": "R26BK01799525-000",
       "bidNtceNo": "R26BK01799525",
@@ -387,8 +387,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01799525-000",
-    "generatedAt": "2026-11-02T13:56:52.339802",
-    "sourceAnalysisAt": "2026-11-02T13:56:52.335393",
+    "generatedAt": "2026-11-09T14:09:51.262269",
+    "sourceAnalysisAt": "2026-11-09T14:09:51.260070",
     "projectName": "",
     "sourceFile": "입찰공고문.zip",
     "requirementSourceFiles": [

@@ -1,0 +1,1591 @@
+{
+  "bidNtceNo": "R26BK01805007",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-11-09T14:17:15.779298",
+  "status": "completed",
+  "source": {
+    "fileName": "[붙임]긴급입찰 사유서(경북 학생평가 전환을 위한 AI 기반 서논술형 평가지원시스템 도입 및 운영).hwpx",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01805007-000/[붙임]긴급입찰 사유서(경북 학생평가 전환을 위한 AI 기반 서논술형 평가지원시스템 도입 및 운영).hwpx",
+    "pageCount": 0,
+    "textLength": 1444,
+    "extractionMethod": "extract_document_text"
+  },
+  "attachments": [
+    {
+      "fileName": "[붙임]긴급입찰 사유서(경북 학생평가 전환을 위한 AI 기반 서논술형 평가지원시스템 도입 및 운영).hwpx",
+      "extension": ".hwpx",
+      "size": 76983,
+      "kindCode": ""
+    },
+    {
+      "fileName": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+      "extension": ".hwpx",
+      "size": 2396160,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "8c9af1a2c79bdca2d714abb4",
+      "fileName": "[붙임]긴급입찰 사유서(경북 학생평가 전환을 위한 AI 기반 서논술형 평가지원시스템 도입 및 운영).hwpx",
+      "extension": ".hwpx",
+      "docType": "첨부서류",
+      "viewerType": "rhwp",
+      "fileUrl": "/api/notices/R26BK01805007/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01805007/000/original-files/0",
+      "pdfUrl": "",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01805007-000/[붙임]긴급입찰 사유서(경북 학생평가 전환을 위한 AI 기반 서논술형 평가지원시스템 도입 및 운영).hwpx",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01805007-000/[붙임]긴급입찰 사유서(경북 학생평가 전환을 위한 AI 기반 서논술형 평가지원시스템 도입 및 운영).hwpx",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01805007-000/[붙임]긴급입찰 사유서(경북 학생평가 전환을 위한 AI 기반 서논술형 평가지원시스템 도입 및 운영).hwpx",
+      "pageCount": 0,
+      "textLength": 1444,
+      "extractionMethod": "extract_document_text",
+      "extractionError": "",
+      "viewerError": "PDF 변환에 실패해 HWP/HWPX 전용 뷰어로 표시합니다. (HWPX HTML 변환 실패: Command '['/opt/hostedtoolcache/Python/3.11.18/x64/bin/hwp5html', '--output', '/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01805007-000/converted/[붙임]긴급입찰 사유서(경북 학생평가 전환을 위한 AI 기반 서논술형 평가지원시스템 도입 및 운영).html', '/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01805007-000/[붙임]긴급입찰 사유서(경북 학생평가 전환을 위한 AI 기반 서논술형 평가지원시스템 도입 및 운영).hwpx']' returned non-zero exit status 1.)",
+      "documentText": "<서식>\n긴급입찰 사유서\n1. 사업 개요\n가.\n사업명:\n경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템\n도입 및 운영\n나. 예산액: 500,000,000원(금오억원) (부가가치세 포함)\n다.\n사업기간:\n(구축) 계약 후 30일 이내 (운영) 구축으로부터 365일\n2. 긴급입찰에 부치는 사유\n가.\n법적근거: 「지방자치단체를 당사자로 하는 계약에 관한 법률 시행령」\n제35조 제4항 제5호\n지방계약법 시행령 제35조 제4항\n2. 국가 또는 지방자치단체의 재정정책상 예산의 조기집행을 위하여 필요한 경우\n3.\n국가사업 또는 지방자치단체의 다른 사업과 연계\n되어 사업의 일정조정을 위하여 불가피한 경우\n4. 긴급한 행사 또는 긴급한 재해 예방·복구 등을 위하여 필요한 경우\n5. 그 밖에 제2호 또는 제3호에 준하는 경우로서\n입찰을 긴급히 입찰공고를 할 필요가 있는 경우\n나. 긴급입찰 사유\n○\n본 사업은 경북 학생평가 전환 정책에 따라 AI 기반 서·논술형 평가지원시스템을 구축하여 2027학년도 학교 현장에 적용하기 위한 사업으로, 시스템 구축 후 기능 점검 및 안정화, 사용자 교육, 시범운영 등 사전 준비 기간 확보가 필요함.\n○ 특히 시스템 구축에 계약 후 30일이 소요되고, 구축 이후 학교 현장의 안정적인 활용을 위한 운영 및 지원이 연계되어야 하므로 2027학년도 적용 일정에 차질이 없도록 신속한 계약 체결 및 사업 착수가 필요한 상황임.\n\n<서식>\r\n긴급입찰 사유서\r\n\r\n1. 사업 개요\r\n 가. 사업명: 경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입 및 운영 \r\n 나. 예산액: 500,000,000원(금오억원) (부가가치세 포함)\r\n 다. 사업기간: (구축) 계약 후 30일 이내 (운영) 구축으로부터 365일\r\n\r\n 2. 긴급입찰에 부치는 사유\r\n 가. 법적근거: 「지방자치단체를 당사자로 하는 계약에 관한 법률 시행령」 제35조 제4항 제5호\r\n<지방계약법 시행령 제35조 제4항>\r\n<2. 국가 또는 지방자치단체의 재정정책상 예산의 조기집행을 위하여 필요한 경우 3. 국가사업 또는 지방자치단체의 다른 사업과 연계되어 사업의 일정조정을 위하여 불가피한 경우 4. 긴급한 행사 또는 긴급한 재해 예방·복구 등을 위하여 필요한 경우 5. 그 밖에 제2호 또는 제3호에 준하는 경우로서 입찰을 긴급히 입찰공고를 할 필요가 있는 경우>\r\n 나. 긴급입찰 사유\r\n ○ 본 사업은 경북 학생평가 전환 정책에 따라 AI 기반 서·논술형 평가지원시스템을 구축하여 2027학년도 학교 현장에 적용하기 위한 사업으로, 시스템 구축 후 기능 점검 및 안정화, 사용자 교육, 시범운영 등 사전 준비 기간 확보가 필요함.\r\n ○ 특히 시스템 구축에 계약 후 30일이 소요되고, 구축 이후 학교 현장의 안정적인 활용을 위한 운영 및 지원이 연계되어야 하므로 2027학년도 적용 일정에 차질이 없도록 신속한 계약 체결 및 사업 착수가 필요한 상황임.",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "<서식>\n긴급입찰 사유서\n1. 사업 개요\n가.\n사업명:\n경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템\n도입 및 운영\n나. 예산액: 500,000,000원(금오억원) (부가가치세 포함)\n다.\n사업기간:\n(구축) 계약 후 30일 이내 (운영) 구축으로부터 365일\n2. 긴급입찰에 부치는 사유\n가.\n법적근거: 「지방자치단체를 당사자로 하는 계약에 관한 법률 시행령」\n제35조 제4항 제5호\n지방계약법 시행령 제35조 제4항\n2. 국가 또는 지방자치단체의 재정정책상 예산의 조기집행을 위하여 필요한 경우\n3.\n국가사업 또는 지방자치단체의 다른 사업과 연계\n되어 사업의 일정조정을 위하여 불가피한 경우\n4. 긴급한 행사 또는 긴급한 재...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "51119e781a06044a87d1716a",
+      "fileName": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+      "extension": ".hwpx",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01805007/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01805007/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01805007/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01805007-000/제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01805007-000/converted/제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01805007-000/converted/제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.pdf",
+      "pageCount": 128,
+      "textLength": 22663,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI · \n \n \n[ ]\n \n[ ]\n2026. 10.\n\n \nⅠ . 1\n1. 1\n2. 2\nⅡ . 3\n1. 3\n2. 4\n3. 7\n4. 8\nⅢ . 9\n1. 9\n2. 10\n3. 11\n4. 14\nⅣ . 51\n1. 51\n2. ( ) 52\n3. 53\n4. ( ) 54\n5. 57\nⅤ . 58\n1. 58\n2. 60\n3. 67\n4. 67\nⅥ . 69\nⅦ . 72\nⅧ . 86\nⅨ . 94\nⅩ . 112\nⅠ \n1. \n AI · \n 500,000,000 ( ) \n ( ) 30 ( ) 365 \n \n❍ 2027 · \n , \n \n❍ AI · · \n \n \n❍ – – – AI · \n \n❍ · · (Rubric) \n❍ , AI , , · \n \n❍ , · · \n \n❍ AI · · , ·Moderation \n \n❍ , \n – –Rubric– – – · \n❍ AIEP , · · \n \n \n \n \n❍ : \n❍ : \n❍ : ( G2B)\n❍ : \n❍ ( ): , \n❍ : (90%) (10%) \n \n2. \n❍ : 2022 , , \n , · \n \n❍ AI : AI \n ‘ ’ – – \n , 2027 5·6 1 · · \n \n❍ · : · \n , · · · \n \n❍ AI : AI , AI\n · , \n·Moderation \n❍ : · (Rubric) , , \n · , · CBT \n \n❍ · : – – – – – \n · , · \n \n❍ : \n , (Rubric), · \n \n❍ AI · \n , \n \nⅡ \n\\\n \n AI · · , · \n \n \n❍ AI · · · · · \n \n❍ , , , · \n · \n❍ AI · · · , ·Moderation \n \n❍ – – \n \n❍ ·Rubric· \n · · \n \n \n❍ · \n- – – – – – · \n- · · (Rubric) · · \n- AI · \n❍ CBT \n- , ·AI , , · , · \n \n- \n- , · \n· \n❍ AI \n- Rubric AI · \n- · · AI– · \n- ·Moderation · \n❍ \n- · · \n- , , \n- · · , · \n \n❍ \n- ·Rubric· \n- · · · \n- · \n2. \n · \n- AI · \n- – – – – – \n \n- \n- · \n- \nCBT \n \n , , \n \nAI \n ( ) · \n , \n \n , , \n \n , · , · · \n \n · · (Rubric) \n · , , \n (Rubric) , , \n , , , , \n · · · · \n – – – (Rubric) \n , · \n \nAI · \n · (Rubric) AI \nAI , · · \n \nAI \n ·Moderation Rubric \n \n \n · – – \n , · \n , · · · \n · \n · \n \n \n , , \n , · \n \n \n , (Rubric), \n · · · \n \n \n \n \n , \n AIEP \n \n3. \n \n \n [ ] \n▪ \n \n▪ \n \n▪ \n▪ · \n▪ \n \n \nAI · · \n \n \n \n \n❍ AI · \n❍ \n❍ · (Rubric) · \n❍ · \n❍ \n❍ \n \n❍ \n❍ · \n❍ \n \n❍ \n❍ \n \n❍ \n❍ AI · · \n❍ \n❍ · \n4. \n : ( ) 30 ( ) 365 \n ( )\n \n ~\nM+0 M+1 M+2 M+3 M+4 M+5 M+6 M+7 M+8 M+9 M+10 M+11 M+12 M+13\n \n \n \n \n \n \n \n · \n \n \n·Rubric\n CBT\n \n ·\n \nAI ·\n \n \n \n \n ·\n \n \n \n \n \n \n· \n \n \n · \n \n \n \n \n \n \n · \n \n \n \n \n \n \n · \n \n ·\n \n \n \n ·\n \n \n \n※ \nⅢ \n1. \n : AI · \n : ( ) 30 ( ) 365 \n : AI · · , · \n \n : 500,000,000 ( , VAT )\n : ( : )\n \n AI · \n CBT \n , · \n · , (Rubric) · · · \nAI · · · \n·Moderation \n , , \n – – \n · , · · \n \n , \n \nAIEP( ) (SSO) , \n \n · AIEP \n   \n2. \n3. \n \n \n \n(System Function\nRequirement)\nSFR\nAI · · , · ·Rubric \n , , AI · , · \n \n14\n \n(Equipment Composition\nRequirement)\nECR\n , · · \n \n2\n \n(Constraint Requirement)\nCOR\n · , , , · \n , \n3\n \n(Interface Requirement)\nINR\n · · AIEP · \n \n2\n \n(Data Requirement)\nDAR\n · ·Rubric , · · \n · \n \n3\n \n(Test Requirement)\nTER\n · , \n \n2\n \n(Security Requirement)\nSER\n · , · , ·AI· \n , · · · \n14\n \n(Performance\nRequirement)\nPER\n , \n · \n3\n \n(Quality Requirement)\nQUR\n , · , \n · \n3\n \n(Project Management\nRequirement)\nPMR\n · · , · · \n \n3\n \n(Project Support\nRequirement)\nPSR\n · , · , \n · · \n4\n 53\n \n \n1\n \nSFR-001 [ ] AI · \n2 SFR-002 [ ] \n3 SFR-003 [ ] – – – \n4 SFR-004 [ ] · , \n5 SFR-005 [ ] · · · \n6 SFR-006 [ ] , \n7 SFR-007 [ ] \n8 SFR-008 [ ] , AI \n9 SFR-009 [ ] , \n10 SFR-010 [ ] AI \n11 SFR-011 [ ] · · \n12 SFR-012 [ ] ·Moderation \n13 SFR-013 [ ] · · \n14 SFR-014 [ ] \n15 \n \nECR-001 \n16 ECR-002 · · \n17\n \nCOR-001 · · \n18 COR-002 · \n19 COR-003 \n20 \n \nINR-001 · \n21 INR-002 · \n22\n \n \nDAR-001 \n23 DAR-002 · · \n24 DAR-003 \n25 \n \nTER-001 \n26 TER-002 , \n27 SER-001 · \n28 SER-002 \n29 SER-003 · \n30 SER-004 · · \n31 SER-005 · \n32 SER-006 · · \n33 SER-007 · \n34 SER-008 \n35 SER-009 AI LLM \n36 SER-010 ·API \n37 SER-011 · \n38 SER-012 · \n39 SER-013 · · \n40 SER-014 · · \n41\n \nPER-001 \n42 PER-002 \n43 PER-003 \n44\n \nQUR-001 \n45 QUR-002 \n46 QUR-003 \n47\n \n \nPMR-001 · \n48 PMR-002 \n49 PMR-003 \n50\n \n \nPSR-001 \n51 PSR-002 \n52 PSR-003 \n53 PSR-004 · \n4. \n (System Function Requirement)\n \n SFR-001\n [ ] AI · \n \n \n AI · · · · \n \n ❍ AI · \n- AI · , , \n- · AI · , · \n \n- \n❍ \n- \n- – – – \n- \n \n ECR-001\n \n SFR-002\n [ ] \n \n \n · \n \n \n \n❍ \n- , , , , \n- , , \n- \n❍ \n- , , , \n- \n- \n- \n \n \n \n SFR-003\n [ ] – – – \n \n \n · \n \n ❍ \n- – – – \n- , \n- , , \n- \n❍ · \n- \n- \n- , , \n- · · · \n \n❍ \n- \n- , , \n- \n \n \n \n SFR-004\n [ ] · , \n \n \n · · , · \n \n \n❍ · \n- · · \n- , , · \n \n- \n- · \n❍ \n- · \n- , , \n- , , \n- , \n- – – – \n \n❍ \n- \n- \n- \n \n \n \n SFR-005\n [ ] · · · \n \n \n · , ·\n \n \n \n❍ \n- \n- , \n- , , \n- , \n❍ \n- , , , , , , , \n · \n- , , , , \n \n- · · \n- \n \n❍ \n- \n- \n- \n \n❍ \n- \n- \n- \n- , \n❍ \n- \n- \n- \n- \n \n \n \n SFR-006\n [ ] , \n \n \n · (Rubric), \n \n \n \n❍ (Rubric) \n- , , · (Rubric) \n · · \n- , \n- , \n- \n- \n❍ \n- , , , , , \n- · \n- \n- SFR-005 · \n \n- \n❍ · \n- \n- , #\n- #\n- (Rubric) \n \n \n \n SFR-007\n [ ] \n \n \n · \n \n \n ❍ \n- \n- \n- \n- \n❍ \n- \n- \n- \n- \n❍ \n- \n- \n \n \n \n SFR-008\n [ ] , AI \n \n \n , AI \n \n \n❍ \n- \n- \n- \n- \n- \n❍ \n- \n- \n- , \n- \n❍ AI \n- AI \n- \n- AI \n \n \n \n SFR-009\n [ ] , \n \n \n , · \n \n \n❍ \n- \n- , \n- \n- \n❍ \n- \n- \n- \n- \n❍ \n- · \n- · \n- \n- · · \n \n❍ \n- \n- \n- \n- , , · \n · \n \n \n SFR-010\n [ ] AI \n \n \n · (Rubric) AI , \n · · \n \n ❍ AI · \n- , , (Rubric), , \n \n- AI (Rubric) \n , , , \n- (Rubric) , , \n · , AI \n- ·Rubric \n- AI \n \n❍ AI \n- , (Rubric), \n- , · · \n \n- AI · \n❍ AI \n- AI (Rubric) \n- ·Rubric AI \n- \n \n \n \n SFR-011\n [ ] · · \n \n \n AI · · \n \n \n ❍ AI \n- AI \n- , (Rubric), AI \n- · AI \n❍ · · \n- AI \n- AI \n- AI · \n- \n- · \n❍ \n- · \n- \n- , \n- AI · \n \n \n \n SFR-012\n [ ] ·Moderation \n \n \n AI · · · \n \n \n❍ AI · \n- AI \n- · \n- \n- AI \n \n❍ ·Moderation \n- \n- \n- \n- \n- \n- Moderation \n❍ \n- / ( , , ) \n- AI (3 5 )\n- \n- · \n❍ AI \n- AI \n \n- AI 10,000 \n QWK 0.8 \n- , · , Rubric, QWK \n \n- AI LLM ( ( \n ) ' (High-Impact AI)') \n , AI , \n \n \n SFR-013\n [ ] · · \n \n \n , · \n \n \n❍ \n- · · · · \n- , · \n- \n❍ \n- , · , \n \n- · · \n- \n \n❍ · \n- · \n- \n- , \n \n \n \n SFR-014\n [ ] \n \n \n · , \n · \n \n \n❍ \n- \n- , (Rubric), \n- \n- \n❍ \n- · \n- Rubric \n \n- \n- \n❍ \n- · · · \n- \n- \n- \n \n \n . (Equipment Composition Requirement)\n \n ECR-001\n \n \n \n AI · \n \n \n \n❍ \n- \n- \n- , AI , \n \n- – – – \n❍ · \n- \n- ·DB· (HA) \n- · \n- \n❍ \n- CPU, Memory, Network \n- , \n- \n- \n❍ \n- \n- · \n- \n❍ \n- CSAP \n- , \n- · · \n \n , , CSAP \n \n \n ECR-002\n · · \n \n \n , , , · \n \n \n \n❍ \n- , (Rubric), , , AI· , \n · \n- DB· \n- \n❍ \n- SaaS DB· · \n \n- \n \n- · \n❍ \n- · \n- · \n- \n- \n❍ \n- ·DB· \n- · \n- \n \n❍ \n- \n- \n \n · , · \n \n . (Constraint Requirement)\n \n COR-001\n · · \n \n \n · , · \n \n \n \n❍ , , AI · \n , AI , · , · \n \n❍ · ,\n , , , , · , \n \n❍ · , , , \n , \n❍ · · · , \n , \n · \n \n \n COR-002\n · \n \n \n , , · \n \n \n \n❍ · · , \n · · \n❍ , , \n \n , , , , \n❍ Open API , \n (data.go.kr) \n \n · \n \n \n COR-003\n \n \n \n · \n \n \n❍ , , \n \n❍ AI , , , API, \n , , \n \n❍ , , \n \n❍ , \n \n \n \n . (Interface Requirement)\n \n INR-001\n · \n \n \n , , ,\n , \n \n \n❍ \n- HTML5, CSS, JavaScript \n- , , , , , , \n \n- \n❍ \n- \n- 3 \n- , , \n \n❍ \n- \n- , , , , \n- , , \n❍ \n- PC, , \n- \n- , , \n · \n \n \n INR-002\n · \n \n \n AIEP · · , \n \n \n \n❍ AIEP \n- AIEP \n- AIEP , , \n \n- AIEP · \n \n- AIEP \n \n❍ · · \n- AIEP , , ,\n , \n- , , , \n- · , , , , · · , \n \n- · · \n❍ \n- , · , \n \n- · · · \n- , , \n❍ AIEP \n- AIEP \n- , AI· , , AIEP \n \n- AIEP API \n- , · · \n , · \n \n . (Data Requirement)\n \n DAR-001\n \n \n \n · , , (Rubric) \n · \n \n \n❍ (Rubric) \n- , , , , , \n- · \n- , (Rubric) \n- , \n❍ \n- \n- · · \n- \n- , \n❍ \n- \n- ·Rubric· , , , \n- \n ERD, , \n \n \n DAR-002\n · · \n \n \n · , , AI· \n · \n \n \n❍ \n- · · \n- \n- , \n- , \n❍ \n- · \n- · \n- · \n- · · \n❍ \n- AI \n- · \n- \n- ·Moderation , \n- AI · \n❍ \n- ( , Rubric , Set \n )\n- ( )\n- AI · ( \n , , )\n- · · · \n- \n ERD, , \n \n \n DAR-003\n \n \n \n ·Rubric \n , · \n \n \n❍ \n- \n- , (Rubric) \n- \n- ·Rubric· \n❍ \n- · · · \n- ·Rubric· \n- · · \n \n❍ \n- , , \n \n- ·Rubric· \n \n- \n \n \n . (Test Requirement)\n \n TER-001\n \n \n \n , \n \n ❍ \n- , , , \n- \n- \n❍ \n- , , \n- · · · \n- AI · , · · \n- \n- \n❍ \n- \n- \n- \n- \n , \n \n \n TER-002\n , \n \n \n , \n \n \n \n❍ \n- \n- , \n- – – – · \n❍ , \n❍ \n- \n- , , · \n- AI · , · · \n- \n- \n❍ \n- \n- · · , \n- , , \n- \n , \n \n . (Security Requirement)\n \n SER-001\n · \n \n · , , , , AI , \n \n \n❍ · \n- \n- \n- · \n- \n- · \n- \n- · AI \n- · \n- \n- · \n❍ · · \n \n❍ , \n \n❍ · \n❍ \n , , \n \n \n SER-002\n \n \n \n , , · · · · \n \n \n \n❍ , , , \n \n❍ · · · · · \n \n❍ 3 \n❍ , · , \n , · · \n❍ · , \n \n❍ · · · , \n \n❍ , , , \n \n❍ \n \n❍ \n \n \n \n SER-003\n · \n \n \n , \n \n \n❍ , , , , , , \n \n❍ , · · \n \n❍ , · · \n❍ \n \n❍ VPN , IP· \n · \n❍ OTP, 2 \n❍ , , \n , \n❍ , , · , \n \n · \n \n \n SER-004\n · · \n \n \n \n \n \n \n❍ \n \n❍ CSAP , \n \n❍ , DMZ, WEB, WAS, DB \n❍ WAS, DB, Private \n \n❍ WAS DB \n❍ WEB–WAS, WAS–DB IP , \n \n❍ , , \n❍ , , DBMS, \n❍ · · \n \n \n \n \n SER-005\n · \n \n \n , , , · · \n \n \n \n❍ , , , \n \n❍ – , – , WEB–WAS, WAS–DB \n \n❍ \n \n❍ \n \n❍ , , , , \n \n❍ , · · · \n \n \n \n SER-006\n · · \n \n \n , , , AI \n \n \n \n❍ , , , , AI · · \n \n❍ · · · · \n❍ · , · , AI \n \n❍ , , · , \n❍ \n \n❍ , \n \n \n \n SER-007\n · \n \n \n , , · \n \n \n❍ · , , , · , · , , · \n · \n❍ AI · , , LLM API \n . , \n❍ , · , \n , · · · \n❍ \n❍ · · · 1 \n❍ , \n❍ , , · , AI · · \n \n❍ · \n \n❍ \n \n \n \n \n SER-008\n \n \n \n · \n \n \n❍ · · · · \n❍ , · , , , , , API \n \n❍ \n❍ , API, , DB, \n❍ · · \n \n❍ , · \n \n❍ \n · \n \n \n SER-009\n AI LLM \n \n \n · AI LLM , , \n , \n \n \n❍ LLM \n- LLM \n- \n- LLM , , API \n❍ AI \n- AI · · \n \n- , , \n- , \n \n❍ AI · \n- AI · · \n \n❍ AI \n- AI · · \n- AI , · \n \n- · \n❍ · \n- AI , , , · .\n- , , · .\n❍ · AI \n- , \n- \n- LLM AI \n \n AI , AI \n \n \n SER-010\n ·API \n \n \n , API, LLM AIEP · · , , · \n \n \n❍ LLM , ·IP· \n ·API \n- AI DMZ API \n \n❍ · , , \n \n❍ API , , \n \n❍ API IP, , \n❍ , , \n❍ AIEP \n❍ , AI· , , AIEP \n \n❍ AIEP API ,\nAIEP · \n❍ , \n \n❍ , , \n \n \n \n SER-011\n · \n \n \n , \n \n \n \n❍ , , , , , AI · \n \n❍ \n❍ (RTO) (RPO) \n \n❍ · · · \n❍ \n❍ , · · · · \n \n❍ SLA \n❍ , , \n · , \n \n \n SER-012\n · \n \n \n , \n \n \n \n❍ 1 \n❍ , , , IP, , , \n3 \n❍ , \n \n❍ , VPN, , · ·IP · \n \n❍ , , , \n \n❍ P2P, , , , USB \n❍ · , \n \n❍ \n , \n \n \n SER-013\n · · \n \n \n · \n \n \n❍ · · \n❍ · , \n \n❍ \n❍ \n❍ , , \n❍ \n❍ , , , , , \n \n❍ \n \n❍ , PC · · · \n \n , \n \n \n SER-014\n · · \n \n \n · , , \n · · \n \n \n❍ , , , \n❍ , , , , , , \n \n❍ , , , PC, , \n \n❍ , · · \n \n❍ , API , , VPN \n❍ · · \n \n❍ , \n · , \n \n . (Performance Requirement)\n \n PER-001\n \n \n \n · \n \n \n \n❍ \n- \n- \n- 10,000 , , · \n \n- 3 , \n- \n ( (Autoscaling)) \n❍ \n- , \n- \n- \n❍ \n- \n- \n- \n \n \n \n PER-002\n \n \n \n \n \n \n❍ , , · \n- \n- , \n- \n❍ \n- \n- \n- \n❍ \n- \n- \n- \n \n \n \n PER-003\n \n \n \n · \n \n \n \n❍ \n- \n- · ·DB \n- \n- · \n❍ \n- \n- , \n- \n · \n \n . (Quality Requirement)\n \n QUR-001\n \n \n \n · · \n \n \n❍ \n- , · , \n- · , · , \n \n- , \n- \n❍ \n- \n- , , · \n- \n- \n❍ \n- \n- \n- \n , \n \n \n QUR-002\n \n \n \n · · \n \n \n❍ \n- , \n- \n- \n- \n❍ \n- , · \n- \n- \n❍ \n- \n- \n- \n- \n · \n \n \n QUR-003\n \n \n \n , \n \n \n ❍ \n- , \n- \n- \n❍ \n- , \n- \n- · \n- \n- · · \n- \n❍ \n- \n- · \n- · \n · \n \n . (Project Management Requirement)\n \n PMR-001\n · \n \n \n , · \n \n \n ❍ \n- , , , \n- 30 365 \n- \n- \n- \n❍ \n- , \n- , \n- \n- · · \n❍ \n- \n- \n- \n- , \n \n \n \n PMR-002\n \n \n \n \n \n ❍ \n- , , , · · \n \n- , , \n- , · · \n- \n- \n❍ \n- \n- · \n- , \n- , \n- \n❍ \n- \n- , \n- · , \n- \n \n \n \n PMR-003\n \n \n \n \n \n \n❍ \n- \n- \n- , , AI· , \n- \n❍ \n- \n- , \n- \n- \n- \n❍ \n- \n- \n- , \n- \n \n \n . (Project Support Requirement)\n \n PSR-001\n \n \n \n , · \n , \n \n \n❍ \n- , , \n- · , , Rubric , , · · , \n \n❍ \n- , , , \n- \n- , , , \n- AI · · · · \n- ·Moderation · \n❍ \n- , \n- \n- FAQ \n❍ \n- , , \n- , \n- \n \n \n \n PSR-002\n \n \n \n \n \n❍ \n - \n- , , · , · \n \n- · · · · \n❍ \n- , \n- , \n- AI , , \n- \n❍ \n- \n- \n- · \n \n \n \n PSR-003\n \n \n \n \n \n ❍ \n- , , · · \n- · , , · · , \n- \n❍ \n- \n- , , \n- AIEP , \n❍ \n- , , \n- FAQ, \n- \n❍ · \n- \n- , , · PSR-002 \n \n- , , \n \n \n \n PSR-004\n · \n \n \n \n \n ❍ \n- , , \n- , , · \n \n- , , \n- , , \n❍ \n- · , , \n- ·Rubric· , , , , , \n \n- , , \n- , \n❍ \n- , , \n · · \n- · · \n- , , \n- , , \n❍ \n- , , \n- , , \n- \n \n \nⅣ \n1. \n , , \n . , \n , \n \n 3 , \n \n \n \n \n2. ( )\n , \n \n , \nA4 (pdf) \n 100 \n (pdf) 300MB \n A4 , A4 \n \n , \n \n , \n \n .\n , “ ”, “ ”, “ ” \n , \n , \n \n \n \n3. \n \nⅠ . \n1. \n2. \n3. \n4. \nⅡ . \n1. \n2. \n3. \n4. \n5. \nⅢ . \n1. AI \n2. · \n3. \n4. AI \n5. · \n6. · \n7. \n8. \nⅣ . \n1. \n2. · \n3. \n4. · \n5. · \nⅤ . \n1. \n2. \n3. · \n4. \n5. \nⅥ . \n1. \n2. \n4. ( )\n \nⅠ . \n1. , 3 , .\n2. \n \n .\n- , , CBT , AI \n .\n- .\n3. \n \n .\n- AI , CBT , \n .\n- .\n4. \n \n .\n- .\n- (PM), .\nⅡ . \n1. \n , , .\n- .\n2. \n .\n- .\n3. \n .\n- .\n4. \n .\n- .\n5. \n \n .\n- , .\nⅢ . \n1. AI \n \n AI · – – – \n .\n- , · · , · · \n .\n2. · \n \n · · · , , (Rubric) \n .\n- · , , , \n·Rubric · .\n3. \n \n · .\n- , , , ·AI , , \n · , · .\n4. AI \n \n Rubric AI .\n- AI · · , · · , ·Moderation \n .\n- AI .\n5. \n · \n · \n .\n- · · · , · \n .\n- , \n .\n6. ·\n \n , , Rubric, , , \n .\n- , , \n .\n- AIEP , · \n · AIEP .\n7. \n \n .\n- CSAP , · , ·DB· , · · \n .\n- · , , , , AI , \n .\n8. \n \n .\n- , , · .\n- , · , · \n .\nⅣ . \n1. \n \n · .\n- · , , , · , · · \n .\n2. · \n \n , .\n- , · , \n .\n3. \n \n , .\n- · , , AI · , \n .\n4. · \n \n · .\n- · · · , · , \n .\n5. · \n \n · · .\n- · , · · , · \n .\nⅤ . \n1. \n \n .\n- , \n .\n2. \n \n .\n- (PM), , ·AI, , \n .\n3. · \n \n · .\n- , · .\n4. \n \n .\n- · · · , · , · · \n .\n5. \n .\n- , , · \n .\nⅥ . \n1. · , · , \n · .\n2. , \n .\n5. \n \n \n \n \n \n \n \n , , \n \nⅤ \n \n \n 43 “ ”\n \n ( 373\n ) “ 7 ” \n \n 13 14 \n , \n 31 92 ( \n ) \n 17 ( [ \n1468])\n※ \n 2 · 2 \n · · \n ( : ) \n \n 48 ( ) \n \n 48 4 \n \n 20 , \n ( ) \n , 48 4 \n 31 \n .\n “ ” \n ( [ 8111159901]) \n \n6) : ( , )\n ) 13 \n 14 \n ) , ( \n ) \n ) 5 , 5% \n [ ( 6 )]\n ) \n \n \n (100%) = (90%) + (10%)\n (90%) (10%) , \n \n (90 ) (10 ) , \n \n \n \n (90)\n \n(20)\n \n \n \n 6\n 5\n 5\n 4\n \n(70) \n 20\n 30\n 10\n 10\n (10) 10\n 100\n \n① \n② \n③ \n 85% \n④ 5 \n ( ) \n : 20 \n \n ( ) \n \n \n \n [ 9] ( 9 3 2 )\n \n100% 100%\n70% 100% 90%\n40% 70% 80%\n40% 70%\n* 3 ( ) . , \n 7 7 \n※ : , , AI , \n , .\n[ ]\n1. \n . , \n .\n2. 9 8 1 .\n3. , .\n4. 9 8 3 \n , 5 .\n5. 15 16 \n .\n . , , \n \n . , , ( \n ) \n . \n . , , \n \n6\n \n . \n .\n6. , \n .\n( ) {(A ×A )+(B ×B )…} \n7. 6 \n .\n8. , , . \n .\n . : \n . : . , , \n .\n . : . , , \n .\n \n \n [ 8] ( 9 3 1 )\n \n \n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0 100%\nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB- 95%\nB+, B0, B- B- B+, B0, B- 90%\nCCC+ C CCC+ 70%\n* \n[ ]\n1. 2 8 3 \n 335 3 \n , , \n . , \n .\n2. , \n . , \n .\n3. 1 , \n . , \n \n .\n4. 7 \n . \n , . , \n , ( \n , ) .( \n .)\n5. , \n .\n5\n( ) (A ×A )+(B ×B )…\n6. .\n \n \n \n \n \n \n \n \n△ 2\n \n \n \n 2 \n \n△ 2\n[ ]\n1. ①~② , .\n2. , .\n3. ( \n ) .\n4. \n( ) .\n5. \n .\n6. 2 \n . , 2017 5 1 \n .\n5\n \n \n \n \n \n \n \n \n \n- , 2 \n- ( ) \n \n1.8 \n- 1.6 \n- 1.4 \n[ ]\n1. \n .\n2. 3 .\n※ . ( : , \n ), ( , ), \n4\n \n : 70 \n \n \n \n ( ) \n \n \n(20)\n \n , , \n .\n- \n- \n- \n- \n3\n \n \n , \n .\n- \n- \n- \n- \n- \n4\n \n \n , AI \n .\n- · \n- ·CBT \n- \n- \n- \n5\n \n \n · \n .\n- · \n- , AI , AI \n- \n- · · \n5\n \n \n · \n .\n- \n- \n- \n- · \n3\n \n \n(30) \n \nAI · · ·\n .\n- \n- \n- · \n- · · \n3\n \n , \n · .\n- \n- · · \n- \n- AI \n- · \n- \n- \n14\n \n , \n .\n- \n- \n- \n- \n3\n \n \n \n · \n .\n- · · \n- \n- AIEP · \n- · · \n2\n \n \n \n .\n- · ·Rubric \n- · · \n- · · \n- \n3\n \n \n , · \n .\n- \n- · · \n- \n- · \n2\n \n , , AI · \n .\n- \n- · \n- · · \n- AI \n- · \n3\n \n \n(10)\n \n \n \n .\n- \n- (PM) \n- \n- · \n- \n3\n · \n \n \n .\n- \n- · \n- \n- \n3\n \n \n .\n- \n- · · \n- \n2\n \n \n .\n- \n- \n- · \n2\n \n \n(10)\n \n \n \n .\n- \n- · \n- · ·FAQ \n3\n \n \n \n \n .\n- · \n- · · \n- · · \n- \n- \n4\n \n \n .\n- · · \n- \n- \n1\n · \n \n \n · \n .\n- \n- · · \n- \n- · \n2\n \n . \n① 1 \n \n ) : \n ) : \n \n ) \n② \n③ \n \n : \n : \n : 054-805-3356 ( )\n \n , \n \n , \n \n ( )\n , \n \n※ , \n , , \n , , , \n \n \n \n \n 13 14 , \n 12 \n \n \n , \n · \nⅥ \n1. 50 \n \n2. 50 , 47 1 2 , 3 \n , , \n ( 2 ) \n3. 43 , 35 37 , \n 5 , 6 \n [ ( 3 )]\n4. 16 , 17 , \n \n5. ( ( ) 56 )\n① ( ) , \n . , ( , )\n .\n , .\n② SW \n③ 56 ( ) \n \n6. ( ) 58 2 3 , \n . 58 2 \n . 58 3 \n \n7. \n① 1 , \n \n .\n , , \n · , \n .\n③ .\n8. \n , \n9. \n① \n② ( , \n , )\n10. \n . · · \n \n . · , \n , \n . , \n \n . \n , \n \n . \n11. ( ) ,\n \n12. \n . \n , \n . , \n \n① · IP \n② \n③ \n④ · \n⑤ \n⑥ \n⑦ , IPS ․ \n⑧ 9 1 \n⑨ 2 1 \n⑩ 4 , 7 3 \n \n . ( ) 16 \n \nⅦ \n \n 1 73\n 2 71\n 3 72\n 4 · 73\n 5 74\n 1 \n\n 2 \n ( 26 )\n※ [ ] √ .\n 14 \n \n \n \n \n \n \n[ ] [ ] \n \n \n \n \n \n( ※ )\n \n \n( ※ )\n \n \n( ※ )\n \n \n \n ( ※ )\n 50 3 .\n \n ( )\n \n \n \n \n \n \n : \n210mm×297mm[ 80g/ ]\n 3 \n\n 4 · \n AI · \n 2026 10 \n \n \n(* ‘O’ )\n \n \n1. ○\n2. SW \nSW (BMT) ○\n3. SW ○\n4. ○\n5. SW ( ) ○\n6. SW ○\n7. SW ○\n8. ○\n9. ○\n10. \n( )\n○\n11. (90%) ○\n12. SW ○\n13. SW ○\n14. ○\n15. SW ○\n16. ○\n17. SW ○\n18. SW ○\n* SW \n 5 \n AI · \n 2026 10 \n□ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n IP ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n · ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n ( )\n UI/UX ( )\n□ \n \n / \n /\n \n \n \n \n \n \n \n \n \n \n , , \n · .\n○\n \n \n \n 2.1\n○\n ○\n \n \n \n- HTML 4.01/HTML 5, CSS 2.1\n○\n- XHTML 1.0 ○\n- XML 1.0, XSL 1.0 ○\n- ECMAScript 3rd ○\n \n- 1.0 (KICS.KO-10.0307)\n○\n \n \n (KS X ISO/IEC 20000)/ ITIL v3 ○\n \n \nIPv4 ○\nIPv6 ○\n□ \n \n / \n /\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n , \n · \n .\n○\n \n \n \n- SOAP 1.2, WSDL 2.0, XML 1.0 ○\n- UDDI v3 ○\n- RESTful ○\n \n- UML 2.0/BPMN 1.0 ○\n- ebXML/BPEL 2.0/XPDL 2.0 ○\n : XML 1.0 ○\n : UDDI v3, WSDL 2.0 ○\n□ \n \n / \n /\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n IPv4 IPv6 \n . ○\n , \n \n .\n○\n \n \n : H.320~H.324, H.310 ○\n : VoIP\n- H.323\n○\n- SIP ○\n- Megaco(H.248) ○\n \n \n ( ) :\n- POSIX.0 ○\n- UNIX ○\n- Windows Server ○\n- Linux ○\n \n- android ○\n- IOS ○\n- Windows Phone ○\n \n DBMS\n- RDBMS ○\n- ORDBMS ○\n- OODBMS ○\n- MMDBMS ○\n ITIL v3 / ISO20000 ○\n : ○\n□ \n \n / \n /\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n . ○\n , , , \n . ○\n \n \n “ ” \n .\n○\n \n .\n○\n \n \n \n \n \n○\n \n : HTML 4.01 ○\n - JSP 2.1 ○\n- ASP.net ○\n- PHP ○\n- ( ) ○\n \n \n- C ○\n- C++ ○\n- Java ○\n- C# ○\n- (Vue.js) ○\n :\n- XMI 2.0\n○\n- SOAP 1.2 ○\n \n- EUC-KR\n○\n- UTF-8( , UTF-8 ) ○\n□ \n \n / \n /\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n . “ ”,“ \n ”,“ ” “ ” .\n○\n \n . ○\n \n ․ . ○\n \n \n \n ○\n ( )\n- ○\n · ( ) ○\n \n \n \n \n \n \n ( )\n- PKI ○\n- SSO ○\n- ○\n- (DRM) ○\n- ○\n- ○\n- ○\n- ○\n- DB ○\n- (9 ) \n- ○\n CC ( CC )\n- ( ) ○\n- ( ) ( ) ○\n- ○\n- ○\n- DDos ○\n- ○\n- ○\n- ○\n- ( ) ○\n- ○\n- ○\n- ○\n- ○\n- (PC ) ○\n- ○\n- ( , \n ) ○\n- ○\n- ○\n- DB ○\n- ○\n- USB( ) ○\n- ( \n ) ○\n- ○\n- ○\n- CC ○\n ( · ) \n- · ( ) ○\n \n- (CSAP) \n- · \n○\n \n \n \n \n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n- ○\n \n- ○\n- ( ) ○\n- ( ) ○\n- ○\nⅧ \n 1 \n \n※ .\n \n \n \n \n \n( )\n \n \n \n \n \n( ) \n . . .\n \n ․ \n \n .\n :\n :\n \n .\n \n \n .\n : 1. 1 \n2. 1 ( )\n3. \n2026. . .\n \n \n 2 \n \n AI · \n .\n- -\n1. , \n .\n2. , , \n , \n .\n2026 \n :\n :\n : ( )\n \n 3( ) \n \n \n \n \n \n \n \n \n \n AI · \n .\n2026. . .\n : ( )\n : ( )\n \n※ : \n※ \n※ \n 4 \n \n 2026 \n AI · \n . AI · \n ,\n , \n .\n2026 \n :\n :\n : ( )\n \n 5 \n \n( )\n 3 \n , \n .\n2026 \n :\n :\n : ( )\n \n 6 \n \n1. : AI · \n2. : (₩ )\n \n 37 3 , \n .\n2026 \n :\n :\n : ( )\n \n 7 \n \n□ : AI · \n \n , OECD \n , \n ( · ) \n \n1. , , \n .\n◦ \n 2 ,\n◦ \n 1 ,\n◦ \n 6\n ,\n◦ \n .\n2. , , ( ) · · \n ( ) ,\n◦ , , 2 \n 2 ,\n◦ 1 2 1 \n ,\n◦ 1 1 6 \n ,\n◦ 1 3 \n .\n4. · , \n \n .\n3. , , , ( \n ) , \n , \n , ․ .\n , \n , , \n · \n .\n2026. . .\n : ( )\n \nⅨ \n \n 1 91\n 2 ( ) 92\n 3 93\n 4 (PM) 94\n 5 95\n 6 96\n 7 97\n 8 98\n 9 ( ) 99\n 10 104\n 11 105\n 12 106\n 1 \n \n . AI · \n \n \n2026. . .\n \n \n \n (FAX : )\n ( : HP : )\n ( ) \n 2 \n ( ) \n ( ) \n \n \n ( : )\n \n \n \n (2025 ) : , :\n \n \n( )\n※ , \n \n 3 \n \n (PM)\n , \n○○ ○○ ○○ ○○ \n \n※ \n 4 \n (PM) \n \n \n \n \n ~ ( %)\n \n \n \n( ~ )\n \n※ , ( )\n※ , , \n 5 \n \n \n \n( )\n \n \n( : )\n \n \n \n \n \n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n \n※ \n① 3 · , , \n · ( , \n )\n② ( 10) \n③ \n※ \n 6 \n \n \n ( ) \n \n \n \n( )\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n (%) ( )\n \n \n \n \n \n : ( ) ( : )\n : (FAX : )\n : :\n( )① , \n② ( (G2B) ) ( , ) \n , \n③ \n 7 ※ \n ( )\n \n \n \n \n \n \n 6% \n 10% \n 10%\n \n 8 \n \n( )\n AI · \n ( ) .\n1. . AI · \n .\n2. \n .\n3. \n .\n4. \n .\n \n \n( )\n \n \n ( )\n \n( )\n \n \n ( )\n 8 \n \n( )\n . AI · \n .\n1. \n .\n2. \n \n .\n3. .\n . 4 1 2 5 ( )\n . 99 ( ) 127 ( )\n \n \n \n \n \n 9 \n ( )\n 1 ( ) , \n ․ ․ \n .\n1. :\n2. :\n3. :\n 2 ( ) , , .\n1. : \n2. :\n3. :\n 3 ( )\n① .\n1. ( : )\n2. ( : )\n② .\n③ 3 , \n .\n 4 ( ) , . , \n 3 · .\n 5 ( ) 1 · \n .\n 6 ( ) . \n , \n .\n 7 ( ) \n .\n 8 ( ) 11 , \n .\n1. ( ) : , , \n2. : , , \n 9 ( )\n① .\n1. : %\n2. : %\n② 1 . , \n .\n1. \n2. , , , , ( \n ), \n \n③ , .\n 10 ( ) 9 \n .\n 10 2( )\n① , , \n .\n② , \n .\n③ 1 , \n , \n .\n④ 3 \n . , \n .\n 11 ( ․ ) ․ 3 .\n 12 ( )\n① \n . , 3 \n .\n1. \n2. , , 10 2 \n \n3. , , 76\n 1 6 \n② 1 . \n , , , \n \n .\n③ 2 9 \n .\n③ 10 .\n 13 ( ) \n . , \n .\n 14 ( )\n① \n .\n② .\n \n .\n2026 \n( ) 0000 OOO ( )\n( ) 0000 OOO ( )\n( ) 0000 OOO ( )\n 10 \n \n \n \n , \n , \n \n .\n2026 \n \n \n \n ( )\n \n \n \n ( )\n \n \n \n ( )\n \n 11 \n \n . AI · \n \n , \n , .\n2026 \n : ( )\n \n 12 \n \n :\n :\n :\n AI · \n ,\n , , \n .\n \n ( )\n \nⅩ \n \n 1 113\n 2 120\n 3 123\n 4 125\n 1 126\n 2 128\n 5 ( ) · 129\n 6 ( ) 130\n 7 131\n 1 \n \n1. \n .\n2. , , , , \n , \n 92 .\n3. \n , .\n4. 30 , \n ( ) .\n* : 26 3 , 28 2 5 , 50 1 5 \n5. , \n .\n[ 1] \n[ 2] \n[ 3] \n[ 4] \n ( )\n ( )\n 1\n \n1. \n . ( )\n . ( , ) \n \n . \n . \n . , ,\n \n . \n \n2. \n . \n . , \n \n . · · \n . ‘ ·IP ’ \n ( · ) \n . ( , ) , \n . ( \" \" ) \n , \n . , , 9 , \n· (ID) \n· \n· \n· \n· \n· \n· \n . , P2P, , \n . ICE , \n · \n3. \n . , CCTV, \n . ‧ \n . · \n . \n . ‧ ( ‧ )\n . PC, \n . \n . (PC) (USB, WiFi, Bluetooth ) , \n USB , CD ( , , \n )\n . (PC) (CMOS) , , (10 ) \n · 9 , \n4. \n . \n . \n . · \n . 3 \n . , \n5. ( ) · \n . \n . PC , , \n . \n . \n . \n . ‧\n \n . 2 \n . ( ) \n . ‧ \n 2\n \n \n \n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n ( \n )\n \n \n \n \n \n \n \n1. \n . \n . · \n . · \n . \n2. · \n . \n . \n . · \n3. \n . , USB \n . ·P2P \n \n . · \n . \n . PC \n . PC \n . \n . ( )\n \n \n \n \n \n \n \n \n1. · \n . \n . · · \n . \n . · · \n . \n3. \n . · \n . \n4. \n . · \n . \n . PC (CD, USB ) \n . · \n . PC \n . \n \n \n \n / \n \n \n \n1. \n . , \n . · \n2. \n . \n . · \n3. \n . PC \n . \n · \n \n / \n* \n 3\n \n1. A~D \n \n \nA B C D \n 1 1 2 3 \n 10% 5% 3%\n※ [ 2] \n2. , \n※ 1 \n3. \n 4\n \n① · IP \n② \n③ \n④ · \n⑤ \n⑥ \n⑦ , IPS ․ \n⑧ 9 1 \n⑨ 2 1 \n⑩ 4 , 7 3 \n \n 2 \n \n ( “ ” ) △△△ ( “ ” ) “ ” “ \n ” .\n 1 ( ) “ ” “ ” , “ ” “ \n ” .\n 2 ( ) , , \n ( ), ( ) \n .\n 3 ( ) “ ” . AI ·\n .\n1. AI · \n2. AI · \n 4 ( ) . : ~ 2027\n \n 5 ( )\n① “ ” “ ” 3 .\n② “ ” “ ” 3 “ \n ” . , “ ” \n “ ” .\n③ “ ” .\n④ “ ” .\n 6 ( ) “ ” 23 2 24 3 29 , \n 21 30 , ( 2025-9 )\n · .\n 7 ( ) “ ” \n 3 .\n 8 ( · )\n① “ ” “ ” \n , “ ” .\n1. \n2. \n3. \n4. ․ \n5. \n6. \n② “ ” “ ” 1 “ ” 3 \n , . “ ” “ ” \n .\n③ “ ” “ ” \n “ ” [ ] “ \n ” “ ” . “ ” “ ” “ \n ” “ ” .\n1. 32 2 (ISMS-P) \n2. ‘ ’ \n3. 1 , 2 , “ ” “ ” 31 7 \n \n④ 3 “ ” “ ” \n ” “ , ” “ .\n 9 ( )\n① “ ” 26 3 \n · · · “ ” , “ ” .\n“ ” “ ” ” “ .\n② 1 , \n , “ ” “ ” . ,\n“ ” 3 “ ” \n “ ” , “ ” \n .\n③ “ ” “ ” .\n 10 ( ) “ ” , · , \n .\n 11 ( )\n① “ ” \n 16 “ ” .\n② 1 “ ” “ ” .\n 12 ( )\n① “ ” “ ” “ ” \n “ ” “ ” “ ” \n “ ” , 3 \n“ ” .\n② 1 3 “ ” \n “ ” “ ” .\n 2 , “ ” “ ” 1 \n .\n2026. . .\n \n : 511\n ( ) : \n : ( )\n \n : ○○ ○○ ○○\n ( ) :\n : ( )\n 3 \n \n( )\nOOO ( \" \" ) ( \" \" ) ∼ \n . AI · \n .\n1. ( ) \n · .\n1) \n2) \n3) \n4) 3 \n5) \n6) \n \n2. .\n3. \n .\n4. · .\n \n \n : ( )\n \n \n( )\nOOO ( \" \" ) ( \" \" ) ∼ \n . AI · \n .\n1. ( ) \n · .\n1) \n2) \n3) \n4) 3 \n5) \n6) \n \n2. \n .\n3. · .\n \n \n : ( )\n \n 4 \n \n ( ) \n .\n1. \n , \n \n2. \n \n \n2026 \n :\n :\n : ( )\n \n 1 \n \n \n \n1\n · ( , PC, USB, MP3 ) □\n \n·\n \n ( , · : ) □\n , □\n S/W □\nOS S/W □\n ( , ) □\n2\n \n \n □\n PC . □\n , . □\n □\n3\n \n[ ]\n1. \n . , \n . · \n . · \n2. \n . \n . \n . \n ( \n )\n \n \n \n \n \n \n[ ]\n1. \n . \n . · \n . ․ \n . \n2. \n . \n . \n . · \n3. \n . , USB \n . ·P2P \n . · \n . \n . PC \n . PC \n . \n . ( )\n \n \n \n \n \n \n[ ]\n1. · \n . · \n . · · \n2. \n . · · \n . \n3. \n . · \n . \n \n \n \n / \n \n□\n□\n4. \n . · \n . \n . PC (CD, USB ) \n . · “1111” \n . PC \n . \n \n□\n \n \n \n[ ]\n1. \n . , \n . · \n2. \n . \n . · \n3. \n . PC \n . \n · \n \n \n□\n□\n4\n , IP , \n , .\n< >\n① · IP \n② \n③ · \n④ · \n⑤ ( \n )\n⑥ · \n⑦ \n⑧ 9 1 \n⑨ 2 1 \n⑩ 4 16 3 \n \n□\n \n . AI · · \n · \n \n2026 \n ( )\n \n[ ]\n . ‘ ’ 9 1 ( )\n1. ( · · · · ) \n \n2. · · · \n3. · \n4. , , , , ( ), \n \n5. · · · · · · · \n · . , \n 10 .\n . ‘ ' 2 ( )\n1. “ ” , ( \n )\n . ‘ ’ 4 , 16 3 \n 4 ( ) .\n1. Ⅰ : , · \n \n2. Ⅱ : \n3. Ⅲ : \n 2 \n ( )\n☐ ( ) \n- ( ) : . AI · \n- ( ) : 20 . . . ~ 20 . . .\n☐ _ ( )\n-\n-\n☐ ( ): ( )\n☐ \n \n ( )\n \n \n1 2021. 3. 8. 2022. 2. 28. \n2 IP 2021. 3. 8. 2022. 2. 28. \n3 ········\n4\n5\n········\n 5 \n ( ) · \n< :OOO( )>\n \n \n( )\n \n \n \n( · )\n \n \n \nUSB\n - -01\n(610-RUCW-\n61659)\n \n 2025.03.08.10:00( ) \n 2025.03.08.18:00( ) \nCD\n - -03\n(4589-KK-4585)\n \n \n \n 2025.05.08.10:00( ) \n 2025.05.08.18:00( ) \n PC\ns111-001-113\n(5004829800055)\n \n 2025.12.1 13:00 ( ) \n 2025.12.1 19:00 ( ) \nUSB\n - -005\n(610-RUFU-\n61747)\n \n 2025.12.1 18:00( ) \n 2025.12.2 10:00( ) \n 6( ) \n ( )\n . AI · \n , , · ( ) \n .\n1. ( ) ( )\n2. ( ) \n3. ( ) \n4. ( ) \n .\n2026 \n \n \n \n \n 7 \n \n1. \n \n .\n2. , , , , \n , \n 76 .\n3. \n , \n .\n4. \n , .\n5. , \n , , .\n . \n . \n . \n . ( ) \n . ( ) \n . · ( ) \n . ( ) \n . · ( ) \n6. , , · \n , , , \n , \n .\n7. \n .\n8. \n · , , , , \n , , · \n .\n9. 8 , , \n , ,\n \n .\n10. · \n , , \n · .\n11. \n , \n .",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "AI · \n \n \n[ ]\n \n[ ]\n2026. 10.\n\n \nⅠ . 1\n1. 1\n2. 2\nⅡ . 3\n1. 3\n2. 4\n3. 7\n4. 8\nⅢ . 9\n1. 9\n2. 10\n3. 11\n4. 14\nⅣ . 51\n1. 51\n2. ( ) 52\n3. 53\n4. ( ) 54\n5. 57\nⅤ . 58\n1. 58\n2. 60\n3. 67\n4. 67\nⅥ . 69\nⅦ . 72\nⅧ . 86\nⅨ . 94\nⅩ . 112\nⅠ \n1. \n AI · \n 500,000,000 ( ) \n ( ) 30 ( ) 365 \n \n❍ 2027 · \n , \n \n❍ AI · · \n \n \n❍ – – – AI · \n \n❍ · · (Rubric) \n❍ , AI , , · \n \n❍ , · · \n \n❍ AI...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "<서식>\n긴급입찰 사유서\n1. 사업 개요\n가.\n사업명:\n경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템\n도입 및 운영\n나. 예산액: 500,000,000원(금오억원) (부가가치세 포함)\n다.\n사업기간:\n(구축) 계약 후 30일 이내 (운영) 구축으로부터 365일\n2. 긴급입찰에 부치는 사유\n가.\n법적근거: 「지방자치단체를 당사자로 하는 계약에 관한 법률 시행령」\n제35조 제4항 제5호\n지방계약법 시행령 제35조 제4항\n2. 국가 또는 지방자치단체의 재정정책상 예산의 조기집행을 위하여 필요한 경우\n3.\n국가사업 또는 지방자치단체의 다른 사업과 연계\n되어 사업의 일정조정을 위하여 불가피한 경우\n4. 긴급한 행사 또는 긴급한 재해 예방·복구 등을 위하여 필요한 경우\n5. 그 밖에 제2호 또는 제3호에 준하는 경우로서\n입찰을 긴급히 입찰공고를 할 필요가 있는 경우\n나. 긴급입찰 사유\n○\n본 사업은 경북 학생평가 전환 정책에 따라 AI 기반 서·논술형 평가지원시스템을 구축하여 2027학년도 학교 현장에 적용하기 위한 사업으로, 시스템 구축 후 기능 점검 및 안정화, 사용자 교육, 시범운영 등 사전 준비 기간 확보가 필요함.\n○ 특히 시스템 구축에 계약 후 30일이 소요되고, 구축 이후 학교 현장의 안정적인 활용을 위한 운영 및 지원이 연계되어야 하므로 2027학년도 적용 일정에 차질이 없도록 신속한 계약 체결 및 사업 착수가 필요한 상황임.\n\n<서식>\r\n긴급입찰 사유서\r\n\r\n1. 사업 개요\r\n 가. 사업명: 경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입 및 운영 \r\n 나. 예산액: 500,000,000원(금오억원) (부가가치세 포함)\r\n 다. 사업기간: (구축) 계약 후 30일 이내 (운영) 구축으로부터 365일\r\n\r\n 2. 긴급입찰에 부치는 사유\r\n 가. 법적근거: 「지방자치단체를 당사자로 하는 계약에 관한 법률 시행령」 제35조 제4항 제5호\r\n<지방계약법 시행령 제35조 제4항>\r\n<2. 국가 또는 지방자치단체의 재정정책상 예산의 조기집행을 위하여 필요한 경우 3. 국가사업 또는 지방자치단체의 다른 사업과 연계되어 사업의 일정조정을 위하여 불가피한 경우 4. 긴급한 행사 또는 긴급한 재해 예방·복구 등을 위하여 필요한 경우 5. 그 밖에 제2호 또는 제3호에 준하는 경우로서 입찰을 긴급히 입찰공고를 할 필요가 있는 경우>\r\n 나. 긴급입찰 사유\r\n ○ 본 사업은 경북 학생평가 전환 정책에 따라 AI 기반 서·논술형 평가지원시스템을 구축하여 2027학년도 학교 현장에 적용하기 위한 사업으로, 시스템 구축 후 기능 점검 및 안정화, 사용자 교육, 시범운영 등 사전 준비 기간 확보가 필요함.\r\n ○ 특히 시스템 구축에 계약 후 30일이 소요되고, 구축 이후 학교 현장의 안정적인 활용을 위한 운영 및 지원이 연계되어야 하므로 2027학년도 적용 일정에 차질이 없도록 신속한 계약 체결 및 사업 착수가 필요한 상황임.",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01805007-000",
+    "sourceFile": "[붙임]긴급입찰 사유서(경북 학생평가 전환을 위한 AI 기반 서논술형 평가지원시스템 도입 및 운영).hwpx",
+    "generatedAt": "2026-11-09T14:15:17.415099",
+    "match": {
+      "noticeId": "R26BK01805007-000",
+      "bidNtceNo": "R26BK01805007",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01805007-000",
+      "projectName": "경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입 및 운영",
+      "keywords": [
+        "경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입 및 운영",
+        "R26BK01805007-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입 및 운영",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01805007-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입 및 운영",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "(구축) 계약 후 30일 이내 (운영) 구축으로부터 365일",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입 및 운영",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "(구축) 계약 후 30일 이내 (운영) 구축으로부터 365일",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4 (pdf) 100 (pdf) 300MB A4, A4,, ., “ ”, “ ”, “ ”,, 3. Ⅰ . 1. 2. 3. 4. Ⅱ . 1. 2. 3. 4. 5. Ⅲ .",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "USB, WiFi, Bluetooth ), USB, CD (,, ) . (PC) (CMOS),, (10 ) · 9, 4. . . . · . 3 .,",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "SFR-001",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "[ ] AI ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-002",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-003",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-004",
+          "requirement": ",",
+          "name": ",",
+          "detail": "[ ] · ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-005",
+          "requirement": ",",
+          "name": ",",
+          "detail": "[ ] · · ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-006",
+          "requirement": ",",
+          "name": ",",
+          "detail": ",",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-007",
+          "requirement": ",",
+          "name": ",",
+          "detail": ",",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-008",
+          "requirement": ",",
+          "name": ",",
+          "detail": "[ ] , AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-009",
+          "requirement": ",",
+          "name": ",",
+          "detail": ",",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-010",
+          "requirement": ",",
+          "name": ",",
+          "detail": "[ ] AI",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-011",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "[ ] · ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-012",
+          "requirement": "Moderation",
+          "name": "Moderation",
+          "detail": "[ ] ·Moderation",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-013",
+          "requirement": "Moderation",
+          "name": "Moderation",
+          "detail": "[ ] · ·",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-014",
+          "requirement": "Moderation",
+          "name": "Moderation",
+          "detail": "Moderation",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-001",
+          "requirement": "Moderation",
+          "name": "Moderation",
+          "detail": "8 SFR-008 [ ] , AI 9 SFR-009 [ ] , 10 SFR-010 [ ] AI 11 SFR-011 [ ] · · 12 SFR-012 [ ] ·Moderation 13 SFR-013 [ ] · ·",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "ECR-002",
+          "requirement": "Moderation",
+          "name": "Moderation",
+          "detail": "· ·",
+          "type": "필수",
+          "category": "장비구성 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": "Moderation",
+          "name": "Moderation",
+          "detail": "· ·",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": "Moderation",
+          "name": "Moderation",
+          "detail": "·",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-003",
+          "requirement": "INR-001",
+          "name": "INR-001",
+          "detail": "·",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-001",
+          "requirement": "INR-002",
+          "name": "INR-002",
+          "detail": "COR-001 · · 18 COR-002 · INR-001 · 21 INR-002 ·",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-002",
+          "requirement": "INR-002",
+          "name": "INR-002",
+          "detail": "· ·",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-003",
+          "requirement": "INR-002",
+          "name": "INR-002",
+          "detail": "18 COR-002 · INR-001 · 21 INR-002 · 23 DAR-002 · ·",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-001",
+          "requirement": "INR-002",
+          "name": "INR-002",
+          "detail": "INR-001 · 21 INR-002 · 23 DAR-002 · ·",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": ",",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": ",",
+          "name": ",",
+          "detail": "·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": "23 DAR-002 · · 27 SER-001 ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": ",",
+          "name": ",",
+          "detail": "·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": ",",
+          "name": ",",
+          "detail": "· ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-005",
+          "requirement": ",",
+          "name": ",",
+          "detail": "·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-006",
+          "requirement": ",",
+          "name": ",",
+          "detail": "· ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-007",
+          "requirement": ",",
+          "name": ",",
+          "detail": "·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-008",
+          "requirement": ",",
+          "name": ",",
+          "detail": "27 SER-001 · 29 SER-003 · 30 SER-004 · · 31 SER-005 · 32 SER-006 · · 33 SER-007 ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-009",
+          "requirement": "AI LLM",
+          "name": "AI LLM",
+          "detail": "AI LLM",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-010",
+          "requirement": "API",
+          "name": "API",
+          "detail": "·API",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-011",
+          "requirement": "API",
+          "name": "API",
+          "detail": "·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-012",
+          "requirement": "API",
+          "name": "API",
+          "detail": "·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-013",
+          "requirement": "API",
+          "name": "API",
+          "detail": "· ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-014",
+          "requirement": "API",
+          "name": "API",
+          "detail": "· ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-001",
+          "requirement": "API",
+          "name": "API",
+          "detail": "35 SER-009 AI LLM 36 SER-010 ·API 37 SER-011 · 38 SER-012 · 39 SER-013 · · 40 SER-014 · ·",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-002",
+          "requirement": "API",
+          "name": "API",
+          "detail": "35 SER-009 AI LLM 36 SER-010 ·API 37 SER-011 · 38 SER-012 · 39 SER-013 · · 40 SER-014 · ·",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-003",
+          "requirement": "API",
+          "name": "API",
+          "detail": "36 SER-010 ·API 37 SER-011 · 38 SER-012 · 39 SER-013 · · 40 SER-014 · ·",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": "QUR-001",
+          "name": "QUR-001",
+          "detail": "38 SER-012 · 39 SER-013 · · 40 SER-014 · ·",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": "QUR-002",
+          "name": "QUR-002",
+          "detail": "39 SER-013 · · 40 SER-014 · ·",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-003",
+          "requirement": "QUR-003",
+          "name": "QUR-003",
+          "detail": "40 SER-014 · ·",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": "PMR-001",
+          "name": "PMR-001",
+          "detail": "·",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "PMR-002",
+          "name": "PMR-002",
+          "detail": "PMR-001 ·",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "PMR-003",
+          "name": "PMR-003",
+          "detail": "PMR-001 ·",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": "PSR-001",
+          "name": "PSR-001",
+          "detail": "PMR-001 ·",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": "PSR-002",
+          "name": "PSR-002",
+          "detail": "PMR-001 ·",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-003",
+          "requirement": "PSR-003",
+          "name": "PSR-003",
+          "detail": "PMR-001 ·",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-004",
+          "requirement": "PSR-004",
+          "name": "PSR-004",
+          "detail": "·",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [
+        {
+          "title": "일정 리스크",
+          "detail": "긴급입찰 사유서(경북 학생평가 전환을 위한 AI 기반 서논술형 평가지원시스템 도입 및 운영).hwpx]",
+          "severity": "확인"
+        }
+      ],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입 및 운영",
+        "agency": "",
+        "noticeNumber": "R26BK01805007-000",
+        "budget": "",
+        "period": "(구축) 계약 후 30일 이내 (운영) 구축으로부터 365일",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: 경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입 및 운영",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "❍ · , \n \n❍ \n , \n \n \n SER-013\n · · \n \n \n · \n \n \n❍ · · \n❍ · , \n \n❍ \n❍ \n❍ , , \n❍ \n❍ , , , , , \n \n❍ \n \n❍ , PC · · · \n \n ,",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 2개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "BBB0",
+          "score": 100.0,
+          "weight": 100.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "BBB0 100점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "D \n \n \nA B C D \n 1 1 2 3",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "D \n \n \nA B C D \n 1 1 2 3 10점"
+        }
+      ],
+      "totals": {
+        "score": 110.0,
+        "weight": 110.0,
+        "gradeA": 1,
+        "gradeB": 1,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01805007-000",
+    "generatedAt": "2026-11-09T14:17:15.779277",
+    "sourceAnalysisAt": "2026-11-09T14:15:17.415099",
+    "projectName": "경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입 및 운영",
+    "sourceFile": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+    "requirementSourceFiles": [
+      "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "SFR-001",
+        "name": "[ ] AI",
+        "detail": "· AI · · · · ❍ AI · AI · , , · AI · , · ❍",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-002",
+        "name": "[ ]",
+        "detail": "· ❍ , , , , , , ❍",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-003",
+        "name": "[ ] – – –",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-004",
+        "name": "[ ]",
+        "detail": "· , · · , · ❍ · · · , , · ·",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-005",
+        "name": "[ ]",
+        "detail": "· · · · , · ❍ , , , ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-006",
+        "name": "[ ] ,",
+        "detail": "· (Rubric), ❍ (Rubric) , , · (Rubric) · · ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-007",
+        "name": "[ ]",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-008",
+        "name": "[ ] , AI",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-009",
+        "name": "[ ] ,",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-010",
+        "name": "[ ] AI",
+        "detail": "· (Rubric) AI , · · ❍ AI · , , (Rubric), , AI (Rubric)",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-011",
+        "name": "[ ]",
+        "detail": "· · AI · · ❍ AI AI , (Rubric), AI · AI",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-012",
+        "name": "[ ]",
+        "detail": "·Moderation AI · · · ❍ AI · AI · AI",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-013",
+        "name": "[ ]",
+        "detail": "· · , · ❍ · · · · , · ❍",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-014",
+        "name": "[ ]",
+        "detail": "· , · ❍ , (Rubric), ❍",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-001",
+        "name": "ECR-001",
+        "detail": "· ❍ , AI , – – – ❍ · ·DB· (HA)",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "ECR-002",
+        "name": "· ·",
+        "detail": ", , , · ❍ , (Rubric), , , AI· , · DB·",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "quantitative",
+        "targetSection": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": "· ·",
+        "detail": "· , · ❍ , , AI · , AI , · , · ❍ · , , , , , · ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": "·",
+        "detail": ", , · ❍ · · , · · ❍ , , , , , ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-003",
+        "name": "20",
+        "detail": "❍ , , ❍ AI , , , API, , , ❍ , , ❍ ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-001",
+        "name": "DAR-001",
+        "detail": "· , , (Rubric) · ❍ (Rubric) , , , , , · , (Rubric)",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-002",
+        "name": "· ·",
+        "detail": "· , , AI· · ❍ · · ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-003",
+        "name": "25",
+        "detail": "·Rubric , · ❍ , (Rubric) ·Rubric· ❍",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-001",
+        "name": "TER-001",
+        "detail": "❍ , , , ❍ , , · · ·",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-002",
+        "name": ",",
+        "detail": ", ❍ , – – – · ❍ ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "·",
+        "detail": "· , , , , AI , ❍ · · · · AI",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "SER-002",
+        "detail": "· · · · ❍ , , , ❍ · · · · · ❍ 3 ❍ , · , , · ·",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "·",
+        "detail": ", ❍ , , , , , , ❍ , · · ❍ , · · ❍",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "· ·",
+        "detail": "❍ ❍ CSAP , ❍ , DMZ, WEB, WAS, DB ❍ WAS, DB, Private ❍ WAS DB",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-005",
+        "name": "·",
+        "detail": ", , , · · ❍ , , , ❍ – , – , WEB–WAS, WAS–DB ❍ ❍",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-006",
+        "name": "· ·",
+        "detail": ", , , AI ❍ , , , , AI · · ❍ · · · · ❍ · , · , AI ❍ , , · ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-007",
+        "name": "·",
+        "detail": ", , · ❍ · , , , · , · , , · · ❍ AI · , , LLM API . ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-008",
+        "name": "SER-008",
+        "detail": "❍ · · · · ❍ , · , , , , , API ❍ ❍ , API, , DB, ❍ · ·",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-009",
+        "name": "AI LLM",
+        "detail": "· AI LLM , , , ❍ LLM LLM LLM , , API",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-010",
+        "name": "API",
+        "detail": "·API , API, LLM AIEP · · , , · ❍ LLM , ·IP· ·API AI DMZ API ❍ · , ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-011",
+        "name": "·",
+        "detail": ", ❍ , , , , , AI · ❍ ❍ (RTO) (RPO) ❍ · · ·",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-012",
+        "name": "·",
+        "detail": ", ❍ 1 ❍ , , , IP, , , 3 ❍ ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-013",
+        "name": "· ·",
+        "detail": "· ❍ · · ❍ · , ❍ ❍",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-014",
+        "name": "· ·",
+        "detail": "· , , · · ❍ , , , ❍ , , , , , , ❍ , , , PC, ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-001",
+        "name": "PER-001",
+        "detail": "❍ 10,000 , , · 3 , ( (Autoscaling)) ❍",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-002",
+        "name": "PER-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-003",
+        "name": "44",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "QUR-001",
+        "detail": "❍ , · , · , · , , ❍",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": "QUR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-003",
+        "name": "47",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "·",
+        "detail": ", · ❍ , , , 30 365 ❍",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "PMR-002",
+        "detail": ", , , · · , , , · · ❍ ·",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "50",
+        "detail": ", , AI· , ❍ , ❍ ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "PSR-001",
+        "detail": "· , ❍ , , · , , Rubric , , · · , ❍",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": "PSR-002",
+        "detail": ", , · , · · · · · ❍ , ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-003",
+        "name": "PSR-003",
+        "detail": ", , · · · , , · · , ❍ , , AIEP ,",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-004",
+        "name": "·",
+        "detail": "4. (System Function Requirement)",
+        "source": "제안요청서(경북 학생평가 전환을 위한 AI 기반 서·논술형 평가지원시스템 도입및 운영)수정.hwpx",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "BBB0",
+        "score": 100.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 45,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "BBB0 100점"
+      },
+      {
+        "scoreItem": "D A B C D 1 1 2 3",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 5,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "D A B C D 1 1 2 3 10점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [
+              "ECR-001",
+              "ECR-002"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "SFR-001",
+              "SFR-002",
+              "SFR-003",
+              "SFR-004",
+              "SFR-005",
+              "SFR-006",
+              "SFR-007",
+              "SFR-008",
+              "SFR-009",
+              "SFR-010",
+              "SFR-011",
+              "SFR-012",
+              "SFR-013",
+              "SFR-014",
+              "DAR-001",
+              "DAR-002",
+              "DAR-003"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "COR-001",
+              "COR-002",
+              "COR-003",
+              "TER-001",
+              "TER-002",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "SER-005",
+              "SER-006",
+              "SER-007",
+              "SER-008",
+              "SER-009",
+              "SER-010",
+              "SER-011",
+              "SER-012",
+              "SER-013",
+              "SER-014",
+              "PER-001",
+              "PER-002",
+              "PER-003",
+              "QUR-001",
+              "QUR-002",
+              "QUR-003"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-001",
+              "PMR-002",
+              "PMR-003"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-001",
+              "PSR-002",
+              "PSR-003",
+              "PSR-004"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 51,
+      "mappedRequirements": 51,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

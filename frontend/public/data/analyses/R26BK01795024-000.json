@@ -1,7 +1,7 @@
 {
   "bidNtceNo": "R26BK01795024",
   "bidNtceOrd": "000",
-  "analyzedAt": "2026-11-02T13:55:54.225885",
+  "analyzedAt": "2026-11-09T14:07:43.380046",
   "status": "completed",
   "source": {
     "fileName": "1. 입찰공고문.pdf",
@@ -91,7 +91,7 @@
   "proposalSheets": {
     "id": "R26BK01795024-000",
     "sourceFile": "1. 입찰공고문.pdf",
-    "generatedAt": "2026-11-02T13:55:52.944788",
+    "generatedAt": "2026-11-09T14:07:42.100541",
     "match": {
       "noticeId": "R26BK01795024-000",
       "bidNtceNo": "R26BK01795024",
@@ -617,8 +617,8 @@
   },
   "proposalMapping": {
     "id": "R26BK01795024-000",
-    "generatedAt": "2026-11-02T13:55:54.225857",
-    "sourceAnalysisAt": "2026-11-02T13:55:52.944788",
+    "generatedAt": "2026-11-09T14:07:43.380021",
+    "sourceAnalysisAt": "2026-11-09T14:07:42.100541",
     "projectName": "온프레미스 기반 AI 인프라·데이터 허브 구축 및 임상 AI 서비스 실증 사업",
     "sourceFile": "1. 입찰공고문.pdf",
     "requirementSourceFiles": [
