@@ -1,0 +1,894 @@
+{
+  "bidNtceNo": "R26BK01827064",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-11-16T14:33:56.325966",
+  "status": "completed",
+  "source": {
+    "fileName": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01827064-000/2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+    "pageCount": 36,
+    "textLength": 4879,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+      "extension": ".hwp",
+      "size": 884224,
+      "kindCode": ""
+    },
+    {
+      "fileName": "붙임3.예산산출내역서.pdf",
+      "extension": ".pdf",
+      "size": 317262,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "1a9c1125aa12bf98434fafee",
+      "fileName": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01827064/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01827064/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01827064/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01827064-000/2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01827064-000/converted/2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01827064-000/converted/2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).pdf",
+      "pageCount": 36,
+      "textLength": 4879,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "2027 \n \n2026. 10.\n \n \n \n TEL 031-920-5011\nFAX 031-920-5097\n TEL 031-920-5054\n \nⅠ . 1\n1. 1\n2. 1\n3. 2\n4. 3\nⅡ. 4\n1. 4\n2. 6\n3. 9\nⅢ. 14\n1. 14\n2. 14\n3. 15\nⅣ . 16\n1. 16\n2. 16\n3. 16\n4. 18\nⅤ . 19\n1. 19\n2. 20\n . 20\n . 27\n . 28\n . 31\n . 35\n . 37\n\n \n \n : 2027 \n : 2027. 1. 1. ~ 12. 31.\n : ( )\n : 99,000,000 ( )\n \n▣ , · \n · \n● , \n \n▣ , ( ) · \n● , , \n \n● , , , · \n \n▣ \n● \n● \n \n▣ \n● 365 24 \n● \n \n● , , , \n● , Help Desk( ) , ( / ) , \n \n● \n● , ( · ) \n \n● ( , ) \n▣ \n● , , \n● , , \n● , OS, , \n● , UI , \n● , , , \n \n▣ \n● , \n , ( ) , \n , ( ) \n \n▣ \n \n▣ \n \n \n : \n▣ 12 14 \n \n● 72 \n▣ 48 ( ) \n \n▣ 48 4 \n▣ 20 48 ( \n ) 2 , 3 \n ( ‘ \n : ’ )\n● 20 ( \n ‘ : ’ ) \n▣ , 58 \n ( ) \n▣ 2 2 \n · ( \n ) \n▣ 2 , 9 \n ( (8111189901)) ( \n )\n▣ \n \n : \n● 12 (2027.1.1.~2027.12.31.) , \n \n : \n , \n▣ \n● : (80%), (20%)\n● = + \n● \n- \n- \n● 1 1 \n 0.8 , \n▣ \n● \n< >\n , , \n \n* 30 \n \n \n \n \n \n \n \n \n 5\n 5\n 5\n \n \n 5\n \n \n 5\n \n \n 5\n 5\n \n \n , 5\n \n \n \n \n5\n 5\n \n \n \n \n5\n 5\n \n \n \n : \n \n : \n \n5\n \n \n \n \n , , , \n \n5\n 5\n \n \n \n , 23 \n (SP ) \n \n SP \n5\n \n5\n , , \n , , , , \n5\n , , , \n , \n \n5\n , 5\n 100\n \n[ ]\n1. 5 ( , , , , ) , .\n2. .\n \n 5 4 3 2 1\n▣ \n● ( 40 , 2026. 1. 2.) \n▣ \n● (80 ) (85%) , \n \n• (80 ) (85%) , \n \n● \n- \n- \n※ 9 ( ) , \n , \n▣ \n● , , , \n- \n▣ \n● SW SW , \n \n● , , \n , SW \n● : 37 , 38 \n \n▣ \n● , \n● , \n▣ 24 \n , \n▣ · \n \n● \n \n▪ SW ( , , ) , \n \n▪ SW , \n \n▪ SW , ( ,\n )\n · \n▪ \n , . , \n , \n .\n \n▪ \n● \n ( ) . \n ( , , ) \n .\n ( ) \n , 30 \n \n ( ) ( 3 ) , \n , \n▣ ( ) 56 ( \n ) \n▣ ( ) 58 2 3 , \n , 58 2 \n , 58 3 \n \n● ( \n ) 1 \n▣ , , \n \n▣ \n● , \n \n● \n , \n● \n● \n , \n \n▣ \n● 27 1 \n \n●< >\n1. · IP \n2. \n3. \n4. \n5. \n6. \n7. \n8. ‘ ’ 9 1 \n9. ‘ ’ 2 \n10. ( ) \n▣ 14 \n · , , \n \n● 49 1 , 44 1 \n \n● 43 \n● : ( )\n▣ ( ) 50 \n ( √ ) ( ) \n▣ ( ) 50 , 47 1 2 , 3 \n · \n , \n \n* 13 \n▣ 36 , \n 6 ‘ ’ \n \n \n▣ 2015 12 (1 ) 2016 12 (2 ) 2017 \n \n▣ , · \n \n \n▣ \n▣ \n▣ SW ( · 17\n )\n \n▣ ( )\n \nH/W WEB/WAS , DB , Mail 1 \nS/W\n , , ,\n \n 1 \n※ , \n \n \n \n▣ , \n · \n▣ , · \n▣ \n▣ \n▣ \n▣ , \n , \n \n▣ \n \n▣ \n▣ , \n \n▣ , , \n , \n \n▣ , , , \n \n▣ \n▣ , \n▣ , \n▣ , \n▣ \n , · \n \n \n▣ \n \n \n \n \n \n․ , \n \n ( ) \n․ \n․ , \n․ \n․ \n․ , \n \n․ \n \n․ / \n․ \n \n․ \n․ \n․ \n \n․ \n \n▣ \n / \n \n , \n \n , \n \n / \n \n \n \n \n \n \n \n \n , \n \n \n \n● : 2027. 1. 1. ~ 12. 31.\n● : 2027. 1. 1. \n \n \n \n -MPR\n(Maintenance Project\nRequirement)\n \n 11 \n –MHR\n(Maintenance Human\nRequirement)\n \n 1 \n \n(PMR, Project Management\nRequirement)\n \n \n3 \n -SER\n(Security Requirement) 4 \n \n(QUR, Quality Requirement)\n ,\n 3 \n -PSR\n(Project Support Requirement) 2 \n \n \n . \n MPR-001\n \n \n \n \n \n ○ , , , , \n \n○ 1 , 2 \n○ ( , , , , ) , \n \n○ , DB, \n , \n \n○ , ( ) \n \n○ , \n \n○ ․ \n○ , \n \n○ \n \n○ \n○ ․ , \n \n MPR-002\n \n \n \n \n \n \n \n \n○ , \n○ , OS, , \n \n○ \n○ \n○ ․ \n , , \n○ S/W ( \n ) , \n \n○ \n MPR-003\n \n \n \n \n \n ○ , \n○ , \n Help Desk \n○ \n○ , 2 \n○ \n○ DB \n○ \n○ ․ \n MPR-004\n \n \n \n \n \n \n○ \n○ \n○ , \n \n○ , , \n \n○ \n○ S/W \n○ \n○ , \n○ \n○ , \n○ , , \n MPR-005\n \n \n \n \n \n \n○ \n- : , / , , , \n , \n- : , , , , \n ( ) , , , , ,\n , , \n- : , / , , , \n , \n- : , , \n- : , , , , \n \n- : , \n- : , , , \n \n- : , , 1:1 , , ,\n , , Q&A\n- : , , , , ,\n , , , , ,\n , \n- \n- \n○ \n- : / , \n- : ( ), , , \n , , ( )\n- : , , 1:1 , \n- : , \n MPR-006\n \n \n \n \n \n \n○ \n○ 1 ( · · ) \n , \n- 2026 , \n( ) \n- , ( , , , \n ), · · \n○ · \n \n- ( , , , · , · ), \n \n- , \n \n- , \n ( , , ) \n○ \n- , · \n- ( · · ) · ·\n / \n- / , , , \n- · · \n- , , \n- \n○ , , , , \n \n○ · \n , \n○ \n ○ · , , \n MPR-007\n \n \n \n \n \n \n○ \n- , \n \n· “ ( 2024-25 )” \n- , , \n \n- “ · ”( \n 2022-23 ) \n- 2 ( \n ) \n \n○ ( 8, 10, IE 10, IE 11, ) \n \n MPR-008\n DB \n \n \n \n DB \n \n○ DB \n○ \n \n , \n○ DB Tunning \n MPR-009\n ( )\n \n \n \n \n \n○ 1 \n \n- \n- \n- \n- \n○ \n \n○ , \n \n MPR-010\n \n \n \n \n \n \n○ ( , ․ , ) \n \n○ , \n \n○ 2 , \n 1 , 3 \n , \n \n○ 48 \n \n○ \n \n MPR-011\n , \n \n \n \n , \n \n○ \n , \n \n- 7 \n \n- ( 46 ) ( 34 ), \n ( 21 ) ( 14 ), · \n ( ) “ ” \n . \n MHR-001\n \n \n \n \n \n \n○ \n \n○ , \n \n○ , \n \n○ ․ \n ․ DB, \n○ 1 1 2 (1 \n100% , 1 ) , 2 PM \n . \n PMR-001\n \n \n \n \n \n \n○ , \n 3 \n○ , \n (PC, , S/W ) \n \n \n PMR-002\n \n \n \n \n \n ○ \n- , , \n \n○ 1 24 365 24 \n \n○ , \n○ , , \n \n○ , \n \n \n PMR-003\n \n \n \n \n \n ○ \n- , \n \n( )\n○ \n- 10 · \n( 2024-66 ) \n \n- , , , , , \n , , , , , , \n \n○ \n- , , , , , \n , , \n○ \n- ,\n , \n○ \n- , , \n , 14 \n- ( ) USB \n \n- , , , , \n( , , ) , \nUSB 3 \n○ EA( ) \n- (EAMS) \n \n- ( , , ) \n , \n- 2 , CD 2 \n○ \n- ( ) (PM) , \n \n . \n SER-001\n \n \n \n \n \n ○ , \n \n○ \n○ ․ ․ \n , \n○ DB \n○ · ( 2024-66 ) \n‘ ’ \n○ \n○ \n- , ․ , \n \n- PC \n , \n- PC PC \n○ \n- Network ( ) \n , \n- , \n P2P, , \n- \n- PC , PC \n \n- PC USB , \n \n- ( ) ․ \n \n○ \n- PC CMOS, , ( 10 ), \n- \n: , , \n , · \n , \n- \n \n- PC Network IP , \n IP Network \n- , S/W \nUSB, CD, \n- , \n \n SER-002\n \n \n \n \n \n \n○ \n , 76 1 2 18 \n \n1. ․ IP \n2. \n3. \n4. · \n5. \n6. \n7. (IPS) \n \n8. 9 1 \n \n9. 2 \n10. 4 16 3 \n11. \n12. \n 2 18 \n . 2 : 3 \n . 1 : 1 \n○ 3\n , \n · · \n○ \n \n SER-003\n ( ) \n \n \n \n ( , ) \n \n○ ( , ) , \n ‘ ’ \n \n \n○ \n , \n○ \n 2 \n○ ( )․ ․ \n \n○ ‘ ’ \n \n○ \n \n○ 1 \n○ \n \n \n SER-004\n \n \n \n \n \n \n○ \n , \n○ , \n \n , \n . \n QUR-001\n \n \n \n \n \n \n○ ( 2024-25 ) \n○ ,\n \n○ \n , \n○ \n \n QUR-002\n \n \n \n \n \n \n○ , \n .\n QUR-003\n \n \n \n \n \n \n○ \n ( )\n○ , \n \n○ \n ․ \n○ ․ \n \n . \n PSR-001\n \n \n \n \n \n \n○ ․ \n \n○ \n○ ․ \n \n○ ,\n \n PSR-002\n \n \n \n \n \n ○ , \n \n○ , \n , \n○ /",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "2027 \n \n2026. 10.\n \n \n \n TEL 031-920-5011\nFAX 031-920-5097\n TEL 031-920-5054\n \nⅠ . 1\n1. 1\n2. 1\n3. 2\n4. 3\nⅡ. 4\n1. 4\n2. 6\n3. 9\nⅢ. 14\n1. 14\n2. 14\n3. 15\nⅣ . 16\n1. 16\n2. 16\n3. 16\n4. 18\nⅤ . 19\n1. 19\n2. 20\n . 20\n . 27\n . 28\n . 31\n . 35\n . 37\n\n \n \n : 2027 \n : 2027. 1. 1. ~ 12. 31.\n : ( )\n : 99,000,000 ( )\n \n▣ , · \n · \n● , \n \n▣ , ( ) · \n● , , \n \n● , , , · \n \n▣ \n● \n●...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "bb1b973d092b74e9a392877a",
+      "fileName": "붙임3.예산산출내역서.pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01827064/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01827064/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01827064/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01827064-000/붙임3.예산산출내역서.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01827064-000/붙임3.예산산출내역서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01827064-000/붙임3.예산산출내역서.pdf",
+      "pageCount": 2,
+      "textLength": 3898,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "- 1 -\n 법원교육시스템 운영 및 유지관리사업 예산산출 내역서\n 2026. 9. 총무과\n▣ 비용산출 산출내역서\n□ 투입공수 방식에 의한 소프트웨어 유지관리비\n▣ 관련 규정\n● 한국소프트웨어산업협회 「SW사업 대가산정 가이드(2025년 개정판)」의 ‘SW사\n업 운영단계 대가 산정’ 중 ‘투입공수 방식에 의한 소프트웨어 운영비’ 방식\n에 의해 산정(p. 30, 214~225)\n▣ ‘투입공수 방식에 의한 소프트웨어 운영비’ 기준 법원교육시스템 운영사업 \n소요예산 산출 내역\n① 운영대상 소프트웨어 및 서비스 항목 : 위 ‘V.유지관리대상업무'참고\n② SW기술자 투입공수 계산 : 12.6 M/M\n업무 활동 IT직무별 투입공수 (M/M)\n대분류 중분류 소분류 직무\n투입\n인원(명)\n투입\n기간(월)\n투입률\n(%)\n투입공수\n(M/M)\n운영업무\n지원업무\n요구사항 개선\nIT PM　 1 12 5 0.6월례보고/안내데스크운영\n품질관리\n일상운영\n운영서비스계획 및 시행 IT지원기\n술자\n1 12 100 12교육운영\n데이터 백업\n총 투입공수 　12.6 M/M 　 　 　 　 12.6\n③ 직접인건비 계산 : 48,512,651원\n구분 공수(M/M) 단가(원) 금액(원)\n직접\n인건비\nIT PM 0.6 7,154,459 4,292,675\nIT지원기술자 12 3,684,998 44,219,976\n계 12.6 48,512,651\n※「2026년 적용 SW기술자 평균임금 사분위 값」중 25백분위수 적용\n - 2 -\n④ 제경비 및 기술료 계산 : 제경비+기술료=93,532,390원\n구분 직접인건비 제경비\n(144%)\n기술료\n(20%)\n합계 금액\n제경비및\n기술료\nIT PM\n48,512,651 69,858,217 23,674,173 142,045,041\nIT지원기술자\n⑤ 직접경비 계산 : 미포함\n⑥ 투입공수 방식 최종 SW 운영비 산정 : 142,045,041원\n- 운영사업비(⑥)=직접인건비(③)+제경비 및 기술료(④)+직접경비(⑤)\n⑦ 142,045,041원 = 48,512,651원 + 93,532,390원 + 0원\n▣ 예산 산출 내역 총 합계 (투입공수 방식)\n ○ 총 유지관리비 142,045,041 + 14,204,504 (부가세) = 156,249,545원\n▣ 2027년 법원교육시스템 운영 예산액: 99,000,000원\n※ ⌜SW사업 대가산정 가이드⌟ 제경비(직접인건비*144~154%) 및 기술료((직접인건비+제경\n비)*20%~40%) 산정기준을 적용한 결과 산정금액이 사업 배정 예산을 초과하므로, 사업 수행에 \n필요한 직접인건비의 확보를 고려하여 제경비(63.6%) 및 기술료(13.4%)를 예산 범위 내에서 조\n정 적용하여 발주\n - 3 -\n(참고) 2026년 적용 SW기술자 평균 임금 공표\n통계법 제27조(통계의 공표)에 따라 『2025년 SW기술자 임금실태조사 (통계승인 \n제375001호)』의 결과로 다음과 같이 SW기술자 평균임금을 공표합니다. \n【SW기술자 평균 임금】\n(단위: 원)\n구 분 월평균임금(M/M) 일평균임금(M/D) 시간평균임금(M/H) 포함직무\n① IT기획자 11,853,218 578,206 72,276 빅데이터 기획자, 인공지능서비스 기획자\n② IT컨설턴트 10,707,960 522,340 65,292 정보보호컨설턴트\n③ 업무분석가 9,740,667 475,154 59,394 \n④ 데이터분석가 8,499,309 414,600 51,825 \n⑤ IT PM 10,086,804 492,039 61,505 \n⑥ IT아키텍트 11,103,230 541,621 67,703 \nSW아키텍트, \n데이터아키텍트, \nInfrastructure아키텍트, \n데이터베이스아키텍트\n⑦ UI/UX기획/개발자 6,901,660 336,666 42,083 UI/UX기획자, UI/UX개발자\n⑧ UI/UX디자이너 5,159,246 251,671 31,459 \n⑨ 응용SW개발자 7,754,124 378,250 47,281 빅데이터개발자, 인공지능개발자\n⑩ 시스템SW개발자 5,840,196 284,888 35,611 임베디드SW개발자\n⑪ 정보시스템운용자 10,649,117 519,469 64,934 \n데이터베이스운용자, \nNW엔지니어, \nIT시스템운용자\n빅데이터엔지니어,\n인공지능 서비스관리자\n⑫ IT지원기술자 5,170,016 252,196 31,524 \n⑬ IT마케터 11,793,500 575,293 71,912 \nSW제품기획자, \nIT서비스기획자, \nIT기술영업\n⑭ IT품질관리자 11,042,071 538,638 67,330 \n⑮ IT테스터 4,053,137 197,714 24,714 \n⑯ IT감리 11,745,154 572,934 71,617 \n⑰ 정보보안전문가 10,411,680 507,887 63,486 정보보호관리자, 침해사고대응전문가\n<본 평균임금을 SW사업대가 활용시 유의사항>\n ※ 본 조사결과는 SW사업에서 SW기술자 인건비 평균 값임을 고려하여 활용 가능하며, 수·발주자간 자율적 협의에 \n의해서도 유연하게 적용할 수 있음\n * SW기술자 평균임금은 소프트웨어진흥법 제46조(적정 대가 지급 등) 4항 ‘소프트웨어기술자의 인건비 기준’을 지\n칭함\n * SW기술자 평균임금은 기본급, 제수당, 상여금, 퇴직급여충당금, 법인부담금(4대보험)을 모두 포함한 결과임\n * 일평균임금은 월평균임금÷`25년 평균근무일수(20.5일), 시간평균임금은 일평균임금÷8시간 으로 각각 산정\n * 월평균 근무일수는 휴일, 법정공휴일 등을 제외한 업체가 응답한 근무일의 평균이며, 이는 개인의 휴가 사용여부\n와는 무관함\n * SW기술자 평균임금은 전년 대비 4.7% 증가함\n * 25/75 백분위수는 조사된 직무별 임금의 구간, 분포에 대한 참고 값임(백분위수 : 백분위수는 크기가 있는 값들로 \n이뤄진 자료를 순서대로 나열했을 때 백분율로 나타낸 특정 위치의 값을 이르는 용어이다. 일반적으로 크기가 작\n은 것부터 나열하여 가장 작은 것을 0, 가장 큰 것을 100으로 한다.)\n[시행일] 2026년 1월 1일부터 2026년 12월 31일까지 적용\n - 4 -\n【2026년 적용 SW기술자 평균임금 사분위 값】\n(단위: 원)\n구 분 25백분위수 (M/D) 75백분위수 (M/D) 평균임금 (M/D)\n① IT기획자 409,146 869,906 578,206\n② IT컨설턴트 327,120 619,566 522,340\n③ 업무분석가 273,647 683,813 475,154\n④ 데이터분석가 229,167 600,256 414,600\n⑤ IT PM 348,998 629,825 492,039\n⑥ IT아키텍트 507,393 611,552 541,621\n⑦ UI/UX기획/개발자 212,985 431,286 336,666\n⑧ UI/UX디자이너 168,914 298,239 251,671\n⑨ 응용SW개발자 216,132 492,325 378,250\n⑩ 시스템SW개발자 199,695 349,228 284,888\n⑪ 정보시스템운용자 313,869 810,648 519,469\n⑫ IT지원기술자 179,756 289,225 252,196\n⑬ IT마케터 394,658 834,941 575,293\n⑭ IT품질관리자 297,782 634,845 538,638\n⑮ IT테스터 157,878 219,350 197,714\n⑯ IT감리 479,701 729,390 572,934\n⑰ 정보보안전문가 358,932 748,484 507,887\n※본 조사결과는 SW사업에서 SW기술자 임금 평균 값임을 고려하여 활용 가능하며, 수·발주자간 자율적 협의에 \n의해서도 유연하게 적용할 수 있음\n※ 25/75 백분위수는 조사된 직무별 임금의 구간, 분포에 대한 참고 값임\n(백분위수 : 백분위수는 크기가 있는 값들로 이뤄진 자료를 순서대로 나열했을 때 백분율로 나타낸 특정 위치\n의 값을 이르는 용어이다. 일반적으로 크기가 작은 것부터 나열하여 가장 작은 것을 0, 가장 큰 것을 100으로 \n한다.)\n※ 일 임금 = 월 임금 ÷ 20.5(일), 시간 임금 = 일 임금 ÷ 8(시간)",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "- 1 -\n 법원교육시스템 운영 및 유지관리사업 예산산출 내역서\n 2026. 9. 총무과\n▣ 비용산출 산출내역서\n□ 투입공수 방식에 의한 소프트웨어 유지관리비\n▣ 관련 규정\n● 한국소프트웨어산업협회 「SW사업 대가산정 가이드(2025년 개정판)」의 ‘SW사\n업 운영단계 대가 산정’ 중 ‘투입공수 방식에 의한 소프트웨어 운영비’ 방식\n에 의해 산정(p. 30, 214~225)\n▣ ‘투입공수 방식에 의한 소프트웨어 운영비’ 기준 법원교육시스템 운영사업 \n소요예산 산출 내역\n① 운영대상 소프트웨어 및 서비스 항목 : 위 ‘V.유지관리대상업무'참고\n② SW기술자 투입공수 계산 : 12.6 M/M\n업무 활동 IT직무별 투입공수 (M/M)\n대분류...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "2027 \n \n2026. 10.\n \n \n \n TEL 031-920-5011\nFAX 031-920-5097\n TEL 031-920-5054\n \nⅠ . 1\n1. 1\n2. 1\n3. 2\n4. 3\nⅡ. 4\n1. 4\n2. 6\n3. 9\nⅢ. 14\n1. 14\n2. 14\n3. 15\nⅣ . 16\n1. 16\n2. 16\n3. 16\n4. 18\nⅤ . 19\n1. 19\n2. 20\n . 20\n . 27\n . 28\n . 31\n . 35\n . 37\n\n \n \n : 2027 \n : 2027. 1. 1. ~ 12. 31.\n : ( )\n : 99,000,000 ( )\n \n▣ , · \n · \n● , \n \n▣ , ( ) · \n● , , \n \n● , , , · \n \n▣ \n● \n● \n \n▣ \n● 365 24 \n● \n \n● , , , \n● , Help Desk( ) , ( / ) , \n \n● \n● , ( · ) \n \n● ( , ) \n▣ \n● , , \n● , , \n● , OS, , \n● , UI , \n● , , , \n \n▣ \n● , \n , ( ) , \n , ( ) \n \n▣ \n \n▣ \n \n \n : \n▣ 12 14 \n \n● 72 \n▣ 48 ( ) \n \n▣ 48 4 \n▣ 20 48 ( \n ) 2 , 3 \n ( ‘ \n : ’ )\n● 20 ( \n ‘ : ’ ) \n▣ , 58 \n ( ) \n▣ 2 2 \n · ( \n ) \n▣ 2 , 9 \n ( (8111189901)) ( \n )\n▣ \n \n : \n● 12 (2027.1.1.~2027.12.31.) , \n \n : \n , \n▣ \n● : (80%), (20%)\n● = + \n● \n- \n- \n● 1 1 \n 0.8 , \n▣ \n● \n< >\n , , \n \n* 30 \n \n \n \n \n \n \n \n \n 5\n 5\n 5\n \n \n 5\n \n \n 5\n \n \n 5\n 5\n \n \n , 5\n \n \n \n \n5\n 5\n \n \n \n \n5\n 5\n \n \n \n : \n \n : \n \n5\n \n \n \n \n , , , \n \n5\n 5\n \n \n \n , 23 \n (SP ) \n \n SP \n5\n \n5\n , , \n , , , , \n5\n , , , \n , \n \n5\n , 5\n 100\n \n[ ]\n1. 5 ( , , , , ) , .\n2. .\n \n 5 4 3 2 1\n▣ \n● ( 40 , 2026. 1. 2.) \n▣ \n● (80 ) (85%) , \n \n• (80 ) (85%) , \n \n● \n- \n- \n※ 9 ( ) , \n , \n▣ \n● , , , \n- \n▣ \n● SW SW , \n \n● , , \n , SW \n● : 37 , 38 \n \n▣ \n● , \n● , \n▣ 24 \n , \n▣ · \n \n● \n \n▪ SW ( , , ) , \n \n▪ SW , \n \n▪ SW , ( ,\n )\n · \n▪ \n , . , \n , \n .\n \n▪ \n● \n ( ) . \n ( , , ) \n .\n ( ) \n , 30 \n \n ( ) ( 3 ) , \n , \n▣ ( ) 56 ( \n ) \n▣ ( ) 58 2 3 , \n , 58 2 \n , 58 3 \n \n● ( \n ) 1 \n▣ , , \n \n▣ \n● , \n \n● \n , \n● \n● \n , \n \n▣ \n● 27 1 \n \n●< >\n1. · IP \n2. \n3. \n4. \n5. \n6. \n7. \n8. ‘ ’ 9 1 \n9. ‘ ’ 2 \n10. ( ) \n▣ 14 \n · , , \n \n● 49 1 , 44 1 \n \n● 43 \n● : ( )\n▣ ( ) 50 \n ( √ ) ( ) \n▣ ( ) 50 , 47 1 2 , 3 \n · \n , \n \n* 13 \n▣ 36 , \n 6 ‘ ’ \n \n \n▣ 2015 12 (1 ) 2016 12 (2 ) 2017 \n \n▣ , · \n \n \n▣ \n▣ \n▣ SW ( · 17\n )\n \n▣ ( )\n \nH/W WEB/WAS , DB , Mail 1 \nS/W\n , , ,\n \n 1 \n※ , \n \n \n \n▣ , \n · \n▣ , · \n▣ \n▣ \n▣ \n▣ , \n , \n \n▣ \n \n▣ \n▣ , \n \n▣ , , \n , \n \n▣ , , , \n \n▣ \n▣ , \n▣ , \n▣ , \n▣ \n , · \n \n \n▣ \n \n \n \n \n \n․ , \n \n ( ) \n․ \n․ , \n․ \n․ \n․ , \n \n․ \n \n․ / \n․ \n \n․ \n․ \n․ \n \n․ \n \n▣ \n / \n \n , \n \n , \n \n / \n \n \n \n \n \n \n \n \n , \n \n \n \n● : 2027. 1. 1. ~ 12. 31.\n● : 2027. 1. 1. \n \n \n \n -MPR\n(Maintenance Project\nRequirement)\n \n 11 \n –MHR\n(Maintenance Human\nRequirement)\n \n 1 \n \n(PMR, Project Management\nRequirement)\n \n \n3 \n -SER\n(Security Requirement) 4 \n \n(QUR, Quality Requirement)\n ,\n 3 \n -PSR\n(Project Support Requirement) 2 \n \n \n . \n MPR-001\n \n \n \n \n \n ○ , , , , \n \n○ 1 , 2 \n○ ( , , , , ) , \n \n○ , DB, \n , \n \n○ , ( ) \n \n○ , \n \n○ ․ \n○ , \n \n○ \n \n○ \n○ ․ , \n \n MPR-002\n \n \n \n \n \n \n \n \n○ , \n○ , OS, , \n \n○ \n○ \n○ ․ \n , , \n○ S/W ( \n ) , \n \n○ \n MPR-003\n \n \n \n \n \n ○ , \n○ , \n Help Desk \n○ \n○ , 2 \n○ \n○ DB \n○ \n○ ․ \n MPR-004\n \n \n \n \n \n \n○ \n○ \n○ , \n \n○ , , \n \n○ \n○ S/W \n○ \n○ , \n○ \n○ , \n○ , , \n MPR-005\n \n \n \n \n \n \n○ \n- : , / , , , \n , \n- : , , , , \n ( ) , , , , ,\n , , \n- : , / , , , \n , \n- : , , \n- : , , , , \n \n- : , \n- : , , , \n \n- : , , 1:1 , , ,\n , , Q&A\n- : , , , , ,\n , , , , ,\n , \n- \n- \n○ \n- : / , \n- : ( ), , , \n , , ( )\n- : , , 1:1 , \n- : , \n MPR-006\n \n \n \n \n \n \n○ \n○ 1 ( · · ) \n , \n- 2026 , \n( ) \n- , ( , , , \n ), · · \n○ · \n \n- ( , , , · , · ), \n \n- , \n \n- , \n ( , , ) \n○ \n- , · \n- ( · · ) · ·\n / \n- / , , , \n- · · \n- , , \n- \n○ , , , , \n \n○ · \n , \n○ \n ○ · , , \n MPR-007\n \n \n \n \n \n \n○ \n- , \n \n· “ ( 2024-25 )” \n- , , \n \n- “ · ”( \n 2022-23 ) \n- 2 ( \n ) \n \n○ ( 8, 10, IE 10, IE 11, ) \n \n MPR-008\n DB \n \n \n \n DB \n \n○ DB \n○ \n \n , \n○ DB Tunning \n MPR-009\n ( )\n \n \n \n \n \n○ 1 \n \n- \n- \n- \n- \n○ \n \n○ , \n \n MPR-010\n \n \n \n \n \n \n○ ( , ․ , ) \n \n○ , \n \n○ 2 , \n 1 , 3 \n , \n \n○ 48 \n \n○ \n \n MPR-011\n , \n \n \n \n , \n \n○ \n , \n \n- 7 \n \n- ( 46 ) ( 34 ), \n ( 21 ) ( 14 ), · \n ( ) “ ” \n . \n MHR-001\n \n \n \n \n \n \n○ \n \n○ , \n \n○ , \n \n○ ․ \n ․ DB, \n○ 1 1 2 (1 \n100% , 1 ) , 2 PM \n . \n PMR-001\n \n \n \n \n \n \n○ , \n 3 \n○ , \n (PC, , S/W ) \n \n \n PMR-002\n \n \n \n \n \n ○ \n- , , \n \n○ 1 24 365 24 \n \n○ , \n○ , , \n \n○ , \n \n \n PMR-003\n \n \n \n \n \n ○ \n- , \n \n( )\n○ \n- 10 · \n( 2024-66 ) \n \n- , , , , , \n , , , , , , \n \n○ \n- , , , , , \n , , \n○ \n- ,\n , \n○ \n- , , \n , 14 \n- ( ) USB \n \n- , , , , \n( , , ) , \nUSB 3 \n○ EA( ) \n- (EAMS) \n \n- ( , , ) \n , \n- 2 , CD 2 \n○ \n- ( ) (PM) , \n \n . \n SER-001\n \n \n \n \n \n ○ , \n \n○ \n○ ․ ․ \n , \n○ DB \n○ · ( 2024-66 ) \n‘ ’ \n○ \n○ \n- , ․ , \n \n- PC \n , \n- PC PC \n○ \n- Network ( ) \n , \n- , \n P2P, , \n- \n- PC , PC \n \n- PC USB , \n \n- ( ) ․ \n \n○ \n- PC CMOS, , ( 10 ), \n- \n: , , \n , · \n , \n- \n \n- PC Network IP , \n IP Network \n- , S/W \nUSB, CD, \n- , \n \n SER-002\n \n \n \n \n \n \n○ \n , 76 1 2 18 \n \n1. ․ IP \n2. \n3. \n4. · \n5. \n6. \n7. (IPS) \n \n8. 9 1 \n \n9. 2 \n10. 4 16 3 \n11. \n12. \n 2 18 \n . 2 : 3 \n . 1 : 1 \n○ 3\n , \n · · \n○ \n \n SER-003\n ( ) \n \n \n \n ( , ) \n \n○ ( , ) , \n ‘ ’ \n \n \n○ \n , \n○ \n 2 \n○ ( )․ ․ \n \n○ ‘ ’ \n \n○ \n \n○ 1 \n○ \n \n \n SER-004\n \n \n \n \n \n \n○ \n , \n○ , \n \n , \n . \n QUR-001\n \n \n \n \n \n \n○ ( 2024-25 ) \n○ ,\n \n○ \n , \n○ \n \n QUR-002\n \n \n \n \n \n \n○ , \n .\n QUR-003\n \n \n \n \n \n \n○ \n ( )\n○ , \n \n○ \n ․ \n○ ․ \n \n . \n PSR-001\n \n \n \n \n \n \n○ ․ \n \n○ \n○ ․ \n \n○ ,\n \n PSR-002\n \n \n \n \n \n ○ , \n \n○ , \n , \n○ /",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01827064-000",
+    "sourceFile": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+    "generatedAt": "2026-11-16T14:33:47.238894",
+    "match": {
+      "noticeId": "R26BK01827064-000",
+      "bidNtceNo": "R26BK01827064",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01827064-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01827064-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01827064-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "산출 내역",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "산출 내역",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "USB -,,,, (,, ), USB 3 ○ EA( ) - (EAMS) - (,, ), - 2, CD 2 ○ - ( ) (PM), . SER-001 ○, ○ ○ ․ ․, ○ DB ○ · ( 2024-66 ) ‘ ’ ○ ○ -, ․, - PC, - PC PC",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "PMR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": "○ ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "PC, , S/W",
+          "name": "PC, , S/W",
+          "detail": "○ - , , ○ 1 24 365 24 ○ ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "○ ,",
+          "name": "○ ,",
+          "detail": "○ - , ○ - 10 · ( 2024-66 ) - , , , , ,",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": "○ , ○ ○ ․ ․ , ○ DB ○ · ( 2024-66 ) ‘ ’",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": ",",
+          "name": ",",
+          "detail": "○ , 76 1 2 18 1. ․ IP 4. ·",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "○",
+          "name": "○",
+          "detail": "( , ) ○ ( , ) , ‘ ’ ,",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": "○",
+          "name": "○",
+          "detail": ", ○ ,",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": "○ ( 2024-25 ) ○ , ○",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": "○",
+          "name": "○",
+          "detail": ", . ○ ( 2024-25 ) ○ , ,",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-003",
+          "requirement": ".",
+          "name": ".",
+          "detail": "○ ○ , ○ ․",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": ".",
+          "name": ".",
+          "detail": "○ ․ ○",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": "○ ,",
+          "name": "○ ,",
+          "detail": ", ○ / [붙임3.예산산출내역서.pdf] - 1 - 법원교육시스템 운영 및 유지관리사업 예산산출 내역서",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01827064-000",
+        "budget": "산출 내역",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "- , , , , \n( , , ) , \nUSB 3 \n○ EA( ) \n- (EAMS) \n \n- ( , , ) \n , \n- 2 , CD 2 \n○ \n- ( ) (PM) , \n \n . \n SER-001",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 6개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "1",
+          "score": 100.0,
+          "weight": 100.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "1 100점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "390원\n구분 직접인건비 제경비",
+          "score": 144.0,
+          "weight": 144.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "390원\n구분 직접인건비 제경비 144점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "기술료",
+          "score": 20.0,
+          "weight": 20.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "기술료 20점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "사업 수행에 \n필요한 직접인건비의 확보를 고려하여 제경비",
+          "score": 63.6,
+          "weight": 63.6,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "사업 수행에 \n필요한 직접인건비의 확보를 고려하여 제경비 63.6점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "및 기술료",
+          "score": 13.4,
+          "weight": 13.4,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "및 기술료 13.4점"
+        },
+        {
+          "major": "평가항목",
+          "middle": "",
+          "minor": "SW기술자 평균임금은 전년 대비",
+          "score": 4.7,
+          "weight": 4.7,
+          "grade": "C",
+          "strategy": "누락 방지 중심으로 증빙과 기본 요건 확인",
+          "detail": "SW기술자 평균임금은 전년 대비 4.7점"
+        }
+      ],
+      "totals": {
+        "score": 345.7,
+        "weight": 345.7,
+        "gradeA": 4,
+        "gradeB": 1,
+        "gradeC": 1
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01827064-000",
+    "generatedAt": "2026-11-16T14:33:56.325948",
+    "sourceAnalysisAt": "2026-11-16T14:33:47.238894",
+    "projectName": "",
+    "sourceFile": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+    "requirementSourceFiles": [
+      "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "PMR-001",
+        "name": "○ ,",
+        "detail": "3 ○ , (PC, , S/W )",
+        "source": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "○",
+        "detail": ", , ○ 1 24 365 24 ○ , ○ , , ○ ,",
+        "source": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "○",
+        "detail": ", ( ) ○ 10 · ( 2024-66 )",
+        "source": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "○ ,",
+        "detail": "○ ○ ․ ․ , ○ DB ○ · ( 2024-66 )",
+        "source": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "○",
+        "detail": ", 76 1 2 18 1. ․ IP 2. 3. 4. ·",
+        "source": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "( )",
+        "detail": "( , ) ○ ( , ) , ‘ ’ ○ ,",
+        "source": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "○",
+        "detail": ", ○ , , .",
+        "source": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "○ ( 2024-25 )",
+        "detail": "○ , ○ , ○",
+        "source": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": "○ ,",
+        "detail": ".",
+        "source": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-003",
+        "name": "○",
+        "detail": "( ) ○ , ○ ․ ○ ․",
+        "source": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "○ ․",
+        "detail": "○ ○ ․ ○ ,",
+        "source": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": "○ ,",
+        "detail": "○ , , ○ /",
+        "source": "2. 제안요청서(2027년 법원교육시스템 운영 및 유지관리).hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "1",
+        "score": 100.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 14,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "1 100점"
+      },
+      {
+        "scoreItem": "390원 구분 직접인건비 제경비",
+        "score": 144.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 21,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "390원 구분 직접인건비 제경비 144점"
+      },
+      {
+        "scoreItem": "기술료",
+        "score": 20.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 3,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "기술료 20점"
+      },
+      {
+        "scoreItem": "사업 수행에 필요한 직접인건비의 확보를 고려하여 제경비",
+        "score": 63.6,
+        "targetSection": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+        "proposalType": "qualitative",
+        "recommendedPages": 9,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "사업 수행에 필요한 직접인건비의 확보를 고려하여 제경비 63.6점"
+      },
+      {
+        "scoreItem": "및 기술료",
+        "score": 13.4,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 2,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "및 기술료 13.4점"
+      },
+      {
+        "scoreItem": "SW기술자 평균임금은 전년 대비",
+        "score": 4.7,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 1,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "SW기술자 평균임금은 전년 대비 4.7점"
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-001",
+              "PMR-002",
+              "PMR-003"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "QUR-001",
+              "QUR-002",
+              "QUR-003"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-001",
+              "PSR-002"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 12,
+      "mappedRequirements": 12,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

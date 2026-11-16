@@ -1,0 +1,1732 @@
+{
+  "bidNtceNo": "R26BK01832222",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-11-16T14:23:31.245282",
+  "status": "completed",
+  "source": {
+    "fileName": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01832222-000/AI 학사·진로 상담 챗봇 제안요청서.hwp",
+    "pageCount": 33,
+    "textLength": 6641,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+      "extension": ".hwp",
+      "size": 102400,
+      "kindCode": ""
+    },
+    {
+      "fileName": "입찰공고문.pdf",
+      "extension": ".pdf",
+      "size": 162731,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "3c2cb3b9d3c42e59839eb48b",
+      "fileName": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01832222/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01832222/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01832222/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01832222-000/AI 학사·진로 상담 챗봇 제안요청서.hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01832222-000/converted/AI 학사·진로 상담 챗봇 제안요청서.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01832222-000/converted/AI 학사·진로 상담 챗봇 제안요청서.pdf",
+      "pageCount": 33,
+      "textLength": 6641,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "AI · \n \n2026. 11.\nⅠ . \n1. \n . : AI \n . : 1 ( , )\n . :\n . : ( )\n . : / ( )\n . : 051)320-2058\n . : : 051)320-2665\n2. \n . AI · · \n \n . · ·FAQ \n . AI 24 \n \n . AI \n \n . · · · \nⅡ . \n1. \n . ' ' 12 14 \n \n . ' ' 58 17 , ( , \n : 1468) \n . 20 ( ) ( \n ) , \n . ' ' [ \n ( ) \" ( 8111159901)\" \n ] \n . 3 1 \n \n . 76 ( ) \n \n . 100% \n . AI , · \n2. \n2) : 3 , , · \n \n3 10\n2 9\n1 8\n ) : 5 ( ) AI · \n ) : \n- ( URL )\n- 2 ( )\nⅢ . \n1. \n□ \n \n -SFR\n(System Function\nRequirement)\n- \n ( ) \n- , \n , \n , \n \n19\n -PER\n(Performance\nRequirement)\n- , , ․ , \n 2\n -SIR\n(System Interface\nRequirement)\n- \n , \n \n3\n -DAR\n(Data Requirement)\n- \n , , \n \n2\n -TER\n(Test Requirement)\n- \n 1\n -SER\n(Security\nRequirement)\n- ,\n 4\n -QUR\n(Quality\nRequirement)\n- , \n 4\n -COR\n(Constraints\nRequirement)\n- , , · · · \n 3\n –PMR\n(Project\nManagement\nRequirement)\n- \n 4\n –PSR\n(Project Support\nRequirement)\n- \n \n- / , , \n \n2\n 44\n□ \n \n1 SFR-001 \n2 SFR-002 \n3 SFR-003 LLM \n4 SFR-004 \n5 SFR-005 RAG \n6 SFR-006 \n7 SFR-007 \n8 SFR-008 \n9 SFR-009 \n10 SFR-010 \n11 SFR-011 \n12 SFR-012 \n13 SFR-013 \n14 SFR-014 \n15 SFR-015 \n16 SFR-016 \n17 SFR-017 \n18 SFR-018 Q&A \n19 SFR-019 \n20 PER-001 \n21 PER-002 \n22 SIR-001 \n23 SIR-002 \n24 SIR-003 PC/ \n25 DAR-001 \n26 DAR-002 \n27 TER-001 \n28 SER-001 \n29 SER-002 \n30 SER-003 AI \n31 SER-004 \n32 QUR-001 \n33 QUR-002 \n34 QUR-003 \n35 QUR-004 \n36 COR-001 \n37 COR-002 \n38 COR-003 ( ) \n39 PMR-001 \n40 PMR-002 \n41 PMR-003 \n42 PMR-004 \n43 PSR-001 \n44 PSR-002 \n2. \n1) (System Function Requirement)\n \n SFR-001\n \n \n \n \n \n◯ , , \n \n◯ (PC, , ), OS(Windows, Mac OS, Android,\niOS ), (Chrome, Edge, Safari, Firefox ) \n◯ \n \n SFR-002\n \n \n \n \n \n◯ \n- (LLM) 100% \n- , \n \n◯ , , , \n- , ,\n , \n- , , \n◯ \n- , , \n \n◯ \n- , \n \n◯ \n \n SFR-003\n LLM \n \n \n LLM (Large Language Model) LLM \n \n◯ · \nLLM \n- LLM , \n \n- , , , , \n \n◯ LLM \n- GPT, Claude LLM , \n / \n◯ LLM \n- LLM \n \n- LLM \n \n SFR-004\n \n \n \n \n \n◯ \n- , , RAG , LLM \n \n◯ \n- , \n- \n \n◯ \n- \n- \n○ \n- \n \n SFR-005\n RAG \n \n \n RAG \n \n◯ RAG \n- · \nRetrieval-Augmented Generation(RAG) \n- ( ) , \n \n- / , \n \n- \n◯ \n- LLM Reranker \n \n- \n◯ RAG AI ( ) \n- , LLM , Reranking RAG \n \n- ( , ) \n \n \n SFR-006\n \n \n \n \n \n◯ \n- , Youtube , , Q&A \n \n- View Table , , , Q&A\n \n- \n◯ \n- HWP, PDF, DOC, PPT, XLSX, JPEG \n \n◯ \n- \n \n SFR-007\n \n \n \n \n \n◯ Layout Analysis \n- , \n- , , \n \n◯ OCR \n- , \n \n◯ \n- , \n \n \n SFR-008\n \n \n \n \n \n◯ \n- , \n \n- \n◯ \n- DB\n \n- \n \n SFR-009\n \n \n \n \n \n◯ \n- \n- Dense/Sparse Retrieval Reranker \n \n◯ \n- , OCR\n \n◯ \n- N RAG \n- , \n \n SFR-010\n \n \n \n SDK \n \n◯ SDK \n- SDK(Software Development Kit) \n- \n◯ \n- , \n- SDK \n◯ \n- , \n- \n◯ \n- · \n- .\n- · , \n · · · · \n \n SFR-011\n \n \n \n \n \n◯ , , \n◯ \n \n◯ \n- , , · , · \n ·MYDEX \n , .\n- , \n . \n .\n- · , , \n .\n \n , , \n , \n \n , \n \n , \n \n · , , \n \n · \n , · \n \n \n \n SFR-012\n \n \n \n \n \n◯ \n- , , Q&A \n , \n \n- , , , · , , , \n , \n- , \n \n◯ · · \n · \n- , , , · \n , \n · \n- , , , \n · , \n- , · , \n \n \n SFR-013\n \n \n \n \n \n◯ \n \n- , , , ,\n ( : , \n , )\n- \n- \n \n◯ · · \n \n- , , , · , · \n \n- , , · \n , , .\n◯ · \n- : , · , \n \n- · : , , \n , \n- : , \n \n \n SFR-014\n \n \n \n \n \n◯ LLM \n \n◯ \n◯ \n- \n- LLM AI AI \n , AI \n- \n◯ · \n- , \n \n- \n \n- · , \n \n- , \n \n◯ \n- AI \n \n- AI \n◯ \n- , \n \n- , \n◯ \n- , \n- \n \n SFR-015\n \n \n \n \n \n◯ \n- \n- \n \n \n SFR-016\n \n \n \n \n \n◯ \n- AI \n- \n- \n- \n \n SFR-017\n \n \n \n AI \n \n◯ · \n◯ \n◯ \n◯ \n \n SFR-018\n Q&A \n \n \n Q&A \n \n◯ Q&A \n- AI Q&A \n \n- AI / Q&A \n◯ Q&A AI \n- Q&A AI \n \n SFR-019\n \n \n \n \n \n○ , \n \n2) (Performance Requirement)\n \n PER-001\n \n \n \n \n \n○ / , \n ○ , , \n , ○ \n \n PER-002\n \n \n \n \n \n○ LLM \n AI , \n3) (System Interface Requirement)\n \n SIR-001\n \n \n \n UI/UX\n \n○ UI/UX ○ ○ \n ○ GUI \n \n SIR-002\n \n \n \n \n \n○ Identity - CI ( , ) - \n \n \n SIR-003\n PC/ \n \n \n PC \n \n○ PC/ - PC \n ○ - OS (Android, iOS) \n4) (Data Requirement)\n \n DAR-001\n \n \n \n \n \n◯ \n- ( ) , \n \n- , , DB \n \n \n DAR-002\n \n \n \n \n \n◯ \n- \n \n5) (Test Requirement)\n \n TER-001\n \n \n \n \n \n○ \n- : \n \n- : \n○ , \n \n6) (Security Requirement)\n \n SER-001\n \n \n \n \n \n○ \n○ \n , \n○ , , \n○ \n \n* < · > 50 3 \n ( : )\n○ ‘ ’ \n○ ‘ · ’ \n \n○ , , \n \n○ · \n \n \n SER-002\n \n \n \n , \n \n○ \n , , \n \n○ ․ \n \n○ , \n \n○ , , ,\n\" \" , \n \n○ \n- -\n IP \n \n \n · \n \n \n \n 9 1 \n \n 2 1 \n 4 , 16 3 \n \n \n SER-003\n AI \n \n \n AI \n \n○ ( , , ) \n LLM \n○ , AES-256 \n \n○ LLM API \n○ \n \n SER-004\n \n \n \n \n \n○ LLM \n \n○ , (1 ) \n \n7) (Quality Requirement)\n \n QUR-001\n \n \n \n \n \n○ , \n \n \n○ \n \n QUR-002\n \n \n \n \n \n○ \n○ , \n \n QUR-003\n \n \n \n \n \n○ \n \n○ \n○ \n \n QUR-004\n \n \n \n \n \n○ \n- , \n○ \n- \n8) (Constraint Requirement)\n \n COR-001\n \n \n \n \n \n○ , \n \n \n \n COR-002\n \n \n \n \n \n○ \n \n- \n- \n- \n○ AI \n- ( , , ) · \n LLM \n- , \n \n \n COR-003\n ( ) \n \n \n \n \n○ ( ) \n (2017.1.) \n(2013.11.), ‘ ’ \n9) (Project Management Requirement)\n \n PMR-001\n \n \n \n \n \n○ \n- \n- \n○ \n \n○ \n \n \n PMR-002\n \n \n \n \n \n○ · · · · \n \n○ , \n \n PMR-003\n \n \n \n \n \n○ , -\n , \n ○ , , , \n , \n ○ / / \n , \n \n PMR-004\n \n \n \n \n \n○ \n \n10) (Project Support Requirement)\n \n PSR-001\n \n \n \n \n ○ \n \n PSR-002\n \n \n \n \n \n○ · \n○ , \n \n- LLM ( , Reranker LLM )\n- ( , DB, , )\n- · ( , , OCR )\n- (SFR-017)\n- \n- LLM (PER-002)\n○ , (AI ) \n \n○ , \n ○ \n \nⅣ . \n1. \n . : \n . : ( 4 , 051-320-2058)\n \n . :\n1) 1 \n ( ) , \n \n2) 1 \n3) 1 ( ),\n ( )\n4) ( ) ( 5/100 ) 1 \n5) 1 \n6) 1 \n7) 1 \n8) , , , 1 \n9) ( , , , / ) 1 \n10) USB 1 , 5 \n※ USB 1 ( , PDF )\n11) : 051)320-2665\n2. \n . \n . (90 , 85% ) (10 )\n , \n . / \n . , , \n \n . \n \n . \n \n . \n 2 \n \n . \n . \n4. ( )\n . \n \n \n \n(90)\n \n \n \n( )\n- (10 ): 3 5 ( ) AI \n · \n3 10 / 2 9 / 1 8 \n , 2 \n \n- ·AI (5 ): ISO 27001, ISO 27701, AI \n \n3 5 / 2 4 / 1 3 / 0 \n- (5 ): \n20\n \n \n \n \n( )\n- : \n \n- : \n \n- : \n \n- , , , \n \n15\n \n( )\n- (15 ): / \n , \n- (10 ): , , \n \n- (10 ): , Q&A · ,\nQ&A , \n- (5 ): , , \n , LLM \n- (5 ): \n \n , \n \n45\n \n \n \n \n( )\n- \n- \n- \n- \n- \n10\n \n \n(10)\n- ( / )\n 80% 80% \n10\n 100\n5. \n . \n \n1. \n . \n . \n . \n2. \n . 2\n . 3\n . \n . 4\n3. \n . \n . \n . \n . \n . \n4. \n . \n . \n . \n . \n . \n5. \n . \n . \n . / \n . / \n . \n6. \n . \n- \n- \n- 100 ( , ) , \n \n- , \n- , \n- \n . \n- , \n \n- , \n \n \n 1 \n \n* .\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n( ) \n \n \n \n \n \n \n \n \n· : 5%\n· : ( )\n· : \n \n \n \n·\n \n \n \n \n .\n :\n :\ne-mail :\n .\n : ( )\n ( ) \n .\n20 \n ( )\n \n 2 \n- \n1. \n2. \n3. \n4. \n5. \n6. . . . - . . ( )\n7. \n 3 \n ( 3 )\n \n \n1. 3 ( ) \n2. , , \n \n 4 \n \n \n ( ) \n \n \n \n \n( , )\n \n \n \n \n \n \n( )\n \n ( )\n \n \n \n \n \n : ( ) ( : )\n : (FAX : )\n : :\n )\n① , .\n② ( , ) , \n .\n④ .\n- ⑤ SW SW 24 ( ), 17 ( \n ), 12 ( ), ( \n 2013-151) .\n 5 \n \n \n \n \n \n \n \n \n \n \n( \n )\n \n \n( )\n \n( )\n \n (\n \n \n \n \n \n(10)\n \n \n \n \n \n3 \n \n \n( \n )\n \n \n \n \n \n \n◦ 2 \n :\n5 \n◦ 1 \n \n~ 2 \n :\n3 \n◦ 0 :\n0 \n5\n \n \n( ) ( \n 5\n \n \n◎ \n- .\n- 0 .\n20 \n ○○ : ( )\n- 6 \n \n AI · , \n .\n1. ( ) ( ) \n , .\n2. ( ) \n , \n .\n3. ( ) \n .\n \n ( ) \n :\n :\n : ( )\n \n- 7 \n \n :\n :\n ‘AI · ’ , , \n .\n , , \n .\n \n : ( )\n \n 8 \n \n▮ \n , \nOECD \n , , \n1. , , \n .\n▪ \n 1 2 \n \n▪ \n , \n .\n2. , , ․ ․ ( \n ) , \n , , \n , ․ . , \n 1 2 , \n .\n3. · , ( ) \n \n , , \n .\n , \n , , , \n ․ .\n20 . . .\n :\n : ( )\n \n 9 \n \n ‘ AI · ’ \n .\n ( )\n \n ( )\n \n / \n : ( ) ( )\n( )( )( )\n \n \n \n \n※ A/S ( ) \n※ :\n※ ,",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "AI · \n \n2026. 11.\nⅠ . \n1. \n . : AI \n . : 1 ( , )\n . :\n . : ( )\n . : / ( )\n . : 051)320-2058\n . : : 051)320-2665\n2. \n . AI · · \n \n . · ·FAQ \n . AI 24 \n \n . AI \n \n . · · · \nⅡ . \n1. \n . ' ' 12 14 \n \n . ' ' 58 17 , ( , \n : 1468) \n . 20 ( ) ( \n ) , \n . ' ' [ \n ( ) \" ( 8111159901)\" \n ] \n . 3 1 \n \n . 76 ( ) \n \n . 100% \n . AI , · \n2. \n2) : 3 , , · \n \n3 10\n2 9\n1 8\n )...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "f485ca78a4126fdd62e7b493",
+      "fileName": "입찰공고문.pdf",
+      "extension": ".pdf",
+      "docType": "입찰공고문",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01832222/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01832222/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01832222/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01832222-000/입찰공고문.pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01832222-000/입찰공고문.pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01832222-000/입찰공고문.pdf",
+      "pageCount": 3,
+      "textLength": 3902,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "[ 동서대학교 제 구매 26-43 호 ]\n입 찰 공 고\n1. 입찰에 부치는 사항\n가 . 사업명 : AI 학사 · 진로 상담 챗봇 구축\n나 . 사업내용 : 제안요청서 참조\n다 . 사업기간 : 계약 체결일로부터 ~ 2027 년 02 월 까지\n라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함\n마 . 입찰방식 : 긴급 입찰 , 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰\n바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 )\n사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터 , G2B)\n아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )\n2. 입찰 추진 일정 및 장소\n가 . 공고 기간 : 2026. 11. 16.( 월 ) ~ 2026. 11. 26.( 목 )\n나 . 가격입찰서 ( 전자투찰 ) 접수 : 2026. 11. 16.( 월 ) 16:00 ~ 2026. 11. 26.( 목 ) 14:00\n※ 조달청 나라장터 (G2B) 전자접수 ( 가격산출내역서는 제안서 접수 시 밀봉 제출 )\n다 . 제안서 및 입찰서류 접수 : 2026. 11. 26.( 목 ) 14:00 까지 ( 재무본부 구매실 직접 방문 접수 )\n라 . 제안서 평가 ( 기술평가 ): 입찰 마감 후 10 일 이내 ( 개별 통보 )\n마 . 개찰 일시 : 제안서 기술평가 완료 후 개찰 ( 국가종합전자조달시스템 (G2B) 입찰집행관 PC)\n3. 입찰참가자격 ( 다음 각 호의 요건을 모두 충족하는 업체 )\n가 . 「 국가를 당사자로 하는 계약에 관한 법률 시행령 」 제 12 조 및 동법 시행규칙 제 14 조에 따른 요건을 갖\n추고 , 동법 제 76 조 ( 부정당업자의 입찰참가자격 제한 ) 에 해당되지 않는 업체\n나 . 「 소프트웨어 진흥법 」 에 의한 소프트웨어사업자 ( 컴퓨터관련서비스사업 , 업종코드 : 1468) 로 등록된 업체\n다 . 중소벤처기업부 고시에 의거 직접생산증명서 [ 정보시스템개발서비스 ( 물품분류번호 8111159901)] 를 보유\n한 자 ( 입찰마감일 전일까지 발행되어 유효기간 내에 있어야 함 )\n라 . 본 사업은 20 억원 미만 사업으로 고시에 따라 대기업 및 중견기업은 입찰에 참여할 수 없음\n마 . 실적 제한 : 공고일 기준 3 년 이내 유사 사업을 직접 실행한 단일 건 1 억원 이상 실적이 있는 업체 ( 계약\n금액 5 천만원 이상의 AI 기반 챗봇 구축 · 임대 사업으로 단독 솔루션 상용 운영 및 동일 솔루션 2 개 기\n관 이상 공급 실적 요건 충족 필수 )\n바 . 우리 대학의 업체 선정 방법과 평가 기준에 100% 동의하며 , AI 챗봇 구축 , 학사정보시스템 연계 및 운\n영 · 유지관리 업무를 수행할 수 있는 업체\n사 . 공동도급 및 하도급 불허\n• 단일 업체의 전문성과 책임 시공 담보를 위해 공동수급 ( 공동이행 / 분담이행 ) 을 불허합니다 .\n• 본 용역은 전문적 품질 관리 및 지식재산권 분쟁 방지를 위해 발주처 승인 없는 일체의 하도급을 엄\n격히 금지합니다 .\n4. 제안서 및 입찰참가 서류 제출 안내 :\n가 . 병행 제출 필수 유의사항 : 본 입찰은 조달청 나라장터 (G2B) 전자 가격투찰과 동서대학교 재무본부 구매\n실 입찰서류 직접 방문 제출 이 병행되는 입찰입니다 . 마감시한 (2026. 11. 26.( 목 ) 14:00) 내에 전자투찰과 \n방문 서류 제출 두 가지 절차를 모두 완료해야만 유효한 입찰로 인정되며 , 우편 · 팩스 · 이메일 등 간접 \n접수는 불가합니다 .\n나 . 전자입찰서 ( 가격 ) 제출 방법\n1) 가격입찰서는 반드시 국가종합전자조달시스템 (http://www.g2b.go.kr) 의 '입찰정보 '를 이용하여 전자 제\n출하여야 합니다 .\n2) 한번 제출한 전자입찰서는 취소하거나 수정할 수 없습니다 . ( 단 , 「 국가종합전자조달시스템 전자입찰\n특별유의서 」 제 8 조에 따라 서면으로 전자입찰 취소 신청을 한 경우에 한함 )\n다 . 입찰참가 등록서류 방문 제출 목록 (2026. 11. 26.( 목 ) 14:00 까지 재무본부 구매실 직접 제출 )\n※ 아래의 순서에 맞게 제출\n1) 입찰참가신청서 1 부 ( 위임 대리인의 경우 위임장 , 재직증명서 , 신분증 지참 )\n2) 사업자등록증 사본 1 부\n3) 인감증명서 및 법인등기부등본 각 1 부 ( 사용인감 사용 시 사용인감계 추가 제출 )\n4) 이행 ( 입찰 ) 보증보험증권 1 부 ( 입찰금액의 5/100 이상 )\n5) 지방세 및 국세 납세증명서 각 1 부\n6) 신용평가서 1 부\n7) 정량적 평가 분야 제안업체 자체 평가 점수표 1 부\n8) 보안확약서 , 서약서 , 청렴계약 이행서약서 , 개인정보 수집 및 활용 동의서 각 1 부\n9) 자격 및 실적 증빙서류 : 소프트웨어사업자 신고확인서 , 직접생산확인증명서 , 유사사업 실적증명서 각 \n1 부\n10) 가격제안서 1 부 ( 자사 견적서 및 산출내역서 포함 , 반드시 부가세 포함 총액 기재 후 직인 날인하\n여 별도 밀봉 제출 )\n11) 제안서 5 부 및 제안서 전체 내용이 수록된 USB 1 매 (PDF 파일로 저장 )\n5. 낙찰자 결정방법 ( 협상에 의한 계약 )\n가 . 제안서 평가는 기술능력평가 (90%) 와 입찰가격평가 (10%) 를 종합하여 산출합니다 .\n나 . 기술능력평가 배점한도의 85%(76.5 점 ) 이상인 업체를 협상적격자로 선정합니다 . ( 평가점수는 최고 · 최저\n점수 제외 산술평균 적용 )\n다 . 협상적격자 중 기술 및 가격 종합평점의 고득점자 순으로 우선협상을 진행하며 , 협상이 성립된 때에는 \n차순위자와 협상을 실시하지 않습니다 .\n라 . 종합평점이 동점일 경우 기술평가 점수가 높은 업체를 우선하며 , 기술평가 점수도 동점인 경우 기술평\n가의 세부평가항목 중 배점이 큰 항목의 고득점 업체를 우선순위자로 결정합니다 .\n6. 입찰보증금 납부 및 귀속\n가 . 「 국가를 당사자로 하는 계약에 관한 법률 시행령 제 37 조 및 제 38 조의 규정에 의하여 입찰금액의 100 분\n의 5(5%) 이상에 해당하는 입찰보증보험증권을 입찰참가등록 마감 시까지 제출하여야 합니다 .\n나 . 낙찰자가 정당한 사유 없이 소정 기일 내에 계약을 체결하지 아니할 때에는 입찰보증금은 본 대학교에 \n귀속되며 , 관계 법령에 따른 부정당업자 제재 조치를 받게 됩니다 .\n7. 입찰 무효\n가 . 「 국가를 당사자로 하는 계약에 관한 법률 시행령 」 제 39 조 제 4 항 및 동법 시행규칙 제 44 조및 「 국가종\n합전자조달시스템 전자입찰특별유의서 」 에 해당하는 입찰은 무효로 합니다 .\n나 . 소정의 입찰참가등록을 필하지 않은 자의 입찰 , 입찰서의 기명날인이 누락된 입찰 , 1 인이 수인의 입찰서\n를 제출한 입찰은 무효 처리됩니다 .\n다 . 조달청 나라장터 (G2B) 전자 가격투찰과 본교 구매실 서류 방문 제출 중 어느 하나라도 누락한 입찰은 \n무효로 합니다 .\n8. 기타 유의사항\n가 . 입찰에 참가하고자 하는 자는 시행령 등의 입찰관련 법령 및 입찰유의서 등 제반 서류를 완전히 숙지하\n고 입찰에 응하여야 하며 , 숙지하지 못한 책임은 입찰참가자에게 있습니다 .\n나 . 제안서 작성 및 입찰 참가에 소요되는 모든 제반 비용은 입찰참가자가 부담하며 , 제출된 서류는 일체 \n반환하지 않습니다 .\n다 . 본 사업은 『 소프트웨어사업의 제안서 보상기준 등에 관한 운영규정 』 제 2 조에 의거하여 제안서 보상 \n대상 사업에 해당하지 않으므로 보상금을 지급하지 않습니다 .\n라 . 문의처\n- 입찰 및 계약 절차 문의 : 동서대학교 재무본부 구매실 ( ☎ 051-320-1979)\n- 사업 및 과업 내용 문의 : 동서대학교 정보통신센터 ( ☎ 051-320-2665)\n- 나라장터 전자입찰 시스템 이용 문의 : 정부조달콜센터 ( ☎ 1588-0800)\n위와 같이 공고합니다 .\n2026 년 11 월 16 일\n동 서 대 학 교 총 장",
+      "analysis": {
+        "docType": "입찰공고문",
+        "summary": "가 . 사업명 : AI 학사 · 진로 상담 챗봇 구축\n나 . 사업내용 : 제안요청서 참조\n다 . 사업기간 :",
+        "checklist": [
+          "( 다음 각 호의 요건을 모두 충족하는 업체 )\n가 . 「 국가를 당사자로 하는 계약에 관한 법률 시행령 」 제 12 조 및 동법 시행규칙 제 14 조에 따른 요건을 갖\n추고 , 동법 제 76 조 ( 부정당업자의 입찰참가자격 제한 ) 에 해당되지 않는 업체\n나 . 「 소프트웨어 진흥법 」 에 의한 소프트웨어사업자 ( 컴퓨터관련서비스사업 , 업종코드 : 1468) 로 등록된 업체\n다 . 중소벤처기업부 고시에 의거 직접생산증명서 [ 정보시스템개발서비스 ( 물품분류번...",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "중 배점이 큰 항목의 고득점 업체를 우선순위자로 결정합니다 .\n6. 입찰보증금 납부 및 귀속\n가 . 「 국가를 당사자로 하는"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "AI · \n \n2026. 11.\nⅠ . \n1. \n . : AI \n . : 1 ( , )\n . :\n . : ( )\n . : / ( )\n . : 051)320-2058\n . : : 051)320-2665\n2. \n . AI · · \n \n . · ·FAQ \n . AI 24 \n \n . AI \n \n . · · · \nⅡ . \n1. \n . ' ' 12 14 \n \n . ' ' 58 17 , ( , \n : 1468) \n . 20 ( ) ( \n ) , \n . ' ' [ \n ( ) \" ( 8111159901)\" \n ] \n . 3 1 \n \n . 76 ( ) \n \n . 100% \n . AI , · \n2. \n2) : 3 , , · \n \n3 10\n2 9\n1 8\n ) : 5 ( ) AI · \n ) : \n- ( URL )\n- 2 ( )\nⅢ . \n1. \n□ \n \n -SFR\n(System Function\nRequirement)\n- \n ( ) \n- , \n , \n , \n \n19\n -PER\n(Performance\nRequirement)\n- , , ․ , \n 2\n -SIR\n(System Interface\nRequirement)\n- \n , \n \n3\n -DAR\n(Data Requirement)\n- \n , , \n \n2\n -TER\n(Test Requirement)\n- \n 1\n -SER\n(Security\nRequirement)\n- ,\n 4\n -QUR\n(Quality\nRequirement)\n- , \n 4\n -COR\n(Constraints\nRequirement)\n- , , · · · \n 3\n –PMR\n(Project\nManagement\nRequirement)\n- \n 4\n –PSR\n(Project Support\nRequirement)\n- \n \n- / , , \n \n2\n 44\n□ \n \n1 SFR-001 \n2 SFR-002 \n3 SFR-003 LLM \n4 SFR-004 \n5 SFR-005 RAG \n6 SFR-006 \n7 SFR-007 \n8 SFR-008 \n9 SFR-009 \n10 SFR-010 \n11 SFR-011 \n12 SFR-012 \n13 SFR-013 \n14 SFR-014 \n15 SFR-015 \n16 SFR-016 \n17 SFR-017 \n18 SFR-018 Q&A \n19 SFR-019 \n20 PER-001 \n21 PER-002 \n22 SIR-001 \n23 SIR-002 \n24 SIR-003 PC/ \n25 DAR-001 \n26 DAR-002 \n27 TER-001 \n28 SER-001 \n29 SER-002 \n30 SER-003 AI \n31 SER-004 \n32 QUR-001 \n33 QUR-002 \n34 QUR-003 \n35 QUR-004 \n36 COR-001 \n37 COR-002 \n38 COR-003 ( ) \n39 PMR-001 \n40 PMR-002 \n41 PMR-003 \n42 PMR-004 \n43 PSR-001 \n44 PSR-002 \n2. \n1) (System Function Requirement)\n \n SFR-001\n \n \n \n \n \n◯ , , \n \n◯ (PC, , ), OS(Windows, Mac OS, Android,\niOS ), (Chrome, Edge, Safari, Firefox ) \n◯ \n \n SFR-002\n \n \n \n \n \n◯ \n- (LLM) 100% \n- , \n \n◯ , , , \n- , ,\n , \n- , , \n◯ \n- , , \n \n◯ \n- , \n \n◯ \n \n SFR-003\n LLM \n \n \n LLM (Large Language Model) LLM \n \n◯ · \nLLM \n- LLM , \n \n- , , , , \n \n◯ LLM \n- GPT, Claude LLM , \n / \n◯ LLM \n- LLM \n \n- LLM \n \n SFR-004\n \n \n \n \n \n◯ \n- , , RAG , LLM \n \n◯ \n- , \n- \n \n◯ \n- \n- \n○ \n- \n \n SFR-005\n RAG \n \n \n RAG \n \n◯ RAG \n- · \nRetrieval-Augmented Generation(RAG) \n- ( ) , \n \n- / , \n \n- \n◯ \n- LLM Reranker \n \n- \n◯ RAG AI ( ) \n- , LLM , Reranking RAG \n \n- ( , ) \n \n \n SFR-006\n \n \n \n \n \n◯ \n- , Youtube , , Q&A \n \n- View Table , , , Q&A\n \n- \n◯ \n- HWP, PDF, DOC, PPT, XLSX, JPEG \n \n◯ \n- \n \n SFR-007\n \n \n \n \n \n◯ Layout Analysis \n- , \n- , , \n \n◯ OCR \n- , \n \n◯ \n- , \n \n \n SFR-008\n \n \n \n \n \n◯ \n- , \n \n- \n◯ \n- DB\n \n- \n \n SFR-009\n \n \n \n \n \n◯ \n- \n- Dense/Sparse Retrieval Reranker \n \n◯ \n- , OCR\n \n◯ \n- N RAG \n- , \n \n SFR-010\n \n \n \n SDK \n \n◯ SDK \n- SDK(Software Development Kit) \n- \n◯ \n- , \n- SDK \n◯ \n- , \n- \n◯ \n- · \n- .\n- · , \n · · · · \n \n SFR-011\n \n \n \n \n \n◯ , , \n◯ \n \n◯ \n- , , · , · \n ·MYDEX \n , .\n- , \n . \n .\n- · , , \n .\n \n , , \n , \n \n , \n \n , \n \n · , , \n \n · \n , · \n \n \n \n SFR-012\n \n \n \n \n \n◯ \n- , , Q&A \n , \n \n- , , , · , , , \n , \n- , \n \n◯ · · \n · \n- , , , · \n , \n · \n- , , , \n · , \n- , · , \n \n \n SFR-013\n \n \n \n \n \n◯ \n \n- , , , ,\n ( : , \n , )\n- \n- \n \n◯ · · \n \n- , , , · , · \n \n- , , · \n , , .\n◯ · \n- : , · , \n \n- · : , , \n , \n- : , \n \n \n SFR-014\n \n \n \n \n \n◯ LLM \n \n◯ \n◯ \n- \n- LLM AI AI \n , AI \n- \n◯ · \n- , \n \n- \n \n- · , \n \n- , \n \n◯ \n- AI \n \n- AI \n◯ \n- , \n \n- , \n◯ \n- , \n- \n \n SFR-015\n \n \n \n \n \n◯ \n- \n- \n \n \n SFR-016\n \n \n \n \n \n◯ \n- AI \n- \n- \n- \n \n SFR-017\n \n \n \n AI \n \n◯ · \n◯ \n◯ \n◯ \n \n SFR-018\n Q&A \n \n \n Q&A \n \n◯ Q&A \n- AI Q&A \n \n- AI / Q&A \n◯ Q&A AI \n- Q&A AI \n \n SFR-019\n \n \n \n \n \n○ , \n \n2) (Performance Requirement)\n \n PER-001\n \n \n \n \n \n○ / , \n ○ , , \n , ○ \n \n PER-002\n \n \n \n \n \n○ LLM \n AI , \n3) (System Interface Requirement)\n \n SIR-001\n \n \n \n UI/UX\n \n○ UI/UX ○ ○ \n ○ GUI \n \n SIR-002\n \n \n \n \n \n○ Identity - CI ( , ) - \n \n \n SIR-003\n PC/ \n \n \n PC \n \n○ PC/ - PC \n ○ - OS (Android, iOS) \n4) (Data Requirement)\n \n DAR-001\n \n \n \n \n \n◯ \n- ( ) , \n \n- , , DB \n \n \n DAR-002\n \n \n \n \n \n◯ \n- \n \n5) (Test Requirement)\n \n TER-001\n \n \n \n \n \n○ \n- : \n \n- : \n○ , \n \n6) (Security Requirement)\n \n SER-001\n \n \n \n \n \n○ \n○ \n , \n○ , , \n○ \n \n* < · > 50 3 \n ( : )\n○ ‘ ’ \n○ ‘ · ’ \n \n○ , , \n \n○ · \n \n \n SER-002\n \n \n \n , \n \n○ \n , , \n \n○ ․ \n \n○ , \n \n○ , , ,\n\" \" , \n \n○ \n- -\n IP \n \n \n · \n \n \n \n 9 1 \n \n 2 1 \n 4 , 16 3 \n \n \n SER-003\n AI \n \n \n AI \n \n○ ( , , ) \n LLM \n○ , AES-256 \n \n○ LLM API \n○ \n \n SER-004\n \n \n \n \n \n○ LLM \n \n○ , (1 ) \n \n7) (Quality Requirement)\n \n QUR-001\n \n \n \n \n \n○ , \n \n \n○ \n \n QUR-002\n \n \n \n \n \n○ \n○ , \n \n QUR-003\n \n \n \n \n \n○ \n \n○ \n○ \n \n QUR-004\n \n \n \n \n \n○ \n- , \n○ \n- \n8) (Constraint Requirement)\n \n COR-001\n \n \n \n \n \n○ , \n \n \n \n COR-002\n \n \n \n \n \n○ \n \n- \n- \n- \n○ AI \n- ( , , ) · \n LLM \n- , \n \n \n COR-003\n ( ) \n \n \n \n \n○ ( ) \n (2017.1.) \n(2013.11.), ‘ ’ \n9) (Project Management Requirement)\n \n PMR-001\n \n \n \n \n \n○ \n- \n- \n○ \n \n○ \n \n \n PMR-002\n \n \n \n \n \n○ · · · · \n \n○ , \n \n PMR-003\n \n \n \n \n \n○ , -\n , \n ○ , , , \n , \n ○ / / \n , \n \n PMR-004\n \n \n \n \n \n○ \n \n10) (Project Support Requirement)\n \n PSR-001\n \n \n \n \n ○ \n \n PSR-002\n \n \n \n \n \n○ · \n○ , \n \n- LLM ( , Reranker LLM )\n- ( , DB, , )\n- · ( , , OCR )\n- (SFR-017)\n- \n- LLM (PER-002)\n○ , (AI ) \n \n○ , \n ○ \n \nⅣ . \n1. \n . : \n . : ( 4 , 051-320-2058)\n \n . :\n1) 1 \n ( ) , \n \n2) 1 \n3) 1 ( ),\n ( )\n4) ( ) ( 5/100 ) 1 \n5) 1 \n6) 1 \n7) 1 \n8) , , , 1 \n9) ( , , , / ) 1 \n10) USB 1 , 5 \n※ USB 1 ( , PDF )\n11) : 051)320-2665\n2. \n . \n . (90 , 85% ) (10 )\n , \n . / \n . , , \n \n . \n \n . \n \n . \n 2 \n \n . \n . \n4. ( )\n . \n \n \n \n(90)\n \n \n \n( )\n- (10 ): 3 5 ( ) AI \n · \n3 10 / 2 9 / 1 8 \n , 2 \n \n- ·AI (5 ): ISO 27001, ISO 27701, AI \n \n3 5 / 2 4 / 1 3 / 0 \n- (5 ): \n20\n \n \n \n \n( )\n- : \n \n- : \n \n- : \n \n- , , , \n \n15\n \n( )\n- (15 ): / \n , \n- (10 ): , , \n \n- (10 ): , Q&A · ,\nQ&A , \n- (5 ): , , \n , LLM \n- (5 ): \n \n , \n \n45\n \n \n \n \n( )\n- \n- \n- \n- \n- \n10\n \n \n(10)\n- ( / )\n 80% 80% \n10\n 100\n5. \n . \n \n1. \n . \n . \n . \n2. \n . 2\n . 3\n . \n . 4\n3. \n . \n . \n . \n . \n . \n4. \n . \n . \n . \n . \n . \n5. \n . \n . \n . / \n . / \n . \n6. \n . \n- \n- \n- 100 ( , ) , \n \n- , \n- , \n- \n . \n- , \n \n- , \n \n \n 1 \n \n* .\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n( ) \n \n \n \n \n \n \n \n \n· : 5%\n· : ( )\n· : \n \n \n \n·\n \n \n \n \n .\n :\n :\ne-mail :\n .\n : ( )\n ( ) \n .\n20 \n ( )\n \n 2 \n- \n1. \n2. \n3. \n4. \n5. \n6. . . . - . . ( )\n7. \n 3 \n ( 3 )\n \n \n1. 3 ( ) \n2. , , \n \n 4 \n \n \n ( ) \n \n \n \n \n( , )\n \n \n \n \n \n \n( )\n \n ( )\n \n \n \n \n \n : ( ) ( : )\n : (FAX : )\n : :\n )\n① , .\n② ( , ) , \n .\n④ .\n- ⑤ SW SW 24 ( ), 17 ( \n ), 12 ( ), ( \n 2013-151) .\n 5 \n \n \n \n \n \n \n \n \n \n \n( \n )\n \n \n( )\n \n( )\n \n (\n \n \n \n \n \n(10)\n \n \n \n \n \n3 \n \n \n( \n )\n \n \n \n \n \n \n◦ 2 \n :\n5 \n◦ 1 \n \n~ 2 \n :\n3 \n◦ 0 :\n0 \n5\n \n \n( ) ( \n 5\n \n \n◎ \n- .\n- 0 .\n20 \n ○○ : ( )\n- 6 \n \n AI · , \n .\n1. ( ) ( ) \n , .\n2. ( ) \n , \n .\n3. ( ) \n .\n \n ( ) \n :\n :\n : ( )\n \n- 7 \n \n :\n :\n ‘AI · ’ , , \n .\n , , \n .\n \n : ( )\n \n 8 \n \n▮ \n , \nOECD \n , , \n1. , , \n .\n▪ \n 1 2 \n \n▪ \n , \n .\n2. , , ․ ․ ( \n ) , \n , , \n , ․ . , \n 1 2 , \n .\n3. · , ( ) \n \n , , \n .\n , \n , , , \n ․ .\n20 . . .\n :\n : ( )\n \n 9 \n \n ‘ AI · ’ \n .\n ( )\n \n ( )\n \n / \n : ( ) ( )\n( )( )( )\n \n \n \n \n※ A/S ( ) \n※ :\n※ ,",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "가 . 사업명 : AI 학사 · 진로 상담 챗봇 구축\n나 . 사업내용 : 제안요청서 참조\n다 . 사업기간 : 계약 체결일로부터 ~ 2027 년 02 월 까지\n라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함\n마 . 입찰방식 : 긴급 입찰 , 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰\n바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 )\n사 . 전자입찰서 접..."
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01832222-000",
+    "sourceFile": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+    "generatedAt": "2026-11-16T14:23:15.283012",
+    "match": {
+      "noticeId": "R26BK01832222-000",
+      "bidNtceNo": "R26BK01832222",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01832222-000",
+      "projectName": "AI 학사 · 진로 상담 챗봇 구축 나 . 사업내용 : 제안요청서 참조 다 . 사업기간 : 계약 체결일로부터 ~ 2027 년 02 월 까지 라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+      "keywords": [
+        "AI 학사 · 진로 상담 챗봇 구축 나 . 사업내용 : 제안요청서 참조 다 . 사업기간 : 계약 체결일로부터 ~ 2027 년 02 월 까지 라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+        "R26BK01832222-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "용역 공고",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "AI 학사 · 진로 상담 챗봇 구축 나 . 사업내용 : 제안요청서 참조 다 . 사업기간 : 계약 체결일로부터 ~ 2027 년 02 월 까지 라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01832222-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "AI 학사 · 진로 상담 챗봇 구축 나 . 사업내용 : 제안요청서 참조 다 . 사업기간 : 계약 체결일로부터 ~ 2027 년 02 월 까지 라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "( 다음 각 호의 요건을 모두 충족하는 업체 )\n가 . 「 국가를 당사자로 하는 계약에 관한 법률 시행령 」 제 12 조 및 동법 시행규칙 제 14 조에 따른 요건을 갖\n추고 , 동법 제 76 조 ( 부정당업자의 입찰참가자격 제한 ) 에 해당되지 않는 업체\n나 . 「 소프트웨어 진흥법 」 에 의한 소프트웨어사업자 ( 컴퓨터관련서비스사업 , 업종코드 : 1468) 로 등록된 업체\n다 . 중소벤처기업부 고시에 의거 직접생산증명서 [ 정보시스템개발서비스 ( 물품분류번호 8111159901)] 를 보유\n한 자 ( 입찰마감일 전일까지 발행되어 유효기간 내에 있어야 함 )\n라 . 본 사업은 20 억원 미만 사업으로 고시에 따라 대기업 및 중견기업은 입찰에 참여할 수 없음\n마 . 실적 제한 : 공고일 기준 3 년 이내 유사 사업을 직접 실행한 단일 건 1 억원 이상 실적이 있는 업체 ( 계약\n금액 5 천만원 이상의 AI 기반 챗봇 구축 · 임대 사업으로 단독 솔루션 상용 운영 및 동일 솔루션 2 개 기\n관 이상 공급 실적 요건 충족 필수 )\n바 . 우리 대학의 업체 선정 방법과 평가 기준에 100% 동의하며 , AI 챗봇 구축 , 학사정보시스템 연계 및 운\n영 · 유지관리 업무를 수행할 수 있는 업체\n사 . 공동도급 및 하도급 불허\n• 단일 업체의 전문성과 책임 시공 담보를 위해 공동수급 ( 공동이행 / 분담이행 ) 을 불허합니다 .\n• 본 용역은 전문적 품질 관리 및 지식재산권 분쟁 방지를 위해 발주처 승인 없는 일체의 하도급을 엄\n격히 금지합니다 .\n4. 제안서 및 입찰참가 서류 제출 안내 :\n가 . 병행 제출 필수 유의사항 : 본 입찰은 조달청 나라장터 (G2B) 전자 가격투찰과 동서대학교 재무본부 구매\n실 입찰서류 직접 방문 제출 이 병행되는 입찰입니다 . 마감시한 (2026. 11. 26...",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "기술평가 ): 입찰 마감 후 10 일 이내 ( 개별 통보 ) 마 . 개찰 일시 : 제안서 기술평가 완료 후 개찰 ( 국가종합전자조달시스템 (G2B) 입찰집행관 PC)",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "계약 체결일로부터 ~ 2027 년 02 월 까지 라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "AI 학사 · 진로 상담 챗봇 구축 나 . 사업내용 : 제안요청서 참조 다 . 사업기간 : 계약 체결일로부터 ~ 2027 년 02 월 까지 라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "계약 체결일로부터 ~ 2027 년 02 월 까지 라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "협상에 의한 계약",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "기술평가 ): 입찰 마감 후 10 일 이내 ( 개별 통보 )\n마 . 개찰 일시 : 제안서 기술평가 완료 후 개찰 ( 국가종합전자조달시스템 (G2B) 입찰집행관 PC)\n3. 입찰참가자격 ( 다음 각 호의 요건을 모두 충족하는 업체 )\n가 . 「 국가를 당사자로 하는 계약에 관한 법률 시행령 」 제 12 조 및 동법 시행규칙 제 14 조에 따른 요건을 갖\n추고 , 동법 제 76 조 ( 부정당업자의 입찰참가자격 제한 ) 에 해당되지 않는 업체\n나 . 「 소프트웨어 진흥법 」 에 의한 소프트웨어사업자 ( 컴퓨터관련서비스사업 , 업종코드 : 1468) 로 등록된 업체\n다 . 중소벤처기업부 고시에 의거 직접생산증명서 [ 정보시스템개발서비스 ( 물품분류번호 8111159901)] 를 보유\n한 자 ( 입찰마감일 전일까지 발행되어 유효기간 내에 있어야 함 )\n라 . 본 사업은 20 억원 미만 사업으로 고시에 따라 대기업 및 중견기업은 입찰에 참여할 수 없음\n마 . 실적 제한 : 공고일 기준 3 년 이내 유사 사업을 직접 실행한 단일 건 1 억원 이상 실적이 있는 업체 ( 계약\n금액 5 천만원 이상의 AI 기반 챗봇 구축 · 임대 사업으로 단독 솔루션 상용 운영 및 동일 솔루션 2 개 기\n관 이상 공급 실적 요건 충족 필수 )\n바 . 우리 대학의 업체 선정 방법과 평가 기준에 100% 동의하며 , AI 챗봇 구축 , 학사정보시스템 연계 및 운\n영 ·...",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "1) 가격",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "SFR-001",
+          "requirement": "□",
+          "name": "□",
+          "detail": "–PSR (Project Support Requirement) - / , ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-002",
+          "requirement": "□",
+          "name": "□",
+          "detail": "(Project Support Requirement) - / , ,",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-003",
+          "requirement": "□",
+          "name": "□",
+          "detail": "LLM",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-004",
+          "requirement": "LLM",
+          "name": "LLM",
+          "detail": "- / , , □",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-005",
+          "requirement": "LLM",
+          "name": "LLM",
+          "detail": "RAG",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-006",
+          "requirement": "RAG",
+          "name": "RAG",
+          "detail": "□ 3 SFR-003 LLM",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-007",
+          "requirement": "RAG",
+          "name": "RAG",
+          "detail": "□ 3 SFR-003 LLM",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-008",
+          "requirement": "RAG",
+          "name": "RAG",
+          "detail": "□ 3 SFR-003 LLM",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-009",
+          "requirement": "RAG",
+          "name": "RAG",
+          "detail": "3 SFR-003 LLM",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-010",
+          "requirement": "RAG",
+          "name": "RAG",
+          "detail": "3 SFR-003 LLM",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-011",
+          "requirement": "RAG",
+          "name": "RAG",
+          "detail": "3 SFR-003 LLM",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-012",
+          "requirement": "RAG",
+          "name": "RAG",
+          "detail": "RAG",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-013",
+          "requirement": "RAG",
+          "name": "RAG",
+          "detail": "RAG",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-014",
+          "requirement": "SFR-014",
+          "name": "SFR-014",
+          "detail": "SFR-014",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-015",
+          "requirement": "SFR-015",
+          "name": "SFR-015",
+          "detail": "SFR-015",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-016",
+          "requirement": "SFR-016",
+          "name": "SFR-016",
+          "detail": "SFR-016",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-017",
+          "requirement": "SFR-017",
+          "name": "SFR-017",
+          "detail": "SFR-017",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-018",
+          "requirement": "Q&A",
+          "name": "Q&A",
+          "detail": "Q&A",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SFR-019",
+          "requirement": "Q&A",
+          "name": "Q&A",
+          "detail": "Q&A",
+          "type": "필수",
+          "category": "기능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-001",
+          "requirement": "Q&A",
+          "name": "Q&A",
+          "detail": "Q&A",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PER-002",
+          "requirement": "Q&A",
+          "name": "Q&A",
+          "detail": "22 SIR-001",
+          "type": "필수",
+          "category": "성능 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-001",
+          "requirement": "SIR-003 PC/",
+          "name": "SIR-003 PC/",
+          "detail": "18 SFR-018 Q&A 22 SIR-001 23 SIR-002",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "DAR-002",
+          "requirement": "SIR-003 PC/",
+          "name": "SIR-003 PC/",
+          "detail": "18 SFR-018 Q&A 22 SIR-001 23 SIR-002",
+          "type": "필수",
+          "category": "데이터 요구사항",
+          "source": ""
+        },
+        {
+          "code": "TER-001",
+          "requirement": "SIR-003 PC/",
+          "name": "SIR-003 PC/",
+          "detail": "22 SIR-001 23 SIR-002",
+          "type": "필수",
+          "category": "테스트 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-001",
+          "requirement": "SIR-003 PC/",
+          "name": "SIR-003 PC/",
+          "detail": "22 SIR-001 23 SIR-002",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-002",
+          "requirement": "SIR-003 PC/",
+          "name": "SIR-003 PC/",
+          "detail": "22 SIR-001 23 SIR-002",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-003",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "SER-004",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "23 SIR-002 24 SIR-003 PC/",
+          "type": "필수",
+          "category": "보안 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-001",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "24 SIR-003 PC/",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-002",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-003",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "QUR-004",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "품질 요구사항",
+          "source": ""
+        },
+        {
+          "code": "COR-001",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-002",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "COR-003",
+          "requirement": "AI",
+          "name": "AI",
+          "detail": "AI",
+          "type": "필수",
+          "category": "제약사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-001",
+          "requirement": "PMR-001",
+          "name": "PMR-001",
+          "detail": "PMR-001",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-002",
+          "requirement": "PMR-002",
+          "name": "PMR-002",
+          "detail": "PMR-002",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-003",
+          "requirement": "PMR-003",
+          "name": "PMR-003",
+          "detail": "PMR-003",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PMR-004",
+          "requirement": "PMR-004",
+          "name": "PMR-004",
+          "detail": "PMR-004",
+          "type": "필수",
+          "category": "프로젝트관리 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-001",
+          "requirement": "PSR-001",
+          "name": "PSR-001",
+          "detail": "PSR-001",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        },
+        {
+          "code": "PSR-002",
+          "requirement": "PSR-002",
+          "name": "PSR-002",
+          "detail": "PSR-002",
+          "type": "필수",
+          "category": "프로젝트지원 요구사항",
+          "source": ""
+        }
+      ],
+      "risks": [
+        {
+          "title": "실적·인증 요건",
+          "detail": "소프트웨어사업자 ( 컴퓨터관련서비스사업 , 업종코드 : 1468) 로 등록된 업체",
+          "severity": "확인"
+        },
+        {
+          "title": "일정 리스크",
+          "detail": "긴급 입찰 , 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰",
+          "severity": "확인"
+        },
+        {
+          "title": "공동수급·하도급",
+          "detail": "하도급 불허",
+          "severity": "확인"
+        },
+        {
+          "title": "감점·실격 조건",
+          "detail": "무효",
+          "severity": "확인"
+        }
+      ],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        },
+        {
+          "question": "공동수급 시 대표사 지분 또는 참여비율 제한이 있는지 확인해야 합니다.",
+          "reason": "공동수급 언급은 있으나 지분 요건은 자동 추출되지 않았습니다."
+        }
+      ],
+      "summary": {
+        "projectName": "AI 학사 · 진로 상담 챗봇 구축 나 . 사업내용 : 제안요청서 참조 다 . 사업기간 : 계약 체결일로부터 ~ 2027 년 02 월 까지 라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+        "agency": "",
+        "noticeNumber": "R26BK01832222-000",
+        "budget": "금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+        "period": "계약 체결일로부터 ~ 2027 년 02 월 까지 라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: AI 학사 · 진로 상담 챗봇 구축 나 . 사업내용 : 제안요청서 참조 다 . 사업기간 : 계약 체결일로부터 ~ 2027 년 02 월 까지 라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [
+        {
+          "no": 1,
+          "document": "입찰참가신청서",
+          "form": "별지 1",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "( 위임 대리인의 경우 위임장 , 재직증명서 , 신분증 지참 )\n2) 사업자등록증 사본 1 부\n3) 인감증명서 및 법인등기부등본 각 1 부 ( 사용인감 사용 시 사용인감계 추가 제출 )\n4) 이행 ( 입찰",
+          "extra": ""
+        },
+        {
+          "no": 2,
+          "document": "입찰보증보험증권",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "을 입찰참가등록 마감 시까지 제출하여야 합니다 .\n나 . 낙찰자가 정당한 사유 없이 소정 기일 내에 계약을 체결하지 아니할 때에는 입찰보증금은 본 대학교에 \n귀속되며 , 관계 법령에 따른 부정당업자 제재 조치를 받게",
+          "extra": ""
+        },
+        {
+          "no": 3,
+          "document": "신용평가서",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "7) 정량적 평가 분야 제안업체 자체 평가 점수표 1 부\n8) 보안확약서 , 서약서 , 청렴계약 이행서약서 , 개인정보 수집 및 활용 동의서 각 1 부\n9) 자격 및 실적 증빙서류 : 소프트웨어사업자 신고확",
+          "extra": ""
+        },
+        {
+          "no": 4,
+          "document": "인감증명서",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "법인인 경우 법인인감증명서 및 법인등기부등본 각 1부",
+          "extra": ""
+        },
+        {
+          "no": 5,
+          "document": "법인등기부등본",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "각 1 부 ( 사용인감 사용 시 사용인감계 추가 제출 )\n4) 이행 ( 입찰 ) 보증보험증권 1 부 ( 입찰금액의 5/100 이상 )\n5) 지방세 및 국세 납세증명서 각 1 부\n6) 신용평가서 1 부\n7) 정량적",
+          "extra": ""
+        },
+        {
+          "no": 6,
+          "document": "사용인감계",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "추가 제출 )\n4) 이행 ( 입찰 ) 보증보험증권 1 부 ( 입찰금액의 5/100 이상 )\n5) 지방세 및 국세 납세증명서 각 1 부\n6) 신용평가서 1 부\n7) 정량적 평가 분야 제안업체 자체 평가 점수표 1 부",
+          "extra": ""
+        },
+        {
+          "no": 7,
+          "document": "사업자등록증 사본",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "3) 인감증명서 및 법인등기부등본 각 1 부 ( 사용인감 사용 시 사용인감계 추가 제출 )\n4) 이행 ( 입찰 ) 보증보험증권 1 부 ( 입찰금액의 5/100 이상 )\n5) 지방세 및 국세 납세증명서 각 1",
+          "extra": ""
+        },
+        {
+          "no": 8,
+          "document": "사업자등록증",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "사본 1 부\n3) 인감증명서 및 법인등기부등본 각 1 부 ( 사용인감 사용 시 사용인감계 추가 제출 )\n4) 이행 ( 입찰 ) 보증보험증권 1 부 ( 입찰금액의 5/100 이상 )\n5) 지방세 및 국세 납세증명서",
+          "extra": ""
+        },
+        {
+          "no": 9,
+          "document": "확약서",
+          "form": "별지 2",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ", 서약서 , 청렴계약 이행서약서 , 개인정보 수집 및 활용 동의서 각 1 부\n9) 자격 및 실적 증빙서류 : 소프트웨어사업자 신고확인서 , 직접생산확인증명서 , 유사사업 실적증명서 각 \n1 부\n10) 가격제안서",
+          "extra": ""
+        },
+        {
+          "no": 10,
+          "document": "청렴계약 이행서약서",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ", 개인정보 수집 및 활용 동의서 각 1 부\n9) 자격 및 실적 증빙서류 : 소프트웨어사업자 신고확인서 , 직접생산확인증명서 , 유사사업 실적증명서 각 \n1 부\n10) 가격제안서 1 부 ( 자사 견적서 및 산출내역",
+          "extra": ""
+        },
+        {
+          "no": 11,
+          "document": "실적증명서",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "각 \n1 부\n10) 가격제안서 1 부 ( 자사 견적서 및 산출내역서 포함 , 반드시 부가세 포함 총액 기재 후 직인 날인하\n여 별도 밀봉 제출 )\n11) 제안서 5 부 및 제안서 전체 내용이 수록된 USB 1 매",
+          "extra": ""
+        },
+        {
+          "no": 12,
+          "document": "소프트웨어사업자 신고확인서",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ", 직접생산확인증명서 , 유사사업 실적증명서 각 \n1 부\n10) 가격제안서 1 부 ( 자사 견적서 및 산출내역서 포함 , 반드시 부가세 포함 총액 기재 후 직인 날인하\n여 별도 밀봉 제출 )\n11) 제안서 5 부",
+          "extra": ""
+        },
+        {
+          "no": 13,
+          "document": "직접생산확인증명서",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ", 유사사업 실적증명서 각 \n1 부\n10) 가격제안서 1 부 ( 자사 견적서 및 산출내역서 포함 , 반드시 부가세 포함 총액 기재 후 직인 날인하\n여 별도 밀봉 제출 )\n11) 제안서 5 부 및 제안서 전체 내용이",
+          "extra": ""
+        },
+        {
+          "no": 14,
+          "document": "위임장",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ", 재직증명서 , 신분증 지참 )\n2) 사업자등록증 사본 1 부\n3) 인감증명서 및 법인등기부등본 각 1 부 ( 사용인감 사용 시 사용인감계 추가 제출 )\n4) 이행 ( 입찰 ) 보증보험증권 1 부 ( 입찰금액의",
+          "extra": ""
+        },
+        {
+          "no": 15,
+          "document": "재직증명서",
+          "form": "",
+          "owner": "GO",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": ", 신분증 지참 )\n2) 사업자등록증 사본 1 부\n3) 인감증명서 및 법인등기부등본 각 1 부 ( 사용인감 사용 시 사용인감계 추가 제출 )\n4) 이행 ( 입찰 ) 보증보험증권 1 부 ( 입찰금액의 5/100 이상",
+          "extra": ""
+        },
+        {
+          "no": 16,
+          "document": "신분증",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "지참 )\n2) 사업자등록증 사본 1 부\n3) 인감증명서 및 법인등기부등본 각 1 부 ( 사용인감 사용 시 사용인감계 추가 제출 )\n4) 이행 ( 입찰 ) 보증보험증권 1 부 ( 입찰금액의 5/100 이상 )\n5)",
+          "extra": ""
+        },
+        {
+          "no": 17,
+          "document": "제안서",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )\n2. 입찰 추진 일정 및 장소\n가 . 공고 기간 : 2026. 11. 16.( 월 ) ~ 2026. 11. 26.( 목 )",
+          "extra": ""
+        },
+        {
+          "no": 18,
+          "document": "USB",
+          "form": "",
+          "owner": "",
+          "organizations": [
+            {
+              "name": "주관기관(대표사)",
+              "required": true,
+              "checked": false
+            }
+          ],
+          "deadline": "",
+          "note": "1 , 5 \n※ USB 1 ( , PDF )\n11) : 051)320-2665\n2. \n . \n . (90 , 85% ) (10 )\n , \n . / \n . , , \n \n . \n \n . \n \n . \n 2 \n \n .",
+          "extra": ""
+        }
+      ],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "평가항목 2개 추출",
+      "items": [
+        {
+          "major": "평가항목",
+          "middle": "협상 적격자 평가",
+          "minor": "기술능력평가",
+          "score": 90.0,
+          "weight": 90.0,
+          "grade": "A",
+          "strategy": "Win Theme 핵심 적용. 독자적 방법론과 정량 목표를 전면 배치",
+          "detail": "기술평가 ): 입찰 마감 후 10 일 이내 ( 개별 통보 )\n마 . 개찰 일시 : 제안서 기술평가 완료 후 개찰 ( 국가종합전자조달시스템 (G2B) 입찰집행관 PC)\n3. 입찰참가자격 ( 다음 각 호의 요건을 모두 충족하는 업체 )\n가 . 「 국가를 당사자로 하는 계약에 관한 법률 시행령 」 제 12 조 및 동법 시행규칙 제 14 조에 따른 요건을 갖\n추고 , 동법 제 76 조 ( 부정당업자의 입찰참가자격 제한 ) 에 해당되지 않는 업체\n나 . 「 소프트웨어 진..."
+        },
+        {
+          "major": "평가항목",
+          "middle": "협상 적격자 평가",
+          "minor": "가격평가",
+          "score": 10.0,
+          "weight": 10.0,
+          "grade": "B",
+          "strategy": "요건 충족과 실적 근거를 연결해 충실하게 작성",
+          "detail": "기술평가 ): 입찰 마감 후 10 일 이내 ( 개별 통보 )\n마 . 개찰 일시 : 제안서 기술평가 완료 후 개찰 ( 국가종합전자조달시스템 (G2B) 입찰집행관 PC)\n3. 입찰참가자격 ( 다음 각 호의 요건을 모두 충족하는 업체 )\n가 . 「 국가를 당사자로 하는 계약에 관한 법률 시행령 」 제 12 조 및 동법 시행규칙 제 14 조에 따른 요건을 갖\n추고 , 동법 제 76 조 ( 부정당업자의 입찰참가자격 제한 ) 에 해당되지 않는 업체\n나 . 「 소프트웨어 진..."
+        }
+      ],
+      "totals": {
+        "score": 100.0,
+        "weight": 100.0,
+        "gradeA": 1,
+        "gradeB": 1,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01832222-000",
+    "generatedAt": "2026-11-16T14:23:31.245260",
+    "sourceAnalysisAt": "2026-11-16T14:23:15.283012",
+    "projectName": "AI 학사 · 진로 상담 챗봇 구축 나 . 사업내용 : 제안요청서 참조 다 . 사업기간 : 계약 체결일로부터 ~ 2027 년 02 월 까지 라 . 사업예산 : 금 100,000,000 원 ( 부가가치세 포함 ) ※ 일체 제반비용 포함 마 . 입찰방식 : 긴급 입찰, 제한경쟁입찰 ( 협상에 의한 계약 ), 총액입찰 바 . 낙찰자 결정방법 : 협상에 의한 계약 ( 국가를 당사자로 하는 계약에 관한 법률 시행령 제 43 조 ) 사 . 전자입찰서 접수 : 국가종합전자조달시스템 ( 조달청 나라장터, G2B) 아 . 제안서 제출방식 : 동서대학교 재무본부 구매실 직접 방문 제출 ( 우편 및 이메일 접수 불가 )",
+    "sourceFile": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+    "requirementSourceFiles": [
+      "AI 학사·진로 상담 챗봇 제안요청서.hwp"
+    ],
+    "extractionWarnings": [],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "SFR-001",
+        "name": "SFR-001",
+        "detail": "◯ (PC, , ), OS(Windows, Mac OS, Android, iOS ), (Chrome, Edge, Safari, Firefox ) ◯",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-002",
+        "name": "SFR-002",
+        "detail": "(LLM) 100% , ◯ , , , , , ,",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-003",
+        "name": "LLM",
+        "detail": "LLM (Large Language Model) LLM ◯ · LLM LLM , , , , ,",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-004",
+        "name": "SFR-004",
+        "detail": ", , RAG , LLM ◯ , ◯ ○",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-005",
+        "name": "RAG",
+        "detail": "RAG ◯ RAG · Retrieval-Augmented Generation(RAG) ( ) ,",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-006",
+        "name": "SFR-006",
+        "detail": ", Youtube , , Q&A View Table , , , Q&A ◯ HWP, PDF, DOC, PPT, XLSX, JPEG ◯",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-007",
+        "name": "SFR-007",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-008",
+        "name": "SFR-008",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-009",
+        "name": "SFR-009",
+        "detail": "Dense/Sparse Retrieval Reranker ◯ , OCR ◯ N RAG",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-010",
+        "name": "SFR-010",
+        "detail": "◯ SDK SDK(Software Development Kit) ◯ , SDK",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-011",
+        "name": "SFR-011",
+        "detail": "◯ ◯ , , · , · ·MYDEX , .",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-012",
+        "name": "SFR-012",
+        "detail": ", , Q&A , , , , · , , , , ,",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-013",
+        "name": "SFR-013",
+        "detail": ", , , , ( : , , ) ◯ · · , , , · , ·",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-014",
+        "name": "SFR-014",
+        "detail": "◯ ◯ LLM AI AI , AI ◯ ·",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-015",
+        "name": "SFR-015",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-016",
+        "name": "SFR-016",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-017",
+        "name": "SFR-017",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-018",
+        "name": "Q&A",
+        "detail": "Q&A ◯ Q&A AI Q&A AI / Q&A ◯ Q&A AI",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SFR-019",
+        "name": "SFR-019",
+        "detail": "2) (Performance Requirement)",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-001",
+        "name": "PER-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PER-002",
+        "name": "PER-002",
+        "detail": "AI , 3) (System Interface Requirement)",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-001",
+        "name": "SIR-001",
+        "detail": "○ UI/UX ○ ○ ○ GUI",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-002",
+        "name": "SIR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SIR-003",
+        "name": "PC/",
+        "detail": "PC ○ PC/ - PC ○ - OS (Android, iOS) 4) (Data Requirement)",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-001",
+        "name": "DAR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "DAR-002",
+        "name": "DAR-002",
+        "detail": "5) (Test Requirement)",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "TER-001",
+        "name": "TER-001",
+        "detail": "○ , 6) (Security Requirement)",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-001",
+        "name": "SER-001",
+        "detail": "○ , ○ , , ○ * < · > 50 3",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-002",
+        "name": "SER-002",
+        "detail": "○ , , ○ ․ ○ , ○ , , ,",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-003",
+        "name": "AI",
+        "detail": "AI ○ ( , , ) LLM ○ , AES-256 ○ LLM API",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "SER-004",
+        "name": "SER-004",
+        "detail": "○ , (1 ) 7) (Quality Requirement)",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-001",
+        "name": "QUR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-002",
+        "name": "QUR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-003",
+        "name": "QUR-003",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "QUR-004",
+        "name": "QUR-004",
+        "detail": ", ○ 8) (Constraint Requirement)",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-001",
+        "name": "COR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-002",
+        "name": "COR-002",
+        "detail": "○ AI ( , , ) · LLM ,",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "COR-003",
+        "name": "( )",
+        "detail": "○ ( ) (2017.1.) (2013.11.), ‘ ’ 9) (Project Management Requirement)",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-001",
+        "name": "PMR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-002",
+        "name": "PMR-002",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-003",
+        "name": "PMR-003",
+        "detail": ", ○ , , , , ○ / / ,",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PMR-004",
+        "name": "PMR-004",
+        "detail": "10) (Project Support Requirement)",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-001",
+        "name": "PSR-001",
+        "detail": "원문 세부 요구내용 확인 필요",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      },
+      {
+        "code": "PSR-002",
+        "name": "2.",
+        "detail": "· ○ , LLM ( , Reranker LLM ) ( , DB, , ) · ( , , OCR )",
+        "source": "AI 학사·진로 상담 챗봇 제안요청서.hwp",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "기술능력평가",
+        "score": 90.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 45,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "기술평가 ): 입찰 마감 후 10 일 이내 ( 개별 통보 ) 마 . 개찰 일시 : 제안서 기술평가 완료 후 개찰 ( 국가종합전자조달시스템 (G2B) 입찰집행관 PC) 3. 입찰참가자격 ( 다음 각 호의 요건을 모두 충족하는 업체 ) 가 . 「 국가를 당사자로 하는 계약에 관한 법률 시행령 」 제 12 조 및 동법 시행규칙 제 14 조에 따른 요건을 갖 추고 , 동법 제 76 조 ( 부정당업자의 입찰참가자격 제한 ) 에 해당되지 않는 업체 나 . 「 소프트웨어 진..."
+      },
+      {
+        "scoreItem": "가격평가",
+        "score": 10.0,
+        "targetSection": "정성제안서 Ⅲ. 요구사항별 이행 방안",
+        "proposalType": "qualitative",
+        "recommendedPages": 5,
+        "mappedRequirementCodes": [],
+        "source": "배점표",
+        "detail": "기술평가 ): 입찰 마감 후 10 일 이내 ( 개별 통보 ) 마 . 개찰 일시 : 제안서 기술평가 완료 후 개찰 ( 국가종합전자조달시스템 (G2B) 입찰집행관 PC) 3. 입찰참가자격 ( 다음 각 호의 요건을 모두 충족하는 업체 ) 가 . 「 국가를 당사자로 하는 계약에 관한 법률 시행령 」 제 12 조 및 동법 시행규칙 제 14 조에 따른 요건을 갖 추고 , 동법 제 76 조 ( 부정당업자의 입찰참가자격 제한 ) 에 해당되지 않는 업체 나 . 「 소프트웨어 진..."
+      }
+    ],
+    "scoringSource": "proposalSheets.scoring",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "section": "정성제안서 Ⅲ. 기능·데이터·인터페이스 구현 방안",
+            "requirementCodes": [
+              "SFR-001",
+              "SFR-002",
+              "SFR-003",
+              "SFR-004",
+              "SFR-005",
+              "SFR-006",
+              "SFR-007",
+              "SFR-008",
+              "SFR-009",
+              "SFR-010",
+              "SFR-011",
+              "SFR-012",
+              "SFR-013",
+              "SFR-014",
+              "SFR-015",
+              "SFR-016",
+              "SFR-017",
+              "SFR-018",
+              "SFR-019",
+              "SIR-001",
+              "SIR-002",
+              "SIR-003",
+              "DAR-001",
+              "DAR-002"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "section": "정성제안서 Ⅳ. 성능·품질·보안·제약 대응 방안",
+            "requirementCodes": [
+              "PER-001",
+              "PER-002",
+              "TER-001",
+              "SER-001",
+              "SER-002",
+              "SER-003",
+              "SER-004",
+              "QUR-001",
+              "QUR-002",
+              "QUR-003",
+              "QUR-004",
+              "COR-001",
+              "COR-002",
+              "COR-003"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅴ. 프로젝트 관리 방안",
+            "section": "정성제안서 Ⅴ. 프로젝트 관리 방안",
+            "requirementCodes": [
+              "PMR-001",
+              "PMR-002",
+              "PMR-003",
+              "PMR-004"
+            ],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅵ. 프로젝트 지원 및 전환 방안",
+            "section": "정성제안서 Ⅵ. 프로젝트 지원 및 전환 방안",
+            "requirementCodes": [
+              "PSR-001",
+              "PSR-002"
+            ],
+            "recommendedPages": 0
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 44,
+      "mappedRequirements": 44,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": true,
+      "message": "모든 요구사항이 원문 코드 기준으로 목차에 1:1 매핑되었습니다."
+    }
+  }
+}

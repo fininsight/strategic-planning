@@ -1,0 +1,662 @@
+{
+  "bidNtceNo": "R26BK01831525",
+  "bidNtceOrd": "000",
+  "analyzedAt": "2026-11-16T14:36:38.486796",
+  "status": "completed",
+  "source": {
+    "fileName": "2. 구매규격서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).hwp",
+    "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/2. 구매규격서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).hwp",
+    "pageCount": 8,
+    "textLength": 3059,
+    "extractionMethod": "converted-pdf-text"
+  },
+  "attachments": [
+    {
+      "fileName": "2. 구매규격서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).hwp",
+      "extension": ".hwp",
+      "size": 13221888,
+      "kindCode": ""
+    },
+    {
+      "fileName": "261116제안요청서 변경본(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).hwp",
+      "extension": ".hwp",
+      "size": 13150208,
+      "kindCode": ""
+    },
+    {
+      "fileName": "4. 견적서1(한국콩스버그 마리타임).pdf",
+      "extension": ".pdf",
+      "size": 115079,
+      "kindCode": ""
+    },
+    {
+      "fileName": "5. 견적서2(리안).pdf",
+      "extension": ".pdf",
+      "size": 381749,
+      "kindCode": ""
+    },
+    {
+      "fileName": "6.긴급입찰사유서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).pdf",
+      "extension": ".pdf",
+      "size": 176973,
+      "kindCode": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "0",
+      "attachmentKey": "a7bf9da2a94fdcdf00f30c3a",
+      "fileName": "2. 구매규격서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).hwp",
+      "extension": ".hwp",
+      "docType": "규격서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01831525/000/files/0",
+      "originalFileUrl": "/api/notices/R26BK01831525/000/original-files/0",
+      "pdfUrl": "/api/notices/R26BK01831525/000/files/0",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/2. 구매규격서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/converted/2. 구매규격서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/converted/2. 구매규격서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).pdf",
+      "pageCount": 8,
+      "textLength": 3059,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "Commodity Description\n \nItem No.\n (10 )\nKorean Government Commodity\nClassification Code(ten-digit)\n \nDescription\n \nUnit\n \nQ'ty\n1\n \n(2511199901)\n \n \n(Simulator Materials for Building a Bridge\nSimulator for the Advanced Education &\nTraining Platform)\n 1\nⅠ . (End-user's Use)\n \n- 3 \n \n- \n- \n \n- , , , \n XR \n[ ]\n∙ \n , XR , ,\n 4 \n \n3 \n \n \n \n \n \n⇨\n \n \n \n \n \n \n⇨\n \n \n \n \n \n \n \n[4 ]\n [120 XR ]\n · \n , \n \n \n \n[ ]\n∙ \n \n XR\n \n \n \n \n⇨\n \n \n \n \n⇨\n \n \n \n \n \n \n⇨\n \n \n \n \nⅡ . (Configurations of Goods)\n \n \n \nⅢ . (Performance and Specificpation)\n . \n \n \n1 SW\n- \n- \n1 \n2 \n- \n \n- Windows 11 \n- CPU : \n- Memory : DDR5 32GB \n- Storage : NVMe SSD 512GB \n- GPU : 3 \n \n- · 8TB \n- 24 \n \n1 \n3 \n- \n- \n- \n100 \n4 - 3 100 \n5 \n- \n \n- Windows 11 \n- CPU : \n- Memory : DDR5 32GB \n- Storage : NVMe SSD 512GB \n- GPU : 3 \n \n- 27 x 3 \n1 \n \n \n1 FMSS (180\n )\n- 75 \n- : 16:9\n- : UHD(3,840 × 2,160) \n- : 350 cd/m² \n- \n- \n- \n13 \n2 \n- \n- 180° \n- \n \n- \n13 \n3 & - 3 \n \n1 \n4 3 PC\n- 3 \n \n- Windows 11 \n- Memory : DDR5 32GB \n- NVMe SSD 512GB \n- GPU \n- \n- \n7 \n \n \n1 RADAR\n- RADAR \n- , ARPA \n- \n- \n- 24 \n \n2 \n2 ECDIS\n- ECDIS \n- , \n- · · \n \n- \n \n2 \n3 Autopilot\n- Autopilot \n- \n- \n- \n1 \n4 Steering Wheel\n- \n- \n- 3 \n1 \n5 \nTelegraph\n- \n- \n- 3 \n1 \nThruster\nControl\n- Thruster control 1 \n6 VHF\n VHF \n- VHF \n- 10 ( )\n2 \n7 Conning System\n- Conning \n- \n · \n- \n- 24 \n1 \n8 Gyro compass repeater - \n- Gyro Bearing Repeater\n- \n1 \n- \n- Gyro Heading \n- RADAR \n- \n9 Overhead Data Display\n- , , , Rudder, , Roll/Pitch\n , Digital Gyro heading\n- 24 \n1 \n10 Binocular\n- 24 \n- 360 \n1 \n11 Eco sounder / / Flag /\nAnchor Control\n- \n- \n · \n- \n- 24 \n1 \n12\nSpeed Log / /\n / Flare Signal\n- \n- \n · \n- \n- 24 \n1 \n13 DGPS / AIS\n- \n- \n · \n- \n- 24 \n1 \n14 VR HMD\n- 3 PC \n VR HMD\n- \n- \n- \n- HMD, \n \n1 \n※ 3 UI \n . \n \n- , , , , \n \n- DNV-ST-0033(Maritime Simulator Systems, ) \n , \n \n- RADAR ARPA STCW Convention and Code, as amended · IMO\nResolution MSC.192(79) \n- IMO Resolution A.694(17) \n- (INS) IMO Resolution MSC.252(83), as amended by MSC.452(99) \n \n- RADAR, ECDIS, INS IMO Resolution MSC.191(79), as amended by MSC.466(101) \n \n- · STCW Convention Regulation I/12 STCW Code Section A-I/12 \n \n- , · STCW Code Section A-II/1 A-II/2 \n \n- · STCW Code Section B-I/12 \n- ECDIS STCW Code Section A-I/12 IMO STCW.7/Circ.10 ECDIS · \n \n- ECDIS IMO Resolution MSC.530(106)/Rev.1 . \n & , , , , \n \n(2) \n- 3 \n- , , \n \n- ( , · , , ) \n- , · · \n- \n- , (Replay) · \n- VHF DSC · , \n . , \n- Gyro Bearing Repeater RADAR \n \n- Steering Wheel \n- Telegraph \n \n- DGPS, AIS, , (Echo Sounder), Anchor Control, Flag, , , , Flare Control \n \n- \n- Flag \n- Anchor · \n- \n- Echo Sounder \n- Gyro \n- \n- Binocular \n- 360° \n- Steering Mode \n- Starting Air Pressure \n- Water Speed Ground Speed \n- · · \n- DGPS \n- Autopilot \n- Rudder Order Rudder Angle \n- Rate of Turn \n- · \n- Thruster \n- RPM Pitch \n(3) \n- FMSS 180° \n- , 60° \n- 3 \n- , , , , \n- \n- , , 3 \n- , \n- \n- Wake \n- , \n- , \n- · \n- · \n(4) \n- RADAR, ECDIS, DGPS, Gyro UI/UX \n \n- IMO \n- (Steering), Telegraph \n- 3 , \n ·UI \n- 9 \n- , , \nⅣ . (Remarks)\n . \n 300 \n ( ) \n \n 1 \n \n 1 \n \n , A/S \n . \n 2 \n 2 ( ) \n A/S \n . (Security Requirement)",
+      "analysis": {
+        "docType": "규격서",
+        "summary": "Commodity Description\n \nItem No.\n (10 )\nKorean Government Commodity\nClassification Code(ten-digit)\n \nDescription\n \nUnit\n \nQ'ty\n1\n \n(2511199901)\n \n \n(Simulator Materials for Building a Bridge\nSimulator for the Advanced Education &\nTraining Platform)\n 1\nⅠ . (End-user's Use)\n \n- 3 \n \n- \n- \n \n- , , , \n XR \n[ ]\n∙ \n , XR , ,\n 4 \n \n3 \n \n \n \n \n \n⇨\n \n \n \n \n \n \n⇨...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "1",
+      "attachmentKey": "3c28f2dc7bab6839eccc8662",
+      "fileName": "261116제안요청서 변경본(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).hwp",
+      "extension": ".hwp",
+      "docType": "제안요청서",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01831525/000/files/1",
+      "originalFileUrl": "/api/notices/R26BK01831525/000/original-files/1",
+      "pdfUrl": "/api/notices/R26BK01831525/000/files/1",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/261116제안요청서 변경본(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).hwp",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/converted/261116제안요청서 변경본(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/converted/261116제안요청서 변경본(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).pdf",
+      "pageCount": 25,
+      "textLength": 5368,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "2026. 10.\n \nⅠ . 01\n1. 01\n2. 02\n3. 02\nⅡ . 03\n1. 03\n2. 03\n3. 03\n4. 05\nⅢ . 06\n1. 06\n2. 06\n3. 13\nⅣ . 14\n1. 14\n2. 14\n3. 15\nⅤ . 16\nⅠ . \n1. \n1) \n- 3 \n \n- \n- \n \n2) \n- , XR , \n \n- ( · · ) ( , ) \n \n- \n XR \n[ ]\n∙ \n , XR , ,\n 4 \n \n3 \n \n \n \n \n \n⇨\n \n \n \n \n \n \n⇨\n \n \n \n \n \n \n \n[4 ]\n [120 XR ]\n · \n , \n \n \n \n[ ]\n∙ \n \n XR\n \n \n \n \n⇨\n \n \n \n \n⇨\n \n \n \n \n \n \n⇨\n \n \n \n \n . \n2. \n1) : \n2) : 300 \n3) : 40%, 60%\n4) : 880,000,000 ( )\n3. \n1) \n- 3 SW, \n SW, DB, , \n2) \n- Full Mission Ship handling Simulator(FMSS) , 3\n PC\n3) \n- , ECDIS, Autopilot, , VHF , DGPS, Gyro, , \n (3 )\n4) \n(1) \n(2) \n(3) \nII. \n1. \n1) : \n2) \n- 43 ( )\n- ( ) [ 2026. 1. 2.] [ 40 ]\n- [ 2026. 1. 26.] [ 379 ]\n- \n2. \n1) 12 14 \n2) [ 2026. 1. 23.] [ 2026-6 ] \n ( ) 2511199901( ) \n \n3) \n3. \n . \n1) : \n2) : ( ) ( 010-9327-8841)\n . \n1) A4 , \n \n2) \n3) , \n \n4) \n , \n5) \n \n6) \n7) \n . \n1) \n2) 5 ,\n \n3) , \n \n4) \n 85% 1 \n \n5) ( \n )\n6) \n \n7) 4 5 \n . \n : (80%)\n : (20%)\n [ 1] ‘ ’ \n . \n : ( ) 010-9327-8841\n : ( ) 055-715-6908\n4. \n . \n \n \n . \n , \n \n . \n1) \n \n2) \n \n . \n 74 ( ) ( ) \n \n · 75 · \nIII. \n1. \n1) \n2) \n3) \n2. \n1) \n \n \n1 SW\n- \n- \n1 \n2 \n- \n \n- Windows 11 \n- CPU : \n- Memory : DDR5 32GB \n- Storage : NVMe SSD 512GB \n- GPU : 3 \n \n- · 8TB \n- 24 \n \n1 \n3 \n- \n- \n- \n100 \n4 - 3 100 \n5 \n- \n \n- Windows 11 \n- CPU : \n- Memory : DDR5 32GB \n- Storage : NVMe SSD 512GB \n- GPU : 3 \n \n- 27 x 3 \n1 \n \n \n1 FMSS (180\n )\n- 75 \n- : 16:9\n- : UHD(3,840 × 2,160) \n- : 350 cd/m² \n- \n- \n- \n13 \n2 \n- \n- 180° \n- \n \n- \n13 \n3 & - 3 \n \n1 \n4 3 PC\n- 3 \n \n- Windows 11 \n- Memory : DDR5 32GB \n- NVMe SSD 512GB \n- GPU \n- \n- \n7 \n \n \n1 RADAR\n- RADAR \n- , ARPA \n- \n- \n- 24 \n \n2 \n2 ECDIS\n- ECDIS \n- , \n- · · \n \n- \n \n2 \n3 Autopilot\n- Autopilot \n- \n- \n- \n1 \n4 Steering Wheel\n- \n- \n- 3 \n1 \n5 \nTelegraph\n- \n- \n- 3 \n1 \nThruster\nControl\n- Thruster control 1 \n6 VHF\n VHF \n- VHF \n- 10 ( )\n2 \n7 Conning System\n- Conning \n- \n · \n- \n- 24 \n1 \n8 Gyro compass repeater - \n- Gyro Bearing Repeater\n- \n1 \n- \n- Gyro Heading \n- RADAR \n- \n9 Overhead Data Display\n- , , , Rudder, , Roll/Pitch\n , Digital Gyro heading\n- 24 \n1 \n10 Binocular\n- 24 \n- 360 \n1 \n11 Eco sounder / / Flag /\nAnchor Control\n- \n- \n · \n- \n- 24 \n1 \n12\nSpeed Log / /\n / Flare Signal\n- \n- \n · \n- \n- 24 \n1 \n13 DGPS / AIS\n- \n- \n · \n- \n- 24 \n1 \n14 VR HMD\n- 3 PC \n VR HMD\n- \n- \n- \n- HMD, \n \n1 \n※ 3 UI \n2) \n(1) \n- , , , \n , \n- DNV-ST-0033(Maritime Simulator Systems, ) \n , \n \n- RADAR ARPA STCW Convention and Code, as amended · \n IMO Resolution MSC.192(79) \n- IMO Resolution A.694(17) \n- (INS) IMO Resolution MSC.252(83), as amended by MSC.452(99) \n \n- RADAR, ECDIS, INS IMO Resolution MSC.191(79), as amended by\nMSC.466(101) \n- · STCW Convention Regulation I/12 STCW Code Section\nA-I/12 \n- , · STCW Code Section A-II/1 A-II/2 \n \n- · STCW Code Section B-I/12 \n- ECDIS STCW Code Section A-I/12 IMO STCW.7/Circ.10 ECDIS ·\n \n- ECDIS IMO Resolution MSC.530(106)/Rev.1 \n . & , , , \n , \n(2) \n- 3 \n- , , \n \n- ( , · , , ) \n- , · · \n \n- \n- , (Replay) · \n- VHF DSC · , \n . , \n- Gyro Bearing Repeater RADAR \n \n- Steering Wheel \n \n- Telegraph \n \n- DGPS, AIS, , (Echo Sounder), Anchor Control, Flag, , , , Flare Control\n \n- \n- Flag \n- Anchor · \n- \n- Echo Sounder \n- Gyro \n- \n- Binocular \n- 360° \n- Steering Mode \n- Starting Air Pressure \n- Water Speed Ground Speed \n- · · \n- DGPS \n- Autopilot \n- Rudder Order Rudder Angle \n- Rate of Turn \n- · \n- Thruster \n- RPM Pitch \n(3) \n- FMSS 180° \n- , 60° \n- 3 \n- , , , , \n- \n- , , 3 \n- , \n- \n- Wake \n- , \n- , \n- · \n- · \n(4) \n- RADAR, ECDIS, DGPS, Gyro \nUI/UX \n- IMO \n- (Steering), Telegraph \n- 3 \n , ·UI \n- 9 \n- , , \n3. \n1) \n(1) 300 \n(2) ( ) \n \n(3) 1 \n \n(4) 1 \n \n(5) , A/S \n \n2) \n(1) , ,\n \n(2) , \n \n(3) \n \n3) \n(1) 2 \n(2) 2 ( ) \n(3) A/S \n(4) 24 \n(5) \nⅣ . \n1. \n1) , ,\n , \n \n \n2) , \n , \n , , \n \n2. \n1) , A4 80 \n2) \n3) “ Ⅳ . ” \n \n4) , \n \n5) , ‘ ’, ‘ ’, ‘ ’ \n \n6) · · , \n \n7) , \n \n8) \n3. \n- [ 1] ‘ ’ \n \n1. \n◦ [ ] , \n \n◦ [ ] 1 \n◦ [ / ] / , \n , \n \n◦ [ ] , \n2. \n◦ [ ] , , \n , , \n3. \n◦ [ ( )] , \n , , \n◦ [ ] \n \n◦ [ ] , , , \n4. \n \n◦ [ ] ,\n \n◦ [ ] 2 , , , \n , , A/S \n◦ [ ] \n ( ) \n5. ◦ [ ] , \n[ 1] \n \n \n2026. 10.\n \n \n \n1. 1\n1-1. 1\n1-2. 1\n1-3. / 1\n1-4. 1\n2. 1\n2-1. 1\n3. 1\n3-1. ( ) 1\n3-2. 1\n3-3. 1\n4. 1\n4-1. 1\n4-2. 1 4-3. 1\n5. 1\n5-1. 1\n1. \n1-1. \n \n \n \n / \n \n / E-mail\n 25 . . . ~ 25 . . . ( )\n \n1-2. \n \n \n \n 4 1 1 335 3 \n , ,\n , \n , \n1-3. / \n○ \n \n \n \n \n \n ( ), , , \n \n○ \n \n ( / , 4 , , ) \n \n○ \n \n \n( )\n( )\n( )\n \n1-4. \n \n \n( )\n \n ( ) ( )\n \n \n* 3 ( ) . , \n7 7 \n* . .\n* ( )\n* [ 1] 3. \n2. \n2-1. \n3. \n3-1. \n3-2. \n3-3. \n4. \n4-1. \n4-2. \n4-3. \n5. \n5-1. \n[ ]\n ( 2)\n \n \n ( )\n \n (1 , )\n ( )\n[ 2] \n \n ‘ \n ’ , \n , , . \n , .\n , \n . \n .\n2026. . .\n :\n :\n :\n : ( )\n :\n( ) \n[ 1]\n \n . \n \n 100\n◦ 80 \n◦ 20 \n \n(80 )\n15\n( )\n◦ \n- \n- / \n- \n10\n( )\n◦ \n- \n20\n( )\n◦ \n- \n- \n- \n20\n( )\n◦ \n- \n- \n- \n15\n( )\n◦ \n- \n \n(20 )\n20 ◦ \n2. (80 ) \n \n1. 15\n• ★ 1 5\n• / ★\n ∙ ∙ \n \n5\n• ★\n \n \n5\n2. 10\n• \n \n \n10\n3. 20\n• \n \n \n10\n• \n \n \n5\n• \n \n \n5\n4. 20\n• 10\n• \n \n \n5\n• \n , \n \n5\n5. 15\n• 15\n “3 ” \n “ 15” 10% \n , , \n3. \n- ‘ ’ [ 8] \n \n( ) \n \nAAA, AA+, AA0, AA-\nA+, A0, A-, BBB+, BBB0\nA1, A2+, A20,\nA2-, A3+, A30\nAAA, AA+, AA0, AA-,\nA+, A0, A-, BBB+, BBB0\n5.0 \nBBB-, BB+, BB0, BB- A3-, B+, B0 BBB-, BB+, BB0, BB- 4.75 \nB+, B0, B- B- B+, B0, B- 4.5 \nCCC+ C CCC+ 3.5 \n \n / \n(5 )\n (3 )\n1 2.1 \n2 2.3 \n3 2.5 \n4 2.7 \n5 3.0 \n (2 )\n1 1.4 \n2 1.5 \n3 1.6 \n4 1.8 \n5 2.0 \n- ‘ ’ [ 9] \n ( 9 3 2 )\n \n100% 100%\n70% 100% 90%\n40% 70% 80%\n40% 70%\n* 3 ( ) . , \n7 7 \n[ ]\n1. \n \n2. 9 8 1 \n3. , .\n4. , 5 \n5. 15 16 \n \n . , , \n . , ( \n ), , ( ) , \n( ) \n . \n . , , \n \n \n . \n \n6. , \n \n( ) {(A ×A )+(B ×B )…}",
+      "analysis": {
+        "docType": "제안요청서",
+        "summary": "2026. 10.\n \nⅠ . 01\n1. 01\n2. 02\n3. 02\nⅡ . 03\n1. 03\n2. 03\n3. 03\n4. 05\nⅢ . 06\n1. 06\n2. 06\n3. 13\nⅣ . 14\n1. 14\n2. 14\n3. 15\nⅤ . 16\nⅠ . \n1. \n1) \n- 3 \n \n- \n- \n \n2) \n- , XR , \n \n- ( · · ) ( , ) \n \n- \n XR \n[ ]\n∙ \n , XR , ,\n 4 \n \n3 \n \n \n \n \n \n⇨\n \n \n \n \n \n \n⇨\n \n \n \n \n \n \n \n[4 ]\n [120 XR ]\n · \n , \n \n \n \n[ ]\n∙ \n \n XR\n \n \n \n \n⇨\n \n \n \n \n⇨\n \n \n \n \n \n \n⇨\n \n \n \n \n . \n2. \n1) :...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "2",
+      "attachmentKey": "b95ffd19560851d3f1cc52d0",
+      "fileName": "4. 견적서1(한국콩스버그 마리타임).pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01831525/000/files/2",
+      "originalFileUrl": "/api/notices/R26BK01831525/000/original-files/2",
+      "pdfUrl": "/api/notices/R26BK01831525/000/files/2",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/4. 견적서1(한국콩스버그 마리타임).pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/4. 견적서1(한국콩스버그 마리타임).pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/4. 견적서1(한국콩스버그 마리타임).pdf",
+      "pageCount": 1,
+      "textLength": 1172,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "세부사양 수량 단위 Unit Total\n1\n 180도 Bridge 시뮬레이터 구성\n1. Full mission Bridge Class A - 1식\n3. RADAR & 전용 콘솔 – 2 식\n4. ECDIS & 전용 콘솔 – 2식\n5. Conning & 전용 콘솔 – 1 식\n6. GMDSS System – 1 식\n7. Throttle/ Thruster/ Steering Wheel\n /Azimuth Thruster/ 모니터&컴퓨터/\n Autopilot/ VHF/ 조이스틱 – 1식\n8. Steering System – 1식\n9. Chart table - 1식\n10. 자이로 리피터 – 1식\n1 Set 282,900,000 282,900,000 \n2\n비쥬얼 프레임 & 영상각 180도\n1. 비쥬얼 프레임 x 13\n2. 비쥬얼 75인치 TV x 13\n3. 비쥬얼 컴퓨터 x 7\n1 Set 183,100,000 183,100,000 \n3\n인스트럭터 + 서버 시스템\n1. 서버시스템 fullmission x 1 식\n2. 네트워크 시스템\n3. 인스트럭터 시스템\n4. 선박모델 x 100\n5. Area Database x 100\n1 Set 334,000,000 334,000,000 \n800,000,000 \n80,000,000 \n880,000,000 \n펙스번호 : 051-749-8688\n제 목 : 시뮬레이터 구축을 위한 재료 견적서\n수신 : RIMS(중소조선연구원) 일자 : 2026-10-12\n담당자 : 손우주 연구원님 총페이지 : 1 page\n참조 : 견적번호 : KMK-Q-2026-10-12-1\nKongsberg Maritime\n1. 귀 원의 발전을 기원드립니다.\n2. 표제의 건의 대한 견적을 아래와 같이 제출 드리오니 참조 바랍니다.\n공급 내역 및 가격 ( VAT 포함 ) : (팔억팔천만원 // \\ 880,000,000원)\n비 고 :\n1. 대금지불 조건 : 조달 사양서에 따름\n2. 인테리어 금액 미 포함\n2. 납 기 : 발주후 협의\n3. 계약 유효기간 3개월 (발행후)\n김 종 필 이사\n한국 콩스버그 마리타임 (주)\nVAT 포함 ( 팔억팔천만원 )\nBridge A\n 180도\n구분\nTotal\n비쥬얼 시스템\n인스트럭터 &\n 서버\n합계\nVAT\n발신 : 한국콩스버그 마리타임㈜ /김 종 필 이사 전화번호 : 010-7491-0145\n이메일 : jong.pil.kim@km.kongsberg.com",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "세부사양 수량 단위 Unit Total\n1\n 180도 Bridge 시뮬레이터 구성\n1. Full mission Bridge Class A - 1식\n3. RADAR & 전용 콘솔 – 2 식\n4. ECDIS & 전용 콘솔 – 2식\n5. Conning & 전용 콘솔 – 1 식\n6. GMDSS System – 1 식\n7. Throttle/ Thruster/ Steering Wheel\n /Azimuth Thruster/ 모니터&컴퓨터/\n Autopilot/ VHF/ 조이스틱 – 1식\n8. Steering System – 1식\n9. Chart table - 1식\n10. 자이로 리피터 – 1식\n1 Set 282,900,000 282,900,000...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "3",
+      "attachmentKey": "58536a3751b00e7977091e6b",
+      "fileName": "5. 견적서2(리안).pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01831525/000/files/3",
+      "originalFileUrl": "/api/notices/R26BK01831525/000/original-files/3",
+      "pdfUrl": "/api/notices/R26BK01831525/000/files/3",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/5. 견적서2(리안).pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/5. 견적서2(리안).pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/5. 견적서2(리안).pdf",
+      "pageCount": 2,
+      "textLength": 386,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "주식회사 리안\n부산광역시 해운대구 센텀북대로 60, 1003호(재송동)\n전화 051-628-6506 Fax 051-781-6506 \n견 적 서 2026.10.06\n견적 번호 Q_20220906-1\n수신 : 중소조선연구원\n 손우주 연구원 귀하\n㈜ 리안 담당자 최완진\n \n이 메 일 : rnd @rian.kr \n전 화 번 호 : 051-628-6506\n펙 스 : 051-781-6506\n모 바 일 : 010-2437-1340\n제목 : 시뮬레이터 구축을 위한 재료 견적서\n1. 견적 금액 : 880,000,000원/ 금 팔억팔천만원 정\n2. 부가세 포함금액\n3. 견적세부 내용은 다음페이지 참조\n* 발주처의 계약 조건에 따름\n* 유효 기간 : 견적 후 30일 \n㈜ 리안 대표이사 이 희 용 (인)",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "주식회사 리안\n부산광역시 해운대구 센텀북대로 60, 1003호(재송동)\n전화 051-628-6506 Fax 051-781-6506 \n견 적 서 2026.10.06\n견적 번호 Q_20220906-1\n수신 : 중소조선연구원\n 손우주 연구원 귀하\n㈜ 리안 담당자 최완진\n \n이 메 일 : rnd @rian.kr \n전 화 번 호 : 051-628-6506\n펙 스 : 051-781-6506\n모 바 일 : 010-2437-1340\n제목 : 시뮬레이터 구축을 위한 재료 견적서\n1. 견적 금액 : 880,000,000원/ 금 팔억팔천만원 정\n2. 부가세 포함금액\n3. 견적세부 내용은 다음페이지 참조\n* 발주처의 계약 조건에 따름\n* 유효 기간 : 견적...",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    },
+    {
+      "id": "4",
+      "attachmentKey": "809317aef433f8ca9c6e912e",
+      "fileName": "6.긴급입찰사유서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).pdf",
+      "extension": ".pdf",
+      "docType": "첨부서류",
+      "viewerType": "pdf",
+      "fileUrl": "/api/notices/R26BK01831525/000/files/4",
+      "originalFileUrl": "/api/notices/R26BK01831525/000/original-files/4",
+      "pdfUrl": "/api/notices/R26BK01831525/000/files/4",
+      "filePath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/6.긴급입찰사유서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).pdf",
+      "viewerPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/6.긴급입찰사유서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).pdf",
+      "pdfPath": "/home/runner/work/strategic-planning/strategic-planning/.cache/opportunity_analyzer/attachments/R26BK01831525-000/6.긴급입찰사유서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).pdf",
+      "pageCount": 1,
+      "textLength": 0,
+      "extractionMethod": "converted-pdf-text",
+      "extractionError": "",
+      "viewerError": "",
+      "documentText": "",
+      "analysis": {
+        "docType": "첨부서류",
+        "summary": "첨부서류 파일입니다. 텍스트 추출 가능 여부를 확인한 뒤 세부 내용을 검토해야 합니다.",
+        "checklist": [
+          "입찰 참가 자격 및 제한 조건 확인",
+          "제출 서류, 제출 방식, 마감 시간 확인",
+          "원문 PDF와 나라장터 공고 상세 정보 대조"
+        ],
+        "scoreTable": [
+          {
+            "item": "배점표/평가기준",
+            "detail": "문서 내 평가항목 또는 배점표 확인 필요"
+          }
+        ],
+        "analysisSource": "rule"
+      }
+    }
+  ],
+  "documentText": "Commodity Description\n \nItem No.\n (10 )\nKorean Government Commodity\nClassification Code(ten-digit)\n \nDescription\n \nUnit\n \nQ'ty\n1\n \n(2511199901)\n \n \n(Simulator Materials for Building a Bridge\nSimulator for the Advanced Education &\nTraining Platform)\n 1\nⅠ . (End-user's Use)\n \n- 3 \n \n- \n- \n \n- , , , \n XR \n[ ]\n∙ \n , XR , ,\n 4 \n \n3 \n \n \n \n \n \n⇨\n \n \n \n \n \n \n⇨\n \n \n \n \n \n \n \n[4 ]\n [120 XR ]\n · \n , \n \n \n \n[ ]\n∙ \n \n XR\n \n \n \n \n⇨\n \n \n \n \n⇨\n \n \n \n \n \n \n⇨\n \n \n \n \nⅡ . (Configurations of Goods)\n \n \n \nⅢ . (Performance and Specificpation)\n . \n \n \n1 SW\n- \n- \n1 \n2 \n- \n \n- Windows 11 \n- CPU : \n- Memory : DDR5 32GB \n- Storage : NVMe SSD 512GB \n- GPU : 3 \n \n- · 8TB \n- 24 \n \n1 \n3 \n- \n- \n- \n100 \n4 - 3 100 \n5 \n- \n \n- Windows 11 \n- CPU : \n- Memory : DDR5 32GB \n- Storage : NVMe SSD 512GB \n- GPU : 3 \n \n- 27 x 3 \n1 \n \n \n1 FMSS (180\n )\n- 75 \n- : 16:9\n- : UHD(3,840 × 2,160) \n- : 350 cd/m² \n- \n- \n- \n13 \n2 \n- \n- 180° \n- \n \n- \n13 \n3 & - 3 \n \n1 \n4 3 PC\n- 3 \n \n- Windows 11 \n- Memory : DDR5 32GB \n- NVMe SSD 512GB \n- GPU \n- \n- \n7 \n \n \n1 RADAR\n- RADAR \n- , ARPA \n- \n- \n- 24 \n \n2 \n2 ECDIS\n- ECDIS \n- , \n- · · \n \n- \n \n2 \n3 Autopilot\n- Autopilot \n- \n- \n- \n1 \n4 Steering Wheel\n- \n- \n- 3 \n1 \n5 \nTelegraph\n- \n- \n- 3 \n1 \nThruster\nControl\n- Thruster control 1 \n6 VHF\n VHF \n- VHF \n- 10 ( )\n2 \n7 Conning System\n- Conning \n- \n · \n- \n- 24 \n1 \n8 Gyro compass repeater - \n- Gyro Bearing Repeater\n- \n1 \n- \n- Gyro Heading \n- RADAR \n- \n9 Overhead Data Display\n- , , , Rudder, , Roll/Pitch\n , Digital Gyro heading\n- 24 \n1 \n10 Binocular\n- 24 \n- 360 \n1 \n11 Eco sounder / / Flag /\nAnchor Control\n- \n- \n · \n- \n- 24 \n1 \n12\nSpeed Log / /\n / Flare Signal\n- \n- \n · \n- \n- 24 \n1 \n13 DGPS / AIS\n- \n- \n · \n- \n- 24 \n1 \n14 VR HMD\n- 3 PC \n VR HMD\n- \n- \n- \n- HMD, \n \n1 \n※ 3 UI \n . \n \n- , , , , \n \n- DNV-ST-0033(Maritime Simulator Systems, ) \n , \n \n- RADAR ARPA STCW Convention and Code, as amended · IMO\nResolution MSC.192(79) \n- IMO Resolution A.694(17) \n- (INS) IMO Resolution MSC.252(83), as amended by MSC.452(99) \n \n- RADAR, ECDIS, INS IMO Resolution MSC.191(79), as amended by MSC.466(101) \n \n- · STCW Convention Regulation I/12 STCW Code Section A-I/12 \n \n- , · STCW Code Section A-II/1 A-II/2 \n \n- · STCW Code Section B-I/12 \n- ECDIS STCW Code Section A-I/12 IMO STCW.7/Circ.10 ECDIS · \n \n- ECDIS IMO Resolution MSC.530(106)/Rev.1 . \n & , , , , \n \n(2) \n- 3 \n- , , \n \n- ( , · , , ) \n- , · · \n- \n- , (Replay) · \n- VHF DSC · , \n . , \n- Gyro Bearing Repeater RADAR \n \n- Steering Wheel \n- Telegraph \n \n- DGPS, AIS, , (Echo Sounder), Anchor Control, Flag, , , , Flare Control \n \n- \n- Flag \n- Anchor · \n- \n- Echo Sounder \n- Gyro \n- \n- Binocular \n- 360° \n- Steering Mode \n- Starting Air Pressure \n- Water Speed Ground Speed \n- · · \n- DGPS \n- Autopilot \n- Rudder Order Rudder Angle \n- Rate of Turn \n- · \n- Thruster \n- RPM Pitch \n(3) \n- FMSS 180° \n- , 60° \n- 3 \n- , , , , \n- \n- , , 3 \n- , \n- \n- Wake \n- , \n- , \n- · \n- · \n(4) \n- RADAR, ECDIS, DGPS, Gyro UI/UX \n \n- IMO \n- (Steering), Telegraph \n- 3 , \n ·UI \n- 9 \n- , , \nⅣ . (Remarks)\n . \n 300 \n ( ) \n \n 1 \n \n 1 \n \n , A/S \n . \n 2 \n 2 ( ) \n A/S \n . (Security Requirement)",
+  "summary": {
+    "title": "공고서 제목 확인",
+    "budget": "공고서 확인",
+    "deadline": "공고서 확인",
+    "method": "공고서 확인",
+    "requirements": [
+      {
+        "label": "입찰 자격",
+        "text": "공고서의 입찰참가자격 항목 확인 필요"
+      },
+      {
+        "label": "과업 범위",
+        "text": "제안요청서 및 과업지시서 세부 확인 필요"
+      }
+    ],
+    "strength": "PDF 변환본에서 공고문 텍스트를 직접 추출했습니다. 자격, 일정, 예산 항목을 우선 검토할 수 있습니다.",
+    "risk": "원본 HWP와 PDF 변환본 내용이 다를 경우 원본이 우선될 수 있으므로 최종 제출 전 원본 공고서를 함께 확인해야 합니다.",
+    "opportunity": "공고서와 제안요청서의 평가항목을 기준으로 당사 강점과 수행 경험을 연결해 제안 전략을 정리할 필요가 있습니다.",
+    "timeline": [
+      {
+        "label": "입찰 서류 제출 마감",
+        "date": "공고서 확인"
+      },
+      {
+        "label": "공고 상세 일정",
+        "date": "공고서 원문 기준 확인"
+      }
+    ],
+    "analysisVersion": 30,
+    "insightSource": "rule"
+  },
+  "proposalSheets": {
+    "id": "R26BK01831525-000",
+    "sourceFile": "2. 구매규격서(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).hwp",
+    "generatedAt": "2026-11-16T14:36:25.434598",
+    "match": {
+      "noticeId": "R26BK01831525-000",
+      "bidNtceNo": "R26BK01831525",
+      "bidNtceOrd": "000",
+      "noticeNumber": "R26BK01831525-000",
+      "projectName": "",
+      "keywords": [
+        "R26BK01831525-000"
+      ]
+    },
+    "noticeInfo": {
+      "details": [
+        {
+          "label": "공고종류",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "수요기관",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업(과제)명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "담당자 연락처",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰공고번호",
+          "value": "R26BK01831525-000",
+          "note": ""
+        },
+        {
+          "label": "공고명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰 참가 자격",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "공동수급협정서 제출 및 구성방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "입찰방식",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "서류일자(=제출일자=입찰일자)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "세부품명",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법세부기준",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "낙찰방법",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "계약구분",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "사업금액",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "납품기한(사업수행기간)",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "제안 발표",
+          "value": "",
+          "note": ""
+        },
+        {
+          "label": "비고",
+          "value": "첨부파일 원문 텍스트 기반 자동 추출",
+          "note": ""
+        }
+      ],
+      "detailGroups": [
+        {
+          "category": "사업 개요",
+          "items": [
+            {
+              "label": "사업명",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "발주처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "예산",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "사업 기간",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "과업 범위",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "평가 방식",
+          "items": [
+            {
+              "label": "계약/낙찰 방식",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "협상/적격심사 여부",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "기술:가격 배점비",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "평가 절차",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "제출 형식 제한",
+          "items": [
+            {
+              "label": "제안서 매수 제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "규격",
+              "value": "A4, 2) 3), 4), 5) 6) 7) . 1) 2) 5, 3), 4) 85% 15) ( ) 6) 7) 45 . : (80%) : (20%) [ 1] ‘ ’ . : ( ) 010-9327-8841 : ( ) 055-715-69084. . ., . 1) 2) .",
+              "note": ""
+            },
+            {
+              "label": "원본/사본/PDF/HWPX 등 형식",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "일정·방법",
+          "items": [
+            {
+              "label": "마감 일시",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "제출 방법·제출처",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "질의응답·설명회 일정",
+              "value": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "category": "공동수급 의무",
+          "items": [
+            {
+              "label": "컨소시엄 구성 의무·제한",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "주관사 지분 요건",
+              "value": "",
+              "note": ""
+            },
+            {
+              "label": "의무 하도급 비율",
+              "value": "",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "code": "",
+          "requirement": "공고문 확인",
+          "name": "공고문 확인",
+          "detail": "입찰 참가 요건 원문 확인 필요",
+          "type": "확인",
+          "category": "입찰 참가 자격",
+          "source": ""
+        }
+      ],
+      "risks": [],
+      "clarifications": [
+        {
+          "question": "기술평가와 가격평가의 정확한 배점비를 확인해야 합니다.",
+          "reason": "공고문상 자동 추출 결과 배점비가 명확하지 않습니다."
+        },
+        {
+          "question": "제안서 매수 제한과 별도 제출본별 제한을 확인해야 합니다.",
+          "reason": "제안서 분량 제한이 공고문상 불명확합니다."
+        }
+      ],
+      "summary": {
+        "projectName": "",
+        "agency": "",
+        "noticeNumber": "R26BK01831525-000",
+        "budget": "",
+        "period": "",
+        "deadline": "",
+        "method": "",
+        "contractMethod": ""
+      }
+    },
+    "checklist": {
+      "title": "제출 서류 목록",
+      "subtitle": "사업(과제)명: ",
+      "method": "제출방법: ",
+      "headers": [
+        "No",
+        "제출서류",
+        "서식",
+        "담당자",
+        "주관기관(대표사)",
+        "마감일",
+        "비고"
+      ],
+      "organizationHeaders": [
+        "주관기관(대표사)"
+      ],
+      "items": [],
+      "notes": [
+        "첨부파일 원문 텍스트 기반 자동 추출 결과입니다. 최종 제출 전 원문 검증이 필요합니다."
+      ]
+    },
+    "scoring": {
+      "title": "배점표 분석",
+      "totalSummary": "명시적인 배점표 확인 필요",
+      "items": [],
+      "totals": {
+        "score": 0,
+        "weight": 0,
+        "gradeA": 0,
+        "gradeB": 0,
+        "gradeC": 0
+      }
+    },
+    "analysisVersion": 30
+  },
+  "proposalMapping": {
+    "id": "R26BK01831525-000",
+    "generatedAt": "2026-11-16T14:36:38.486775",
+    "sourceAnalysisAt": "2026-11-16T14:36:25.434598",
+    "projectName": "",
+    "sourceFile": "261116제안요청서 변경본(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).hwp",
+    "requirementSourceFiles": [
+      "261116제안요청서 변경본(미래형 교육훈련 플랫폼 조타실 시뮬레이터 구축을 위한 재료).hwp"
+    ],
+    "extractionWarnings": [
+      "RFP 원문에서 요구사항 코드를 찾지 못해 기존 분석 요약을 보조 자료로 사용했습니다."
+    ],
+    "documentTypes": [
+      {
+        "type": "quantitative",
+        "label": "정량제안서",
+        "detected": false
+      },
+      {
+        "type": "qualitative",
+        "label": "정성제안서",
+        "detected": false
+      }
+    ],
+    "requirementTraceability": [
+      {
+        "code": "코드 미확인-001",
+        "name": "공고문 확인",
+        "detail": "입찰 참가 요건 원문 확인 필요",
+        "source": "proposalSheets.noticeInfo.requirements",
+        "proposalType": "qualitative",
+        "targetSection": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+        "status": "mapped",
+        "note": ""
+      }
+    ],
+    "scoringPagePlan": [
+      {
+        "scoreItem": "배점표 확인 필요",
+        "score": 0,
+        "targetSection": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+        "proposalType": "qualitative",
+        "recommendedPages": 4,
+        "mappedRequirementCodes": [
+          "코드 미확인-001"
+        ],
+        "source": "목차 기반 추정",
+        "detail": ""
+      }
+    ],
+    "scoringSource": "배점표 확인 필요",
+    "tableOfContents": [
+      {
+        "proposalType": "quantitative",
+        "title": "정량제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 제안사 일반현황",
+            "section": "정량제안서 Ⅰ. 제안사 일반현황",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅱ. 입찰 참가자격 및 증빙",
+            "section": "정량제안서 Ⅱ. 입찰 참가자격 및 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅲ. 수행실적 및 유사사업 경험",
+            "section": "정량제안서 Ⅲ. 수행실적 및 유사사업 경험",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          },
+          {
+            "title": "Ⅳ. 투입인력 및 인증·가점 증빙",
+            "section": "정량제안서 Ⅳ. 투입인력 및 인증·가점 증빙",
+            "requirementCodes": [],
+            "recommendedPages": 0
+          }
+        ]
+      },
+      {
+        "proposalType": "qualitative",
+        "title": "정성제안서",
+        "children": [
+          {
+            "title": "Ⅰ. 사업 이해 및 추진 방향",
+            "section": "정성제안서 Ⅰ. 사업 이해 및 추진 방향",
+            "requirementCodes": [
+              "코드 미확인-001"
+            ],
+            "recommendedPages": 4
+          }
+        ]
+      }
+    ],
+    "validation": {
+      "totalRequirements": 1,
+      "mappedRequirements": 1,
+      "unmappedRequirements": [],
+      "ambiguousRequirements": [],
+      "isComplete": false,
+      "message": "RFP 원문에서 요구사항 코드를 찾지 못해 기존 분석 요약을 보조 자료로 사용했습니다."
+    }
+  }
+}
